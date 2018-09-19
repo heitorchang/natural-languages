@@ -1,0 +1,114 @@
+<!doctype html>
+<html>
+    <head>
+	    <meta charset="utf-8">
+	    <title>CC-CEDICT Interface</title>
+	    <link rel="stylesheet" href="display.css" type="text/css">
+	    <link rel="stylesheet" href="hint.min.css" type="text/css">
+        <style>
+         #ui {
+             padding-left: 24px;
+         }
+
+         #backToTop {
+             bottom: 0;
+             left: 0;
+             padding: 8px;
+             position: fixed;
+             background: #FFF;
+         }
+
+         #footer {
+             text-align: right;
+         }
+        </style>
+    </head>
+    <body>
+        <div id="ui">
+            <table id="top">
+                <tr>
+                    <td width="50%">
+	                    Locate Chinese, pin1 yin1, English in def.<br>
+                        (enter exact English as: <b>/orange/</b>)
+	                    <br>
+
+	                    <input type="text" id="definition" autofocus>
+	                    <input type="button" value="Retrieve entries" id="getDefinition">
+                        <br><br>
+
+	                    Search by matching first character(s):
+	                    <br>
+
+	                    <input type="text" id="startChar">
+	                    <input type="button" value="Retrieve entries" id="getStartChar">
+
+                        <br><br>
+                    </td><td>
+                        
+
+	                    Search by Gwoyeu Romatzyh (ignores tones):
+	                    <br>
+
+	                    <input type="text" id="gr">
+	                    <input type="button" value="Retrieve entries" id="getGR">
+
+                        <br><br>
+                        
+	                    Search by Gwoyeu Romatzyh (exact tones):
+	                    <br>
+
+	                    <input type="text" id="grExact">
+	                    <input type="button" value="Retrieve entries" id="getGRExact">
+
+                    </td>
+                </tr>
+            </table>
+            
+            <span id="word"></span>
+        </div>
+
+        <div id="footer">
+	        <hr>
+	        <a href="credits.html">Credits</a>
+        </div>
+        
+        <div id="backToTop">
+            <a href="#top">Back to top</a>
+        </div>
+        
+	    <script src="cedict.js"></script>
+	    <script src="py2gr.js"></script>
+	    <script src="dict.js"></script>
+        <!-- http://stackoverflow.com/questions/155188/trigger-a-button-click-with-javascript-on-the-enter-key-in-a-text-box -->
+        <script>
+         document.getElementById("definition").addEventListener("keyup", function (event) {
+             event.preventDefault();
+             if (event.keyCode === 13) {
+                 document.getElementById("getDefinition").click();
+             }
+         });
+
+         document.getElementById("startChar").addEventListener("keyup", function (event) {
+             event.preventDefault();
+             if (event.keyCode === 13) {
+                 document.getElementById("getStartChar").click();
+             }
+         });
+         
+         document.getElementById("gr").addEventListener("keyup", function (event) {
+             event.preventDefault();
+             if (event.keyCode === 13) {
+                 document.getElementById("getGR").click();
+             }
+         });
+         
+         document.getElementById("grExact").addEventListener("keyup", function (event) {
+             event.preventDefault();
+             if (event.keyCode === 13) {
+                 document.getElementById("getGRExact").click();
+             }
+         });
+
+        </script>
+    </body>
+</html>

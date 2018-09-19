@@ -1,0 +1,43 @@
+職業;jyr yeh;occupation
+老師;lao shy;teacher
+美容師;meei rong shy;beautician
+工程師;gong cherng shy;engineer
+烘焙師;hong peir shy;baker
+畫家;huah jia;painter
+醫生;i sheng;doctor
+藥劑師;yaw jih shy;pharmacist
+護士;huh shyh;nurse
+廚師;chwu shy;chef
+攝影師;sheh yiing shy;photographer
+演員;yean yuan;actor
+歌手;ge shoou;singer
+新聞播報員;shin wen bo baw yuan;newscaster
+計程車司機;ji cherng che sy ji;taxi driver
+舞蹈者;wuu daw jee;dancer
+男服務生;nan fwu wuh sheng;waiter
+女服務生;neu fwu wuh sheng;waitress
+獸醫;show i;veterinarian
+家庭主婦;jia tyng juu fuh;housewife
+警察;jiing char;police officer
+學生;shyue sheng;student
+公務員;gong wuh yuan;public official
+水電工;shoei diann gong;plumber/electrician
+清潔人員;ching jye ren yuan;cleaner
+木工;muh gong;carpenter
+工人;gong ren;worker
+作家;tzuoh jia;writer
+店員;diann yuan;cashier
+農夫;nong fu;farmer
+漁夫;yu fu;fisherman
+政治家;jenq jyh jia;politician
+律師;liuh shy;lawyer
+秘書;mih shu;secretary
+無業遊民;wu yeh you min;homeless person
+路邊攤販;luh bian tan fann;street vendor
+你在哪高就?;nii tzay naa gau jiow;Where do you work?
+我是國中老師;woo shyh gwo jong lao shy;I am a junior high school teacher.
+我教的是英文。;woo jiau .de shyh ing wen;I teach English
+你看起來好像警察喔;nii kann chii lai hao shianq jiing char .o;You look like a policeman
+不是啦!;bwu shyh .la;No!
+那你的職業是什麼?;nah nii .de jyr yeh shyh sherm?;What is your occupation?
+我是記者。;woo shyh jih jee;I am a reporter

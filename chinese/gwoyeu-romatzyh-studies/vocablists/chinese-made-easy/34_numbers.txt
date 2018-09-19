@@ -1,0 +1,16 @@
+數字;shuh tzyh;numbers
+零;ling;zero
+一;i;one
+二;ell;two
+三;san;three
+四;syh;four
+五;wuu;five
+六;liow;six
+七;chi;seven
+八;ba;eight
+九;jeou;nine
+十;shyr;ten
+二十;ell shyr;twenty
+百;bae;hundred
+千;chian;thousand
+萬;wann;ten thousand

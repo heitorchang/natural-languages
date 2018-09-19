@@ -1,0 +1,10 @@
+Gwoyeu Romatzyh Studies / gwoyeu-romatzyh-input 
+
+Permission to use, copy, modify, and distribute this software and
+its documentation for any purpose is hereby granted without fee,
+provided that this entire copyright and permission notice appear
+in all such copies, and that the name of the authors may not be
+used to endorse or promote products derived from this material
+without specific prior written permission.  The authors make no
+representations about the suitability of this software for any
+purpose.  It is provided "as is" without express or implied warranty.

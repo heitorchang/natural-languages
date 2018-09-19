@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Vocab Lists</title>
+        <style>
+		  body {
+			font-family: "Arial";
+		  }	
+         .ctr {
+             text-align: center;
+         }
+
+         .lg {
+             font-size: 2em;
+         }
+
+         .med {
+             font-size: 1.4em;
+         }
+         
+        </style>
+    </head>
+
+    <body onkeyup="keyShortcut(event);">
+        <a href="verify.html">Verify List</a> Prompt:
+        <input type="radio" name="promptType" value="chinese" id="p1"> <label for="p1">Chinese</label> &nbsp;&nbsp;
+        <input type="radio" name="promptType" value="gwoyeu" id="p2"> <label for="p2">Gwoyeu Romatzyh </label> &nbsp;&nbsp;
+        <input type="radio" name="promptType" value="english" id="p3" checked> <label for="p3">English</label>
+        &nbsp;&nbsp;
+        Load list: <input type="file" id="infile" onchange="loadFile(this.files)">
+        <p class="ctr">
+            <span id="progress"></span>
+        </p>
+        
+        <p class="ctr">
+            Revealed<br>
+            <textarea id="seen" rows="4" cols="99"></textarea>
+        </p>
+
+        <p class="ctr">
+            To be saved<br>
+            <textarea id="output" rows="4" cols="99"></textarea>
+        </p>
+        
+        <p class="ctr" id="revealP" style="visibility: hidden;"> 
+            <button id="reveal">Reveal (press Enter)</button>
+        </p>
+            
+        <p class="ctr" id="skipKeepP" style="visibility: hidden;">
+            <button id="keep">Keep (1)</button>
+            <button id="skip">Skip (0)</button>
+        </p>
+
+        <p class="ctr" id="saveP" style="display: none;">
+            <button id="save" onclick="saveFile()">Download List</button>
+        </p>
+
+        <p class="ctr" id="promptP">
+            <span class="lg" id="prompt">Please choose a file</span>
+        </p>
+
+        <p class="ctr" id="answerP">
+            <span class="lg" id="chinese"></span><br>
+            <span class="med" id="gwoyeu"></span><br>
+            <span class="med" id="english"></span><br>
+        </p>
+        
+        <p class="ctr">
+            Scratch<br>
+            <textarea id="scratch" rows="6" cols="99"></textarea>
+        </p>
+        <input type="hidden" id="newFilename" value="vocablist.txt"><br>
+
+        <script src="app.js"></script>
+    </body>
+</html>

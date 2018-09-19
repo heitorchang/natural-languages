@@ -1,0 +1,7 @@
+GR input with CEDICT data
+
+remove "Japanese variant" lines
+
+build a dict with GR as keys and a list of chars/words as values
+
+allow choice between simplified/traditional

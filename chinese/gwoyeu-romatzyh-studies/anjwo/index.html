@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+    <head>
+	    <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+	    <title>Anjwo CEDICT Interface</title>
+	    <link rel="stylesheet" href="display.css" type="text/css">
+	    <link rel="stylesheet" href="hint.min.css" type="text/css">
+	    <link rel="stylesheet" href="pace_bar.css" type="text/css">
+        <style>
+         #ui {
+             padding-left: 24px;
+         }
+
+         #backToTop {
+             bottom: 0;
+             left: 0;
+             padding: 8px;
+             position: fixed;
+             background: #FFF;
+         }
+
+         #footer {
+             text-align: right;
+         }
+        </style>
+    </head>
+    <body>
+        <script src="pace.min.js"></script>
+        <div id="ui">
+	        <input type="text" id="term" autofocus>
+            <br>
+            <br>
+	        <input type="button" value="EN" id="getEnglish">
+	        <input type="button" value="ZH" id="getChinese">
+	        <input type="button" value="GR Fz" id="getGRFuzzy">
+	        <input type="button" value="GR Ex" id="getGRExact">
+            <hr>
+            <span id="word"></span>
+        </div>
+
+        <div id="footer">
+	        <a href="credits.html">Credits</a>
+        </div>
+        
+        <div id="backToTop">
+            <a href="#top">Back to top</a>
+        </div>
+        
+	    <script src="cedict.js"></script>
+	    <script src="py2gr.js"></script>
+	    <script src="dict.js"></script>
+        <script>
+         document.getElementById("term").addEventListener("keyup", function (event) {
+             event.preventDefault();
+             if (event.keyCode === 13) {
+                 document.getElementById("getEnglish").click();
+             }
+         });
+        </script>
+    </body>
+</html>

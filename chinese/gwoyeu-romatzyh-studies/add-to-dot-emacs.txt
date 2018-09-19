@@ -1,0 +1,3 @@
+;;; Quail Gwoyeu Romatzyh
+(add-to-list 'load-path "/home/heitor/chinese/gwoyeu-romatzyh-studies/")
+(require 'gwoyeu-romatzyh-input)

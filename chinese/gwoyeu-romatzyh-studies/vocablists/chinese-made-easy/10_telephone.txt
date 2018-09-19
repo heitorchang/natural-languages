@@ -1,0 +1,36 @@
+電話;diann huah;telephone
+火災;huoo tzai;fire (119)
+詐騙;jah piann;fraud (165)
+犯罪;fann tzuey;crime (110)
+查號台;char haw tair;phone directory (104)
+行動電話;shyng donq diann huah;mobile phone
+手機;shoou ji;mobile phone
+公共電話;gong gonq diann huah;pay phone
+電話亭;diann huah tyng;phone booth
+總機;tzoong ji;operator
+電話簿;diann huah buh;yellow pages
+電話卡;diann huah kaa;phone card
+打電話;daa diann huah;call
+講電話;jeang diann huah;talk
+聽電話;ting diann huah;listen
+接電話;jie diann huah;answer
+掛電話;guah diann huah;hang up
+您撥的電話通話中，請稍後再撥。;nin bo .de diann huah tong huah jong, chiing shau how tzay bo;The number you have dialed is busy, please try again later.
+您撥的電話無人接聽，轉接語音信箱。嗶聲後請留言。;nin bo .de diann huah wu ren jie ting, joan jie yeu in shinn shiang. bih sheng how chiing liou yan;The number you have dialed is not being answered. You have been forwarded to voice mail. Please leave a message after the beep.
+麻煩，請接林志穎教授;ma farn, chiing jie lin jyh yiing jiaw show;May I please speak to Prof. Zhiying Lin?
+請問哪裡找他?;chiing wenn naa lii jao ta?;May I ask who is calling?
+我是他的學生，叫來恩;woo shyh ta .de shyue sheng, jiaw Lai en;I am his student. My name is Ryan.
+請稍等，我幫你轉接。;chiing shau deeng, woo bang nii joan jie;
+謝謝。;shieh .shie;
+請問，張先生在家嗎?;chiing wenn, jang shian sheng tzay jia .ma?;
+你打錯了;nii daa tsuoh .le;
+這裡沒有這個人。;jeh lii mei yeou jeyg ren;
+那邊不是張公館嗎?;nah bian bwu shyh jang gong goan .ma?;
+不是;bwu shyh;
+對不起;duey buh chii;
+請問，陳經理在嗎?;chiing wenn, chern jing lii tzay .ma?;
+不好意思，她剛剛出去了;buh hao yih .sy, ta gang gang chu chiuh .le;
+你要留言嗎?;nii yaw liou yan .ma?;
+不，我有急事找她，請你告訴我她的手機。;buh, woo yeou jyi shyh jao ta, chiing nii gaw suh woo ta .de shoou ji.;
+她的電話號馬是零九五八-五二零-一三一四。;ta .de diann huah haw maa shyh ling jeou wuu ba wuu ell ling i san i syh;
+謝謝你。;shieh .shie nii;

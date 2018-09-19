@@ -1,0 +1,23 @@
+客廳;keh ting;living room
+沙發;sha fa;sofa
+茶几;char ji;side table
+茶具;char jiuh;teamaking set
+音響;in sheang;stereo system
+檯燈;tair deng;lamp
+窗戶;chuang huh;window
+窗簾;chuang lian;curtain
+靠墊;kaw diann;throw pillow
+地板;dih baan;flooring
+電視;diann shyh;television
+歡迎光臨;huan yng guang lin;Welcome
+請進;chiing jinn;please come in
+請隨便坐;chiing swei biann tzuoh;Have a seat, please
+旁邊有靠墊，請自己拿;parng bian yeou kaw diann, chiing tzyh jii na;There's a cushion beside you, help yourself
+你們家有茶具耶!;nii .men jia yeou char jiuh .ie;You have a tea set!
+我很喜歡喝茶。;woo heen shii huan he char;I like tea a lot
+我們來泡茶聊天好了;woo .men lai paw char liau tian hao .le;Let's make some tea and have a chat
+打開窗，讓空氣流通。;daa kai chuang, ranq kong chih liou tong;I'll open the window to let some fresh air in
+你們家有音響嗎?;nii .men jia yeou in sheang .ma?;Do you have a stereo?
+有啊;yeou .a;Yes!
+來一點音樂吧;lai yih dean in yueh .ba;Let's play some music
+好的，沒問題;hao .de, mei wenn tyi;Sure, no problem.

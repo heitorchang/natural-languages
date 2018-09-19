@@ -1,0 +1,74 @@
+meleto.org licenses
+-----------------------------------------------------------------------------
+Exercises marked as Filoglossia or φιλογλωσσία are based
+on ILSP's Filoglossia, Learning Greek as a foreign language.
+Copyright (c) 2001-2009 ILSP (www.ilsp.gr)
+
+http://www.xanthi.ilsp.gr/filog/default.htm
+-----------------------------------------------------------------------------
+Parte dos exercícios das aulas da Coletividade Helênica é baseada no livro
+Επικοινωνήστε Ελληνικά 1.
+Copyright (c) 1998, CERTOSA S.A.
+-----------------------------------------------------------------------------
+meleto.org's PHP, Lisp, HTML, CSS and JavaScript code
+are licensed under the MIT License
+
+Copyright (c) 2016 Heitor Chang <heitorchang@gmail.com>
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+-----------------------------------------------------------------------------
+This software uses jQuery v2.2.0
+jquery.org/license
+
+Licensed under the MIT License
+-----------------------------------------------------------------------------
+This software uses PNG icons by the Aha-Soft Team
+
+Downloaded from
+https://www.iconfinder.com/icons/131848/accept_check_good_mark_ok_yes_icon#size=32
+
+https://www.iconfinder.com/iconsets/32x32-free-design-icons
+
+License: Free for commercial use
+Link: http://www.aha-soft.com/
+-----------------------------------------------------------------------------
+This software uses PNG icons by Benjamin De Cock (Stripe flags)
+
+Downloaded from
+https://www.iconfinder.com/icons/167764/br_icon#size=23
+
+https://www.iconfinder.com/iconsets/stripe-flag-set
+
+License: Free for commercial use
+Link: http://dribbble.com/bdc
+-----------------------------------------------------------------------------
+This software uses PNG icons by the Nordic Factory
+
+Downloaded from
+https://www.iconfinder.com/icons/53127/br_brasil_brazil_kr_icon#size=128
+
+https://www.iconfinder.com/iconsets/flag_set
+
+License: Free for commercial use
+Link: http://www.nordicfactory.com/
+-----------------------------------------------------------------------------
+This software uses a GIF spinner from http://loading.io/
+
+License: You can use them freely for any purpose.

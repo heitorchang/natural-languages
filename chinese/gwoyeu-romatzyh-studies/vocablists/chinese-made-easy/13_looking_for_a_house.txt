@@ -1,0 +1,48 @@
+找房子;jao farng tzyy;looking for a house
+套房;taw farng;suite
+雅房;yea farng;room
+公寓;gong yuh;apartment
+透天;tow tian;townhouse
+商店;shang diann;store
+電梯;diann ti;elevator
+警衛;jiing wey;security guard
+售;show;for sale
+出租;chu tzu;for rent
+頂讓;diing ranq;take over a business
+套房出租;taw farng chu tzu;suite for rent
+一房;yih farng;one bedroom
+一廳;yih ting;one living room
+一衛;yi wey;one bathroom
+鬧中取靜;naw jong cheu jinq;quiet in a noisy area
+採光佳;tsae guang jia;bright
+離捷運近;li jye yunn jinn;close to MRT
+附家具;fuh jia jiuh;furniture included
+月租一萬;yueh tzu yi wann;NT$ 10,000 per month
+意者請洽;yih jee chiing chiah;for information
+電話;diann huah;telephone
+出售;chu show;for sale
+大三房;dah san farng;three large rooms
+格局方正;ger jyu fang jenq;square layout
+視野寬闊;shyh yee kuan kuoh;good (wide) view
+百萬裝潢;bae wann juang hwang;million-dollar decor
+近學區;jinn shyue chiu;close to school
+附車位;fuh che wey;parking space included
+請問，你有套房要出租嗎?;chiing wenn, nii yeou taw farng yaw chu tzu .ma;Excuse me, do you have a suite for rent?
+是啊，你有幾個人要住呢?;shyh .a, nii yeou jii .ge ren yaw juh .ne?;Yes, how many of you are renting?
+我一個人住;woo ig ren juh;Just me
+我可以看看房間嗎?;woo kee yii kann .kan farng jian .ma?;Can I take a look at the place?
+當然可以。;dang ran kee yii;Of course
+一個月房租是多少?;ig yueh farng tzu shyh duo shao?;How much is the rent per month?
+一個月一萬塊錢，水電費不包含;ig yueh yi wann kuay chyan, shoei diann fey buh bau harn;NT$ 10,000 per month, not including utilities.
+你需要幾個月的押金?;nii shiu yaw jii .ge yueh .de ia jin?;How much is the deposit?
+兩個月的房租;leang .ge yueh .de farng tzu;Two months' rent
+我是學生，請算我便宜一點;woo shyh shyue sheng, chiing suann woo pyan yi yih dean;I am a student, can you rent it a little cheaper?
+對不起，我沒有辦法再降價了;duey buh chii, woo mei yeou bann faa tzay jianq jiah .le;Sorry, I can't lower the price.
+這是最便宜了;jeh shyh tzuey pyan yi .le;It's the best price.
+隔壁那一間比較便宜;ger bih nah yih jian bii jiaw pyan yi;The place next door is cheaper.
+你要參考一下嗎?;nii yaw tsan kao yi shiah .ma?;Do you want to take a look?
+好，我要看看;hao, woo yaw kann .kan;Yes, I do.
+這一間也不錯;jeh yih jian yee bwu tsuoh;This one is good, too
+我決定租了;woo jyue dinq tzu .le;I'll take it
+好吧。我算你九千好了;hao .ba. woo suann nii jeou chian hao .le;Okay. I'll charge you NT$ 9,000 per month for the rent.
+好。那我們簽約吧;hao, nah woo .men chian iue .ba;Okay. Let's sign a contract, then

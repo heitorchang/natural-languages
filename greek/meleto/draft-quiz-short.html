@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Μελετώ: study Greek</title>
+    <link rel="stylesheet" href="css/greek-visual-keyboard.css">
+    <link rel="stylesheet" href="css/quiz.css">
+  </head>
+  <body>
+    <div class="quiz">
+      <p id="title"></p>
+      <p id="prompt"></p>
+
+      <div class="answer-row">
+        <div class="icon-box" id="showAnswer"><img src="img/icons/eye.png" alt="show answer"></div>
+        <input type="text" class="greek-keyboard" id="answer" size="15" autofocus>
+        <div class="icon-box" id="result"><img src="img/icons/eraser.png" alt="erase"></div>
+        <div class="icon-box" id="nextQuestion"><input type="button" src="img/icons/rightarrow.png" id="nextQuestionImage" disabled></div>
+      </div>
+    </div>
+
+    <div class="visual-keyboard">
+      <div class="keyboard-row"> <!-- accented -->
+        <div class="spacer"></div>
+        <div class="key accented" id="key_a_accented">ά</div>
+        <div class="key accented" id="key_e_accented">έ</div>
+        <div class="key accented" id="key_h_accented">ή</div>
+        <div class="key accented" id="key_i_accented">ί</div>
+        <div class="key accented" id="key_o_accented">ό</div>
+        <div class="key accented" id="key_y_accented">ύ</div>
+        <div class="key accented" id="key_w_accented">ώ</div>
+
+        <div class="spacer"></div>
+        <div class="spacer"></div>
+
+        <!-- <div class="key special" id="key_clear">Clear</div> -->
+        <div class="key special" id="key_backspace"><img src="img/icons/leftarrow.png"></div>
+      </div> <!-- accented -->
+      
+      <div class="keyboard-row">
+        <div class="key" id="key_q">q<br>;</div>
+        <div class="key" id="key_w">w<br>ς</div>
+        <div class="key" id="key_e">e<br>ε</div>
+        <div class="key" id="key_r">r<br>ρ</div>
+        <div class="key" id="key_t">t<br>τ</div>
+        <div class="key" id="key_y">y<br>υ</div>
+        <div class="key" id="key_u">u<br>θ</div>
+        <div class="key" id="key_i">i<br>ι</div>
+        <div class="key" id="key_o">o<br>ο</div>
+        <div class="key" id="key_p">p<br>π</div>
+      </div>
+
+      <div class="keyboard-row">
+        <div class="spacer"></div>
+        <div class="key" id="key_a">a<br>α</div>
+        <div class="key" id="key_s">s<br>σ</div>
+        <div class="key" id="key_d">d<br>δ</div>
+        <div class="key" id="key_f">f<br>φ</div>
+        <div class="key" id="key_g">g<br>γ</div>
+        <div class="key" id="key_h">h<br>η</div>
+        <div class="key" id="key_j">j<br>ξ</div>
+        <div class="key" id="key_k">k<br>κ</div>
+        <div class="key" id="key_l">l<br>λ</div>
+        <div class="key" id="key_;">;<br>΄</div>
+      </div>
+
+      <div class="keyboard-row">
+        <div class="key shift" id="key_shift"><img src="img/icons/uparrow.png"></div>
+        <div class="key" id="key_z">z<br>ζ</div>
+        <div class="key" id="key_x">x<br>χ</div>
+        <div class="key" id="key_c">c<br>ψ</div>
+        <div class="key" id="key_v">v<br>ω</div>
+        <div class="key" id="key_b">b<br>β</div>
+        <div class="key" id="key_n">n<br>ν</div>
+        <div class="key" id="key_m">m<br>μ</div>
+      </div>
+      <div class="keyboard-row">
+        <div class="spacer"></div>
+        <div class="spacer"></div>
+        <div class="key space" id="key_space">Space</div>
+      </div>
+    </div> <!-- visual-keyboard -->
+
+    <center>
+      <p>
+        <a href="index.html"><img src="img/icons/home.png" alt="home"></a>
+      </p>
+    </center>
+
+    <script src="/js/jquery.js"></script>
+
+    <!-- preload icons -->
+    <script src="js/preload-icons.js"></script>
+    
+    <!-- quiz scripts -->
+    <script src="data/greek/eimai-short.js"></script>
+    <script src="js/quiz.js"></script>
+
+    <script src="js/greek-charmap.js"></script>
+    <script src="js/greek-keymap.js"></script>
+    <script src="js/greek-by-replacement.js"></script>    
+    <script src="js/greek-visual-keyboard.js"></script>
+
+  </body>
+</html>

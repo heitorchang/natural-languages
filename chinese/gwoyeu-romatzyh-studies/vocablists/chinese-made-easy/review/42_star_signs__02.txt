@@ -1,0 +1,5 @@
+射手座;sheh shoou tzuoh;Sagittarius
+魔羯座;mo jye tzuoh;Capricorn
+天秤座;tian chenq tzuoh;Libra
+我是金牛座;woo shyh jin niou tzuoh;I am a Taurus
+你是什麼星座?;nii shyh sher .me shing tzuoh?;What is your star sign?

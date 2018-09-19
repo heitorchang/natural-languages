@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Mandarin Chinese Tone Combinations</title>
+        <style>
+         body {
+             font-family: sans-serif;
+             font-size: 1.2em;
+         }
+
+         .chinese {
+             font-size: 1.5em;
+         }
+
+         .toneHeader {
+             font-size: 1.2em;
+             font-weight: bold;
+         }
+
+         table {
+             width: 100%;
+         }
+         
+         td {
+             border: 1px solid #ccf;
+             padding: 10px;
+             text-align: center;
+             width: 16%;
+         }
+
+         .yellow {
+             font-size: 1.2em;
+             font-weight: bold;
+             background-color: #ffc;
+         }
+
+         .purple {
+             background-color: #ecf;
+         }
+         
+        </style>
+    </head>
+    <body>
+        <h1>Mandarin Chinese Tone Combinations</h1>
+        <h3>Click on a word to play audio. Please wait a moment for all files to load.</h3>
+        <table>
+            <tr>
+                <td class="yellow">&nbsp;&nbsp;2nd Char &rarr;<br><br>1st Char &darr;</td>
+                <td class="yellow">Tone 1</td>
+                <td class="yellow">Tone 2</td>
+                <td class="yellow">Tone 3</td>
+                <td class="yellow">Tone 4</td>
+                <td class="yellow">Neutral Tone</td>
+            </tr>
+            <tr>
+                <td class="yellow">Tone 1</td>
+                <td id="tsanting"><span class="chinese">餐廳<br>餐厅</span>
+                    <br>cāntīng<br>a restaurant
+                </td>
+                <td id="gongyuan"><span class="chinese">公原<br>公园</span>
+                    <br>gōngyuán<br>a park
+                </td>
+                <td id="insheang"><span class="chinese">音響<br>音响</span>
+                    <br>yīnxiǎng<br>stereo system
+                </td>
+                <!--
+                <td id="shudiann"><span class="chinese">書店<br>书店</span>
+                    <br>shūdiàn<br>bookstore
+                </td>
+                -->
+                <td id="shautsay"><span class="chinese">燒菜<br>烧菜</span>
+                    <br>shāocài<br>to cook
+                </td>
+                <td id="gege"><span class="chinese">哥哥<br>哥哥</span>
+                    <br>gēge<br>older brother
+                </td>
+            </tr>
+            <tr>
+                <td class="yellow">Tone 2</td>
+                <td id="chwangdan"><span class="chinese">床單<br>床单</span>
+                    <br>chuángdān<br>bedsheet
+                </td>
+                <td id="pwutaur"><span class="chinese">葡萄<br>葡萄</span>
+                    <br>pútáo<br>grapes
+                </td>
+                <td id="tourfaa"><span class="chinese">頭髮<br>头发</span>
+                    <br>tóufǎ<br>hair
+                </td>
+                <td id="horngseh"><span class="chinese">紅色<br>红色</span>
+                    <br>hóngsè<br>red
+                </td>
+                <td id="yeye"><span class="chinese">爺爺<br>爷爷</span>
+                    <br>yéye<br>grandpa
+                </td>
+            </tr>
+            <tr>
+                <td class="yellow">Tone 3</td>
+                <td id="laoshy"><span class="chinese">老師<br>老师</span>
+                    <br>lǎoshī<br>teacher
+                </td>
+                <td id="koouhorng"><span class="chinese">口紅<br>口红</span>
+                    <br>kǒuhóng<br>lipstick
+                </td>
+                <td id="daasao" class="purple"><span class="chinese">打掃<br>打扫</span>
+                    <br>dǎsǎo<br>to clean
+                </td>
+                <td id="chaofann"><span class="chinese">炒飯<br>炒饭</span>
+                    <br>chǎofàn<br>fried rice
+                </td>
+                <td id="naenai"><span class="chinese">奶奶<br>奶奶</span>
+                    <br>nǎinai<br>grandma
+                </td>
+            </tr>
+            <tr>
+                <td class="yellow">Tone 4</td>
+                <td id="shiahtian"><span class="chinese">夏天<br>夏天</span>
+                    <br>xiàtiān<br>summer
+                </td>
+                <td id="jianqyou"><span class="chinese">醬油<br>酱油</span>
+                    <br>jiàngyóu<br>soy sauce
+                </td>
+                <td id="diannnao"><span class="chinese">電腦<br>电脑</span>
+                    <br>diànnǎo<br>a computer
+                </td>
+                <td id="howmiann"><span class="chinese">後面<br>后面</span>
+                    <br>hòumiàn<br>behind
+                </td>
+                <td id="meymei"><span class="chinese">妹妹<br>妹妹</span>
+                    <br>mèimei<br>younger sister
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="6"> 
+                    <span class="purple">
+                        Change of tones: Tones 3-3 becomes Tones 2-3
+                    </span>
+                </td>
+            </tr>
+            
+            <tr>
+                <td class="yellow">Bonus: 2-2-2</td>
+                <td colspan="5" id="jyemaujya">
+                    <span class="chinese">睫毛夾 / 睫毛夹</span>
+                    <br>jiémáojiá<br>eyelash curler
+                </td>
+            </tr>
+            <tr>
+                <td class="yellow">Bonus: 3-2-2</td>
+                <td colspan="5" id="shoeilongtour">
+                    <span class="chinese">水龍頭 / 水龙头</span>
+                    <br>shuǐlóngtóu<br>faucet
+                </td>
+            </tr>
+        </table>
+
+        <br><br>
+        Audio Credits: Chinese Made Easy, by Zou Ximei
+        <script src="js/buzz.min.js"></script>
+        <script>
+         function assignAudio(word) {
+             var buzzSound = new buzz.sound("audio/" + word + ".mp3");
+             document.getElementById(word).onclick = function () {
+                 buzzSound.play();
+             }
+         }
+
+         assignAudio("tsanting");
+         assignAudio("gongyuan");
+         assignAudio("insheang");
+         // assignAudio("shudiann");
+         assignAudio("shautsay");
+         assignAudio("gege");
+         
+         assignAudio("chwangdan");
+         assignAudio("pwutaur");
+         assignAudio("tourfaa");
+         assignAudio("horngseh");
+         assignAudio("yeye");
+         
+         assignAudio("laoshy");
+         assignAudio("koouhorng");
+         assignAudio("daasao");
+         assignAudio("chaofann");
+         assignAudio("naenai");
+         
+         assignAudio("shiahtian");
+         assignAudio("jianqyou");
+         assignAudio("diannnao");
+         assignAudio("howmiann");
+         assignAudio("meymei");
+
+         assignAudio("jyemaujya");
+         assignAudio("shoeilongtour");
+         
+        </script>
+    </body>
+</html>

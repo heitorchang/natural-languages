@@ -1,0 +1,15 @@
+星座;shing tzuoh;star signs
+魔羯座;mo jye tzuoh;Capricorn
+水瓶座;shoei pyng tzuoh;Aquarius
+雙魚座;shuang yu tzuoh;Pisces
+牡羊座;muu yang tzuoh;Aries
+金牛座;jin niou tzuoh;Taurus
+雙子座;shuang tzyy tzuoh;Gemini
+巨蟹座;jiuh shieh tzuoh;Cancer
+獅子座;shy .tzy tzuoh;Leo
+處女座;chuh neu tzuoh;Virgo
+天秤座;tian chenq tzuoh;Libra
+天蟹座;tian shieh tzuoh;Scorpio
+射手座;sheh shoou tzuoh;Sagittarius
+你是什麼星座?;nii shyh sher .me shing tzuoh?;What is your star sign?
+我是金牛座;woo shyh jin niou tzuoh;I am a Taurus

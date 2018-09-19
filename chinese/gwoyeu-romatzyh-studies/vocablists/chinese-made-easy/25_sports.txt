@@ -1,0 +1,28 @@
+運動;yunn donq;sports
+棒球;banq chyou;baseball
+籃球;lan chyou;basketball
+網球;woang chyou;tennis
+羽毛球;yeu mau chyou;badminton
+高爾夫球;gau eel fu chyou;golf
+桌球;juo chyou;table tennis
+保齡球;bao ling chyou;bowling
+滑雪;hwa sheue;skiing
+游泳;you yeong;swimming
+馬拉松;maa lha song;run a marathon
+慢跑;mann pao;jogging
+水上芭蕾;shoei shanq ba leei;water ballet
+足球;tzwu chyou;soccer
+溜冰;lhiou bing;skating
+撐竿跳;cheng gan tiaw;pole vaulting
+跆拳道;tair chyuan daw;taekwondo
+洋弓;yang gong;archery
+拳擊;chyuan jyi;boxing
+體操;tii tsau;gymnastics
+你喜歡運動嗎?;nii shii huan yunn donq .ma?;Do you like sports?
+我喜歡運動;woo shii huan yunn donq;I like sports very much
+但是，我很忙，沒有時間運動;dann shyh woo heen mang, mei yeou shyr jian yunn donq;But I am to busy to work out
+只要我有空，我會去游泳。;jyy yaw woo yeou konq, woo huey chiuh you yeong;I swim when I have time.
+除了游泳，你還喜歡什麼運動?;chwu .le you yeong, nii hair shii huan sher .me yunn donq?;What else do you like besides swimming?
+我喜歡早上起來慢跑;woo shii huan tzao shanq chii lai mann pao;I like jogging in the morning
+改天我們早上一起去跑步好嗎?;gae tian woo .men tzao shanq yih chii chiuh pao buh hao .ma?;Let's go jogging in the morning one day, shall we?
+那真是太好了!;nah jen shyh tay hao .le;That would be great

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Μελετώ: Coisas (introdução)</title>
+    <link rel="stylesheet" href="/css/greek-visual-keyboard.css">
+    <link rel="stylesheet" href="/css/quiz.css">
+    <link rel="stylesheet" href="/css/styles.css">
+  </head>
+  <body><div class='navbar'><a href='/html/pt/index.html'>Μελετώ</a> 
+ &gt; <a href='../index.html'>Aulas Básicas da Coletividade Helênica</a> &gt; <a href='index.html'>Vocabulário</a>
+<div class='interface-lang'><a href='/html/en/index.html'><img src='/img/icons/flags/us.png' alt='en'>English</a></div></div>
+      
+      <div class="quizWrapper">
+      
+      <div id="loading"><img src="/img/icons/spin.gif" alt="spinner"></div>
+      
+      Coisas (introdução)<br>
+      
+      <div class="quiz">
+      
+      <p id="quizTitle"></p>
+      
+        <div class="answer-row">
+          <div class="icon-box" id="showAnswer"><img src="/img/icons/eye.png" alt="show"></div>
+          <input type="text" class="greek-keyboard" id="answer" size="18" autocapitalize="off" autocorrect="off" autocomplete="off" autofocus>
+          <div class="icon-box" id="result"><img src="/img/icons/eraser.png" alt="erase"></div>
+          <div class="icon-box hidden" id="nextQuestion"><input type="image" src="/img/icons/rightarrow.png" id="nextQuestionImage" alt="next"></div>
+          <div class="icon-box display-none" id="back"><a href="index.html"><img src="/img/icons/revert.png" alt="back"></a></div>
+
+          <br>
+          <span id="prompt"></span>
+        </div>
+
+
+
+      </div>
+    </div>
+
+    <div id="visual-keyboard"></div>
+
+    <br>
+    <div class="center">
+        <a href="index.html"><img src="/img/icons/revert.png" alt="back"></a>
+        <img src="/img/icons/spacer.png" alt=" ">
+        
+        <a href="/html/pt/index.html"><img src="/img/icons/home.png" alt="home"></a>
+
+      <!--
+        <img src="/img/icons/spacer.png" alt=" ">
+        
+        <a href="/pt/help.html"><img src="/img/icons/question.png" alt="question"></a>
+      -->
+    </div> <!-- end center -->
+
+    <script src="/js/jquery.js"></script>
+
+    <!-- preload icons -->
+    <script src="/js/preload-icons.js"></script>
+    
+    <!-- quiz scripts -->
+    <script src="050_coisas_1.js"></script>
+    <script src="/js/quiz.js"></script>
+
+    <script src="/js/greek-charmap.js"></script>
+    <script src="/js/greek-keymap.js"></script>
+    <script src="/js/greek-by-replacement.js"></script>    
+    <script src="/js/greek-visual-keyboard.js"></script>
+
+      <script>
+      $(window).load(function () {
+        $("#loading").hide();
+      });
+      </script>
+      
+  </body>
+</html>

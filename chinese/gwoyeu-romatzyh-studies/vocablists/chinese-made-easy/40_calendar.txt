@@ -1,0 +1,17 @@
+月曆;yueh lih;calendar
+星期;shing chyi;week
+星期日;shing chyi ryh;Sunday
+星期一;shing chyi i;Monday
+星期六;shing chyi liow;Saturday
+今天(是)星期幾?;jin tian (shyh) shing chyi jii?;What day of the week is it?
+今天(是)星期六;jin tian (shyh) shing chyi liow;It's Saturday
+月份;yueh fenn;month
+一月;yi yueh;January
+十二月;shyr ell yueh;December
+日期;ryh chyi;date
+一日;yi ryh;1st
+二十日;ell shyr ryh;20th
+三十一日;san shyr i ryh;31st
+今天(是)幾月幾號?;jin tian (shyh) jii yueh jii haw?;What's the date today?
+今天(是)一月一日;jin tian (shyh) yi yueh yi ryh;It's January 1st
+今天五號;jin tian wuu haw;Today is the 5th

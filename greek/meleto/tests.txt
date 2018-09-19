@@ -1,0 +1,3 @@
+;;; visual keyboard
+
+* highlight text, then click on a letter. selection must be cleared

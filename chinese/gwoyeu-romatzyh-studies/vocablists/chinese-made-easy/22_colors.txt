@@ -1,0 +1,21 @@
+顏色;yan seh;Colors
+白色;bair seh;white
+黑色;hei seh;black
+紅色;horng seh;red
+橘色;jyu seh;orange
+黃色;hwang seh;yellow
+綠色;liuh seh;green
+藍色;lan seh;blue
+紫色;tzyy seh;purple
+灰色;huei seh;gray
+粉紅色;feen horng seh;pink
+棕色;tzong seh;brown
+妳喜歡什麼顏色?;nii shii huan sher .me yan seh?;What's your favorite color?
+我喜歡白色和黑色;woo shii huan bair seh her hei seh;I like white and black
+妳跟我不一樣;nii gen woo buh yi yanq;Not me.
+我喜歡鮮豔的顏色;woo shii huan shian yann .de yan seh;I like fresh, bright colors
+我喜歡紅色，黃色，綠色。;woo shii huan horng seh, hwang seh, liuh seh;I like red, yellow, and green
+妳公司的制服是什麼顏色?;nii gong sy .de jyh fwu shyh sher .me yan seh?;What color is your company uniform?
+很漂亮的淺藍色而且很有時尚感。;heen piaw lianq .de chean lan seh erl chiee heen yeou shyr shanq gaan;It's a very beautiful light blue and very fashionable
+很漂亮的深藍色而且很有時尚感。;heen piaw lianq .de shen lan seh erl chiee heen yeou shyr shanq gaan;It's a very beautiful dark blue and very fashionable
+大家都很羨幕我呢;dah jia dou heen shiann muh woo .ne;Everyone is very envious

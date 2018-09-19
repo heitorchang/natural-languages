@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Μελετώ, let's study Greek: είμαι</title>
+    <link rel="stylesheet" href="css/greek-visual-keyboard.css">
+    <link rel="stylesheet" href="css/quiz.css">
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+  <body>
+    <div class="quizWrapper">    
+      <div class="quiz">
+        <p id="quizTitle"></p>
+              
+        <p id="prompt"></p>
+
+        <div class="answer-row">
+          <div class="icon-box" id="showAnswer"><img src="img/icons/eye.png" alt="show answer"></div>
+          <input type="text" class="greek-keyboard" id="answer" size="15" autofocus>
+          <div class="icon-box" id="result"><img src="img/icons/eraser.png" alt="erase"></div>
+          <div class="icon-box hidden" id="nextQuestion"><input type="image" src="img/icons/rightarrow.png" id="nextQuestionImage"></div>
+          <div class="icon-box hidden" id="back"><a href="eimai-list.html"><img src="img/icons/list.png"></a></div>
+        </div>
+      </div>
+    </div>
+
+    <div id="visual-keyboard"></div>
+
+    <center>
+      <p>
+        <a href="index.html"><img src="/img/icons/revert.png" alt="back"></a>
+        <img src="img/icons/spacer.png">
+        
+        <a href="index.html"><img src="/img/icons/home.png" alt="home"></a>
+
+        <img src="img/icons/spacer.png">
+        
+        <a href="help.html"><img src="/img/icons/question.png" alt="question"></a>
+      </p>
+    </center>
+
+    <script src="/js/jquery.js"></script>
+
+    <!-- preload icons -->
+    <script src="js/preload-icons.js"></script>
+    
+    <!-- quiz scripts -->
+    <script src="data/greek/eimai.js"></script>
+    <script src="js/quiz.js"></script>
+
+    <script src="js/greek-charmap.js"></script>
+    <script src="js/greek-keymap.js"></script>
+    <script src="js/greek-by-replacement.js"></script>    
+    <script src="js/greek-visual-keyboard.js"></script>
+
+  </body>
+</html>

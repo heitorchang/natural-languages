@@ -1,0 +1,37 @@
+早餐店;tzao tsan diann;breakfast shop
+中式;jong shyh;Chinese style
+肉包;row bau;meat bun
+豆漿;dow jiang;soy milk
+饅頭;man .tou;steamed bread
+飯糰;fann twan;rice ball
+油條;you tyau;fried bread stick
+蔥油餅;tsong you biing;green onion pancake
+粥;jou;rice porridge, congee
+燒餅;shau biing;clay oven roll
+蛋餅;dann biing;egg cake
+蘿蔔糕;luo bo gau;turnip cake
+小姐，妳要吃什麼?;sheau jiee, nii yaw chy sher .me?;Miss, what would you like to eat?
+兩個饅頭和一杯豆漿;leang .ge man .tou her yih bei dow jiang;Two loaves of steamed bread and a cup of soymilk
+還需要別的嗎?;hair shiu yaw bye .de .ma?;Need anything else?
+再加一個蛋餅;tzay jia i .ge dann biing;One more egg cake
+不用了，這樣就好;bwu yonq .le, jeh .iang jiow hao;No, that's it
+老闆，我趕時間，請快一點;lao baan, woo gaan shyr jian chiing kuay yih dean;Sir, I'm in a hurry, please hurry up
+好的，我馬上做;hao .de, woo maa shanq tzuoh;OK, I will make it immediately
+多少錢?;duo shao chyan?;How much?
+四十五塊;syh shyr wuu kuay;Forty-five dollars
+收妳一百元;shou nii yih bae yuan;Here is one hundred dollars
+找五十五塊錢;jao wuu shyr wuu kuay chyan;Here's your fifty-five dollars change
+西式;shi shyh;Western style
+咖啡;ka fei;coffee
+紅茶;horng char;black tea
+玉米濃湯;yuh mii nong tang;corn soup
+三明治;san ming jyh;sandwich
+漢堡;hann bao;hamburger
+可樂;kee leh;cola
+牛奶;niou nae;milk
+我要一杯黑咖啡;woo yaw yih bei hei ka fei;I want a cup of black coffee
+好的，還要別的嗎?;hao .de, hair yaw bye .de .ma?;OK, anything else?
+一個起司三明治;i .ge chii sy san ming jyh;A cheese sandwich
+你要內用還是外帶?;nii yaw ney yonq hair shyh way day?;For here or to go?
+我要內用;woo yaw ney yonq;For here
+好，馬上來;hao, maa shanq lai;OK, coming right up!

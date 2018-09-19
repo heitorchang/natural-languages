@@ -1,0 +1,31 @@
+服裝;fwu juang;Clothes
+西裝;shi juang;western-style clothes
+背心;bey shin;vest, tank top
+領帶;liing day;tie
+褲子;kuh .tzy;trousers
+襯衫;chenn shan;shirt, blouse
+T恤;T shiuh;T-shirt
+套裝;taw juang;suit
+運動服;yunn donq fwu;sportswear
+毛衣;mau i;sweater
+睡衣;shuey i;pajamas
+泳衣;yeong i;swimwear
+內衣;ney i;underwear
+胸罩;shiong jaw;bra
+內褲;ney kuh;underpants
+帽子;maw .tzy;cap
+外套;way taw;jacket
+圍巾;wei jin;scarf
+手套;shoou taw;gloves
+手帕;shoou pah;handkerchief
+絲襪;sy wah;stockings
+襪子;wah .tzy;socks
+裙子;chyun .tzy;skirt
+牛仔褲;niou tzae kuh;jeans
+明天你要穿什麼衣服?;ming tian nii yaw chuan sher .me i fwu?;what are you going to wear tomorrow?
+我每天上班都穿西裝打領帶。;woo meei tian shanq ban dou chuan shi juang daa liing day;I wear a suit and tie to work every day
+明天假日我要穿休閒服。;ming tian jiah ryh woo yaw chuan shiou shyan fwu;Tomorrow is a holiday, so I'm going to wear casual clothes
+T恤配牛仔褲;T shiuh pey niou tzae kuh;A T-shirt goes with jeans
+夏天快到了，我要去買一套泳衣。;shiah tian kuay daw .le, woo yaw chiuh mae yi taw yeong i;Summer is coming, I'm going to buy a swimsuit
+我也要去，我要買一件裙子;woo yee yaw chiuh, woo yaw mae yi jiann chyun .tzy;I'll go with you, I want to buy a skirt
+好啊，我們一起去。;hao .a, woo men yih chii chiuh;That's great! Let's go together

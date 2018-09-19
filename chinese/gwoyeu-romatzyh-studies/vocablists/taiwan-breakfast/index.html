@@ -1,0 +1,98 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Taiwanese Breakfast Vocab Quiz</title>
+        <style>
+         html, body {
+             height: 100%;
+         }
+         
+         .ctr {
+             text-align: center;
+         }
+
+         .lg {
+             font-size: 2em;
+         }
+
+         .med {
+             font-size: 1.4em;
+         }
+         
+        </style>
+    </head>
+    <body>
+        TW Breakfast Quiz - Choose one, the other 2 will be hidden.<br>
+        
+        <input type="radio" name="promptType" value="chinese" id="p1" checked> <label for="p1">Chinese</label> &nbsp; &nbsp; 
+        <input type="radio" name="promptType" value="gwoyeu" id="p2"> <label for="p2">Pinyin </label> &nbsp; &nbsp; 
+        <input type="radio" name="promptType" value="english" id="p3"> <label for="p3">English</label>
+        
+        <p class="ctr" id="revealP">
+            Write on paper or visualize the rest<br>
+            <button id="reveal">Reveal Word</button>
+        </p>
+        
+        <p class="ctr" id="skipKeepP" style="visibility: hidden;">
+            <button id="skip">I knew this!</button>
+            <button id="keep">I wasn't sure, keep it</button>
+        </p>
+
+        <p class="ctr" id="saveP" style="display: none;">
+            <button id="save" onclick="saveFile()">Download List</button>
+        </p>
+
+        <p class="ctr" id="promptP">
+            <span class="lg" id="prompt"></span>
+        </p>
+
+        <p class="ctr" id="answerP">
+            <span class="lg" id="chinese"></span><br>
+            <span class="med" id="gwoyeu"></span><br>
+            <span class="med" id="english"></span><br>
+        </p>
+
+
+        <input type="hidden" id="newFilename" value="vocablist.txt"><br>
+        <input type="hidden" id="output" value=""><br>
+
+        <p id="savedWords" style="position: fixed; bottom: 5px; font-size: 0.8em;">
+            Words kept:
+        </p>
+        
+        <script src="app.js"></script>
+        <script>
+         // autoload for debugging
+         function demoQuiz() {
+             document.getElementById("revealP").style.visibility = "visible";
+             document.getElementById("skipKeepP").style.visibility = "hidden";
+             document.getElementById("saveP").style.display = "none";
+             
+             // clear words kept
+             document.getElementById("savedWords").innerHTML = "Words kept: ";
+             document.getElementById("output").value = "";
+             hideAnswer()
+
+             quiz("肉包;ròubāo;meat bun\n" +
+                  "豆漿;dòujiāng;soy milk\n" +
+                  "饅頭;mántou;steamed bread\n" +
+                  "飯糰;fàntuán;rice ball\n" +
+                  "油條;yóutiáo;fried bread stick\n" +
+                  "蔥油餅;cōngyóubǐng;green onion pancake\n" +
+                  "粥;zhōu;rice porridge\n" +
+                  "燒餅;shāobǐng;clay oven roll\n" +
+                  "蛋餅;dànbǐng;egg cake");
+
+         }
+
+         document.getElementById("p1").onclick = demoQuiz;
+         document.getElementById("p2").onclick = demoQuiz;
+         document.getElementById("p3").onclick = demoQuiz;
+         
+         demoQuiz();
+        </script>
+
+    </body>
+</html>

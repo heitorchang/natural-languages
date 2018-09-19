@@ -1,0 +1,30 @@
+床;chwang;bed
+單人床;dan ren chwang;single bed
+雙人床;shuang ren chwang;double bed
+枕頭;jeen tour;pillow
+床單;chwang dan;bed sheet
+棉被;mian bey;blanket
+窗;chuang;window
+掛鐘;guah jong;wall clock
+衣櫃;i guey;wardrobe
+化妝櫃;huah juang guey;dresser
+鏡子;jinq .tzy;mirror
+書桌;shu juo;desk
+電腦;diann nao;computer
+電風扇;diann feng shann;electric fan
+冷氣機;leeng chih ji;air conditioner
+椅子;yii .tzy;chair
+電暖爐;diann noan lu;electric radiator
+百葉窗;bae yeh chuang;window blinds
+那是我妹妹的房間;nah shyh woo mey .mei .de farng jian;That's my sister's room
+這是我的房間;jeh shyh woo .de farng jian;This is my room
+你一個人睡嗎?;nii ig ren shuey .ma?;Do you sleep alone?
+對啊;duey .a;Yes
+哇!好好喔;.ua! hao hao .o;Wow! That's so nice
+我都要和弟弟睡一張雙人床;woo dou yaw her dih .di shuey i jang shuang ren chwang;I have to sleep with my younger brother in a double bed.
+和他共用一台電腦;her ta gonq yonq yih tair diann nao;I share the same computer with him
+你會熱嗎?;nii huey reh .ma?;Do you feel hot?
+要不要開冷氣?;yaw bwu yaw kai leeng chih?;Do you want me to turn on the air conditioner?
+我不太熱;woo bwu tay reh;I am not that hot
+打開窗;daa kai chuang;Do you want me to open the window?
+開電風扇就可以了;kai diann feng shann jiow kee yii .le;The fan will be fine.

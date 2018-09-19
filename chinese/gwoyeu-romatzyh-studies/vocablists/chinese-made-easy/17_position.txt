@@ -1,0 +1,21 @@
+位置;wey jyh;position
+上面;shanq miann;on
+下面;shiah miann;under
+裡面;lii miann;inside
+外面;way miann;outside
+中間;jong jian;between
+後面;how miann;behind
+左邊;tzuoo bian;on the left
+右邊;yow bian;on the right
+這邊;jeh bian;over here
+那邊;nah bian;over there
+旁邊;parng bian;next to
+我的眼鏡在哪裡?;woo .de yean jinq tzay naa lii?;Where are my glasses?
+在書桌上;tzay shu juo shanq;On the desk
+沒有看到啊?;mei yeou kann daw .a?;I didn't see them?
+你過來幫我找一下;nii guoh lai bang woo jao yi shiah;Come over to help me look for them.
+我找到了，你放在抽屜裡面;woo jao daw .le, nii fanq tzay chou tih lii miann;I found them. You put them in the drawer.
+小狗在哪?;sheau goou tzay naa?;Where is the dog?
+牠在那邊;ta tzay nah bian;She's over there.
+牠喜歡在書桌下面睡覺;ta shii huan tzay shu juo shiah miann shuey jiaw;She likes to sleep under the desk.
+也喜歡來我旁邊撒嬌;yee shii huan lai woo parng bian sa jiau.;And she likes to stay close to me.

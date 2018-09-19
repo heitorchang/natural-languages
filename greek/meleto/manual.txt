@@ -1,0 +1,15 @@
+Read README.md for up-to-date instructions
+
+quiz.js reads the lang in <html lang="??">
+
+Planned directory structure
+
+/interface language/language to learn/files.html
+
+/en/greek/eimai-list.html
+/pt/greek/eimai-list.html
+
+/data/en/greek/eimai.js
+/data/pt/greek/eimai.js
+
+1. give the pages the appropriate lang tag

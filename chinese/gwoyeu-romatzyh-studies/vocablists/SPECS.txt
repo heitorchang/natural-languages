@@ -1,0 +1,18 @@
+A list of vocabulary words consists of semicolon-separated lines of:
+ChineseCharacters;GwoyeuRomatzyh;English
+
+Given a list, the app will produce a new shrunken list of these same words. The idea is to slowly reduce the list to zero, showing that the student is familiar with all words.
+
+Student uploads a file prepared in an external text editor (such as Emacs)
+
+App parses the file and stores the data in memory
+
+Student is given a choice of which representation to show: characters, GR, or English
+
+App randomizes the list and shows the chosen representation one by one.
+
+Student writes by hand the other two representations, and informs app when he or she is done
+
+Student evaluates him or herself, and informs app if he or she wants to add the word to the new shrunken list.
+
+App provides the new list to be saved

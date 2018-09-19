@@ -1,0 +1,38 @@
+;;; GENERAL
+
+Organize Coletividade as:
+
+* Dialogos
+* Vocabulario
+* Numeros
+* Conjugacao
+* Gramatica (outros)
+
+;;; VISUAL KEYBOARD
+
+;;; QUIZ TOOLS
+
+;;; CHECK FOR BROKEN LINKS
+
+* wget --spider  -o wget.log  -e robots=off --wait 1 -r -p http://meleto.org
+
+;;; MOBILE
+
+;;; LATER
+
+* After adding reasonable amount of content, share with Dr. Prionas
+
+;;;; REFACTORING
+
+If I need to "beautify" the code to show off, one way is with
+object orientation, though PHP is quite a mess.
+
+Object-oriented Greek keyboard should have:
+
+List of labels for keys "id": ["english lowercase", "en uppercase",
+"greek lowercase", "greek uppercase"];
+
+Key object: has one visible label
+
+Row object: array of keys
+

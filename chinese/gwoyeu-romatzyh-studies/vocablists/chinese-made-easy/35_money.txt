@@ -1,0 +1,7 @@
+貨幣;huoh bih;money
+台幣;tair bih;NT Dollar
+一元;i yuan;one NT
+一百元;i bae yuan;100 NT
+兩千元;leang chian yuan;2000 NT
+人民幣;ren min bih;Renminbi Yuan
+五角;wuu jeau;0.5 RMB

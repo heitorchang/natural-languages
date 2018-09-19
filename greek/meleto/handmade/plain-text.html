@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Μελετώ, a place to learn Greek (and other languages)</title>
+  </head>
+  <body>
+    <input type="text" id="in">
+
+    <script src="/js/jquery.js"></script>
+    <script>
+     $("#in").keypress(function() {
+       var currentText = $(this).val();
+       console.log(window.getSelection().anchorOffset);
+     });
+
+     $("#in").change(function() {
+       console.log("changed");
+     });
+    </script>
+  </body>
+</html>

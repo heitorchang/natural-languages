@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Minimal WordNet</title>
+	    <link rel="stylesheet" href="pace_bar.css" type="text/css">
+    </head>
+    <body>
+        <script src="pace.min.js"></script>
+        <script src="synset.js"></script>
+        <script src="gloss.js"></script>
+
+        Minimal WordNet - <a href="http://wordnetweb.princeton.edu/perl/webwn">use full version</a> - <a href="license.txt">license</a> - <a href="https://github.com/heitorchang/wordnetjs">GitHub</a> - <a href="mobile.html">mobile version</a>
+        <br>
+        Click on a word inside definitions to search it. However, there is no automatic conversion, such as from plural to singular or between verb tenses.
+        <br>
+        <input id="q" autofocus>
+        <input type="button" value="Search" id="s">
+        <br><br>
+        <span id="w"></span>
+        
+        <ul id="g"></ul>
+        <script src="app.js"></script>
+    </body>
+</html>
