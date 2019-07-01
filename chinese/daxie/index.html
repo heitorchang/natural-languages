@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chinese Anti-Fraud Numerals</title>
+</head>
+
+<body style="font-size: 2.5em;">
+
+  <center>
+
+  <span id="arabic"></span>
+
+  <br><br>
+  
+  <span id="chinese"></span>
+  
+  <br><br>
+
+  <div id="help">
+  This page helps you practice writing 大寫.
+  <br>
+  You will see a number in Arabic numerals.<br>
+  Write 大寫 on a sheet of paper.
+  <br>
+    <pre>
+零 壹 貳 參 肆 伍 陸 柒 捌 玖
+０ １ ２ ３ ４ ５ ６ ７ ８ ９
+    </pre>
+  </div>
+  <button id="show">OK, let's go</button>
+  
+  </center>
+  
+  <script>
+	var chars = "零壹貳參肆伍陸柒捌玖";
+    var hidden = "";
+    var numlen = 10;
+
+	function randint() {
+	  return Math.floor(Math.random() * 10);
+	}
+
+	function randlist(len) {
+      var out = [];
+      var ct = 0;
+      while (ct < len) {
+        var r = randint();
+        if (!out.includes(r)) {
+          out.push(r);
+          ct += 1;
+        }
+      }
+      return out;
+	}
+
+    function setnums() {
+      var ar = document.getElementById("arabic");
+      var ch = document.getElementById("chinese");
+
+      // ch.style.display = "none";
+      hidden = "Write (on a piece of paper) the number shown above";
+      document.getElementById("chinese").innerText = hidden;
+
+      var numlist = randlist(numlen);
+      
+      ar.innerText = numlist.join('');
+
+      var chtext = "";
+      for (var i = 0; i < numlen; i++) {
+        chtext += chars[numlist[i]];
+      }
+      hidden = chtext;
+      
+    }
+
+    document.getElementById("show").onclick = function () {
+      document.getElementById("help").style.display = "none";
+      var btn = document.getElementById("show");
+      if (btn.innerText == "Show") {
+        document.getElementById("chinese").innerText = hidden;
+        btn.innerText = "Again?";
+      } else {
+        btn.innerText = "Show";
+        setnums();
+      }
+    }
+  </script>
+
+</body>
