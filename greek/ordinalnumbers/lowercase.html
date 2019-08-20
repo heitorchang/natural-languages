@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Greek Ordinal Numbers</title>
+<style>
+
+@font-face {
+    font-family: 'GFSNeoH';
+    src: url('gfsneoh.ttf') format('truetype');
+    font-style: normal;
+}
+</style>
+</head>
+
+<body style="font-size: 2.5em; font-family: 'GFSNeoH';">
+
+  <center>
+
+  <span id="arabic"></span>
+
+  <br><br>
+  
+  <span id="greek"></span>
+  
+  <br><br>
+
+  <div id="help">
+  This page helps you practice writing Greek Ordinal numbers.
+  <br>
+  You will see a number in Arabic numerals.<br>
+  Write Greek on a sheet of paper.
+  </div>
+  <button id="show">OK, let's go</button>
+  
+  </center>
+  
+  <script>
+	// 6 is Stigma, not shown in Emacs
+	var chars = ["ο","α","β","γ","δ","ε","ς","ζ","η","θ"];
+    var hidden = "";
+    var numlen = 10;
+
+	function randint() {
+	  return Math.floor(Math.random() * 10);
+	}
+
+	function randlist(len) {
+      var out = [];
+      var ct = 0;
+      while (ct < len) {
+        var r = randint();
+        if (!out.includes(r)) {
+          out.push(r);
+          ct += 1;
+        }
+      }
+      return out;
+	}
+
+    function setnums() {
+      var ar = document.getElementById("arabic");
+      var ch = document.getElementById("greek");
+
+      // ch.style.display = "none";
+      hidden = "Write (on a piece of paper) the number shown above";
+      document.getElementById("greek").innerText = hidden;
+
+      var numlist = randlist(numlen);
+      
+      ar.innerText = numlist.join('');
+
+      var chtext = "";
+      for (var i = 0; i < numlen; i++) {
+        chtext += chars[numlist[i]] + " ";
+      }
+      hidden = chtext;
+      
+    }
+
+    document.getElementById("show").onclick = function () {
+      document.getElementById("help").style.display = "none";
+      var btn = document.getElementById("show");
+      if (btn.innerText == "Show") {
+        document.getElementById("greek").innerText = hidden;
+        btn.innerText = "Again?";
+      } else {
+        btn.innerText = "Show";
+        setnums();
+      }
+    }
+  </script>
+
+</body>
