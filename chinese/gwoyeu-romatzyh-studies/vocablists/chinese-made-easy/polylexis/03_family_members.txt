@@ -1,0 +1,34 @@
+Family members*jia tyng cherng yuan
+grandfather*ye .ie
+grandmother*nae .nai
+father*fuh chin
+mother*muu chin
+husband*shian sheng
+husband*janq fu
+wife*tay .tai
+wife*chi .tzy
+older brother*ge .ge
+older sister*jiee .jie
+younger sister*mey .mei
+younger brother*dih .di
+son*erl .tzy
+daughter*neu erl
+brothers*shiong dih
+sisters*jiee mey
+uncle (father's side)*shwu .shu
+uncle (mother's side)*jiow .jiou
+cousin*tarng shiong dih
+cousin*beau shiong dih
+aunt (father's side)*gu .gu
+aunt (mother's side)*a yi
+man*nan ren
+woman*neu ren
+boy*nan hair
+girl*neu hair
+child*sheau hair
+baby*ing erl
+How many people are in your family?*nii jia yeou jii koou ren?
+There are four people in my family.*woo jia yeou syh koou ren
+My father, mother, sister, and me.*fuh chin, muu chin, mey .mei, hair yeou woo
+I live with my family.*woo her jia ren juh tzay yih chii
+I live in Taipei.*woo juh tzay tair beei

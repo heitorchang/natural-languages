@@ -1,0 +1,30 @@
+restaurant*tsan ting
+table*juo .tzy
+round table*yuan juo
+menu*tsay dan
+cook*chwu shy
+dishwasher*shii woan gong
+waiter*nan fwu wuh sheng
+waitress*neu fwu wuh sheng
+cashier*shou yn yuan
+spoon*tang chyr
+chopsticks*kuay .tzy
+rice bowl*fann woan
+soup bowl*tang woan
+My last name is Lin, and I would like to make a reservation*woo shinq lin, woo yaw dinq wey
+What day and what time would you like to reserve?*nii yaw dinq shing chyi jii, jii dean .ne?
+I would like to make a reservation for this Saturday at 7 PM*woo yaw dinq jeyg shing chyi liow, woan shanq chi dean
+how many people?*yeou jii wey .ne?
+Five*gonq wuu wey
+I'm sorry, we are full at 7 PM*duey buh chii, woan shanq chi dean yii jing keh maan .le
+Could you change the time to 6 PM?*kee yii gae woan shanq liow dean .ma?
+OK*hao .de
+Hi, my last name is Lin*nii hao, woo shinq lin
+I have a reservation*woo yeou dinq wey
+OK, please follow me*hao .de, chiing gen woo lai
+Here is the menu*chiing kann yi shiah tsay dan
+This is our specialty*jeh shyh woo .men .de jau pair tsay
+I would like to order these dishes*woo yaw dean jeh jii daw tsay
+Please give me one more bowl and chopsticks*chiing tzay geei woo yi fuh woan kuay
+Check, please*woo yaw mae dan
+Please go to the cashier to pay your bill*chiing daw shou yn yuan nah mae dan

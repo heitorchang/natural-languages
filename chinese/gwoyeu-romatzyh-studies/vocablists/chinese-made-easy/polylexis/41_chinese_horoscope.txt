@@ -1,0 +1,18 @@
+Chinese horoscope*shyr ell sheng shiaw
+2008*ell ling ling ba nian
+rat*lao shuu
+ox*niou
+tiger*lao huu
+rabbit*tuh .tzy
+dragon*long
+snake*sher
+horse*maa
+sheep*yang
+monkey*hour .tzy
+rooster*ji
+dog*goou
+pig*ju
+What is your Chinese horoscope sign?*nii shyh shuu sher .me .de?
+I am a horse*woo shuu maa
+Which year were you born in?*nii shyh naa yih nian sheng .de?
+I was born in the year of the monkey*woo shyh hour nian sheng .de

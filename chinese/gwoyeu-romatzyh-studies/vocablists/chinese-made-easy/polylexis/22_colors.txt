@@ -1,0 +1,21 @@
+Colors*yan seh
+white*bair seh
+black*hei seh
+red*horng seh
+orange*jyu seh
+yellow*hwang seh
+green*liuh seh
+blue*lan seh
+purple*tzyy seh
+gray*huei seh
+pink*feen horng seh
+brown*tzong seh
+What's your favorite color?*nii shii huan sher .me yan seh?
+I like white and black*woo shii huan bair seh her hei seh
+Not me.*nii gen woo buh yi yanq
+I like fresh, bright colors*woo shii huan shian yann .de yan seh
+I like red, yellow, and green*woo shii huan horng seh, hwang seh, liuh seh
+What color is your company uniform?*nii gong sy .de jyh fwu shyh sher .me yan seh?
+It's a very beautiful light blue and very fashionable*heen piaw lianq .de chean lan seh erl chiee heen yeou shyr shanq gaan
+It's a very beautiful dark blue and very fashionable*heen piaw lianq .de shen lan seh erl chiee heen yeou shyr shanq gaan
+Everyone is very envious*dah jia dou heen shiann muh woo .ne

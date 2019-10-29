@@ -1,0 +1,19 @@
+Year, month, day*nian yueh ryh
+morning*tzao shanq
+daytime*bair tian
+night*woan shanq
+morning*shanq wuu
+afternoon*shiah wuu
+early in the morning*ling chern
+evening*bang woan
+every day*meei tian
+the day before yesterday*chyan tian
+yesterday*tzwo tian
+today*jin tian
+tomorrow*ming tian
+the day after tomorrow*how tian
+every week*meei jou
+weekend*jou moh
+last year*chiuh nian
+this year*jin nian
+next year*ming nian

@@ -1,0 +1,17 @@
+calendar*yueh lih
+week*shing chyi
+Sunday*shing chyi ryh
+Monday*shing chyi i
+Saturday*shing chyi liow
+What day of the week is it?*jin tian (shyh) shing chyi jii?
+It's Saturday*jin tian (shyh) shing chyi liow
+month*yueh fenn
+January*yi yueh
+December*shyr ell yueh
+date*ryh chyi
+1st*yi ryh
+20th*ell shyr ryh
+31st*san shyr i ryh
+What's the date today?*jin tian (shyh) jii yueh jii haw?
+It's January 1st*jin tian (shyh) yi yueh yi ryh
+Today is the 5th*jin tian wuu haw

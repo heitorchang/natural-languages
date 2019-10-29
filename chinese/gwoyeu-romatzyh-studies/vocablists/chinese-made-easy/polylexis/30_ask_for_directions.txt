@@ -1,0 +1,27 @@
+ask for directions*wenn luh
+left*tzuoo bian
+right*yow bian
+turn left*tzuoo joan
+turn right*yow joan
+go straight*jyr tzoou
+ahead*chyan miann
+behind*how miann
+inside*lii miann
+across from*duey miann
+bus stop*gong che jann
+MRT station*jye yunn jann
+airport*ji chaang
+intersection*shyr tzyh luh koou
+major road*dah maa luh
+sidewalk*ren shyng daw
+pedestrian crossing*ban maa shiann
+road sign*luh biau
+Is there a supermarket nearby?*jeh fuh jinn yeou chau jyi shyh chaang .ma?
+Yes, go past the traffic light, turn left, and there it is.*yeou, guoh horng liuh deng how woang tzuoo joan tzoou jiow daw .le
+Is it far from here?*li jell heen yeuan .ma?
+No, it takes only 5 minutes on foot.*buh yeuan, tzoou luh wuu fen jong jiow daw .le
+Which bus should I take to the National Palace Museum?*chiuh guh gong bor wuh yuann yaw da jii luh gong che?
+Please take Bus 304*chiing da san ling syh luh gong che
+Driver, please let me know when we get there*sy ji shian sheng, daw .le chiing gaw suh woo.
+All right*hao .de
+This is the National Palace Museum, you should get off here.*guh gong bor wuh yuann daw .le, nii gai shiah che .le
