@@ -1322,6 +1322,8 @@ def convert_syllable_core(py):
         "zuo4": 'tzuoh'
     }    
 
+    if py not in table:
+        print("Warning:", py, "not in table")
     return table.get(py, py)
 
 def convert_syllable(py):
@@ -1334,6 +1336,21 @@ def convert_syllable(py):
     else:
         return convert_syllable_core(py)
 
+
+def convert_word(w):
+    # convert a word such as Hua2ren2 into hwa ren
+    syllables = []
+    ct = 0
+    while w:
+        if ct > 90:
+            return "Exceeded while loop"
+        
+        numindex = re.search("[1-5]", w).span()[1]
+        syllables.append(w[:numindex])
+        w = w[numindex:]
+    return list(map(convert_syllable, syllables))
+
+    
 ENTRY_PATTERN = re.compile(r'\"([\w:]+?)"')
 
 def convert_quail_entry(q):
