@@ -645,6 +645,10 @@ def convert_syllable_core(py):
         "mao2": 'mau',
         "mao3": 'mao',
         "mao4": 'maw',
+        "me1": 'mhe',
+        "me2": 'me',
+        "me3": 'mee',
+        "me4": 'meh',
         "mei1": 'mhei',
         "mei2": 'mei',
         "mei3": 'meei',
@@ -1348,7 +1352,7 @@ def convert_word(w):
         numindex = re.search("[1-5]", w).span()[1]
         syllables.append(w[:numindex])
         w = w[numindex:]
-    return list(map(convert_syllable, syllables))
+    return " ".join(map(convert_syllable, syllables))
 
     
 ENTRY_PATTERN = re.compile(r'\"([\w:]+?)"')
