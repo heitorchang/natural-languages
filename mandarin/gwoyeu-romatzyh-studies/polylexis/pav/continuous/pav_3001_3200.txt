@@ -1,0 +1,204 @@
+c:/Users/Heitor/Desktop/code/natural-languages/mandarin/gwoyeu-romatzyh-studies/polylexis/pav/continuous/pav_3001_3200
+===
+Write in GR.
+===
+N, SV: pain, suffering, agony; to be painful*tonq kuu
+VO: to engage in romantic relationship, to engage in courtship*tarn liann ay
+N, romantic love, romantic relationship; V: to love, to be in love*liann ay
+VO: to hold an umbrella*daa saan
+N: umbrella (M: 把)*saan
+N: rain umbrella*yeu saan
+N: parasol*yang saan
+N: towel (M: 條)*mau jin
+N: sweater (M: 件)*mau i
+V: to rub, to wipe, to clean, to apply a liquid or an ointment*tsa
+N: lipstick*koou horng
+N: composition, essay as for a class (M: 篇)*tzuoh wen
+N: mood, frame of mind*shin chyng
+V: to advise, to urge*chiuann
+RC: to look at things more optimistically; not to take things to hard, not to take a matter too seriously*sheang kai
+N, V: consolation, comfort; to comfort, console*an wey
+V: to lose one's love*shy liann
+SV: to be dissapointed, to lose hope*shy wanq
+V: to commit suicide, to attempt suicide*tzyh sha
+V: to kill*sha
+VO: to marry, to get married*jye huen
+V: to marry off to a man*jiah
+V: to marry a woman, to take as wife*cheu
+VO: to become engaged or betrothed*dinq huen
+N, VO: marriage proposal; to propose marriage*chyou huen
+VO: to be pregnant*hwai yunn
+N, VO: contraception, birth control; to prevent conception, to practice birth control*bih yunn
+VO: to have an abortion*duoh tai
+N: fetus*tai erl
+N: stomach, belly, abdomen*duh .tzy
+N: life, being*sheng minq
+V: to raise, to keep, to grow, to provide for, to adopt or foster, to cultivate or acquire*yeang
+V: to take in and bring up, to adopt, to foster (s…)*shou yeang
+V: to adopt, to foster a child (l…)*liing yeang
+SV: to be conservative*bao shoou
+P: it's better to (rather than) (～ … ，不如 … )*yeu chyi
+N: sex education*shinq jiaw yuh
+N: homosexuality, homosexual*torng shinq liann
+A, SV: to do something without thinking, to do something in a muddled manner; to be confused, to be mixed up, to be muddled*hwu lii hwu twu
+AT: to be unmarried, to be single*wey huen
+N: unmarried mother*wey huen mha mha
+V: to infect, to pass on*chwan raan
+N: infectious or contagious disease*chwan raan binq
+N: gauze mask*koou jaw
+V: to dye, to pollute, to acquire a bad habit*raan
+N: condom, prophylactic*bao shean taw
+N, SV, VO: insurance; to insure; to be safe*bao shean
+N: encyclopedia*bae ke chyuan shu
+N: the cap of a pen or writing brush*bii taw
+N: gloves, mittens (M: 雙)*shoou taw
+N, V: propaganda; to disseminate, to publicize, to spread propaganda*shiuan chwan
+A: even if, even though*jyi shyy
+N: Eugenics (sic!) and Healthcare Act, a law legalizing abortion in Taiwan in 1985 (～法)*iou sheng bao jiann
+N: AIDS*ay tzy binq
+N: courtyard, compound, yard*yuann .tzy
+V: to continue, to go on (j…x…)*jih shiuh
+N: position, status*dih wey
+N: position, post; office; appointment*jyr wey
+N, VO: chatting; to chat (also ～兒)*liau tian
+N: jasmine tea, tea scented with flowers*shiang piann
+N: oolong (tea)*u long
+N: teacher's wife*shy muu
+VO: to make tea*paw char
+V: to soak, to seep ; to dawdle*paw
+N: peanut, groundnut*hua sheng
+N: melon seeds*gua tzyy
+N: carpet, rug (M: 塊)*dih taan
+V: to pave, to lay*pu
+N: blanket, rug (M: 床)*taan .tzy
+SV, V: to be very hot, to be scalding, to be boiling-hot; to heat up in hot water, to get a permanent hair, to iron, to press*tanq
+VO: to cut grass, to mow the lawn*ge tsao
+V: to cut horizontally, to cede*ge
+V: to sweep, to clean*daa sao
+V: to sweep, to clear away*sao
+VO: to sweep the floor*sao dih
+VO: to scan, find and deal with (as with computer viruses or drug dealers)*sao dwu
+N: front courtyard, front yard*chyan yuann
+N: backyard*how yuann
+N: male chauvinist, male chauvinism (～主義)*dah nan ren
+A: indeed, really*dyi chiueh
+N: woman professional, career woman*jyr yeh fuh neu
+N: woman, married woman*fuh neu
+N: housewife*jia tyng juu fuh
+A: to strongly desire to do something which is not possible or proper, to itch to*henn buh der
+N, V: hatred; to hate, to resent*henn
+N, V: burden, load; to bear a burden, to shoulder*fuh dan
+SV: to be able, to be competent, to be capable*neng gann
+V: to work, to do*gann
+N: career, undertaking*shyh yeh
+A: genuinely, really, truly*jen jenq
+N: successful career woman*neu chyang ren
+N: powerful person, strongman*chyang ren
+SV: to be strong, powerful*chyang
+A: instead, on the contrary*faan erl
+SV: to be shamed, to have no status or prestige, to have no face (figuratively)*mei miann .tzy
+N: face, honor*miann .tzy
+VO: to divorce*li huen
+N: divorce rate*li huen liuh
+N: rate, proportion, ratio*bii liuh
+N: strike rate, success rate*cherng gong liuh
+N: birth rate*chu sheng liuh
+N: television ratings*shou shyh liuh
+RC: to be difficult to harmonize, to be hard or impossible to get along with*her buh lai
+TW: all day long, the whole day*jeeng tian
+SV: to be whole, to be full, to be complete*jeeng
+N, VO: quarrel, argument; to quarrel, to argue*chao jiah
+VO: to engage in a brawl, to fight (for individuals)*daa jiah
+SV: to be simple, to be uncomplicated*jean dan
+N: single-parent family*dan chin jia tyng
+SV: to be shameful*diou ren
+VO: to lose face*diou lean
+N: an extramarital affair (w…)*way yuh
+N: an extramarital affair (h…)*huen way chyng
+N: wealthy and unmarried person (colloquially)*dan shen guey tzwu
+AT: to be single, to be unmarried*dan shen
+N: aristocrat, royalty*guey tzwu
+N: person earning a salary*shanq ban tzwu
+N: night owl*yeh mhau tzwu
+N: hard-core fans*juei shing tzwu
+N, SV, V: worries, cares; to be worried, to be vexed; to worry*farn nao
+IE: to favour males over females*jonq nan ching neu
+N: concept, idea, point of view*guan niann
+A: going so far as to, even to the point that*shenn jyh yu
+N: salary, wage, pay*shin shoei
+VO: to have a salary increase*jia shin
+VO: to go up, to advance a grade or level, to get a promotion*sheng jyi
+N, V: discrimination; to discriminate against*chyi shyh
+N: racial discrimination*joong tzwu chyi shyh
+N: sexism, sexual discrimination*shinq bye chyi shyh
+V: to treat, to approach, to handle*duey day
+SV, A: to be equal, equally*pyng deeng
+V: to raise, to increase, to improve*tyi gau
+A: earlier than scheduled, earlier than customary*tyi tzao
+V: to depend upon, to rely on, to lean against, to lean on, to be near to*kaw
+N: aisle*tzoou daw
+SV: to be reliable, to be dependable*kee kaw
+N, A, SV, V: diligent, hard work, great effort; industriously, energetically; to be industrious; to work hard, to make a great effort, to exert oneself, to strive diligently*nuu lih
+V: to cover, to cover with, to build*gay
+N: pen ; M: measure word for amounts of money*bii
+N: uncle, father's younger brother*shwu .shu
+N, V: praise (by someone of a higher position to someone of a lower position); to praise, command*kua jeang
+N: client*keh huh
+N: size*dah sheau
+N: trade*maw yih
+N: factory, plant, workshop (M: 家)*gong chaang
+N: sample, specimen*yanq piin
+IE: 'What do you want?', 'Why on earth?'*gann ma
+N: someone of a younger generation, one's junior*woan bey
+N: someone of an older generation, elder member of a family, one's senior*jaang bey
+N: senior person, predecessor, one's elders and betters, older generation; one who mastered or worked in the field earlier (respectfully)*chyan bey
+M: lifetime, generation*bey .tzy
+N: baking oven*kao shiang
+N: elder brother's wife, a polite title for a friend's wife similar in age to the speaker*dah sao
+N: tennis racket*woang chyou pai
+A: only if, unless*chwu fei
+N, V: export sales; to export, to sell abroad or in another part of the country*way shiau
+N, V: domestic sales; to sell in the domestic market*ney shiau
+N: volume or quantity of export sales*way shiau lianq
+N: quality (of a commodity)*piin jyr
+N: famous brand, market name*ming pair
+N: brand, trademark, sign*pair .tzy
+N: mark, brand*piin pair
+V: to play mahjong, to play cards*daa pair
+N: notebook computer (～電腦) (b…)*bii jih shyng
+N: notebook computer (s…)*shoou tyi diann nao
+N: capacity (as for computer memory), storage*rong lianq
+N: electronic products*diann tzyy chaan piin
+N, AT: electron; electronic*diann tzyy
+N: gibberish, unreadable stuff*luann maa
+N: physics*wuh lii
+N: function, capability*gong neng
+V: to regulate, to adjust, to moderate*tyau jye
+V: to manufacture, to make*jyh tzaw
+VO: to make sentences*tzaw jiuh
+N, V: production, delivery; to produce, to manufacture; to give birth to a child*sheng chaan
+N: output, yield*chaan lianq
+N: Alaska*a lha sy jia
+N: toy*wan jiuh
+N: furniture*jia jiuh
+N: tool, instrument*gong jiuh
+N: stationery, office supply*wen jiuh
+PT: occupies the first position, constitutes or holds the first place*jann dih yi wey
+N: Indonesia*yinn ni
+N: business world, business circles*chih yeh jieh
+N: business enterprise*chih yeh
+N: reason, cause*yuan in
+AT: main, major, chief, principal*juu yaw
+N: investor, capitalist*tzy been jia
+N: capital*tzy been
+N: the cost, prime cost; capitalised cost; production cost*cherng been
+N: capitalism*tzy been juu yih
+N: poverty gap, the gap between the rich and the poor*pyn fuh cha jiuh
+N, V: investment; to invest money*tour tzy
+N, VO: loan; to take out a bank loan*day koan
+N: miracle, wonder*chyi ji
+N, A: result, outcome, consequence; as a result, in the end*jye guoo
+IE: for example (…f…)*bii fang shuo
+IE: for example (…r…)*bii ru shuo
+SV: to be suitable, to be proper, to be appropriate*shyh danq
+N: policy*jenq tseh

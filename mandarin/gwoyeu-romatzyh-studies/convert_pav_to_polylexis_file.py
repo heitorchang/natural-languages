@@ -17,6 +17,7 @@ if __name__ == "__main__":
             if len(line) < 5 or line.startswith("//"):
                 continue
             zh, py, en = line.split("\t")
+            py = py.strip()
             en = PAV_PATTERN.sub("", en)
             en = en.strip()
             en = en.replace('"', "'")

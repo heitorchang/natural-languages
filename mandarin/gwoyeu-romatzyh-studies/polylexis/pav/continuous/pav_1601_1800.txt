@@ -1,0 +1,204 @@
+c:/Users/Heitor/Desktop/code/natural-languages/mandarin/gwoyeu-romatzyh-studies/polylexis/pav/continuous/pav_1601_1800
+===
+Write in GR.
+===
+N: a stall, a booth*tan wey
+N: stand, street hall*tan .tzy
+V, SV: to dislike, loathe, hate; disgusting, repugnant, disagreeable, annoying*tao yann
+N: special or distinctive characteristic*teh seh
+N: brain (t…)*tour nao
+N: leg (M: 條)*toei
+N: appearance*way beau
+SV: to be temperate, mild, moderate*uen her
+SV: to be gentle and soft*uen rou
+N: washing machine (for clothes)*shii i ji
+SV: to be fine, delicate*shih
+V, SV: to admire, to envy; to be envious*shiann muh
+N: vanilla*shiang tsao
+N: campus, schoolyard*shiaw yuan
+SV: to be delicate, refined, graceful*shiow chih
+SV: good-looking, handsome, dashing*ing jiunn
+N: movie star (short form)*yiing shing
+N: an outdoor fair*yuan you huey
+A: happen to, chance to, as it happens …*jenq hao
+V: to pursue, chase after*juei
+N: mouth (M: 張)*tzoei ba
+BF: site, spot, field*chaang
+IE, SV: sorry; to be sorry, to regret*baw chiann
+V: to hug, to embrace, to hold or carry in one's arms*baw
+VO: to apologize*daw chiann
+N: election*sheuan jeu
+V: to re-elect*gae sheuan
+V: to help elect, to assist in a campaign effort*juh sheuan
+N: general election*dah sheuan
+N: senator*tsan yih yuan
+TW: beginning of the month*yueh chu
+TW: the beginning of the year*nian chu
+TW: the end of the month*yueh dii
+TW: the end of the year*nian dii
+N: member of parliament*gwo huey yih yuan
+N: parliament, congress*gwo huey
+N: member of a legislative assembly*yih yuan
+N: member of a municipal assembly*shyh yih yuan
+N: council, assembly, parliament*yih huey
+N: political convention*jenq jiann
+N: convention or exhibition of new ideas or products*fa beau huey
+V: to make public, make known, express an idea*fa beau
+N: political party (one-character word)*daang
+N: political party (z…)*jenq daang
+VO: to solicit votes*lha piaw
+V: to pull, to tug ; to suffer from diarrhoea (as in 又吐又～, to vomit and have a diarrhoea)*lha
+N: member of the House of Representatives (in the US)*jonq yih yuan
+V: to include, consist of, comprise*bau kuoh
+CONJ: and (Taiwanese pronunciation: hàn)*her
+N: term, tenure (at an official post)*renn chyi
+M: measure word for the terms at an official post*renn
+V, A: to take turns; by turns, in turn*luen liou
+IE: fraction ㈠／㈡ (㈡～㈠)*fen jy
+N: governor (of a state, US)*jou jaang
+N, M: state (division of a country)*jou
+N: mayor (of a city)*shyh jaang
+N: principal, head of a school; headmaster*shiaw jaang
+N: class leader (at school)*ban jaang
+V: to win*yng
+N: candidate (for office)*how sheuan ren
+CV: so as to, in order to, for he purpose of*wey .le
+CV: on someone's behalf, for someone's sake*wey
+V: to enter an election, to run or campaign for an office, to enter a beauty contest*jinq sheuan
+N: operating funds of an organization (M: 筆)*jing fey
+V: to arrange matters, to plan*an pair
+V, M: to line up, arrange in order; measure word for rows and lines*pair
+V, N: to arrange; setup, arrangement (also written without the 亻 radical)*buh jyh
+N: display window, showcase, glass-fronted billboard*chwu chuang
+N: place, site*chaang dih
+VO: to distribute leaflets, to issue a handbill*fa chwan dan
+V: to distribute (leaflets), to issue (a handbill)*fa
+V: to pass, to pass on*chwan
+N: handbill, leaflet*chwan dan
+SV, A: to be warm-hearted, enthusiastic; zealously, enthusiastically*reh shin
+N: politics*jenq jyh
+N: aspect, position, side, party*fang miann
+N: president (of a republic)*tzoong toong
+N: the residence or office of a president, the presidential palace*tzoong toong fuu
+CV: by, up to (someone)*you
+V, N: to represent, to stand for; a representative, delegate*day beau
+A: directly*jyr jie
+A: indirectly*jiann jie
+N: legislator*lih faa woei yuan
+VO: to legislate*lih faa
+N: committee member*woei yuan
+N: commission*woei yuan huey
+N: Legislative Yuan (the legislature in Taiwan)*lih faa yuann
+VO: to vote, to cast a ballot*tour piaw
+N: fresh milk (M: 瓶, 盒)*shian nae
+N: cow's milk*niou nae
+N: laundry detergent (powder) (M: 包, 盒, 袋)*shii i feen
+N: powdered milk (M: 包, 罐)*nae feen
+V: to brew*chong paw
+N: driver, chauffeur*sy ji
+N: the right to vote*sheuan jeu chyuan
+N: right, power, authority*chyuan
+N: human rights*ren chyuan
+N: privilege*teh chyuan
+V, N: to support, to back; support, backing (z…)*jy chyr
+V: to promise, to agree; to answer, to reply, to respond*da yinq
+N: voter, elector*sheuan min
+N: propaganda, advertisement*wen shiuan
+IE: in your opinion*nii kann
+V: to be elected*dang sheuan
+N: Democratic Party*min juu daang
+N: Socialist Party*sheh huey daang
+N: National Assembly*gwo min  da4 huey
+N: Control Yuan (a central government body in Taiwan)*jian char yuann
+N: member of the Control Yuan (a central government body in Taiwan)*jian char woei yuan
+NU (QW), A: how much? how many? ; how many, how much, more or less, somewhat*duo shao
+N: Hamburg ; hamburger (also ～包, second character also written 飽)*hann bao
+N, V: sport, exercise; to exercise ; movement, campaign, drive (political, social, etc.)*yunn donq
+N: auditorium, lecture hall*yean jeang ting
+V, N: to deliver a speech, give a lecture; lecture speech (M: 場, 次) (y…j…)*yean jeang
+V, N: to deliver a speech, give a lecture; lecture speech (M:*jeang yean
+V: to speak, explain*jeang
+VO: to bargain, to haggle over prices*jeang jiah
+V, N: to agree, give consent; agreement, consent*torng yih
+N: democratic movement*min juu yunn donq
+N, SV: democracy, to be democratic*min juu
+V: to carry out, implement, to put into practice*shyr shyng
+N: communism*gonq chaan juu yih
+N: doctrine, '-ism'*juu yih
+N: communist party*gonq chaan daang
+N: communisty party (short name)*gonq daang
+V, N: to revolt, to overhaul; a revolution (M: 次, 場)*ger minq
+N, V: reform; to reform*gae ger
+N, V, SV: success; to succeeed; to be successful*cherng gong
+V: to overthrow, overturn, topple*tuei fan
+V: to push, to shove*tuei
+SV: rotten, decayed, corrupt*fuu bay
+V: to rot, to decay, to decompose*fuu lann
+V: to establish, to set up, to found*jiann lih
+V, N: to build, to construct; construction*jiann sheh
+N: civil war (M: 場, 次)*ney jann
+VO: to go to war, to engage in combat, to battle*daa janq
+N, SV: stability; to be stable, to be settled*an dinq
+N: the people*ren min
+N: citizen, people, nationals (gu…)*gwo min
+N: citizen (go…)*gong min
+N: residents of a city*shyh min
+N, V: leadership, guidance; to lead, guide*liing dao
+N: war, combat (M: 場, 次)*jann jeng
+V: to end, finish, conclude*jye shuh
+N: strength, power (…l…)*lih lianq
+N: energy, power (…q…)*lih chih
+SV: feeble, weak, frail*ruoh
+N: force, power, influence (s…)*shyh lih
+N, V: control, command; to control, manipulate, dominate*konq jyh
+SV: serious, grave, critical*yan jonq
+SV: to be strict, severe*yan
+SV: to be strict, severe (…g…)*yan ger
+V: to move to another place*chian
+N: history*lih shyy
+DEM: each, every, various*geh
+N: system*jyh duh
+MA, N: in the future, the future*jiang lai
+N, SV: economy, financial status; to be economical, thrifty*jing jih
+V: to abandon, give up, renounce*fanq chih
+N, V: proof, evidence; to prove, to confirm (first character also written 証)*jenq ming
+N: a certificate (of a person's qualifications, abilities, etc.) (M: 張) (first character also written 証)*jenq ming shu
+N: certificate (M: 張) (first character also written 証)*jenq shu
+N: humankind, the human race*ren ley
+N: anthropology*ren ley shyue
+V: to believe that, consider that*renn wei
+N, V: democratization, to democratize*min juu huah
+N, V: westernization, to westernize*shi huah
+N, V: systematization; to systematize*jyh duh huah
+N, V: computerization; to computerize*diann nao huah
+N, V: automation; to automate*tzyh donq huah
+N, V: warming; to make warm*noan huah
+N: slippers, thongs (M: 雙)*tuo shye
+V: to pull, drag, haul; to drag on, delay; to mop*tuo
+N: courtesy, manners, social etiquette*lii maw
+SV: to be courteous, to have good manners, to be polite*yeou lii maw
+N: comic book*mann huah shu
+N: caricature, cartoon*mann huah
+N: colony*jyr min dih
+N: India*yinn duh
+V, N: to govern, to rule; governance, dominion*toong jyh
+N: army, troops, armed forces (M: 支)*jiun duey
+N: soldier, serviceperson*jiun ren
+N: ground forces, land forces, army*luh jiun
+N: naval forces, navy*hae jiun
+N: air force*kong jiun
+N: commander-in-chief*toong shuay
+V: to declare, proclaim, announce*shiuan buh
+N: cloth (M: 塊, 尺)*buh
+N: Sun Yat-sen (1866-1925)*suen  zhong1 shan
+N: Qing dynasty (1644-1911)*ching  chao2
+N: Republic of China (since 1912, moved to Taiwan in 1949)*jong hwa  min2 gwo
+N: Three Principles of the People (a treatise by Sun Yat-sen)*san min  zhu3 yih
+N: world war, (第二次~) World War II*shyh jieh dah jann
+N: Mao Zedong (1893-1976)*mau  ze2 dong
+N: Chiang Kai-shek (1887-1975)*jeang  jie4 shyr
+N: National Government*gwo min  zheng4 fuu
+N: The People's Republic of China (since 1949) (中華～國)*ren min  gong4 her
+N: Eastern Europe*dong  ou1
+N: American Indians*yinn dih an ren
+N: The American Civil War (1861-1865)*nan beei  zhan4 jeng

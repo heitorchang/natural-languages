@@ -1,0 +1,204 @@
+c:/Users/Heitor/Desktop/code/natural-languages/mandarin/gwoyeu-romatzyh-studies/polylexis/pav/continuous/pav_3601_3800
+===
+Write in GR.
+===
+N: sandwich*san ming jyh
+N: salad*sha lha
+N: traditional Chinese dress for women, dating from the Qing dynasty, originally worn in Manchuria (M: 件)*chyi paur
+N: stomach, belly, abdomen*duh .tzy
+M: measure word for sections, parts, segments and paragraphs*duann
+N: a traditional Chinese comical dialogue*shianq sheng
+N: lecture platform*jeang tair
+N: western suit (M: 套)*shi juang
+N: ladies suit (M: 套)*taw juang
+N: a woman's dress (M: 件)*yang juang
+N: neck tie (M: 條)*liing day
+N: bow tie*liing jye
+VO: to bend the body at the waist, to stoop over*uan iau
+SV, V: to be curved, to be crooked; to bend, to flex*uan
+N: waist*iau
+VO: to bow*jyu gong
+N: polite form of address for women, lady, madam*neu shyh
+N: a personage, a public figure*ren shyh
+IE, AT: dear, beloved*chin ay .de
+V: to embrace, to hug*yeong baw
+IE: to be unrestrained or unreserved with women, to take liberties with women*donq shoou donq jeau
+VO: to tease or take advantage of a woman by words or physical contact (colloquially)*chy dow fuu
+N: bean curd, tofu (M: 塊)*dow fuu
+N: a public place*gong gonq chaang suoo
+V: to place one's arm around someone*loou
+VO: to kiss on the lips*chin tzoei
+VO: to slap somebody in the face*daa eel guang
+N: hairstyle*faa shyng
+N: shape of one's face*lean shyng
+N: blood type, blood group*shiee shyng
+SV: to be satisfied, pleased*maan yih
+V, SV: to satisfy, to meet, to fulfill; to feel content, to feel satisfied, to be fulfilled*maan tzwu
+SV: to be even, to be regular, to be in good order, to be tidy*jeeng chyi
+V: to arrange, to put in order, to sort out, to straighten up*jeeng lii
+SV V: to be particular about, to be fastidious about*jeang jiow
+SV: to be thick*how
+N, SV: modesty; to be modest, to be self-effacing*chian shiu
+A: clearly, obviously, undoubtedly*ming ming
+V: to mind, to care about, to take heart*tzay hu
+NU-M-N, A: a breath of air; in one breath, in one go*yih koou chih
+SV: to enjoy entertaining guests, to be hospitable*haw keh
+SV: to be fond of eating*haw chy
+SV: to be fond of studying, to be diligent in the pursuit of knowledge*haw shyue
+SV: to be fond of playing (also ～兒)*haw wan
+SV: to be fond of gambling*haw duu
+VO: to suffer from diarrhoea, to have loose bowels*lha duh .tzy
+SV, V: to be wasteful; to waste, to squander*lanq fey
+V: to spend, consume*fey
+SV VO: to be gasoline-consuming*fey you
+SV VO: to be electricity-consuming*fey diann
+SV VO: to be water-consuming*fey shoei
+SV VO: to be energy-consuming*fey lih
+SV: to be hard*yinq
+VO, IE: to offer a toast with all the wine in one's glass (literally, to drink the glass dry); 'Bottoms up!'*gan bei
+A: simply, at all (often used in the negative) (g…)*gen been
+IE, A: not necessarily so*bwu jiann der
+A: simply, at all (j…)*jean jyr
+SV: to be funny, to be laughable, to be ridiculous, to be ludicrous*kee shiaw
+VO: to shake one's head in disapproval*yau tour
+VO: to nod one's head as a sign of approval or as a greeting*dean tour
+VO: to be taken in, to be fooled, to fall for a practical joke or trick*shanq danq
+A: on purpose, intentionally*guh yih
+VO: to sneeze*daa pen tih
+A: at last, in the end, finally*jong yu
+V: to make fun of, to ridicule*cheu shiaw
+A: temporarily, for a short while, for a period of time*yih shyr
+IE: a person of great moral stature does not remember the offences committed by one of low moral stature (～小人過)*dah ren bwu jih
+V: to consider (～ … 的份上)*kann tzay
+N: standpoint (看在 … 的～)*fenn shanq
+A: to not have energy to, to be against putting forth effort to*laan der
+SV: to be lazy, to be indolent*laan
+VO: to loaf, to be lazy*tou laan
+VO: to yawn*daa ha chiann
+N: chocolate*cheau keh lih
+N: brandy*bair lan dih
+N: Chinese two-character surname (Ouyang)*ou yang
+N: Chinese two-character surname (Shangguan)*shanq guan
+N: Chinese two-character surname (Sima)*sy maa
+N: Chinese two-character surname (Situ)*sy twu
+N: Chinese two-character surname (Zhuge)*ju gee
+VO: to greet by joining hands together and lifting forearms slightly*goong shoou
+N: warning traffic sign*jiing gaw biau jyh
+N: prohibitory traffic sign*jinn jyy biau jyh
+N: mandatory traffic sign*tzuen shyng biau jyh
+N: informatory traffic sign*jyy shyh biau jyh
+N: reason*lii you
+N: intensive-care unit*jia huh binq farng
+V: to be critically ill*binq wei
+N: a matter of life and death*sheng syy iou guan
+N: head of the police bureau*jiing char jyu jaang
+N: minister of communications*jiau tong buh jaang
+N: horse-drawn wagon, car or chariot*maa che
+N: local dialect, topolect (of Chinese languages other than Mandarin)*fang yan
+N, V: loss; to lose*soen shy
+N: 'Romance of the West Chamber,' one of the most famous Chinese dramatic works, written by 王實甫*shi shiang jih
+V: to realize, to achieve, to bring about*shyr shiann
+V: to ask a question in reply*faan wenn
+N: tongue twister*raw koou linq
+N: Buddhist monk*her shanq
+V: to sprinkle, to splash*saa
+SV: to be thick, to be rough, to be coarse*tsu
+N: worm, insect*chorng
+V: to encircle, to surround*wei
+AT-N: pile of bricks*juan duei
+V: to rotate*juann
+N: vine, rattan, cane*terng
+N: bell of copper, brass or bronze*torng ling
+V: to stew*duenn
+N: frozen bean curd, frozen tofu*donq dow fuu
+V: to fake, to pretend*huenn chong
+N, V: (～人) sponsor, host; to direct, to sponsor, to host*juu bann
+N:, V: performance, show; to perform; (～人) performer*yean chu
+N: name of a folk song, 'Dance of the Youth' (Qingchun Wuqu)*ching chuen  wu3 cheu
+N, V: vocal solo; to sing a solo*dwu chanq
+N: piano*gang chyn
+N, V: instrumental solo; to play an instrumental solo*dwu tzow
+N: Moonlight Sonata by Beethoven*yueh guang cheu
+N: short play, skit*doan jiuh
+V: to sing in a chorus*her chanq
+N: 'Picking Up a Jade Bracelet', name of a Peking opera (Shi Yuzhuo)*shyr yuh jwo
+V: to watch and enjoy, to see and enjoy, to enjoy the sight of …*guan shaang
+N: lane*shianq
+N: end, extremity*jinn tour
+SV: to be bright ('silver white'), to be brilliant, to be luminous, to be glistening*haw haw
+V: to dissolve, to melt*rong jiee
+N: plum blossom*mei hua
+VO: to blossom*tuu roei
+SV: to be unrestrained, to be uninhibited, to be care-free*mann mann
+N: mistakes, errors, faults (dictionary definition); the places that passed by (book definition)*guoh chuh
+N: cockcrow*ji tyi
+V: have intensively experienced*lih jinn
+N, V: endurance, discipline; to temper or to steel oneself*mo liann
+N: early morning*ching chern
+N: night market in Wanhua district of Taipei, nicknamed the Snake Alley (～觀光夜市)*hwa shi jie
+N: street corner*yih jeau
+V: to state*chern shuh
+SV: to be unexpected, to be unforeseen*yih way
+N: quantity, amount*shuh lianq
+V: to be equal to …, to be tantamount to …*deeng yu
+V: to blame, to reprove*tzer bey
+N: meaning, significance, implication*yih wey
+A: briefly, slightly*lüe4
+VO: to suffer losses in business, to compensate, to pay damages*peir chyan
+N: capital*been chyan
+N: mermaid*meei ren yu
+N: delicious food, table delicacies*meei shyr
+IE: (～一分貨) you get what you pay for*yih fen chyan
+SV: to be in imminent danger, to be critical*wei jyi
+N: conjunction, connective, copula (in linguistics)*lian tsyr
+SV: to be chiefly used in*duo yonq yu
+AT: written, in written form, in writing*shu miann
+N: occasion, situation*chaang her
+SV: to be used for*yonq lai
+V: to join, to link*lian jie
+SV: to be tactful*woei woan
+A: immediately, at once*lih keh
+N: minister of education*jiaw yuh buh jaang
+N: discussion, symposium*tao luenn huey
+N: textbook, manual*jiaw ke shu
+N: science and engineering department or field*lii gong ke
+N: liberal arts and social sciences department or field (or 文藝科, perhaps a mistake in the book?)*wen faa ke
+N: administration*shyng jenq
+N: department of medicine*i ke
+N: person of ability or talent*ren tsair
+V: to train, to drill*shiunn liann
+N: income*shou ruh
+N: government agency, organ or body*jenq fuu ji guan
+V: to oppose, to be against, to dispute, to combat*faan duey
+A: at least*jyh shao
+N: deep in the night, very late at night*shen yeh
+V: to tune into, to watch television programs*shou kann
+N: privately-owned television station in Taiwan (Taiwan Television or TTV)*tair shyh
+N: television station in Taiwan, established and owned by the 國民黨 (China Television or CTV) [PAVC-403*jong shyh
+N: government-owned television station in Taiwan, established as a joint-venture between 國防部 and 教育部 (Chinese Television System or CTS)*hwa shyh
+VO: to present, to reward, to honor; (～典禮) award ceremony*ban jeang
+N: bulletin board*kann baan
+V: to be not as old as … yet, to be not as long as …*wey maan
+V: to accompany, to keep company*peir bann
+AT: set, fixed, established*jih dinq
+RC: to overstep, to go beyond, to exceed*chau chu
+AT, V: progressive (in linguistics); to be in progress, to go on, to carry on, to conduct*jinn shyng
+RC: to bring, to bring about*day lai
+N: noun phrase*ming tsyr doan yeu
+V: to expect, to anticipate*yuh chyi
+A, AT: solely, singly, individually; alone*dan dwu
+V: to appoint, to assign*jyy dinq
+N, VO: playwright, screenwriter; to write a play or scenario*bian jiuh
+N: special effects*teh shu shiaw guoo
+N: setting of a film or a stageshow, set, backdrop*buh jiing
+N: theatrical properties, stage properties*daw jiuh
+SV: to be fine, to be exquisite, to be delicate*jing jyh
+N: general appearance of a picture, tableau, frame, television screen*huah miann
+N: camera lens, shot, scene*jinq tour
+N: violence, force*baw lih
+N: sex*shinq
+N: ghost film*goei piann
+N: martial arts film*wuu daa piann
+V: to pass down from teacher to pupil, a title of performance by 雲門舞集*shin chwan
+N: types of theatrical make-up*lean puu
+N: press conference*jih jee huey

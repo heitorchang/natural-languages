@@ -1,0 +1,204 @@
+c:/Users/Heitor/Desktop/code/natural-languages/mandarin/gwoyeu-romatzyh-studies/polylexis/pav/continuous/pav_5401_5600
+===
+Write in GR.
+===
+V: to pile up, to repeat, to fold*dye
+N: consonants and vowels, cadence of writing*sheng yunn
+A, SV: clearly, plainly, evidently; to be clearly demarcated, to be distinct*fen ming
+N: pronuciation of a character or word, literary reading*tzyh in
+SV: to be complete, to be integrated, to be intact*wan jeeng
+N: literal meaning, definition, connotation, meaning of a character or word*tzyh yih
+V: to create, to produce, to bring about*chuanq tzaw
+N: definition*dinq yih
+N: crystal, crystallization*jye jing
+AT, N: central; center, middle*jong iang
+N: daily newspaper*ryh baw
+N, V: information; to report*baw dao
+IE: that is to say, in other words, namely*jiow shyh shuo
+SV: to be astonishing, to be amazing, to be alarming*jing ren
+V: to grow up, to mature, to increase*cherng jaang
+N: growth rate, rate of increase*cherng jaang liuh
+SV: to be too high, to be excessively tall*guoh gau
+V: to stand above, to set oneself above, to lord it over; (㈠ ～ ㈡ 之冠) ㈠ is the highest or greatest in ㈡*gau jiu
+N: quality of life*sheng hwo piin jyr
+CONJ: consequently*in erl
+V: to evoke, to initiate, to trigger, to touch off*yiin fa
+V: to suffer, to sustain*tzau show
+A: how can one do this?*tzeen neng
+AT: all sorts of … , all kinds of …, variety of …*joong joong
+A, CONJ: perhaps, maybe; or, either … or …*huoh jee
+A: in recent years*jinn nian lai
+AT, RC: countless; to be unable to finish counting*shuu buh ching
+N: Jesus, Christ*ji du
+N: male infant*nan ing
+N: female infant*neu ing
+A: upslope, uphill*woang shanq
+N: sons and daughters, children*erl neu
+N: Tokyo, eastern capital*dong jing
+RC: can compare with … , to compare favorably with …*bii .de shanq
+N: standard of living*sheng hwo shoei joen
+N: Northeast Asia*dong beei yea
+V: to enlarge, to expand, to extend*kuoh dah
+SV: to be thin and small*show sheau
+N: bumper harvest*feng shou
+SV: to be bleak and desolate*huang liang
+RC: to support, to feed*yeang hwo
+VO: to receive orders, to act under orders*fenq minq
+SV, VO: to be dazzling*yaw yean
+AT: to be flickering*shaan shaan
+SV: to be dim, to be faint, to be dismal, to be gloomy (also written 黯澹)*ann dann
+N, VO: shopping; to go shopping*gow wuh
+N: all the way, throughout the journey*yi luh shanq
+VO: to get or stand up, to get out of bed*chii shen
+VO: give one's seat to another, invite somebody to take a seat*ranq tzuoh
+N: silvery hair*yn faa
+V: to move toward in greeting, to meet head-on*yng shanq
+V: to come (courteous)*chyan lai
+VO: to settle or square accounts*jye janq
+N: plot, story, synopsis*chyng jye
+N: phenomenon of decreasing birth rate in developed countries*shao tzyy huah
+N: pyramid*jin tzyh taa
+N: triangle, trigonometry*san jeau
+N: advanced age, venerable age*gau ling
+V: to promote, to accelerate, to spur*tsuh jinn
+V: to provide a comfortable and secure life, especially for the family elders*an yeang
+V: to look after (e.g. patients)*jaw huh
+N: estate, property; industry*chaan yeh
+N: labor force, labor*lau donq lih
+N: finance, financial administration*tsair jenq
+SV: to be unfavorable, to be detrimental, to be unsuccesful, to be blunt*bwu lih
+N, V: investigation, survey; to investigate, to survey*diaw char
+SV: to be great, to be weighty, to be major, to be significant*jonq dah
+SV: to be heavy, to be serious, to be calm, to be dignified*chern jonq
+N: human resources, manpower*ren lih tzy yuan
+VO: to provide for the aged*yeang lao
+N: fund, capital*tzy jin
+N: Third World*dih san shyh jieh
+N: agricultural society*nong yeh sheh huey
+N, SV: civilization, culture; to be civilized*wen ming
+V: to appear, to reveal*shean shiann
+N: poor people, indigents*pyn min
+V: to aid, to succor*jiow juh
+CONJ: that is, namely*yih jyi
+V: to be lower than …*di yu
+N, V: material benefits, well-being, welfare; to better one's living conditions*fwu lih
+PV: to benefit other people as well as oneself*lih ren lih jii
+SV: to be noble, to be high, to be higly privileged, to be elitist*gau guey
+RE: nothing left*wu yi
+N: route, itinerary, line*luh shiann
+N: value system*jiah jyr guan
+N: pauper*pyn huh
+V: to enhance, to promote, to further*tzeng jinn
+AT: one's own respective*chyi tzyh
+N: sense of responsibility or duty*tzer renn gaan
+A: how, how about … ?*ru her
+N: refugee*nann min
+SV: to be famous, to be celebrated*juh ming
+N: licence plate, licence tag*pair jaw
+AT: very good, excellent*dah hao
+VO: to try one's best*jinn lih
+N: territory*liing tuu
+N: insecticide, pesticide*mieh chorng jih
+N: mosquito*wen chorng
+N; V: route or distance of travel, itinerary; to start out on a journey*shyng cherng
+SV: to be easily broken, to be fragile, to be breakable*yih suey
+N: article, goods*wuh piin
+V: to shake, to vacillate, to waver*donq yau
+VO: to learn to read, to be or become literate*shyr tzyh
+N: one's own country*been gwo
+N: natives of one's own country*been gwo ren
+N: plank, board*muh baan
+N: wind and rain, the elements, trials and hardships*feng yeu
+VO: to quench one's thirst*jiee kee
+PV: to run away from home*li jia chu tzoou
+V: to expel, to discharge*kai chwu
+N, V: preserve, conserve; to preserve, to conserve, to keep*bao tswen
+PV: good people and good deeds*hao ren hao shyh
+N: good intention, kind heart*hao shin
+N: countryside around a city, outskirts*jiau way
+V: to amuse oneself, to play, to go sight-seeing, to stroll about*you wan
+N: banker*yn harng jia
+N: transliteration of Alfred Nobel's surname, Nobel prize*nuoh bey eel
+N: recipient, winner*der juu
+N: transliteration of Muhammad Yunus's surname (2006 Nobel Peace Prize winner)*you nuh sy
+V: to beg, to go begging*chii tao
+PV: 'Actually, this is not the case.'*chyi shyr buh ran
+PV: people help those who help themselves*tzyh juh ren juh
+V: to feed, to raise (also written with the 口 radical)*wey
+N: fishing rod*diaw gan
+N: Bengal*menq jia lha
+RC: to successfully complete one's study*shyue cherng
+VO: to return from abroad*faan gwo
+VO: to go to the countryside*shiah shiang
+VO: to provide disaster relief*jiow tzai
+N: loom*jy buh ji
+AT: of new type or pattern*shin shyng
+V: to lend money*day fanq
+N: collateral*dan bao piin
+VO: to start an undertaking, to do pioneering work*chuanq yeh
+PV: not worth mentioning*uei buh tzwu daw
+N: effectiveness, usefulness*shiaw yonq
+A, AT: generally, usually, normally; general, usual, normal*tong charng
+N: fund, sum of money*koan
+V: to reach up to …*gau dar
+N: that year, those years, then*dang nian
+V: to be unparalleled, to be matchless*wu bii
+AT, V: to cite for all to know, to publicly praise, to commend*beau yang
+QW: why? for what reason?*wey her
+N: procedure, red tape, formalities*shoou shiuh
+N, V: imitation; to imitate, to copy*mo faang
+N: copyright*baan chyuan
+N: edition, version*baan been
+N: admission ticket*ruh chaang chiuann
+VO: to check if one holds the winning lottery ticket*duey jeang
+RC: to damage by bumping*juanq huay
+CONJ: not only*buh guang shyh
+N: imitation, fake*maw pair huoh
+N, V: ridicule; to ridicule, to jeer*ji shiaw
+V: to guarantee*dan bao
+N: mantis*tarng lang
+N: siskin, titmouse*hwang chiueh
+N: Spring and Autumn Period (777-476 BCE)*chuen -qiu1  shi2 day
+N: state in different periods of Chinese history, surname (Wu)*wu
+V: to attack, to assault*gong daa
+N: powerful state (740-223 BCE)*chuu gwo
+N: catapult, slingshot*dann gong
+N: courtyard, patio*tyng yuann
+N: dew, ephemeral things*luh shoei
+N: branch, twig*shuh jy
+V: to peck*jwo
+V: to declare, to proclaim*shiuan gaw
+PN: third-person pronoun used especially for gods*ta
+N: Lord of Heaven, Celestial Ruler*tian dih
+N: inside and outside, domestic and foreign*ney way
+N: special purchases for the Chinese New Year*nian huoh
+V: to meet, to come across*yuh jiann
+N: main entrance, main door, main gate*dah men
+PV: to pass the door without going inside*guoh men bwu ruh
+N: red paper*horng jyy
+RC: to scare somebody away*shiah tzoou
+PV: in any case, at any rate, no matter what*wu luenn ru her
+VO: to turn clear, to turn sunny*joan chyng
+PV: to live forever and never die, immortality*charng sheng buh lao
+N: immortal, supernatural or celestial being*shern shian
+V: to pay a return visit*hwei bay
+SV: to be flat, to be prosaic, to be ordinary, to be insipid*pyng dann
+N: plenary meeting or session, mass rally, conference*dah huey
+A: hurriedly, losing no time*gaan jiin
+N: happy event, joyous occasion*shii shyh
+SV: to be beaming with joy, to be radiant*shii yang yang
+N: steamed sponge cake*fa gau
+N: solar calendar*yang lih
+N: to set or prescribe as (a date or time for) …*dinq wei
+N: teacher, instructor*jiaw shy
+N: Teacher's Day (September 10)*jiaw shy jye
+V: to go on tour*chu you
+N: lantern show, lantern festival*deng huey
+SV: to be bare, to be naked*chyh
+PV: intermittently, on and off*duann duann shiuh shiuh
+N: first month of the lunar year*yuan yueh
+N: same month, that very month*danq yueh
+N: monthly calendar*yueh lih
+N: day before the Chinese New Year*nian san shyr
+VO: to guard door or gate, to keep goal*shoou men
+VO: to keep watch at night*shoou yeh

@@ -1,0 +1,204 @@
+c:/Users/Heitor/Desktop/code/natural-languages/mandarin/gwoyeu-romatzyh-studies/polylexis/pav/continuous/pav_1401_1600
+===
+Write in GR.
+===
+N: younger male cousin (on mother's side or paternal aunt's side)*beau dih
+N: older male cousin (on mother's side or paternal aunt's side)*beau ge
+N: older female cousin (on mother's side or paternal aunt's side)*beau jiee
+N: younger female cousin (on mother's side or paternal aunt's side)*beau mey
+N: PhD degree, doctorate*bor shyh
+PT: no matter (what, how, whether), regardless of (…l…)*bwu luenn
+PT: no matter (what, how, whether), regardless of (…g…)*buh goan
+IE: to find something embarassing, to be ill at ease; to feel shy or bashful, ashamed*buh hao yih .sy
+SV, N: different from, distinct from; difference (…t…)*buh torng
+N, SV: difference; to be different from, to be distinct from (…y…)*buh yi yanq
+SV: to be tragic, pitiful, miserable*tsaan
+N, V: test; to test (c…)*tseh yann
+N: junior high school (7th, 8th and 9th grades)*chu jong
+N: college entrance examination in Taiwan (abbreviated name)*dah shyue jyy kao
+M: generation*day
+VO: to join the army, to serve the military*dang bing
+V: to hold something level with both hands, to carry*duan
+AT: established and maintained by the government*gong lih
+SV: to be fair, just, impartial, equitable*gong pyng
+SV: to be alone, to be lonely*gu dan
+V: to be in charge of, to run, to be responsible for; to mind, attend to, bother about; to be concerned about*goan
+RC: cannot manage, handle, supervise*goan buh leau
+RC: no authority to manage, handle, or interfere*goan buh jaur
+AT: nationally-run*gwo lih
+N: inside the country, domestic*gwo ney
+N: outside the country, overseas, abroad*gwo way
+N, V: activity; to move about, to exercise*hwo donq
+N: activity center*hwo donq jong shin
+SV: (of an action or argument) to be intense, sharp, fierce, acute, violent*ji lieh
+N: skill, technique, technology*jih shuh
+N: Institute of Technology*jih shuh shyue yuann
+N: education*jiaw yuh
+N: ministry of education*jiaw yuh buh
+N: educational circles, educational world*jiaw yuh jieh
+V, N: to compete; competition*jinq jeng
+N: uncle (mother's brother)*jiow .jiou
+N: aunt (mother's brother's wife)*jiow mha
+V: to hold up, raise, lift*jeu
+V: to hold (an activity)*jeu bann
+VO: to raise one's hand (to vote or to speak up)*jeu shoou
+V: to hold (a meeting, ceremony), to convene, take place*jeu shyng
+RC: to pass an entrance examination (for school, a job, a licence, etc.) (…q…)*kao cheu
+RC: to pass an entrance examination (for school, a job, a licence, etc.) (…s…)*kao shanq
+M: branch of academic or vocational study, a division or subdivision of an administrative unit or section*ke
+N: department (in a college or university)*ke shih
+SV: to be exaggerated, to be overstated*kua jang
+SV: the opposite of 熱門*leeng men
+SV, N: to be ideal; ideal*lii sheang
+V: to combine, to unite, to ally*lian her
+N: United Nations*lian her gwo
+N: standardized entrance exam for (for high school, college, etc.)*lian kao
+V: to admit, to accept (applicants after an examination or application process)*luh cheu
+V: to employ, to take somebody on the staff*luh yonq
+N: thesis, dissertation, treatise (M: 篇)*luenn wen
+V, N: to interview; personal interview (…s…)*miann shyh
+V, N: to interview; personal interview (…t…)*miann tarn
+P: particle serving the same function as 啊, following the words that end in an 'an' or 'en'*.na
+N: grandma, grandmother (father's mother)*nae .nai2
+N: ability, capability, aptitude*neng lih
+N: era, generation, a decade of a century*nian day
+N: situation, condition, circumstances, state of affairs (…x…)*chyng shyng
+SV: to be in great demand, to be very popular (about an area of study, a subject or field)*reh men
+N: god, spirit*shern
+N: nerve*shern jing
+N: insanity, mental illness (usually used in an anger or jest as an exaggeration, rather than to describe actual insanity)*shern jing binq
+AT: municipally-run*shyh lih
+AT: privately-run*sy lih
+IE: 'Good heavens!'*tian .na
+V: to pass, pass through*tong guoh
+CV, DEM: together, with, same*torng
+AT: the same, similar*torng yanq
+DEM, NU, M: the same day*torng yih tian
+N: seat, place, position*wey .tzy
+PT: no matter (what, how, whether), regardless of (…w…l…)*wu luenn
+A: fortunately, luckily (…k…)*shinq kuei
+Scholastic Aptitude Test (in Taiwan, abbreviated name)*shyue tseh
+N: branch of learning, discipline, subject*shyue ke
+N: academic degree*shyue wey
+V: to press, to push down, to weigh down*ia
+N: pressure, stress*ia lih
+N: duty, obligation, responsibility*yih wuh
+N: compulsory education*yih wuh jiaw yuh
+N: (大學～考試) college entrance examination in Taiwan (full name)*jyy dinq ke muh
+N: center, heart, central point*jong shin
+V: to pay attention to, to take notice of*juh yih
+N: technical college, vocational school*juan ke shyue shiaw
+V: to display, spread out, place*bae
+VO: to display goods for sale on a mat out on the street*bae dih tan
+SV: to be stupid*benn
+IE: to be clumsy*benn shoou benn jeau
+N: toilet, lavatory*tseh suoo
+VO: to fire, dismiss an employee (slang)*chao you yu
+V: to deposit, to keep*tswen
+VO: to deposit money, to save up*tswen chyan
+SV: to be generous; natural and poised*dah fang
+V: to bring ; to take care of a child, to bring up the young ; PT: and, while, as well as, both … and … (indicating two nearly simultaneous actions) (連 … ～ … )*day
+VO: to fill in for someone's shift at work*day ban
+VO: to teach as a substitute*day keh
+A: in the end, at last, finally; to completion, to the end, in the final analysis (used in an interrogative sentence to indicate an attempt to get to the bottom of the matter)*daw dii
+V: to register, to enter one's name, to sign up*deng jih
+N: a mat for displaying goods for sale*dih tan
+N: shop assistant, sales person (in a shop)*diann yuan
+V: to read; to go to, attend school or college*dwu
+V: to study, to read*dwu shu
+M: measure word for meals and scoldings*duenn
+V, N: to change, alter, transform*gae biann
+V: work-study, work arranged for students by the school*gong dwu
+N: students who do work-study*gong dwu sheng
+RE: used up, exhausted ; A: merely, only, solely*guang
+N: ghost, spirit, demon, devil*goei
+N: counter*guey tair
+N: advantage, benefit*hao chuh
+N: lake*hwu
+N: disadvantage, harm*huay chuh
+V: to repay, give back*hwan
+N, VO: conversation (as in a language course)*huey huah
+N: private tutor*jia jiaw
+N: foot*jeau
+RC: to wake someone up*jiaw shiing
+V: to dismiss an employee from work (formal)*jiee guh
+N: experience*jing yann
+N: heavy drinker, drunkard*jeou goei
+N: sentence pattern, construction*jiuh shyng
+V: to look after, to take care of, to watch for*kan
+VO: to mind the house*kan jia
+N: cola (the beverage) (M: 罐, 瓶)*kee leh
+N: textbook*keh been
+N: text in a school book*keh wen
+N: chewing gum (M: 片, 包)*koou shiang tarng
+N: boss, owner of a shop or business (last character also written 板)*lao baan
+N: pocket money, money for incidental expenses, allowance*ling yonq chyan
+A, RE, SV: disorderly, groundlessly; disordered, untidy, rumpled; to be messy, to be disordered, to be confused*luann
+V: to scold (M: 頓)*mah
+N: school-age boy, male student*nan sheng
+V: to create a disturbance, to agitate, to trouble, to disturb*naw
+VO: to be haunted*naw goei
+N: alarm clock*naw jong
+N: school-age girl, female student*neu sheng
+SV: to be widespread, common, universal*puu biann
+SV: to be common, mediocre, ordinary*puu tong
+VO: to host, to invite, to treat someone (to dinner, etc.)*chiing keh
+V: to put up with, tolerate, bear, endure*reen
+V: to be hard-hearted enough to …, to have the heart to …, to bear to …*reen shin
+RC: to control oneself, to keep oneself from doing something*reen juh
+N: Sun Moon Lake*ryh yueh tarn
+VO: to go to toilet, use the restroom*shanq tseh suoo
+N: society*sheh huey
+N: sociology*sheh huey shyue
+N: ID card (s…f…)*shen fenn jenq
+IE: to be in a great flurry, to be in a frantic rush*shoou mang jeau luann
+N: common saying*swu huah
+PN: it (for animals)*ta
+L: down, under ; V: to disembark, to get off ; M: measure word for downward actions of the hand*shiah
+N: a tip, pourboire*sheau fey
+SV: stingy, mean*sheau chih
+N: cheapskate, tightwad, miser*sheau chih goei
+V: to be awake*shiing
+M, MA, N, NU: a moment, a short while [PAVC-1 L??]; a little, a while (also ～子)*yi shiah
+A: straight; constantly, continuously ; always, all along, continually*yih jyr
+SV, PT: to be experienced; to have experience in … (對 … ～)*yeou jing yann
+N: weekend (also written without the 辶 radical)*jou moh
+V: to earn, to make a profit*juann
+VO, PT: to walk (on a road or street) ; to fire someone, to dismiss someone from a job (叫～、請～)*tzoou luh
+N: ice cream*bing chyi lin
+IE: untidy, untidy in dress*buh shiou bian fwu
+M: floor, storey*tserng
+SV: to be ugly*choou
+V: to get dressed up, to put on make-up*daa bann
+VO: to hit the target*daa jonq
+A: yet, nevertheless, contrary to expectations*daw shyh
+N: movie star (full form)*diann yiing ming shing
+V: to lose (something), to throw, to cast, to dismiss, to put or lay aside*diou
+VO: to throw darts*diou fei biau
+M: measure word for buildings*donq
+N: dart (M: 支)*fei biau
+N: singer (…s…)*ge shoou
+N: singer (…x…)*ge shing
+N: individual character, personality*geh shinq
+V: to shave*gua
+N: bull's eye (the small central circle on a target)*horng shin
+N: mustache, beard, whiskers*hwu .tzy
+SV: to be lively, vivacious, vigorous*hwo po
+V, SV: to squeeze, to press, to force in; crowded, crammed, packed*jii
+A: since, now that*jih ran
+SV: to be beautiful*meei lih
+N: glamour, enchantment, attractiveness*mey lih
+V, N: to be fascinated, spell-bound or charmed by, to infatuated with; an enthusiast, fan (of sports, etc.)*mi
+VO: to lose one's way or bearings, to get lost*mi luh
+SV: to be charming, enchanting, spell-binding*mi ren
+N: star, celebrity (movie, TV, music, etc.)*ming shing
+N: brain (…z…)*nao .tzy
+N: hadbag, briefcase*pyi bau
+N: skin, epidermis*pyi fu
+N: hot dog (M: 根)*reh goou
+VO: to be jammed with traffic*sai che
+N: figure, build, physique*shen tsair
+N: tree (M: 棵)*shuh
+SV: to be handsome, elegant in appearance*shuay
+N: handsome young man*shuay ge
+N: attitude*tay duh

@@ -1,0 +1,204 @@
+c:/Users/Heitor/Desktop/code/natural-languages/mandarin/gwoyeu-romatzyh-studies/polylexis/pav/continuous/pav_0801_1000
+===
+Write in GR.
+===
+N: pocket, bag, sack*koou day
+N: flour, dough, noodle*miann
+N: bread; (～店) bakery*miann bau
+M: piece of (usually of something thin and flat), slice of*piann
+N: soda pop, carbonated drink*chih shoei
+N: diary*ryh jih
+N: sound, voice*sheng in
+N: candy, sugar*tarng
+IE: good night*woan an
+N: western-style food*shi tsan
+M: box of, trunk of*shiang
+SV: to be scented, to be fragrant*shiang
+N: box, trunk, case*shiang .tzy
+MA: otherwise*yaw buh ran
+V, N: to picnic, picnic*yee tsan
+V: to deep-fry*jar
+N: fried chicken*jar ji
+N: paper*jyy
+V: to fill, to load ; to install, to load, pack, fill*juang
+V, N: to prepare, to intend; preparations*joen bey
+SV: to be clean (also written with the 冫 radical)*gan jinq
+N: daytime*bair tian
+VO: to play or hit a ball, to play ball (basketball, tennis, etc.) games*daa chyou
+V, RE: to move; to be moved*donq
+SV: to be dry*gan
+MA (TW), N (TW): the day after tomorrow ; AT: acquired*how tian
+CONJ: or; either … or …*huoo shyh
+SV: to be tight*jiin
+SV: to be nervous, to be tense*jiin jang
+N: air*kong chih
+N: basketball*lan chyou
+N: face*lean
+N: color (of face), facial expression ; complexion, facial expression*lean seh
+V, N: to practice, to drill; practice, exercise*liann shyi
+RE: used at the end of a verb to indicate ability or completion*leau
+N, V: jogging, to jog*mann pao
+M, BF: bottle of, jar of, vase of*pyng
+N: bottle*pyng .tzy
+SV: to be clear*ching chuu
+N: ball*chyou
+N: body, health*shen tii
+V: to lie down, recline*taang
+SV: to be ache, to be pain, to be sore*terng
+RE: to finish, to complete (something)*wan
+N: net*woang
+N: tennis*woang chyou
+V: to swim*you
+VO, N: to swim; swimming*you yeong
+N, V: sport, exercise; to exercise ; movement, campaign, drive (political, social, etc.)*yunn donq
+A: furthermore, moreover, what's more, besides ; to comment on something later*tzay shuo
+V: to grow (up)*jaang
+RE: used at the end of a verb to indicate success or attainment*jaur
+N: glasses, spectacles (M: 副)*yean jinq
+AV, N: can, know how to ; will, shall ; meeting, party*huey
+N: steamed pork bun*bau .tzy
+N: nose*byi .tzy
+N: ice cube*bing kuay .el
+V: to attend, to participate*tsan jia
+N: tea party*char huey
+N: egg*dann
+N: cake*dann gau
+P: a particle usually added to the end of an adjective to form an adverbial phrase*.de
+N: a snack, light refreshment*dean shin
+A: in a proper way, to the best of one's ability, seriously, carefully, nicely*hao hao .el .de
+SV: to be interesting, to be full of fun*hao wan .el
+V: to add to*jia
+N: orange, tangerine*jyu .tzy
+V: to drive, to open, to turn on ; to bloom, to blossom ; to hold an event ; to fill out, to write out, to issue*kai
+VO: to have a meeting*kai huey
+SV, A: to be a pity; too bad*kee shyi
+N: plum*lii .tzy
+N: apple*pyng guoo
+N: grape*pwu taur
+MA, N (TW): the day before yesterday*chyan tian
+V: to celebrate*chinq juh
+N: birthday*sheng ryh
+SV: to be sour*suan
+SV: to be sweet*tyan
+N: taste, flavor, smell, odor*wey daw
+N: taste, flavor, smell, odor*wey .el
+N: dancing party*wuu huey
+N: watermelon*shi gua
+SV: to be salty*shyan
+V: to smile, to laugh, to laugh at*shiaw
+N, V: joke; to laugh at, to ridicule*shiaw huah
+N: eye*yean jing
+N: soft drink, beverage*yiin liaw
+A: again (in the past); A: moreover, furthermore, more, again (past)*yow
+SV: to be round, to be circular*yuan
+A: just (now), right (now)*jenq
+V: to wish (someone good health, good luck, etc.), to offer good wishes*juh
+N: mouth*tzoei
+VO: to report something to the police*baw jiing
+CV: passive voice indicator*bey
+IE: (something) is gone*bwu jiann .le
+VO: to have an accident*chu shyh
+RC: to break*daa poh
+V: to lose (something), to throw, to cast, to dismiss, to put or lay aside*diou
+V: to discover*fa shiann
+SV, V: to be strange, to be odd, to be queer, to be unusual ; to blame*guay
+SV: to be bewildered, to be mixed up, to be confused (also written without the 米 radical)*hwu twu
+N: police officer*jiing char
+V: to cry*ku
+V: a generalized verb of doing: make, get, fix, etc.*nonq
+SV: to be broken*poh
+SV: to be strange, to be queer, to be unusual*chyi guay
+V: to rob, to snatch, to grab*cheang
+CV, V: used in a passive sentence structure to introduce the agent; to let, to allow, to permit, to make ; to give way, to give in*ranq
+N: etc., and so on*shern .me .de
+SV, VO: to be angry, to take offence*sheng chih
+N: school bag*shu bau
+V: to steal, to burglarize*tou
+V, N: to hope, to wish; hope*shi wanq
+N: washroom, restroom*shii shoou jian
+N: news, information*shiau shyi
+N: thief, burglar*sheau tou
+N: full name*shinq ming
+N: bank*yn harng
+V: to take off, to pick, to pluck*jai
+SV: to be important, to be vital*jonq yaw
+VO: to graduate from school*bih yeh
+A: not until, only then, only, merely*tsair
+VO: to have a part-time job*daa gong
+N: computer*diann nao
+M: measure word for publications (newspapers, magazines), jobs, etc.*fenn
+V: to congratulate*gong shii
+N, V: work, to work*gong tzuoh
+N: winter vacation*harn jiah
+SV, N: to be healthy, in good physical condition, health*jiann kang
+N, V: progress, to improve*jinn buh
+SV: to be happy*kuay leh
+N: present, gift*lii wuh
+V: to talk, to chat*liau
+A, RE, SV: disorderly, groundlessly; disordered, untidy, rumpled; to be messy, to be disordered, to be confused*luann
+SV: to be lively, to be fun, to be bustling with noise*reh naw
+N: affair, something to do, a matter, event*shyh chyng
+N: summer vacation*shuu jiah
+A, SV, IE: whatever, wherever, whenever, do as one pleases*swei biann
+A: at any time*swei shyr
+V: to inform, to notify*tong jy
+IE: get everything one's heart desires*wann shyh ru yih
+V: to research, to study*yan jiow
+N: graduate school*yan jiow suoo
+N: courtyard, compound, yard*yuann .tzy
+PT: more and more*yueh lai yueh
+N: baseball*banq chyou
+N: fried rice*chao fann
+N: fried noodles*chao miann
+N: spring roll*chuen jeuan .el
+N: Atlantic Ocean*dah shi yang
+N: wonton soup*hwen twen tang
+N: Canada*jia na dah
+N: San Francisco*jiow jin shan
+N: Kansas*kan sah sy
+N: Los Angeles*luoh shan ji
+N: spicy tofu*ma por dow fuu
+N: Mississippi*mih shi shi bii
+N: Mexico*moh shi ge
+N: mooshoo pork*muh shiu row
+N: beef noodles*niou row miann
+VO: to hike (lit. to climb a mountain)*par shan
+N: volleyball*pair chyou
+N: robber*chyang daw
+N: sofa*sha fa
+N: salad*sha lha
+V: to tear*sy
+N: Pacific Ocean*tay pyng yang
+N: sweet-and-sour pork*tarng tsuh lii ji
+N, V: headache; to have a headache (…to…)*tour tonq
+N: ball-point pen*yuan tzyy bii
+N: football (soccer) (V: 踢)*tzwu chyou
+N: elevator, lift (M: 部)*diann ti
+N: stairs*lou ti
+IE: 'It is a pleasure to meet you!'*shinq huey
+IE, VO: it's not important, it doesn't matter, it's nothing, it's all right; not related, no relationship to …*mei guan .shi
+V, N: to look after, to take care of; care, attention*jaw guh
+VO, SV: to worry; worried, concerned*dan shin
+A: no wonder*nan guay
+N: East, Orient*dong fang
+V, SV: independent; to be independent*dwu lih
+A: never (habitual)*tsorng lai buh
+V, N: to encourage, urge; encouragement*guu lih
+RC: to open up*daa kai
+N: jacket*jya keh
+V,N: to be concerned about*guan shin
+SV, V: to be a nag, to be repetitive in speech; to nag*lau dau
+AV, N: can, know how to ; will, shall ; meeting, party*huey
+N: the whole nation*chyuan gwo
+N: the whole school*chyuan shiaw
+N: map (M: 張)*dih twu
+N: magazine (M: 本)*tzar jyh
+N: Confucius temple*koong miaw
+N: Chinese culture*jong hwa  wen2 huah
+AT: Chinese*jong hwa
+N: interest*shinq chiuh
+SV: to be interested, to have an interest in*yeou shinq chiuh
+V: to select, choose*sheuan
+N: transliteration of an English given name (William)*woei lih
+N: National Geographic Magazine (國家～)*dih lii  za2 jyh
+N: relationship*guan shih

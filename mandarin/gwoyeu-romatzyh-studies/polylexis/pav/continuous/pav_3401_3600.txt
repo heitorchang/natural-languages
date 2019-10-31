@@ -1,0 +1,204 @@
+c:/Users/Heitor/Desktop/code/natural-languages/mandarin/gwoyeu-romatzyh-studies/polylexis/pav/continuous/pav_3401_3600
+===
+Write in GR.
+===
+V: to descend, to land*jianq luoh
+V: to increase, to add*tzeng jia
+N: channel, strait*hae shya
+N: bank, shore, beach, coast*ann
+N, V: exchange, interchange; to exchange, to interchange*jiau liou
+N, V: communication; to communicate*gou tong
+N: generation gap*day gou
+AT: to be illegal, to be unlawful*fei faa
+AT: to be legal, to be lawful, to be legitimate*her faa
+N, V: smuggling; to smuggle*tzoou sy
+V: to cause, to form, to make, to bring about*tzaw cherng
+V: to have dealings with, to contact, to correspond with*lai woang
+N: vocabulary*tsyr huey
+N: Shanxi, province in China between Hebei (河北) and Shaanxi (陝西)*shan shi
+N: toilet, nightstool*maa tong
+AV: should ; CV(-N): it's …'s turn ; DEM: the (as a determiner)*gai
+N: Earth, the globe*dih chyou
+V: to fall, to drop; to lose ; RC: resultative compound used as a complement to certain verbs, expressing a state of fulfilment or completion*diaw
+V: to deal with damage, to handle ; (廢棄物～法) 1974 Waste Disposal Act in Taiwan*chuu lii
+N: science and technology*ke jih
+N: planet*shyng shing
+N: paper*jyy jang
+N: recycling collection site*hwei shou chuh
+N: cellar, basement, rooms underground*dih shiah shyh
+N, V: collection for recycling or re-use; to collect for recycling or re-use*hwei shou
+N: shopping center, shopping mall*gow wuh jong shin
+N: big sale*dah jean jiah
+VO: to reduce prices*jean jiah
+VO: to discount (for example, ～八～ means a 20% discount, or 80% of the original price)*daa jer
+N: discount, rebate, lowering of desirable quality*jer kow
+N: garbage, refuse, trash*leh seh
+N: trash can, garbage can*leh seh toong
+N: kitchen waste*chwu yu
+N: fertilizer*feir liaw
+VO: to collect junk, to collect scrap*shou poh lann
+N, SV: dilapidated; to be worn-out*poh lann
+IE: to make a fuss over a small matter, much ado about nothing*dah jing sheau guay
+AT: recycled, regenerated, re-used*tzay sheng
+N: glass (M: 片, 塊)*bo li
+V: to buy up, to purchase, to buy over, to bribe, to win people's hearts or support by less than honourable means*shou mae
+N: car dealership*che harng
+N: purpose, aim, objective*muh dih
+N: target, goal*muh biau
+N: destination*muh dih dih
+V: to think over, to consider*kao liuh
+N, V: pollution, contamination; to pollute, contaminate, adulterate (first character also written 汙 or 汚)*u raan
+N, V: protection; to protect, safeguard*bao huh
+N: environmental protection (full name)*hwan jinq bao huh
+N: environmental protection (short name)*hwan bao
+V: to give rise to, to lead to, to cause, to arouse, to incite*yiin chii
+V: to remind, to call attention to*tyi shiing
+V: to treasure, to cherish*ay shyi
+V: to economize, to be frugal, to use with thrift, to save*jye iue
+N: energy source*neng yuan
+N: water source*shoei yuan
+N: nuclear energy, atomic energy*her neng
+N: electric power plant*diann chaang
+N: solar energy, solar power energy*tay yang neng
+N: generating electric powered by wind turbine*feng lih fa diann
+N: wind power, wind force*feng lih
+VO: to generate electric power*fa diann
+V: to destroy, to wreck*poh huay
+N: forest (M: 片)*sen lin
+N: woods, grove (M: 片)*shuh lin
+N: rainforest*yeu lin
+V: to manage, to administer, to run*goan lii
+N: manager, administrator, superintendent*goan lii yuan
+N: discarded materials, wastes, exhausts; (～處理法) 1974 Waste Disposal Act in Taiwan*fey chih wuh
+N: trash, waste material, rubbish, scrap*fey wuh
+N: waste material, waste matter, scrap, refuse, waste*fey liaw
+N: nonsense, superfluous words, useless words*fey huah
+PT: not to the point of, not so far as*bwu jyh yu
+VO: to blow a horn, to honk a horn of a vehicle*ann laa ba
+V: to press, to push down*ann
+N: brass or wind musical instrument*laa ba
+V: to blow, to puff, to play a wind instrument*chuei
+N, V: protest; to protest*kanq yih
+N: unpleasant noise, din, clamor*tzaw in
+VO: to refund money*tuey chyan
+VO: to regress, to decline*tuey buh
+SV, VO: to an extreme degree, to the point of death; to take one's life (also figuratively)*yaw minq
+SV: to be impatient*bwu nay farn
+N: patience*nay shin
+N: a large plastic bottle, typically containing a soft drink*bao teh pyng
+N: plastic*suh jiau
+N: tyre*luen tai
+N: wheel*luen .tzy
+N: diaper*niaw buh
+N: urine*niaw
+V: to urinate*sheau biann
+V: to bury*mai
+N: carbon dioxide*ell yeang huah tann
+N: carbon monoxide*yih yeang huah tann
+N: oxygen*yeang chih
+N: greenhouse effect*uen shyh shiaw yinq
+N: cancer (first character also pronounced yán)*air jenq
+N: skin cancer*pyi fu air
+N: nose cancer*byi air
+N: brain cancer*nao air
+N: leukemia*shiee air
+N: glacier (M: 條)*bing her
+N: scientist*ke shyue jia
+N, SV: science; to be scientific*ke shyue
+N: the world of science, the community of scientists*ke shyue jieh
+N: heredity, inheritance, genetics*yi chwan
+N, V: invention; to invent*fa ming
+N: transliteration of Thomas Alva Edison's surname*ay dyi sheng
+N: century*shyh jih
+N: pollution prevention, contamination avoidance, (空氣～法) 1974 Air Pollution Prevention Act*u raan farng jyh
+N: transliteration of the chemical prefix poly-, used in names of many polymers*bao
+N: polyethylene terephthalate (PET, short name)*bao teh
+CV, V: used in a passive sentence structure to introduce the agent; to let, to allow, to permit, to make ; to give way, to give in*ranq
+N: common saying*swu huah
+V: to photograph ; N: (～片) photograph; A: as usual, as before, as of old (followed by a verb) ; V: to reflect, to mirror*jaw
+N: frisbee*fei parn
+V: to cover, to cover with, to build*gay
+N: lid, cover*gay .tzy
+V: to guess, to speculate*tsai
+RC: to figure out by guessing*tsai chu lai
+VO: to dream*tzuoh menq
+N: dream*menq
+N: pleasant dream*meei menq
+N: nightmare*eh menq
+N: daydream*bair ryh menq
+RC: to see in a dream, to dream about (…d…)*menq daw
+RC: to see in a dream, to dream about (…j…)*menq jiann
+CV: concerning, with regard to, about*guan yu
+SV, V: to be filial; to show filial obedience*shiaw shuenn
+V: to die, to pass away*guoh shyh
+VO: to live, to survive*guoh ryh .tzy
+VO: to freeze up, to ice up*jye bing
+N, V: knot; to bear (fruit), to knot*jye
+SV: to be poor, to be poverty-stricken ; A: continuously or exhaustively*chyong
+N: destitute people, the poor*chyong ren
+SV: to be thin, flimsy (also pronounced bó)*baur
+SV, V: to be insane, crazy, mad; to go crazy, to go mad*feng
+N: lunatic, madman*feng .tzy
+VO: to go mad, to lose one's mind*fa feng
+SV, V: to be freezing cold; to freeze*donq
+V: to freeze*leeng donq
+N: gelatin, 'Jell-O'*guoo donq
+N: conditions, terms*tyau jiann
+IE: to mean what one says, to keep one's word; (～不～) to fail to keep a promise, to break one's word, to be unreliable in keeping one's word*shuo huah suann huah
+A: from past to present, always, all along (for routine conditions)*shianq lai
+VO: to testify, to bear witness (second character also written 証)*tzuoh jenq
+N: witness (first character also written 証)*jenq ren
+N: documents, papers, credentials, certificates (first character also written 証)*jenq jiann
+N: snake, serpent (M: 條)*sher
+N, SV, V: superstition; to be superstitious; to believe a superstition*mi shinn
+N: landscape geomancy, feng shui*feng shoei
+VO: to turn one's body, to turn around*joan shen
+A: in the twinkling of an eye, in a very brief period of time, instantly, in a moment*joan yean
+V, SV, A: to force somebody to do something, to manage with an effort, to do with difficulty; to be strained, to be constrained, to be unnatural, to be unconvincing; reluctantly, gurdgingly, unwillingly*mean cheang
+VO: to interrupt a conversation, to cut in with one's own opinion*cha tzoei
+V: to insert, to stick in*cha
+VO: to cut in line*cha duey
+N: illustrations or plates (as in a book or magazine)*cha twu
+N, VO: flower arrangement; to arrange flowers*cha hua
+N: accompanying songs in a play or film, other than the theme song*cha cheu
+N: an electrical plug*cha tour
+N: an electrical outlet, socket*cha tzuoh
+CONJ: thereupon, hence, consequently, as a result*yu shyh
+V: to feel, to stroke, to touch; to feel for, to grope for, to fumble for*mho
+SV: to be silly, to be foolish, to be stupid (also written 儍)*shaa
+N: a fool, a blockhead, a simpleton, a stupid fellow (first character also written 儍)*shaa gua
+A: sooner or later (c…)*chyr tzao
+A: sooner or later (z…)*tzao woan
+V: to be late, to arrive late*chyr daw
+N: sheep (M: 隻)*yang
+SV: to be narrow*jae
+AV: to be willing to*keen
+V: to fall, to stumble, to break, to cast, to throw fling, to slam*shuai
+RC: to fall down (for a person)*shuai dao
+N: content, meaning, theme*ney rong
+N: degree, level*cherng duh
+IE: in a mess, in terrible disorder*luann chi ba tzau
+N: axe, hatchet (M: 把)*fuu tour
+SV: to be sharp*lih
+RC: to cut down trees*kaan dao
+V: to chop, to hack, to cut*kaan
+N: cherry*ing taur
+N: peach*taur .tzy
+N: buttocks, butt*pih guu
+VO, IE: to break wind, to flatulate, to fart; to speak nonsense; 'Nonsense!'*fanq pih
+VO: to flatter, to fawn over*pai maa pih
+SV: to be brave, to be courageous*yeong gaan
+V: to stand out of the crowd, to stand up for*jann chu lai
+CV: towards, to face, to turn towards, all along, hitherto*shianq
+N, V: recognition; to admit, to acknowledge, to give diplomatic recognition, to recognize*cherng renn
+VO: to admit one's mistake*renn tsuoh
+N, SV: honesty, trustworthiness; to be honest, to be upright, to be trustworthy*cherng shyr
+SV: honest, frank, well-behaved, simple-minded, easily taken in*lao shyr
+AT: very old, hackneyed (literally 'so old it's losing its teeth')*lao diaw ya
+SV, RE: to be familiar, to be cooked, to be ripe, to be practiced*shour
+N: Twenty-Four Filial Exemplars, a classic text from the times of the Yuan dynasty*ell shyr syh  xiao4
+N: transliteration of Washington*hwa shenq duenn
+V: to bring ; to take care of a child, to bring up the young ; PT: and, while, as well as, both … and … (indicating two nearly simultaneous actions) (連 … ～ … )*day
+N: fruit juice (M: 種, 杯, 盒)*guoo jy
+PT: even (～ … 都) ; and, while, as well as, both … and … (indicating two nearly simultaneous actions) (～ … 帶 … )*lian
+BF: blood relation, relative ; V: to kiss*chin

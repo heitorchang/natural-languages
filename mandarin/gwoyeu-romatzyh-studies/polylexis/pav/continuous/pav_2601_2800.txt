@@ -1,0 +1,204 @@
+c:/Users/Heitor/Desktop/code/natural-languages/mandarin/gwoyeu-romatzyh-studies/polylexis/pav/continuous/pav_2601_2800
+===
+Write in GR.
+===
+SV: to be complicated, complex*fuh tzar
+VO: to take a walk, go for a stroll*sann buh
+VO: to practice Chinese shadow boxing (tai chi)*daa tay jyi chyuan
+M: measure word for hits with a fist*chyuan
+N: fist*chyuan .tou
+V, N: to hike; hiking*jiann shyng
+N: natural hot spring*uen chyuan
+VO, N: to camp out, encamp; camping*luh yng
+VO: to go fishing, go angling*diaw yu
+VO, N: to climb rocks; rock climbing*pan yan
+V: to refer to, to carry, to withdraw, to extract, to mention, to bring up*tyi
+RC: to have mentioned*tyi daw
+RC: to speak of, to lift up, to raise, to mention, to bring up*tyi chii lai
+RC: to raise a question, to put forth, to put forward, to withdraw*tyi chu lai
+IE: seeing is believing (literally: hearing a hundred times is worth less than seeing once, ～一見)*bae wen buh ru
+V: not as good as, inferior to ; P: rather than (it's better to) (與其 … ～ … )*buh ru
+V: to care about, to concentrate upon, to look after*guh .je
+N: mountain range north of Taipei (Yangmingshan)*yang ming shan
+N: according to one's wishes*swei yih
+N: sense of equilibrium*pyng herng gaan
+N: coral*shan hwu
+N: ear (M: 隻, 對)*eel .duo
+CV, CONJ, V: with; and ; to follow, to accompany*gen
+N, SV: red, to be red ; SV: to be very popular, to be eminent, influential*horng
+N: washing machine (for clothes)*shii i ji
+N: football (soccer) (V: 踢)*tzwu chyou
+VO, A: to start work, to put one's hands to use*donq shoou
+N: principle, logic, reason, rationale*daw lii
+VO, SV: to use reason, to explain principles and logic; to be rational, reasonable*jeang daw lii
+SV: to be reasonable, logical*yeou daw lii
+SV: to be in keeping with reason and logic, to be equitable*her lii
+N: dishwashing machine*shii woan ji
+N: music concert (M: 場)*in yueh huey
+N: music*in yueh
+N: musician*in yueh jia
+N: transliteration of Beethoven*bey duo fen
+N: transliteration of Mozart*moh jar teh
+N: musical instrument*yueh chih
+N: cable television*yeou shiann diann shyh
+N: electric wire, electric cord (M: 根, 條)*diann shiann
+N: American football*meei shyh tzwu chyou
+N: channel*pyn daw
+N: atmospheric phenomena, weather, meteorology*chih shianq
+N: miniseries on television*yiing jyi
+M: volume or part of a collection or series*jyi
+N: movie channel*diann yiing tair
+N: news channel*shin wen tair
+N: sports channel*tii yuh tair
+N, M: measure word for channels, machines, electrical appliances, microscopes, etc.*tair
+V: to imagine, to visualize*sheang shianq
+N: imagination, imaginative thinking*sheang shianq lih
+N, VO: pronunciation; to pronounce*fa in
+IE: to chat intimately, to talk passionately (as between lovers)*tarn chyng shuo ay
+N: soap opera, televised drama series (M: 部)*lian shiuh jiuh
+VO: to dub a film, dubbing*pey in
+V: to express thoughts or feelings*beau dar
+N: way, style, manner*fang shyh
+AT: Chinese-style*jong shyh
+AT: American-style*meei shyh
+SV: to be disgusting, to be nauseating, to be sickening; goose pimples, goose skin*row ma
+N: story or plot (of a play or opera)*jiuh chyng
+N: talk show (～節目)*tarn huah shinq
+N: news value, newsworthiness*shin wen shinq
+N: commemorative qualities*jih niann shinq
+N: importance*jonq yaw shinq
+N: intellectual or academic value*jy shyh shinq
+N: timeliness*shyr jian shinq
+V: to expire*guoh chyi
+N: audience, spectators, viewers*guan jonq
+N: audience, listeners*ting jonq
+N: the masses (people, citizens, etc.)*dah jonq
+VO: to sign up, to enter one's name*baw ming
+V: to answer a question*hwei dar
+N: answer, solution*dar ann
+IE: to break out into a cold sweat, to be nervous or frightened (～汗)*nhie yih baa leeng
+V: to hold between the fingers, to pinch*nhie
+N: cold sweat*leeng hann
+N, V, SV: stimulation, shock; to stimulate, to shock; to be stimulating, to be shocking, to be hardcore*tsyh ji
+N: person in charge, one who presides over a meeting or event, master of ceremony, host*juu chyr ren
+V: to be in charge of, to manage, to preside over, to 'MC'*juu chyr
+N, V: anchorman, anchorwoman, anchorperson; to anchor*juu boh
+N: host*juu ren
+N: variety show on television*tzonq yih jye muh
+SV: to be humorous, witty*feng chiuh
+N: scene, site (of an accident or crime)*shiann chaang
+SV: to be abundant, plentiful*feng fuh
+N: reporter, journalist*jih jee
+N: dancer*wuu jee
+N: author, writer*tzuoh jee
+N: reader*dwu jee
+N: challenging qualities*teau jann shinq
+N, V: challenge; to challenge*teau jann
+N, V: reaction; to react*faan yinq
+A: otherwise, if not, or else*foou tzer
+N: news van (ＳＮＧ～ in Taiwan - satellite news gathering)*joan boh che
+VO: to be connected via a computer*lian shiann
+N: authoritative qualities, expertise*chyuan uei shinq
+N: authority*chyuan uei
+N: right, privilege*chyuan lih
+N: power, authority*chyuan lih
+SV, A: to be frank, to be true, to be real, to be reliable; indeed, really, honestly, frankly, truly*shyr tzay
+IE: telling the truth, honestly speaking (last character: 說)*shyr tzay shuo
+IE: telling the truth, honestly speaking (first character: 說)*shuo shyr tzay .de
+N: animated movie, cartoon (M: 部)*kaa tong piann
+N: film, movie (M: 部)*yiing piann
+N: children*erl torng
+N: public television*gong gonq diann shyh
+CONJ: lest, so as to avoid, so as not to, to avoid*mean .de
+A, AT: free of charge*mean fey
+N: World Cup (Football: ～足球大賽)*shyh jieh bei
+N: Brazil*ba shi
+N: 'national language', the name of Chinese Mandarin in Taiwan*gwo yeu
+N: anime, animation*donq huah
+N: cinema, movie theater*diann yiing yuann
+N: dialog (in a film or play)*duey bair
+V: to shoot a film, to take a picture; to clap, to beat, to pat*pai
+N, V: illegal copy, pirate copy, piracy; to make a pirate copy*daw baan
+N: original edition (of a book, etc.)*yuan baan
+M: printing block or plate, edition; page (number) of a newspaper*baan
+A: rarely, seldom*nan der
+SV, N: to draw large audiences (for a performance); box office success*may tzuoh
+N: final result, outcome, conclusion*jye jyu
+N: leading actor*nan juu jeau
+N: leading actress*neu juu jeau
+N: leading role, the lead*juu jeau
+N: supporting role, minor role*pey jeau
+N: role, character, part (in a play, movie)*jeau seh
+SV, V: to be pitiful, to be deserving of compassion or sympathy; to take pity on, to be merciful to*kee lian
+N, V: director (of a play, film, etc.); to direct a film, play etc.*dao yean
+SV: to be true, to be real, to be actual, to be authentic*jen shyr
+N: acting skill*yean jih
+N: actor or actress*yean yuan
+VO: to win a prize, to place in a competition*der jeang
+AT: the best, the superlative, the top*tzuey jia
+A: as expected, sure enough*guoo ran
+SV, V: to be moving, touching, to be moved, touched; to move, to touch, to stimulate (emotionally)*gaan donq
+N: tragedy*bei jiuh
+N: comedy*shii jiuh
+VO: to cry, to shed tears*diaw yean ley
+V: to fall, to drop; to lose ; RC: resultative compound used as a complement to certain verbs, expressing a state of fulfilment or completion*diaw
+N: tears (M: 滴)*yean ley
+N, V: sympathy; to sympathise with, to show sympathy for*torng chyng
+N: compassion, sympathy*torng chyng shin
+N, V: unhappy experiences; to meet with, to encounter unhappy circumstances*tzau yuh
+A: why? (rhetorical question meaning 'there is no need to')*her bih
+A: conscientiously, seriously, earnestly, SV: to be conscientious, earnest, serious*renn jen
+N: theme music (M: 首)*juu tyi cheu
+N: caption, subtitle (of a film, video etc.)*tzyh muh
+N: home-cooking*jia charng tsay
+N, V: lock (M: 把), to lock*suoo
+N: flash disk, USB memory stick*swei shen dye
+N: bank cheque (M: 張)*jy piaw
+N: traveller's cheque (M: 張)*leu shyng jy piaw
+IE: not very good, barely acceptable; careless*maa maa hu hu
+SV: to be careless, to be imprecise*maa hu
+VO: to gather together and share a meal together*jiuh tsan
+V: to assemble, to gather together*jiuh
+IE, SV: it does not matter, it makes no difference one way or the other (for personal opinions)*wu suoo wey
+N, V: cinematography, photography; to photograph*sheh yiing
+N: photographer*sheh yiing shy
+V: to know*sheau .de
+N: title (of a film)*piann ming
+IE, SV: a terrible mess!, too bad!, oh no!*tzau gau
+SV: to be in a wretched state*tzau
+N: memory*jih shinq
+N: artistic or love story film (～片)*wen yih ay chyng
+N: love, romance*ay chyng
+N: film realistically depicting society (～片)*sheh huey shiee shyr
+SV: to be written or painted realistically*shiee shyr
+N: detective film*jen tann piann
+N: detective*jen tann
+N: horror film*koong buh piann
+SV: to be terrifying*koong buh
+N: science-fiction film*ke huann piann
+N: fantasy film*chyi huann piann
+N: action film*donq tzuoh piann
+AT: restricted (film), rating for film restricted to adults*shiann jyh jyi
+N, V: limitation, restriction; to restrict, limit*shiann jyh
+M: measure word for grading, rank, degree of merit, grade in school*jyi
+VO: to classify, to rate, to grade*fen jyi
+N, V: guidance, counselling; to guide, to counsel, to lead, to facilitate*fuu dao
+AT: rating for movies restricted to children over 12 years old with parental guidance*fuu dao jyi
+V: to click with a computer mouse*dean sheuan
+V: to forbid, to prohibit from*jinn jyy
+N: transliteration of Sherlock Holmes's surname*fwu eel mo sy
+N: alien, E.T. (extra-terrestrial being)*way shing ren
+N: transliteration of Harry Potter*ha lih  po1 teh
+N: Hong Kong*shiang gaang
+N: kung fu*gong fu
+N: Golden Horse Film Festival in Taipei*jin maa  ying3 jaan
+N: Golden Horse Award, awarded at the the same-named film festival in Taipei*jin maa jeang
+N, SV: white, to be white ; A: in vain, to no effect*bair
+VO: to meet someone, to see someone*jiann miann
+N, V: joke; to laugh at, to ridicule*shiaw huah
+A, SV: officially; to be formal, to be official*jenq shyh
+A, SV: enthusiastically, ardently; to be enthusiastic, to be exuberant, to be fervent*reh lieh
+VO: to talk on the phone*jeang diann huah
+N: arts center*yih shuh jong shin
+N: art*yih shuh
+N: worker, working person; (藝術…) artist, worker in the arts*gong tzuoh jee

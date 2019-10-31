@@ -1,0 +1,204 @@
+c:/Users/Heitor/Desktop/code/natural-languages/mandarin/gwoyeu-romatzyh-studies/polylexis/pav/continuous/pav_0401_0600
+===
+Write in GR.
+===
+N: clock*jong
+N: hour (z…)*jong tour
+V: to handle, to manage*bann
+N: written test*bii shyh
+MA, N (TW): spring (…j…)*chuen jih
+N: Chinese New Year (Lunar New Year, Spring Festival)*chuen jye
+MA, N (TW): spring (…t…)*chuen tian
+MA, N (TW): winter (…j…)*dong jih
+MA, N (TW): winter (…t…)*dong tian
+N: scenery, view, landscape*feng jiing
+AV: should ; CV(-N): it's …'s turn ; DEM: the (as a determiner)*gai
+A: just, recently*gang
+MA, N (TW): just now (second character can be replaced with 才)*gang gang
+N: nation, country*gwo jia
+A-NU: quite a few*hao jii
+M: measure word for numbers and dates*haw
+SV: to be anxious, rushing*jyi
+N, M: season*jih
+N: season*jih jye
+N, M: festival; section (for classes)*jye
+N: holiday*jye ryh
+MA, N (TW): this year*jin nian
+V: to see*kann daw
+V: to test*kao
+VO, N: to take a test; test, exam (k…)*kao shyh
+N: oral test*koou shyh
+M: measure for cars, buses, etc.*lianq
+N: hotel, inn*leu goan
+V, N: to travel, to take a trip*leu shyng
+MA, N (TW): next year*ming nian
+N, M: year*nian
+N: Europe*ou jou
+M: measure word for school semesters*chyi
+MA, N (TW): autumn, fall (…j…)*chiou jih
+MA, N (TW): autumn, fall (…t…)*chiou tian
+MA, N (TW): last year*chiuh nian
+N: time*shyr jian
+V: to try*shyh
+IE: to try and see*shyh shyh kann
+MA, N (TW): summer (…j…)*shiah jih
+MA, N (TW): summer (…t…)*shiah tian
+VO: to rain*shiah yeu
+MA, N (TW): new year*shin nian
+N: week*shing chyi
+SV: to be OK, to be permitted*shyng
+N, M: semester*shyue chyi
+AV: should, ought to*ing gai
+N: rain*yeu
+MA, N (TW): rainy season, monsoon season*yeu jih
+N: month*yueh
+IE: what now? what am I supposed to do now? what happens?*tzeen .me bann
+SV: to be nervous, anxious*jau jyi
+N: Mid-Autumn Festival*jong chiou jye
+V: to stay, to lie*juh
+MA: recently, lately*tzuey jinn
+M: measure word for poems and songs*shoou
+N: mother's sister*a yi
+N: aunt, wife of father's elder brother*bor muu
+N: ear (M: 隻, 對)*eel .duo
+N: fruit juice (M: 種, 杯, 盒)*guoo jy
+N: Hamburg ; hamburger (also ～包, second character also written 飽)*hann bao
+N: Chinese character*hann tzyh
+N: program, item on a program (on the TV) ; N: program, events (of entertainment, etc.)*jye muh
+N: elder sister (Taiwanese version, the dictionary pronunciation of this character is 'zǐ')*jiee .jie
+N: coffee*ka fei
+VO: to watch a basketball game*kann lan chyou say
+N: tiger*lao huu
+N: a pet name for a cat (Mimi)*mhi mhi
+N: New York*neou iue
+N: beer (M: 杯, 瓶, 罐 or 桶)*pyi jeou
+N: wall*chyang
+N: sandwich*san ming jyh
+N: socks, stockings (M: 隻 or 雙)*wah .tzy
+M: measure word for one of a pair, and also for certain animals, and for boats*jy
+N: illness, disease; (～人) patient*binq
+V: to become ill*binq .le
+A: don't have to, need not*bwu bih
+V: to hit, to beat, to strike*daa
+V: to plan*daa suann
+A: must, have to*deei
+V: to put, to release ; to let go, set free, release; to place, put*fanq
+VO: to have a holiday, vacation*fanq jiah
+SV, VO: to be at ease, not worry*fanq shin
+V, N: to have a cold; cold, flu*gaan maw
+SV: to be well again, recover; SV: to be ready*hao .le
+VO: to ski*hwa sheue
+SV: to be bad*huay
+SV: to be broken, ruined, out of order, spoiled*huay .le
+N: vacation, holiday*jiah
+A: just, exactly, only ; then, right away ; (indicating immediacy)*jiow
+A, SV, N: possibly; to be possible; possibility*kee neng
+N: week*lii bay
+N: Sunday (l…t…)*lii bay tian
+IE: never mind, it doesn't matter, it's nothing, that's all right*mei shyh .el
+N: mountain*shan
+VO: to become ill, to be sick*sheng binq
+SV: to be comfortable*shu fwu
+V: to calculate*suann
+A, SV: especially, to be special*teh bye
+V: to forget*wanq
+VO: to snow*shiah sheue
+N: countryside*shiang shiah
+SV: to be careful*sheau shin
+N: heart*shin
+V: to allow, to permit*sheu
+N: snow*sheue
+N: medicine*yaw
+MA: perhaps, maybe, might*yee sheu
+V: to cure, to treat (an illness)*i
+N: doctor*i sheng
+IE: what's wrong?*tzeen .me .le
+N: weekend (also written without the 辶 radical)*jou moh
+N: department store*bae huoh gong sy
+V: to help, to assist*bang
+VO: to help someone do something*bang mang
+N: north (also ～邊)*beei
+IE: you're welcome*bwu keh chih
+BF: part, area; department*buh
+N: city, city wall*cherng
+N: city*cherng shyh
+DEM: a prefix for ordinal numbers*dih
+N: east (also ～邊)*dong
+N (PW): eastern part, eastern area*dong buh
+SV: to be tall, to be high*gau
+N: sea, ocean; (～邊) seaside*hae
+N: river*her
+N: street*jie
+V: to pass by, to pass through*jing guoh
+SV: to be polite*keh chih
+N: street entrance*luh koou
+N: south (also ～邊)*nan
+V: to take off*chii fei
+A: afterwards, then*ran how
+N (PW): intersection*shyr tzyh luh koou
+BF: city municipality, market*shyh
+N: Taipei*tair beei
+M: measure word for long, narrow things, such as rivers, road, fish, etc.*tyau
+CV: to go toward*woang
+N: west (also ～邊)*shi
+N (PW): western part, western area*shi buh
+A: first, in advance, before*shian
+MA: if*yaw shyh
+A: straight; constantly, continuously ; always, all along, continually*yih jyr
+N: post office*you jyu
+N: right (also ～邊)*yow
+A: then*tzay
+SV, A: to be straight, continuously*jyr
+V: to turn*joan
+N: left (also ～邊)*tzuoo
+SV: to be full (after eating)*bao
+BF: fork*cha
+N: fork*cha .tzy
+N: everyone*dah jia
+N: knife*dau
+N: knife and fork*dau cha
+N: knife*dau .tzy
+VO: to order food*dean tsay
+SV, CV: to be correct ; to, toward, for*duey
+N: Chinese surname (Fang)*fang
+A: very, extremely*fei charng
+M: measure word for letters*feng
+V, CV: to give ; for (the benefit), to*geei
+N: Gongbao chicken*gong bao ji ding
+N: chicken*ji
+V: to introduce, to suggest*jieh shaw
+M: measure word for sentences, phrases*jiuh
+N: sentence*jiuh .tzy
+N: chopsticks*kuay .tzy
+IE: eat slowly (enjoy your meal)*mann yonq
+N: brush pen*mau bii
+IE: an expression of modest denial ('No, not really.')*naa lii
+A: well, in that case*nah .me
+N: cow, cattle*niou
+N: beef*niou row
+N: money ; a Chinese surname*chyan
+N: vegetables, green vegetable*ching tsay
+N: meat*row
+N: fruit*shoei guoo
+N: boiled Chinese dumplings*shoei jeau
+N: hot and sour soup*suan lah tang
+N: soup*tang
+N: soup spoon*tang chyr
+CV: for, in place of, a substitute for*tih
+M, N: measure word for servings of food, bowl*woan
+IE: to wish someone well, to send best regards to someone*wenn hao
+N: Chinese surname (Xie, Hsieh)*shieh
+N: letter*shinn
+V, CV: to use, using, with*yonq
+SV: to be useful*yeou yonq
+N: fish (also ～兒)*yu
+A: so, like this*jeh .me
+N: oneself, by oneself*tzyh jii
+MA: originally*been lai
+M: measure word for action or affair's time*tsyh
+MA (TW): formerly, in the past, used to*tsorng chyan
+MA: probably*dah gay
+N: telephone, call*diann huah
+SV, V: to be vexed, annoyed; to annoy*farn
+SV: to be happy*gau shinq
+V: to tell, to inform*gaw suh

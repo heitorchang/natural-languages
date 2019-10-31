@@ -1,5 +1,4 @@
-﻿// AV Chinese/Book 1/Lesson 1
-啊[啊]	a5	P: an interrogative final particle, used when answer is assumed; a phrase final particle, indicates affirmation, exclamation, etc. [PAVC-101]
+﻿啊[啊]	a5	P: an interrogative final particle, used when answer is assumed; a phrase final particle, indicates affirmation, exclamation, etc. [PAVC-101]
 不[不]	bu4	A: not [PAVC-101]
 贵姓[貴姓]	gui4xing4	IE: what is your last name? [PAVC-101]
 国[國]	guo2	N: country, nation [PAVC-101]
@@ -22,15 +21,12 @@
 他[他]	ta1	PN: he, him; she, her [PAVC-101]
 她[她]	ta1	PN: she, her [PAVC-101]
 台湾[臺灣]	Tai2wan1	N: Taiwan (first character also written 台) [PAVC-101]
-台湾[台灣]	Tai2wan1	N: Taiwan (first character also written 臺) [PAVC-101]
 王[王]	wang2	N: common Chinese surname (Wang) [PAVC-101]
 我[我]	wo3	PN: I, me [PAVC-101]
 先生[先生]	xian1sheng1	N: Mr, Sir, gentleman, husband [PAVC-101]
 姓[姓]	xing4	V, N: surname, family name [PAVC-101]
 英国[英國]	Ying1guo2	N: England, English [PAVC-101]
 中国[中國]	Zhong1guo2	N: China [PAVC-101]
-
-// AV Chinese/Book 1/Lesson 2
 好[好]	hao3	SV: to be good, well [PAVC-101]; A: very, quite [PAVC-102]
 好久不见[好久不見]	hao3jiu3bu2jian4	IE: long time no see [PAVC-102]
 很[很]	hen3	A: very [PAVC-102]
@@ -57,13 +53,10 @@
 赵[趙]	Zhao4	N: Chinese surname (Zhao) [PAVC-102]
 这[這]	zhe4	DEM: this [PAVC-102]
 这[這]	zhei4	DEM: this (…i) [PAVC-102]
-
-// AV Chinese/Book 1/Lesson 3
 报[報]	bao4	N: newspaper (also ～紙) [PAVC-103]
 笔[筆]	bi3	N: pen [PAVC-103]; M: measure word for amounts of money [PAVC-409]
 车[車]	che1	N: vehicle, car [PAVC-103]
 德国[德國]	De2guo2	N: Germany [PAVC-103]
-德文[德文]	De2wen2	N: German language [PAVC-103]
 电视[電視]	dian4shi4	N: TV, TV set [PAVC-103]
 电影[電影]	dian4ying3	N: movie [PAVC-103]
 东西[東西]	dong1xi1	N: thing [PAVC-103]
@@ -71,7 +64,6 @@
 都[都]	dou1	A: all, both [PAVC-103]
 法[法]	Fa3	BF: transliteration of the 'F' in 'France' [PAVC-103]
 法国[法國]	Fa3guo2	N: France, French [PAVC-103]
-法文[法文]	Fa3wen2	N: French language [PAVC-103]
 贵[貴]	gui4	SV: to be expensive [PAVC-103]
 好看[好看]	hao3kan4	SV: to be good-looking [PAVC-103]
 华文[華文]	Hua2wen2	N: Chinese language [PAVC-103]
@@ -89,8 +81,6 @@
 英文[英文]	Ying1wen2	N: English language [PAVC-103]
 有[有]	you3	V: to have; there is, there are [PAVC-103]
 中文[中文]	zhong1wen2	N: Chinese language [PAVC-103]
-
-// AV Chinese/Book 1/Lesson 4
 八[八]	ba1	NU: eight [PAVC-104]
 半[半]	ban4	NU: half [PAVC-104]
 杯[杯]	bei1	M: cup of [PAVC-104]
@@ -126,8 +116,6 @@
 找钱[找錢]	zhao3qian2	VO: to give change back to someone after a purchase [PAVC-104]
 枝[枝]	zhi1	M: measure word for stick-like things [PAVC-104]
 种[種]	zhong3	M: kind, type [PAVC-104]
-
-// AV Chinese/Book 1/Lesson 5
 爸爸[爸爸]	ba4ba5	N: father [PAVC-105]
 杯子[杯子]	bei1zi5	N: cup [PAVC-105]
 伯伯[伯伯]	bo2bo5	N: uncle, father's elder brother, polite title for elderly gentleman (…b…) [PAVC-105] [PAVC-411] 
@@ -165,8 +153,6 @@
 张[張]	zhang1	N, M, V: a common Chinese surname [PAVC-102]; a measure word for photograph, paper, table, etc. [PAVC-105]; to open, to stretch [PAVC-401]
 这些[這些]	zhei4xie1	DEM: these (…i…) [PAVC-105]
 子[子]	zi5	P: a noun suffix [PAVC-105]
-
-// AV Chinese/Book 1/Lesson 6
 百[百]	bai3	NU: hundred [PAVC-106]
 表[錶]	biao3	N: watch (also 手～) [PAVC-106]
 大[大]	da4	SV: to be big, to be large [PAVC-106]
@@ -195,8 +181,6 @@
 真[真]	zhen1	A: really [PAVC-106]
 知道[知道]	zhi1dao4	V: to know [PAVC-106]
 只[只]	zhi3	A: only [PAVC-106]
-
-// AV Chinese/Book 1/Lesson 7
 会[會]	hui4	AV, N: can, know how to [PAVC-107]; will, shall [PAVC-301]; meeting, party [PAVC-211]
 菜[菜]	cai4	N: food, cuisine [PAVC-107]
 唱[唱]	chang4	V: to sing [PAVC-107]
@@ -238,8 +222,6 @@
 做[做]	zuo4	V: to do, to make (character with 古) [PAVC-107]
 做饭[做飯]	zuo4fan4	VO: to cook food (…f…) [PAVC-107]
 做事[做事]	zuo4shi4	VO: to take care of things, to do things, to do work [PAVC-107]
-
-// AV Chinese/Book 1/Lesson 8
 爱[愛]	ai4	V, AV: to love; be apt to [PAVC-108]
 不错[不錯]	bu2cuo4	SV: to be not bad, pretty good [PAVC-108]
 不一定[不一定]	bu4yi2ding4	A: uncertain, not for sure, not necessarily [PAVC-108]
@@ -273,8 +255,6 @@
 因为[因為]	yin1wei4	MA: because [PAVC-108]
 有钱[有錢]	you3qian2	SV: to have money, to be rich [PAVC-108]
 最[最]	zui4	A: the most, -est [PAVC-108]
-
-// AV Chinese/Book 1/Lesson 9
 边[邊]	bian1	N (PW): side (also ～兒) [PAVC-109]
 大楼[大樓]	da4lou2	N: big building, skyscraper [PAVC-109]
 地[地]	di4	N: the earth, land soil; (～上) ground [PAVC-109]
@@ -330,8 +310,6 @@
 这边[這邊]	zhei4bian1	N (PW): here, over here (…i…) [PAVC-109]
 桌[桌]	zhuo1	BF: table [PAVC-109]
 桌子[桌子]	zhuo1zi5	N: table [PAVC-109]
-
-// AV Chinese/Book 1/Lesson 10
 船[船]	chuan2	N: ship, boat (also ～兒) [PAVC-110]
 从[從]	cong2	CV: from [PAVC-110]
 到[到]	dao4	V, CV: to reach, to arrive; to leave for [PAVC-110]
@@ -381,8 +359,6 @@
 走路[走路]	zou3lu4	VO, PT: to walk (on a road or street) [PAVC-110]; to fire someone, to dismiss someone from a job (叫～、請～) [PAVC-308]
 昨天[昨天]	zuo2tian1	MA, N (TW): yesterday [PAVC-110]
 坐[坐]	zuo4	V, CV: to sit, to travel, "sit" on a plane, boat, or train, etc.; to go by … [PAVC-110]
-
-// AV Chinese/Book 1/Lesson 11
 吧[吧]	ba5	P: question particle, implying probability; sentence suffix, indicating a request [PAVC-111]
 班[班]	ban1	N, M: class; measure for a group [PAVC-111], measure word for regularly scheduled means of transport [PAVC-411]
 别[別]	bie2	A: don't [PAVC-111]
@@ -424,8 +400,6 @@
 站[站]	zhan4	V, N: to stand; train or bus station [PAVC-111]
 钟[鐘]	zhong1	N: clock [PAVC-111]
 钟头[鐘頭]	zhong1tou2	N: hour (z…) [PAVC-111]
-
-// AV Chinese/Book 1/Lesson 12
 办[辦]	ban4	V: to handle, to manage [PAVC-112]
 笔试[筆試]	bi3shi4	N: written test [PAVC-112]
 春季[春季]	chun1ji4	MA, N (TW): spring (…j…) [PAVC-112]
@@ -480,14 +454,8 @@
 住[住]	zhu4	V: to stay, to lie [PAVC-112]
 最近[最近]	zui4jin4	MA: recently, lately [PAVC-112]
 首[首]	shou3	M: measure word for poems and songs [PAVC-112] [PAVC-401]
-
-// AV Chinese/Book 1/Extra
 阿姨[阿姨]	a1yi2	N: mother's sister [PAVC-105]
-爱美[愛美]	Ai4mei3	N: transliteration of an English given name (Amy) [PAVC-101]
 伯母[伯母]	bo2mu3	N: aunt, wife of father's elder brother [PAVC-105] [PAVC-411]
-大卫[大衛]	Da4wei4	N: transliteration of an English given name (David) [PAVC-101]
-大文[大文]	Da4wen2	N: a Chinese male given name (Dawen) [PAVC-105]
-东尼[東尼]	Dong1ni2	N: transliteration of an English given name (Tony) [PAVC-105]
 耳朵[耳朵]	er3duo5	N: ear (M: 隻, 對) [PAVC-107] [PAVC-402]
 果汁[果汁]	guo3zhi1	N: fruit juice (M: 種, 杯, 盒) [PAVC-104] [PAVC-414]
 汉堡[漢堡]	han4bao3	N: Hamburg [PAVC-311]; hamburger (also ～包, second character also written 飽) [PAVC-104] [PAVC-512]
@@ -502,12 +470,8 @@
 啤酒[啤酒]	pi2jiu3	N: beer (M: 杯, 瓶, 罐 or 桶) [PAVC-104] [PAVC-406]
 墙[牆]	qiang2	N: wall [PAVC-109]
 三明治[三明治]	san1ming2zhi4	N: sandwich [PAVC-104] [PAVC-414]
-淑芳[淑芳]	Shu2fang1	N: a Chinese female given name (Shufang) [PAVC-102]
 袜子[襪子]	wa4zi5	N: socks, stockings (M: 隻 or 雙) [PAVC-104] [PAVC-406]
-珍妮[珍妮]	Zhen1ni2	N: transliteration of an English given name (Jenny) [PAVC-101]
 只[隻]	zhi1	M: measure word for one of a pair, and also for certain animals, and for boats [PAVC-105] [PAVC-313]
-
-// AV Chinese/Book 2/Lesson 1
 病[病]	bing4	N: illness, disease; (～人) patient [PAVC-201]
 病了[病了]	bing4le5	V: to become ill [PAVC-201]
 不必[不必]	bu2bi4	A: don't have to, need not [PAVC-201]
@@ -546,8 +510,6 @@
 医生[醫生]	yi1sheng1	N: doctor [PAVC-201]
 怎么了[怎麼了]	zen3me5le5	IE: what's wrong? [PAVC-201]
 周末[週末]	zhou1mo4	N: weekend (also written without the 辶 radical) [PAVC-201] [PAVC-308]
-
-// AV Chinese/Book 2/Lesson 2
 百货公司[百貨公司]	bai3huo4gong1si1	N: department store [PAVC-202]
 帮[幫]	bang1	V: to help, to assist [PAVC-202]
 帮忙[幫忙]	bang1mang2	VO: to help someone do something [PAVC-202]
@@ -585,8 +547,6 @@
 直[直]	zhi2	SV, A: to be straight, continuously [PAVC-202]
 转[轉]	zhuan3	V: to turn [PAVC-202]
 左[左]	zuo3	N: left (also ～邊) [PAVC-202]
-
-// AV Chinese/Book 2/Lesson 3
 饱[飽]	bao3	SV: to be full (after eating) [PAVC-203]
 叉[叉]	cha1	BF: fork [PAVC-203]
 叉子[叉子]	cha1zi5	N: fork [PAVC-203]
@@ -630,8 +590,6 @@
 鱼[魚]	yu2	N: fish (also ～兒) [PAVC-203]
 这么[這麼]	zhe4me5	A: so, like this [PAVC-203]
 自己[自己]	zi4ji3	N: oneself, by oneself [PAVC-203]
-
-// AV Chinese/Book 2/Lesson 4
 本来[本來]	ben3lai2	MA: originally [PAVC-204]
 次[次]	ci4	M: measure word for action or affair's time [PAVC-204]
 从前[從前]	cong2qian2	MA (TW): formerly, in the past, used to [PAVC-204]
@@ -666,8 +624,6 @@
 邮差[郵差]	you2chai1	N: mail carrier, postman [PAVC-204]
 中学[中學]	zhong1xue2	N: middle school [PAVC-204]
 字条[字條]	zi4tiao2	N: a note [PAVC-204]
-
-// AV Chinese/Book 2/Lesson 5
 矮[矮]	ai3	SV: to be short (antonym: gāo) [PAVC-205]
 办法[辦法]	ban4fa3	N: method, way of doing something [PAVC-205]
 笨[笨]	ben4	SV: to be stupid [PAVC-205]
@@ -709,8 +665,6 @@
 语法[語法]	yu3fa3	N: grammar [PAVC-205]
 语言[語言]	yu3yan2	N: language [PAVC-205]
 重[重]	zhong4	SV: to be heavy [PAVC-205]
-
-// AV Chinese/Book 2/Lesson 6
 搬[搬]	ban1	V: to move [PAVC-206]
 搬家[搬家]	ban1jia1	VO: to move (one's house) [PAVC-206]
 场[場]	chang3	BF: site, spot, field [PAVC-206]
@@ -749,8 +703,6 @@
 需要[需要]	xu1yao4	V, AV, N: to need, to require; need to; need, requirement [PAVC-206]
 页[頁]	ye4	M: measure word for page [PAVC-206]
 有空[有空]	you3kong4	VO: to have free time, to be free (also ～兒) [PAVC-206]
-
-// AV Chinese/Book 2/Lesson 7
 把[把]	ba3	CV: used to draw attention to the object, rather than the subject of a sentence [PAVC-207]
 不用[不用]	bu2yong4	AV, V: need not, don't have to [PAVC-207]
 车房[車房]	che1fang2	N: garage [PAVC-207]
@@ -790,8 +742,6 @@
 脏[髒]	zang1	SV: to be dirty [PAVC-207]
 最好[最好]	zui4hao3	A: best, better to [PAVC-207]
 录[錄]	lu4	V: to record, to copy [PAVC-207] [PAVC-401]
-
-// AV Chinese/Book 2/Lesson 8
 白[白]	bai2	N, SV: white, to be white [PAVC-208]; A: in vain, to no effect [PAVC-405]
 部分[部分]	bu4fen4	M, N: part, section (last character also written with the 亻 radical) [PAVC-208]
 草[草]	cao3	N: grass [PAVC-208]
@@ -832,8 +782,6 @@
 住校[住校]	zhu4xiao4	VO: to live at school [PAVC-208]
 总是[總是]	zong3shi4	A: always, without exception [PAVC-208] [PAVC-301]
 化妆[化妝]	hua4zhuang1	VO, N: to put on make-up; make-up [PAVC-208] [PAVC-401]
-
-// AV Chinese/Book 2/Lesson 9
 包[包]	bao1	V, M: to wrap, to contain; package of, parcel of [PAVC-209]
 冰[冰]	bing1	N, SV: ice, to be frozen [PAVC-209]
 冰箱[冰箱]	bing1xiang1	N: refrigerator [PAVC-209]
@@ -870,8 +818,6 @@
 纸[紙]	zhi3	N: paper [PAVC-209]
 装[裝]	zhuang1	V: to fill, to load [PAVC-209]; to install, to load, pack, fill [PAVC-305]
 准备[準備]	zhun3bei4	V, N: to prepare, to intend; preparations [PAVC-209]
-
-// AV Chinese/Book 2/Lesson 10
 干净[乾淨]	gan1jing4	SV: to be clean (also written with the 冫 radical) [PAVC-210]
 白天[白天]	bai2tian1	N: daytime [PAVC-210]
 打球[打球]	da3qiu2	VO: to play or hit a ball, to play ball (basketball, tennis, etc.) games [PAVC-210]
@@ -905,8 +851,6 @@
 长[長]	zhang3	V: to grow (up) [PAVC-210]
 著[著]	zhao2	RE: used at the end of a verb to indicate success or attainment [PAVC-210]
 眼镜[眼鏡]	yan3jing4	N: glasses, spectacles (M: 副) [PAVC-210] [PAVC-401]
-
-// AV Chinese/Book 2/Lesson 11
 会[會]	hui4	AV, N: can, know how to [PAVC-107]; will, shall [PAVC-301]; meeting, party [PAVC-211]
 包子[包子]	bao1zi5	N: steamed pork bun [PAVC-211]
 鼻子[鼻子]	bi2zi5	N: nose [PAVC-211]
@@ -946,8 +890,6 @@
 正[正]	zheng4	A: just (now), right (now) [PAVC-211]
 祝[祝]	zhu4	V: to wish (someone good health, good luck, etc.), to offer good wishes [PAVC-211]
 嘴[嘴]	zui3	N: mouth [PAVC-211]
-
-// AV Chinese/Book 2/Lesson 12
 报警[報警]	bao4jing3	VO: to report something to the police [PAVC-212]
 被[被]	bei4	CV: passive voice indicator [PAVC-212]
 不见了[不見了]	bu2jian4le5	IE: (something) is gone [PAVC-212]
@@ -976,8 +918,6 @@
 银行[銀行]	yin2hang2	N: bank [PAVC-212]
 摘[摘]	zhai1	V: to take off, to pick, to pluck [PAVC-212]
 重要[重要]	zhong4yao4	SV: to be important, to be vital [PAVC-212]
-
-// AV Chinese/Book 2/Lesson 13
 毕业[畢業]	bi4ye4	VO: to graduate from school [PAVC-213]
 才[才]	cai2	A: not until, only then, only, merely [PAVC-213]
 打工[打工]	da3gong1	VO: to have a part-time job [PAVC-213]
@@ -1003,8 +943,6 @@
 研究所[研究所]	yan2jiu4suo3	N: graduate school [PAVC-213]
 院子[院子]	yuan4zi5	N: courtyard, compound, yard [PAVC-213] [PAVC-408]
 越来越[越來越]	yue4lai2yue4	PT: more and more [PAVC-213]
-
-// AV Chinese/Book 2/Extra
 棒球[棒球]	bang4qiu2	N: baseball [PAVC-210] [PAVC-312]
 炒饭[炒飯]	chao3fan4	N: fried rice [PAVC-203]
 炒面[炒麵]	chao3mian4	N: fried noodles [PAVC-203]
@@ -1031,8 +969,6 @@
 头痛[頭痛]	tou2tong4	N, V: headache; to have a headache (…to…) [PAVC-201]
 原子笔[原子筆]	yuan2zi3bi3	N: ball-point pen [PAVC-203]
 足球[足球]	zu2qiu2	N: football (soccer) (V: 踢) [PAVC-210] [PAVC-403]
-
-// AV Chinese/Book 3/Lesson 1
 电梯[電梯]	dian4ti1	N: elevator, lift (M: 部) [PAVC-301]
 楼梯[樓梯]	lou2ti1	N: stairs [PAVC-301]
 幸会[幸會]	xing4hui4	IE: "It is a pleasure to meet you!" [PAVC-301]
@@ -1059,7 +995,6 @@
 兴趣[興趣]	xing4qu4	N: interest [PAVC-301]
 有兴趣[有興趣]	you3xing4qu4	SV: to be interested, to have an interest in [PAVC-301]
 选[選]	xuan3	V: to select, choose [PAVC-301]
-建国[建國]	Jian4guo2	N: popular given name (Jianguo) [PAVC-301]
 伟立[偉立]	Wei3li4	N: transliteration of an English given name (William) [PAVC-301]
 地理杂志[地理雜誌]	Di4li3 Za2zhi4	N: National Geographic Magazine (國家～) [PAVC-301]
 关系[關係]	guan1xi4	N: relationship [PAVC-301]
@@ -1091,8 +1026,6 @@
 移民[移民]	yi2min2	V, N: to migrate; an immigrant [PAVC-301]
 有趣[有趣]	you3qu4	SV: interesting, fascinating, amusing [PAVC-301]
 总是[總是]	zong3shi4	A: always, without exception [PAVC-208] [PAVC-301]
-
-// AV Chinese/Book 3/Lesson 2
 速食面[速食麵]	su4shi2mian4	N: instant noodles [PAVC-302]
 半夜[半夜]	ban4ye4	N: midnight, in the middle of the night [PAVC-302]
 北京[北京]	Bei3jing1	N: Beijing, Peking [PAVC-302]
@@ -1165,8 +1098,6 @@
 帐单[帳單]	zhang4dan1	N: a bill (at a restaurant, shop, etc.) (M: 張) [PAVC-302]
 猪[豬]	zhu1	N: pig, hog, swine [PAVC-302]
 猪肉[豬肉]	zhu1rou4	N: pork [PAVC-302]
-
-// AV Chinese/Book 3/Lesson 3
 哎哟[哎喲]	ai1yao1	I: an interjection indicating surprise or discontent [PAVC-303]
 办公室[辦公室]	ban4gong1shi4	N: office (M: 間) [PAVC-303]
 表[表]	biao3	N: table, form, list (M: 張) [PAVC-303]
@@ -1252,8 +1183,6 @@
 资料[資料]	zi1liao4	N: materials, data, information [PAVC-303]
 租[租]	zu1	V: to rent [PAVC-303]
 租出去[租出去]	zu1chu1qu4	RC: to rent out [PAVC-303]
-
-// AV Chinese/Book 3/Lesson 4
 帮助[幫助]	bang1zhu4	V, N: to help, assist, aid; assistance, aid [PAVC-304]
 包裹[包裹]	bao1guo3	N: parcel, package [PAVC-304]
 病从口入[病從口入]	bing4cong2kou3ru4	"illness comes through the mouth" [PAVC-304]
@@ -1326,8 +1255,6 @@
 值得[值得]	zhi2de2	SV, A: to be worthwhile; worth (doing something) [PAVC-304]
 值钱[值錢]	zhi2qian2	SV, VO: to be valuable, costly [PAVC-304]
 指[指]	zhi3	V: to point at, to point to, to point out [PAVC-304]
-
-// AV Chinese/Book 3/Lesson 5
 变[變]	bian4	V: to change, become different, to transform [PAVC-305]
 变化[變化]	bian4hua4	N: change, transformation [PAVC-305]
 并[並]	bing4	A: used before a negative for emphasis [PAVC-305]
@@ -1399,8 +1326,6 @@
 装暖气[裝暖氣]	zhuang1nuan3qi4	VO: to equip with heating [PAVC-305]
 准时[準時]	zhun3shi2	A, SV: to be punctual, on time [PAVC-305]
 资源[資源]	zi1yuan2	N: resource [PAVC-305]
-
-// AV Chinese/Book 3/Lesson 6
 报告[報告]	bao4gao4	V, N: to report, to make sth known; a report (written or spoken) [PAVC-306]
 背[背]	bei4	V, N: to memorize, to learn by heart, to recite from memory; the back of the body, the back of an object [PAVC-306]
 被动[被動]	bei4dong4	SV: to be passive [PAVC-306]
@@ -1473,8 +1398,6 @@
 自动自发[自動自發]	zi4dong4zi4fa1	IE: self-motivated and spontaneous [PAVC-306]
 做法[做法]	zuo4fa3	N: way of doing things [PAVC-306]
 作业[作業]	zuo4ye4	N: homework [PAVC-306]
-
-// AV Chinese/Book 3/Lesson 7
 表弟[表弟]	biao3di4	N: younger male cousin (on mother's side or paternal aunt's side) [PAVC-307]
 表哥[表哥]	biao3ge1	N: older male cousin (on mother's side or paternal aunt's side) [PAVC-307]
 表姐[表姐]	biao3jie3	N: older female cousin (on mother's side or paternal aunt's side) [PAVC-307]
@@ -1561,8 +1484,6 @@
 中心[中心]	zhong1xin1	N: center, heart, central point [PAVC-307]
 注意[注意]	zhu4yi4	V: to pay attention to, to take notice of [PAVC-307]
 专科学校[專科學校]	zhuan1ke1xue2xiao4	N: technical college, vocational school [PAVC-307]
-
-// AV Chinese/Book 3/Lesson 8
 摆[擺]	bai3	V: to display, spread out, place [PAVC-308]
 摆地摊[擺地攤]	bai3di4tan1	VO: to display goods for sale on a mat out on the street [PAVC-308]
 笨[笨]	ben4	SV: to be stupid [PAVC-205]
@@ -1640,8 +1561,6 @@
 周末[週末]	zhou1mo4	N: weekend (also written without the 辶 radical) [PAVC-201] [PAVC-308]
 赚[賺]	zhuan4	V: to earn, to make a profit [PAVC-308]
 走路[走路]	zou3lu4	VO, PT: to walk (on a road or street) [PAVC-110]; to fire someone, to dismiss someone from a job (叫～、請～) [PAVC-308]
-
-// AV Chinese/Book 3/Lesson 9
 冰淇淋[冰淇淋]	bing1qi2lin2	N: ice cream [PAVC-309]
 不修边幅[不修邊幅]	bu4xiu1bian1fu2	IE: untidy, untidy in dress [PAVC-309]
 层[層]	ceng2	M: floor, storey [PAVC-309]
@@ -1700,8 +1619,6 @@
 正好[正好]	zheng4hao3	A: happen to, chance to, as it happens … [PAVC-309]
 追[追]	zhui1	V: to pursue, chase after [PAVC-309]
 嘴巴[嘴巴]	zui3ba1	N: mouth (M: 張) [PAVC-309]
-
-// AV Chinese/Book 3/Lesson 10
 场[場]	chang3	BF: site, spot, field [PAVC-206]
 抱歉[抱歉]	bao4qian4	IE, SV: sorry; to be sorry, to regret [PAVC-310]
 抱[抱]	bao4	V: to hug, to embrace, to hold or carry in one's arms [PAVC-310]
@@ -1790,8 +1707,6 @@
 国民大会[國民大會]	Guo2min2 Da4hui4	N: National Assembly [PAVC-310]
 监察院[監察院]	Jian1cha2yuan4	N: Control Yuan (a central government body in Taiwan) [PAVC-310]
 监察委员[監察委員]	jian1cha2wei3yuan2	N: member of the Control Yuan (a central government body in Taiwan) [PAVC-310]
-
-// AV Chinese/Book 3/Lesson 11
 多少[多少]	duo1shao3	NU (QW), A: how much? how many? [PAVC-104]; how many, how much, more or less, somewhat [PAVC-311]
 汉堡[漢堡]	han4bao3	N: Hamburg [PAVC-311]; hamburger (also ～包, second character also written 飽) [PAVC-104] [PAVC-512]
 运动[運動]	yun4dong4	N, V: sport, exercise; to exercise [PAVC-210]; movement, campaign, drive (political, social, etc.) [PAVC-311]
@@ -1891,8 +1806,6 @@
 宛平[宛平]	Wan3ping2	N: a walled city-fortress near Beijing (Wanping) [PAVC-311]
 北平[北平]	Bei3ping2	N: historic name of Beijing (Beiping) [PAVC-311]
 国民党[國民黨]	Guo2min2dang3	N: Nationalist Party (KMT) [PAVC-311]
-
-// AV Chinese/Book 3/Lesson 12
 棒球[棒球]	bang4qiu2	N: baseball [PAVC-210] [PAVC-312]
 比[比]	bi3	V, CV: to compare; compared to, than [PAVC-205]; V: indicating the different scores won by two contestants or two contesting teams [PAVC-312]
 放[放]	fang4	V: to put, to release [PAVC-201]; to let go, set free, release; to place, put [PAVC-312]
@@ -1984,8 +1897,6 @@
 捐钱[捐錢]	juan1qian2	VO: to contribute, donate money [PAVC-312]
 捐[捐]	juan1	V: to contribute, to donate [PAVC-312]
 中华队[中華隊]	Zhong1hua2dui4	N: official name of the Taiwanese (Republic of China) team at international sports events [PAVC-312]
-
-// AV Chinese/Book 3/Lesson 13
 春节[春節]	Chun1jie2	N: Chinese New Year (Lunar New Year, Spring Festival) [PAVC-112] [PAVC-313]
 过[過]	guo4	V, CV: to pass [PAVC-111] (an occasion) [PAVC-313]; a suffix indicating completion of an action, or completion of an action as an experience [PAVC-204]   
 过节[過節]	guo4jie2	VO: to celebrate a festival or holiday [PAVC-313]
@@ -2073,8 +1984,6 @@
 感恩节[感恩節]	Gan3en1jie2	N: Thanksgiving Day [PAVC-313]
 圣诞节[聖誕節]	Sheng4dan4jie2	N: Christmas [PAVC-313]
 望弥撒[望彌撒]	wang4mi2sa1	VO: to attend a (Catholic) mass [PAVC-313]
-
-// AV Chinese/Book 3/Lesson 14
 扣[扣]	kou4	V: to deduct [PAVC-306]; to buckle up [PAVC-314]
 洛杉矶[洛杉磯]	Luo4shan1ji1	N: Los Angeles [PAVC-202] [PAVC-314]
 奶奶[奶奶]	nai3nai5	N: grandma, grandmother (father's mother) [PAVC-307] [PAVC-314]
@@ -2196,8 +2105,6 @@
 浪漫[浪漫]	lang4man4	SV: to be romantic [PAVC-314]
 秀[秀]	xiu4	N: the equivalent of 'show' (as a performance or a political publicity stunt in 政治～) [PAVC-314]
 录音带[錄音帶]	lu4yin1dai4	N: casette tape, audio tape (M: 卷) [PAVC-314] [PAVC-401]
-
-// AV Chinese/Book 3/Extra
 刻[刻]	ke4	M: a quarter of an hour [PAVC-111]; to carve [PAVC-313]
 主题[主題]	zhu3ti2	N: topic, theme, motif, proposition [PAVC-301]
 语助词[語助詞]	yu3zhu4ci2	N: grammatical particle [PAVC-301]
@@ -2541,8 +2448,6 @@
 花莲[花蓮]	Hua1lian2	N: city and port in eastern Taiwan (Hualian) [PAVC-314]
 热带[熱帶]	re4dai4	N: the tropics, tropical area [PAVC-314]
 观光[觀光]	guan1guang1	VO: to go on a sight-seeing, to visit, to tour [PAVC-314]
-
-// AV Chinese/Book 4/Lesson 1
 怪[怪]	guai4	SV, V: to be strange, to be odd, to be queer, to be unusual [PAVC-212]; to blame [PAVC-401]
 节目[節目]	jie2mu4	N: program, item on a program (on the TV) [PAVC-108]; N: program, events (of entertainment, etc.) [PAVC-401]
 张[張]	zhang1	N, M, V: a common Chinese surname [PAVC-102]; a measure word for photograph, paper, table, etc. [PAVC-105]; to open, to stretch [PAVC-401]
@@ -2642,8 +2547,6 @@
 陆康[陸康]	Lu4 Kang1	N: Lu Kang [PAVC-401]
 同学会[同學會]	tong2xue2hui4	N: student association (as in 臺灣～) [PAVC-401]
 京剧[京劇]	Jing1ju4	N: Beijing Opera [PAVC-401]
-
-// AV Chinese/Book 4/Lesson 2
 休闲活动[休閒活動]	xiu1xian2huo2dong4	N: leisure activities [PAVC-402]
 休闲生活[休閒生活]	xiu1xian2sheng1huo2	N: recreational life, activities away from work [PAVC-402]
 休闲服[休閒服]	xiu1xian2fu2	N: casual wear, sports wear [PAVC-402]
@@ -2716,8 +2619,6 @@
 随意[隨意]	sui2yi4	N: according to one's wishes [PAVC-402]
 平衡感[平衡感]	ping2heng2gan3	N: sense of equilibrium [PAVC-402]
 珊瑚[珊瑚]	shan1hu2	N: coral [PAVC-402]
-
-// AV Chinese/Book 4/Lesson 3
 耳朵[耳朵]	er3duo5	N: ear (M: 隻, 對) [PAVC-107] [PAVC-402]
 跟[跟]	gen1	CV, CONJ, V: with; and [PAVC-110]; to follow, to accompany [PAVC-403]
 红[紅]	hong2	N, SV: red, to be red [PAVC-208]; SV: to be very popular, to be eminent, influential [PAVC-403]
@@ -2809,8 +2710,6 @@
 世界杯[世界杯]	Shi4jie4bei1	N: World Cup (Football: ～足球大賽)  [PAVC-403]
 巴西[巴西]	Ba1xi1	N: Brazil [PAVC-403]
 国语[國語]	guo2yu3	N: "national language", the name of Chinese Mandarin in Taiwan [PAVC-403]
-
-// AV Chinese/Book 4/Lesson 4
 动画[動畫]	dong4hua4	N: anime, animation [PAVC-313] [PAVC-404]
 电影院[電影院]	dian4ying3yuan4	N: cinema, movie theater [PAVC-314] [PAVC-404]
 对白[對白]	dui4bai2	N: dialog (in a film or play) [PAVC-404]
@@ -2890,8 +2789,6 @@
 功夫[功夫]	gong1fu1	N: kung fu [PAVC-404]
 金马影展[金馬影展]	Jin1ma3 Ying3zhan3	N: Golden Horse Film Festival in Taipei [PAVC-404]
 金马奖[金馬獎]	Jin1ma3jiang3	N: Golden Horse Award, awarded at the the same-named film festival in Taipei [PAVC-404]
-
-// AV Chinese/Book 4/Lesson 5
 白[白]	bai2	N, SV: white, to be white [PAVC-208]; A: in vain, to no effect [PAVC-405]
 见面[見面]	jian4mian4	VO: to meet someone, to see someone [PAVC-204] [PAVC-405]
 笑话[笑話]	xiao4hua4	N, V: joke; to laugh at, to ridicule [PAVC-211] [PAVC-405]
@@ -2968,8 +2865,6 @@
 旗袍[旗袍]	qi2pao2	N: traditional Chinese dress for women, dating from the Qing dynasty, originally worn in Manchuria (M: 件) [PAVC-405] [PAVC-414]
 雅音小集[雅音小集]	Ya3yin1 Xiao3ji2	N: modern theatrical group performing Peking Opera (Yayin Xiaoji)
 欲望城国[慾望城國]	Yu4wang4 Cheng2guo2	N: Kingdom of Desire, a theatrical play by the Contemporary Legend Theater from Taiwan, adapted from Shakespeare's Macbeth (Yuwang Chengguo) [PAVC-405]
-
-// AV Chinese/Book 4/Lesson 6
 啤酒[啤酒]	pi2jiu3	N: beer (M: 杯, 瓶, 罐 or 桶) [PAVC-104] [PAVC-406]
 袜子[襪子]	wa4zi5	N: socks, stockings (M: 隻 or 雙) [PAVC-104] [PAVC-406]
 回教[回教]	Hui2jiao4	N: Islam [PAVC-313] [PAVC-406]
@@ -3072,8 +2967,6 @@
 快克[快克]	kuai4ke4	N: crack (a narcotic) [PAVC-406]
 接著[接著]	jie1zhe5	V: to follow, to carry on, to continue (j…z…) [PAVC-406]
 继续[繼續]	ji4xu4	V: to continue, to go on (j…x…) [PAVC-406] [PAVC-408]
-
-// AV Chinese/Book 4/Lesson 7
 花[花]	hua1	N: flower (also ～兒) [PAVC-208]; SV: to be fond of women, to be a womanizer [PAVC-407]
 毛[毛]	mao2	M, N: dime, ten cents [PAVC-104]; fair, fur, bristles [PAVC-407]
 套[套]	tao4	M: measure word for a set of books, clothes, furniture, stamps, dishes, equipment, etc. [PAVC-208] [PAVC-407]
@@ -3159,8 +3052,6 @@
 即使[即使]	ji2shi3	A: even if, even though [PAVC-407]
 优生保健[優生保健]	you1sheng1bao3jian4	N: Eugenics (sic!) and Healthcare Act, a law legalizing abortion in Taiwan in 1985 (～法) [PAVC-407]
 爱滋病[愛滋病]	ai4zi1bing4	N: AIDS [PAVC-407]
-
-// AV Chinese/Book 4/Lesson 8
 院子[院子]	yuan4zi5	N: courtyard, compound, yard [PAVC-213] [PAVC-408]
 继续[繼續]	ji4xu4	V: to continue, to go on (j…x…) [PAVC-406] [PAVC-408]
 地位[地位]	di4wei4	N: position, status [PAVC-408]
@@ -3245,8 +3136,6 @@
 可靠[可靠]	ke3kao4	SV: to be reliable, to be dependable [PAVC-408]
 努力[努力]	nu3li4	N, A, SV, V: diligent, hard work, great effort; industriously, energetically; to be industrious; to work hard, to make a great effort, to exert oneself, to strive diligently [PAVC-408]
 盖[蓋]	gai4	V: to cover, to cover with, to build [PAVC-408] [PAVC-413]
-
-// AV Chinese/Book 4/Lesson 9
 笔[筆]	bi3	N: pen [PAVC-103]; M: measure word for amounts of money [PAVC-409]
 叔叔[叔叔]	shu2shu5	N: uncle, father's younger brother [PAVC-409]
 夸奖[誇獎]	kua1jiang3	N, V: praise (by someone of a higher position to someone of a lower position); to praise, command [PAVC-409]
@@ -3337,8 +3226,6 @@
 减租[減租]	jian3zu1	VO: to reduce, to lower rent; (三七五～) a 1951 law in Taiwan lowering the cost of farmland lease [PAVC-409]
 公地放领[公地放領]	gong1di4fang4ling3	N: the sale of public land to farmers without property in Taiwan since 1952 [PAVC-409]
 劳动基准[勞動基準]	lao2dong4ji1zhun3	N: (～法) Labor Standards Act, a 1984 law in Taiwan [PAVC-409]
-
-// AV Chinese/Book 4/Lesson 10
 对面[對面]	dui4mian4	N (PW): the other side, place across from [PAVC-207]; right in front, opposite or facing side [PAVC-410]
 开[開]	kai1	V: to drive, to open, to turn on [PAVC-110]; to bloom, to blossom [PAVC-208]; to hold an event [PAVC-211]; to fill out, to write out, to issue [PAVC-410]
 情形[情形]	qing2xing2	N: situation, condition, circumstances, state of affairs (…x…) [PAVC-307] [PAVC-410]
@@ -3438,8 +3325,6 @@
 千万[千萬]	qian1wan4	A: by all means, definitely (for imperative sentences) [PAVC-410]
 系[繫]	ji4	V: to bind, to tie (also pronounced xì) [PAVC-410]
 系安全带[繫安全帶]	xi4an1quan2dai4	VO: to fasten the seat belt, to buckle up [PAVC-410]
-
-// AV Chinese/Book 4/Lesson 11
 班[班]	ban1	N, M: class; measure for a group [PAVC-111], measure word for regularly scheduled means of transport [PAVC-411]
 伯伯[伯伯]	bo2bo5	N: uncle, father's elder brother, polite title for elderly gentleman (…b…) [PAVC-105] [PAVC-411] 
 伯母[伯母]	bo2mu3	N: aunt, wife of father's elder brother [PAVC-105] [PAVC-411]
@@ -3528,8 +3413,6 @@
 词汇[詞彙]	ci2hui4	N: vocabulary [PAVC-411]
 山西[山西]	Shan1xi1	N: Shanxi, province in China between Hebei (河北) and Shaanxi (陝西) [PAVC-411]
 马桶[馬桶]	ma3tong1	N: toilet, nightstool [PAVC-411]
-
-// AV Chinese/Book 4/Lesson 12
 该[該]	gai1	AV: should [PAVC-112]; CV(-N): it's …'s turn [PAVC-412]; DEM: the (as a determiner) [PAVC-520]
 地球[地球]	di4qiu2	N: Earth, the globe [PAVC-314] [PAVC-407]
 掉[掉]	diao4	V: to fall, to drop; to lose [PAVC-404]; RC: resultative compound used as a complement to certain verbs, expressing a state of fulfilment or completion [PAVC-412]
@@ -3626,8 +3509,6 @@
 污染防制[污染防制]	wu1ran3fang2zhi4	N: pollution prevention, contamination avoidance, (空氣～法) 1974 Air Pollution Prevention Act [PAVC-412]
 宝[寶]	bao3	N: transliteration of the chemical prefix poly-, used in names of many polymers [PAVC-412]
 宝特[寶特]	bao3te4	N: polyethylene terephthalate (PET, short name) [PAVC-412]
-
-// AV Chinese/Book 4/Lesson 13
 让[讓]	rang4	CV, V: used in a passive sentence structure to introduce the agent; to let, to allow, to permit, to make [PAVC-212]; to give way, to give in [PAVC-413]
 俗话[俗話]	su2hua4	N: common saying [PAVC-308] [PAVC-413]
 照[照]	zhao4	V: to photograph [PAVC-106]; N: (～片) photograph; A: as usual, as before, as of old (followed by a verb) [PAVC-413]; V: to reflect, to mirror [PAVC-518]
@@ -3713,8 +3594,6 @@
 熟[熟]	shou2	SV, RE: to be familiar, to be cooked, to be ripe, to be practiced [PAVC-413]
 二十四孝[二十四孝]	Er4shi2si4 Xiao4	N: Twenty-Four Filial Exemplars, a classic text from the times of the Yuan dynasty [PAVC-413]
 华盛顿[華盛頓]	Hua2sheng4dun4	N: transliteration of Washington [PAVC-413]
-
-// AV Chinese/Book 4/Lesson 14
 带[帶]	dai4	V: to bring [PAVC-207]; to take care of a child, to bring up the young [PAVC-308]; PT: and, while, as well as, both … and … (indicating two nearly simultaneous actions) (連 … ～ … ) [PAVC-414]
 果汁[果汁]	guo3zhi1	N: fruit juice (M: 種, 杯, 盒) [PAVC-104] [PAVC-414]
 连[連]	lian2	PT: even (～ … 都) [PAVC-302]; and, while, as well as, both … and … (indicating two nearly simultaneous actions) (～ … 帶 … ) [PAVC-414]
@@ -3800,8 +3679,6 @@
 司徒[司徒]	Si1tu2	N: Chinese two-character surname (Situ) [PAVC-414]
 诸葛[諸葛]	Zhu1ge3	N: Chinese two-character surname (Zhuge) [PAVC-414]
 拱手[拱手]	gong3shou3	VO: to greet by joining hands together and lifting forearms slightly
-
-// AV Chinese/Book 4/Extra
 警告标志[警告標誌]	jing3gao4biao1zhi4	N: warning traffic sign [PAVC-410]
 禁止标志[禁止標誌]	jin4zhi3biao1zhi4	N: prohibitory traffic sign [PAVC-410]
 遵行标志[遵行標誌]	zun1xing2biao1zhi4	N: mandatory traffic sign [PAVC-410]
@@ -4150,8 +4027,6 @@
 拾葚供亲[拾葚供親]	Shi2shen4gong1qin1	N: "Leave Better food for the Mother," one of the Twenty Four Filial Exemplars (二十四孝), a story about a man who kept the better mulberries for his mother and only ate the worse flavor himself [PAVC-413]
 筒[筒]	tong3	N: tube; (垃圾~) trash chute [PAVC-412]
 用不著[用不著]	yong4bu4zhao2	RC: there is no need to … or for … [PAVC-413]
-
-// AV Chinese/Book 5/Lesson 1
 穷[窮]	qiong2	SV: to be poor, to be poverty-stricken [PAVC-413]; A: continuously or exhaustively [PAVC-501]
 忍耐[忍耐]	ren3nai4	V, N: to exercise patience and self-restraint, to be patient; patience, self-restraint [PAVC-501]
 住宅区[住宅區]	zhu4zhai2qu1	N: residential area [PAVC-501]
@@ -4184,8 +4059,6 @@
 货比三家[貨比三家]	huo4bi3san1jia1	PV: to compare before buying something, shop around before making a purchase (～不吃虧) [PAVC-501]
 学一次乖[學一次乖]	xue2yi2ci4guai1	PV: take this as a lesson (for next time), learn from one's mistakes (上一次當～) [PAVC-501]
 得不偿失[得不償失]	de2bu4chang2shi1	PV: the loss outweighs the gain, not worth the effort or price [PAVC-501]
-
-// AV Chinese/Book 5/Lesson 2
 拜年[拜年]	bai4nian2	VO: to pay a New Year call, to wish a Happy New Year [PAVC-405] [PAVC-502]
 世纪[世紀]	shi4ji4	N: century [PAVC-412] [PAVC-502]
 腊月[臘月]	la4yue4	N: twelfth month of the Chinese lunar year [PAVC-502]
@@ -4220,8 +4093,6 @@
 接二连三[接二連三]	jie1er4lian2san1	PV: continously, one after another, repeatedly [PAVC-502]
 岁岁平安[歲歲平安]	sui4sui4ping2an1	PV: safe and sound year after year, can also be heard as "smashed safe and sound" (碎碎～) [PAVC-502]
 张灯结彩[張燈結綵]	zhang1deng1jie2cai3	PV: to be decorated with lanterns and colored hangings for a joyous occasion [PAVC-502]
-
-// AV Chinese/Book 5/Lesson 3
 阶段[階段]	jie1duan4	N: stage, phase [PAVC-503]
 正规[正規]	zheng4gui1	AT: standard, regular, orthodox [PAVC-503]
 强调[強調]	qiang2diao4	V: to stress, to emphasize (q…) [PAVC-503]
@@ -4256,8 +4127,6 @@
 一言一行[一言一行]	yi1yan2yi1xing2	PV: everything one says and does, one's words and actions [PAVC-503]
 形形色色[形形色色]	xing2xing2se4se4	PV: of every description, of all shapes and colors, of great variety and diversity [PAVC-503]
 得心应手[得心應手]	de2xin1ying4shou3	PV: to handle with ease, to be in one's element [PAVC-503]
-
-// AV Chinese/Book 5/Lesson 4
 向往[嚮往]	xiang4wang3	V: to aspire to, to long for [PAVC-504]
 古迹[古蹟]	gu3ji1	N: historic site, place of historic interest [PAVC-504]
 存款[存款]	cun2kuan3	N: savings in a bank [PAVC-504]
@@ -4295,8 +4164,6 @@
 青天霹雳[青天霹靂]	qing1tian1pi1li4	PV: bolt from the blue, great and sudden shock, completely unexpected occurrence (version with 晴 as first character also possible) [PAVC-504]
 徒劳无功[徒勞無功]	tu2lao2wu2gong1	PV: all one's attempts proved futile, to labor in vain, to work without achieving anything [PAVC-504]
 寸步难行[寸步難行]	cun4bu4nan2xing2	PV: unable to move a single step, hard to walk even an inch [PAVC-504]
-
-// AV Chinese/Book 5/Lesson 5
 奥林匹克[奧林匹克]	Ao4lin2pi1ke4	N: Olympics [PAVC-312] [PAVC-505]
 瞩目[矚目]	zhu3mu4	V, N: to watch or stare at with great interest, to eagerly look at, to take great interest in [PAVC-505]
 选手[選手]	xuan3shou3	N: candidate, selected contestant or player in sports [PAVC-505]
@@ -4333,8 +4200,6 @@
 五环[五環]	Wu3huan2	N: Five Rings, the symbol of the Olympic Games [PAVC-505]
 摩拳擦掌[摩拳擦掌]	mo2quan2ca1zhang3	PV: to be eager for a fight or to compete, to get ready for a fight, to be eager to start on a task, to chafe at the bit [PAVC-505]
 世界大同[世界大同]	shi4jie4da4tong2	PV: universal brotherhood of all people as one family under the sky (～天下一家) [PAVC-505]
-
-// AV Chinese/Book 5/Lesson 6
 趋势[趨勢]	qu1shi4	N: a trend [PAVC-506]
 繁忙[繁忙]	fan2mang2	SV: to be toilsome, to be hassling, to be vexing, to be overburdening [PAVC-506]
 舒展[舒展]	shu1zhan3	V: to unwind, to stretch, to limber, to relax [PAVC-506]
@@ -4370,8 +4235,6 @@
 援助[援助]	yuan2zhu4	V: to provide assistance to [PAVC-506]
 受难[受難]	shou4nan4	V: to suffer [PAVC-506]
 别人受惠[別人受惠]	bie2ren2shou4hui4	PV: (when one is happy) others benefit (自己快樂～) [PAVC-506]
-
-// AV Chinese/Book 5/Lesson 7
 拒[拒]	ju4	V: to refuse, to reject [PAVC-507]
 二手烟[二手菸]	er4shou3yan1	N: second-hand smoke, the smoke that one breathes as a result of someone else smoking nearby [PAVC-507]
 灵感[靈感]	ling2gan3	N: inspiration [PAVC-507]
@@ -4405,8 +4268,6 @@
 提神醒脑[提神醒腦]	ti2shen2xing3nao3	PV: to arouse and stimulate, to invigorate and keep the mind clear [PAVC-507]
 消愁解闷[消愁解悶]	xiao1chou2jie3men4	PV: to eliminate sorrow and dissipate worry, to cheer up [PAVC-507]
 自我安慰[自我安慰]	zi4wo3an1wei4	PV: to comfort oneself, to console oneself, to reassure oneself [PAVC-507]
-
-// AV Chinese/Book 5/Lesson 8
 遗弃[遺棄]	yi2qi4	V: to abandon, to forsake, to leave uncared for [PAVC-508]
 服刑[服刑]	fu2xing2	VO: to serve a prison term [PAVC-508]
 刻板[刻板]	ke4ban3	AT, SV: stereotype; to be inflexible [PAVC-508]
@@ -4439,8 +4300,6 @@
 创痛[創痛]	chuang1tong4	N: emotional hurt or wound [PAVC-508]
 开创[開創]	kai1chuang4	V: to initiate, to start [PAVC-508]
 第二春[第二春]	di4er4chun1	N: second spring, rebirth, second chance [PAVC-508]
-
-// AV Chinese/Book 5/Lesson 9
 生活观[生活觀]	sheng1huo2guan1	N: lifestyle, attitude towards life [PAVC-509]
 具有[具有]	ju4you3	V: to possess, to have (j…) [PAVC-509]
 特质[特質]	te4zhi2	N: characteristics, peculiarities, special qualities [PAVC-509]
@@ -4479,8 +4338,6 @@
 量入为出[量入為出]	liang4ru4wei2chu1	PV: to regulate expenses according to income, to limit one's expenses [PAVC-509]
 不时之需[不時之需]	bu4shi2zhi1xu1	PV: to prepare for the unexpected, to save against any eventuality (以備～) [PAVC-509]
 怕入错行[怕入錯行]	pa4ru4cuo4hang2	PV: to fear entering the wrong profession or getting into the wrong line of business (for men, 男～) [PAVC-509]
-
-// AV Chinese/Book 5/Lesson 10
 尖兵[尖兵]	jian1bing1	N: protector, guardian [PAVC-510]
 清醒[清醒]	qing1xing3	SV, V: to be sane, to be clear-headed; to come to one's senses, to regain consciousness [PAVC-510]
 刻意[刻意]	ke4yi4	A: to do something with very close attention in order to achieve perfection or success, to painstakingly strive for perfection and success [PAVC-510]
@@ -4526,8 +4383,6 @@
 以身作则[以身作則]	yi3shen1zuo4ze2	PV: to set an example by one's own actions [PAVC-510]
 耳濡目染[耳濡目染]	er3ru2mu4ran3	PV: to be thoroughly influenced or imbued with what one frequently sees and hears [PAVC-510]
 自然而然[自然而然]	zi4ran2er2ran2	PV: natural consequences, a matter of course [PAVC-510]
-
-// AV Chinese/Book 5/Lesson 11
 后天[後天]	hou4tian1	MA (TW), N (TW): the day after tomorrow [PAVC-210]; AT: acquired [PAVC-511]
 遗传[遺傳]	yi2chuan2	N: heredity, inheritance, genetics [PAVC-412] [PAVC-511]
 体质[體質]	ti3zhi2	N: physical condition [PAVC-511]
@@ -4561,8 +4416,6 @@
 平安无事[平安無事]	ping2an1wu2shi4	PV: safe and sound, without any mishaps, in good order [PAVC-511]
 药补[藥補]	yao4bu3	PV: benefits of medicine (are not as great as those of good nutrition, ～不如食補) [PAVC-511]
 君一席话[君一席話]	jun1yi4xi2hua4	PV: listening to the words of a wise man can be superior to studying ten years' worth of books (聽～勝讀十年書) [PAVC-511]
-
-// AV Chinese/Book 5/Lesson 12
 汉堡[漢堡]	han4bao3	N: Hamburg [PAVC-311]; hamburger (also ～包, second character also written 飽) [PAVC-104] [PAVC-512]
 素食[素食]	su4shi2	N: vegetarian, vegetarian food [PAVC-512]
 招牌[招牌]	zhao1pai2	N: signboard, sign [PAVC-512]
@@ -4603,8 +4456,6 @@
 保平安[保平安]	bao3ping2an1	PV: vegetables and tofu have the nutrients necessary for good health (literally, vegetables and tofu keep things safe and sound, 青菜豆腐～) [PAVC-512]
 青青淡淡[青青淡淡]	qing1qing1dan4dan4	PV: light, delicate, simple [PAVC-512]
 口腹之欲[口腹之慾]	kou3fu4zhi1yu4	PV: to have a great appetite [PAVC-512]
-
-// AV Chinese/Book 5/Lesson 13
 容量[容量]	rong2liang4	N: capacity (as for computer memory), storage [PAVC-409] [PAVC-513]
 携带[攜帶]	xi1dai4	V: to carry, to take [PAVC-513]
 问世[問世]	wen4shi4	V: to come out, to be released to the public for the first time, to be published for the first time, to be released to the market [PAVC-513]
@@ -4639,8 +4490,6 @@
 无敌[無敵]	Wu2di2	N: Besta (brand of electronic dictionaries) [PAVC-513]
 哈电族[哈電族]	Ha1dian4zu2	N: Hot Tech (brand of electronic dictionaries) [PAVC-513]
 推陈出新[推陳出新]	tui1chen2chu1xin1	PV: to weed through the old in search of the new, to find new ways of doing things using old theories, to find something new in what is old, to improve upon something [PAVC-513]
-
-// AV Chinese/Book 5/Lesson 14
 饱和[飽和]	bao3he2	N, SV, V: saturation; to be saturated; to saturate [PAVC-514]
 潜力[潛力]	qian2li4	N: potential, latent capacity, potentiality [PAVC-514]
 风潮[風潮]	feng1chao2	N: wave (of fashion, for example) [PAVC-514]
@@ -4676,8 +4525,6 @@
 生意兴隆[生意興隆]	sheng1yi4xing1long2	PV: business is brisk, business is booming [PAVC-514]
 出手阔绰[出手闊綽]	chu1shou3kuo4chuo4	PV: to spend extravagantly, to throw money around, to waste money (literally, to leave one's hand like spillling water) [PAVC-514]
 讨价还价[討價還價]	tao3jia4huan2jia4	PV: to bargain, to haggle over a price [PAVC-514]
-
-// AV Chinese/Book 5/Lesson 15
 保守[保守]	bao3shou3	SV: to be conservative [PAVC-407]
 新潮[新潮]	xin1chao2	SV, AT: to be trendy, to be avant-garde [PAVC-515]
 尖端[尖端]	jian1duan1	N, AT: the most advanced, cutting-edge, state-of-the-art [PAVC-515]
@@ -4717,8 +4564,6 @@
 忧患意识[憂患意識]	you1huan4yi4shi4	PV: to be conscious of one's troubles or worries [PAVC-515]
 旦夕祸福[旦夕禍福]	dan4xi4huo4fu2	PV: unpredictable twists of fate chhanging one's fortune (literally, fortune and misfortune arise between dawn and dusk) [PAVC-515]
 维持现状[維持現狀]	wei2chi2xian4zhuang4	PV: to maintain the status quo [PAVC-515]
-
-// AV Chinese/Book 5/Lesson 16
 出[齣]	chu1	M: measure word for dramatic pieces [PAVC-405]
 掌中戏[掌中戲]	zhang3zhong1xi4	N: hand-puppet performance, puppet show (z…, also 布袋戲) [PAVC-516]
 茶艺[茶藝]	cha2yi4	N: the art of preparing tea [PAVC-516]
@@ -4766,8 +4611,6 @@
 陆羽[陸羽]	Lu4 Yu3	N: a Tang dynasty man particularly fond of tea, who wrote 茶經, a book about tea (Lu Yu) [PAVC-516]
 茶经[茶經]	Cha2jing1	N: book touching on various aspects of cultivating and drinking tea, dating from the Tang dynasty (Chajing) [PAVC-516]
 戏梦人生[戲夢人生]	Xi4meng4 Ren2sheng1	N: 1993 Taiwanese movie by 侯孝賢 (The Puppetmaster) [PAVC-516]
-
-// AV Chinese/Book 5/Lesson 17
 午[午]	wu3	BF: noon, midday [PAVC-110]; N: 7th of the Twelve Terrestrial Branches, symbolized by the horse (馬) [PAVC-517]
 陆地[陸地]	lu4di4	N: dry land [PAVC-314] [PAVC-517]
 生肖[生肖]	sheng1xiao4	N: one or all of the twelve symbols or signs of the Chinese horoscope, each of these signs is represented by an animal, different every year in a twelve-year cycle [PAVC-517]
@@ -4831,8 +4674,6 @@
 天蝎座[天蠍座]	Tian1xie1zuo4	N: Scorpio (Scorpion), Western astrological sign (October 24-November 22) [PAVC-517]
 射手座[射手座]	She4shou3zuo4	N: Sagittarius (Archer), Western astrological sign (November 23-December 21) [PAVC-517]
 摩羯座[摩羯座]	Mo2jie2zuo4	N: Capricorn (Goat), Western astrological sign (December 22-January 20) [PAVC-517]
-
-// AV Chinese/Book 5/Lesson 18
 演变[演變]	yan3bian4	V, N: to develop and change, to evolve [PAVC-518]
 铜器[銅器]	tong2qi4	N: copperware, brassware, bronzeware [PAVC-518]
 墨[墨]	mo4	N: ink, ink stick [PAVC-518]
@@ -4879,8 +4720,6 @@
 楷书[楷書]	kai3shu1	N: regular script [PAVC-518]
 行书[行書]	xing2shu1	N: running script, running hand, one of the major categories of Chinese calligraphy [PAVC-518]
 草书[草書]	cao3shu1	N: cursive style in calligraphy, running hand, current handwriting [PAVC-518]
-
-// AV Chinese/Book 5/Lesson 19
 颗[顆]	ke1	M: measure word for small, round things (teeth in particular) [PAVC-406]
 宇宙[宇宙]	yu3zhou4	N: universe, cosmos [PAVC-519]
 星球[星球]	xing1qiu2	N: celestial body (for example, a planet) [PAVC-519]
@@ -4914,8 +4753,6 @@
 南斯拉夫[南斯拉夫]	Nan2si1la1fu1	N: Yugoslavia [PAVC-519]
 人满为患[人滿為患]	ren2man3wei2huan4	PV: overpopulation problem, to suffer from overcrowding [PAVC-519]
 无穷无尽[無窮無盡]	wu2qiong2wu2jin4	PV: inexhaustible, endless [PAVC-519]
-
-// AV Chinese/Book 5/Lesson 20
 该[該]	gai1	AV: should [PAVC-112]; CV(-N): it's …'s turn [PAVC-412]; DEM: the (as a determiner) [PAVC-520]
 救济[救濟]	jiu4ji4	V, N: to provide relief, to relieve, to succor [PAVC-520]
 自立[自立]	zi4li4	AT: able to stand on one's own, self-supporting, independent, self-sustainable [PAVC-520]
@@ -4954,8 +4791,6 @@
 破坏无遗[破壞無遺]	po4huai4wu2yi2	PV: to be damaged beyond repair, to be unrecoverably mined [PAVC-520]
 有恃无恐[有恃無恐]	you3shi4wu2kong3	PV: there is no fear when one has something to fall back upon, to be fearless because of strong backing [PAVC-520]
 以工代赈[以工代賑]	yi3gong1dai4zhen4	PV: public-work projects giving the poor and unemployed an opportunity to earn a living, to relieve people in disaster areas by giving them employment instead of an outright grant (literally, to use work as a relief) [PAVC-520]
-
-// AV Chinese/Book 5/Extra
 成[成]	cheng2	V, PV, RE: to become, to turn into, to complete; to V as; a resultative ending indicating success, completion, or accomplishment of an action [PAVC-306]; M: one tenth [PAVC-519]
 也[也]	ye3	A: also [PAVC-102]; P: used in classical Chinese at the end of sentence or a phrase [PAVC-518]
 照[照]	zhao4	V: to photograph [PAVC-106]; N: (～片) photograph; A: as usual, as before, as of old (followed by a verb) [PAVC-413]; V: to reflect, to mirror [PAVC-518]
@@ -6051,8 +5886,6 @@
 长处[長處]	chang2chu4	N: forté, strong point, good point [PAVC-504]
 节选[節選]	jie2xuan3	V: to excerpt [PAVC-504]
 杂记[雜記]	za2ji4	N: jottings, random notes, miscellanies [PAVC-504]
-
-// AV Chinese/TOP/Beginner
 本子[本子]	ben3zi5	N: book, notebook [TOP-B]
 遍[遍]	bian4	M: measure word for repetitive times and occurences [TOP-B]
 饼干[餅乾]	bing3gan1	N: biscuit, cracker, cookie [TOP-B]
@@ -6096,9 +5929,9 @@
 图[圖]	tu2	N: picture, drawing, chart, map [TOP-L]
 这样[這樣]	zhe4yang4	A, PRON: such, so, in that case; that kind of, like that (z…) [TOP-B]
 午餐[午餐]	wu3can1	N: lunch (…c…) [TOP-B]
-大声[大聲]	da4sheng1 	A, N: loud voice [TOP-B]
+大声[大聲]	da4sheng1	A, N: loud voice [TOP-B]
 帽[帽]	mao4	N: hat, cap, headgear (also ～子) [TOP-B]
-斤[斤]	jin1 	M: traditional unit of weight equal to 0.6 kg (in Taiwan, different in other countries) [TOP-B]
+斤[斤]	jin1	M: traditional unit of weight equal to 0.6 kg (in Taiwan, different in other countries) [TOP-B]
 红绿灯[紅綠燈]	hong2lü4deng1 	N: traffic light [TOP-B]
 老[老]	lao3 	SV: old, aged, venerable [TOP-B]
 起[起]	qi3 	V: to stand up, to get up, to lift, to rise [TOP-B]
@@ -6107,8 +5940,6 @@
 电[電]	dian4 	N: electricity [TOP-B]
 饭店[飯店]	fan4dian4 	N: hotel, restaurant [TOP-B]
 马[馬]	ma3 	N: horse [TOP-B]
-
-// AV Chinese/TOP/Learner
 哎[哎]	ai1	P: particle indicating surprise or dissatisfaction [TOP-L]
 巴士[巴士]	ba1shi4	N: bus [TOP-L]
 饼[餅]	bing3	N: (round, flat) cake [TOP-L]
@@ -6259,8 +6090,6 @@
 难看[難看]	nan2kan4	SV: to be ugly, to be unsightly [TOP-L]
 领[領]	ling3	V: to get, to receive [TOP-L]
 体育[體育]	ti3yu4	N: physical education or training, sports [TOP-L]
-
-// AV Chinese/TOP/Superior
 甲[甲]	jia3	N: 1st of the ten Celestial Stems, associated with wood (木) and the active side of nature (陽) [TOP-S]
 乙[乙]	yi3	N: 2nd of the ten Celestial Stems, associated with wood (木) and the passive side of nature (陰) [TOP-S]
 丙[丙]	bing3	N: 3rd of the ten Celestial Stems, associated with fire (火) and the active side of nature (陽) [TOP-S]
@@ -6516,8 +6345,6 @@
 肮脏[骯髒]	ang1zang1	SV: to be dirty [TOP-S]
 灵魂[靈魂]	ling2hun2	N: soul, spirit [TOP-S]
 黏[黏]	nian2	SV, V: to be sticky, to be glutinous; to glue, to stick, to paste [TOP-S]
-
-// AV Chinese/TOP/Master
 上旬[上旬]	shang4xun2	N: first ten days of the month [TOP-M]
 下旬[下旬]	xia4xun2	N: last ten days of the month [TOP-M]
 不懈[不懈]	bu2xie4	SV: to persevere, to be untiring [TOP-M]
