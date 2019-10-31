@@ -22,7 +22,7 @@ if __name__ == "__main__":
                 fout = open(fname, 'w', encoding="utf-8")
                 print("Words {:04d} to {:04d}".format(line_num, line_num+99), file=fout)
                 print("===", file=fout)
-                print("Write in GR.", file=fout)
+                print("Words {:04d} to {:04d}. Write in GR.".format(line_num, line_num+99), file=fout)
                 print("===", file=fout)
                 
             if len(line) < 5 or line.startswith("//"):

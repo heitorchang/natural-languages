@@ -1,6 +1,6 @@
 Words 6201 to 6300
 ===
-Write in GR.
+Words 6201 to 6300. Write in GR.
 ===
 N: match [TOP-S]*huoo chair
 N: machine, machinery, mechanism [TOP-S]*ji shieh

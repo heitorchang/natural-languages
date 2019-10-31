@@ -1,6 +1,6 @@
 Words 5901 to 6000
 ===
-Write in GR.
+Words 5901 to 6000. Write in GR.
 ===
 N: flower garden [TOP-B]*hua yuan
 CONJ: or, either … or … [TOP-B]*huoh
