@@ -1,0 +1,104 @@
+Words 0001 to 0100
+===
+Write in GR.
+===
+P: an interrogative final particle, used when answer is assumed; a phrase final particle, indicates affirmation, exclamation, etc.*.a
+A: not*buh
+IE: what is your last name?*guey shinq
+N: country, nation*gwo
+SV: to be good, well ; A: very, quite*hao
+N: Chinese or foreign citizen of Chinese origin*hwa ren
+V: to be called, to call*jiaw
+N: a common Chinese surname (Li)*lii
+P: question particle*.ma
+SV: to be beautiful*meei
+N: USA, America*meei gwo
+N: American*meei gwo ren
+N: given name*ming tzyh
+QW: which?*naa
+PN: you*nii
+PN: you (formal usage)*nin
+N: person*ren
+QW: who? whom?*sheir
+QW: what?*shern .me
+V: to be (am, are, is)*shyh
+PN: he, him; she, her*ta
+PN: she, her*ta
+N: Taiwan (first character also written 台)*tair uan
+N: common Chinese surname (Wang)*wang
+PN: I, me*woo
+N: Mr, Sir, gentleman, husband*shian sheng
+V, N: surname, family name*shinq
+N: England, English*ing gwo
+N: China*jong gwo
+SV: to be good, well ; A: very, quite*hao
+IE: long time no see*hao jeou bwu jiann
+A: very*heen
+V: to see, to meet*jiann
+SV: to be a long time*jeou
+SV: to be cold*leeng
+SV: to be busy*mang
+BF: used after pronouns 我, 你, 他, or certain nouns denoting persons to indicate plurality*.men
+PN: you (plural)*nii .men
+V: to go*chiuh
+SV: to be hot*reh
+VO: to go to class, to attend a class*shanq keh
+PN: they, them*ta .men
+A: too*tay
+N: Mrs, wife*tay .tai
+N: weather*tian chih
+PN: we, us*woo .men
+N: Ms*sheau jiee
+V: to thank, thank you*shieh .shie
+A: also ; P: used in classical Chinese at the end of sentence or a phrase*yee
+IE: goodbye (literally: 'see you again') ; N: ～全壘打 a game-ending home run (in baseball)*tzay jiann
+IE, SV: good morning, to be early*tzao
+N, M, V: a common Chinese surname ; a measure word for photograph, paper, table, etc. ; to open, to stretch*jang
+N: Chinese surname (Zhao)*jaw
+DEM: this*jeh
+DEM: this (…i)*jey
+N: newspaper (also ～紙)*baw
+N: pen ; M: measure word for amounts of money*bii
+N: vehicle, car*che
+N: Germany*der gwo
+N: TV, TV set*diann shyh
+N: movie*diann yiing
+N: thing*dong shi
+V: to understand*doong
+A: all, both*dou
+BF: transliteration of the 'F' in 'France'*faa
+N: France, French*faa gwo
+SV: to be expensive*guey
+SV: to be good-looking*hao kann
+N: Chinese language*hwa wen
+V: to watch, to read, to look at*kann
+A: but, however*kee shyh
+V: to buy*mae
+A: not; (～有) not have*mei
+N: automobile, car*chih che
+N: Japan*ryh been
+N: Japanese language*ryh wen
+N: book*shu
+N: written language*wen
+V, AV: to like*shii huan
+V, AV: to want*yaw
+N: English language*ing wen
+V: to have; there is, there are*yeou
+N: Chinese language*jong wen
+NU: eight*ba
+NU: half*bann
+M: cup of*bei
+M: volume, measure word for books, notebooks, etc.*been
+SV, A (QW): many, more ; how SV? (often used in an exclamatory sentence indicating a high degree, 'How … !' or 'What a … !')*duo
+NU (QW), A: how much? how many? ; how many, how much, more or less, somewhat*duo shao
+NU: two*ell
+M: cent ; points, score (at an exam, in sports and contests, etc.)*fen
+M: used as an all-purpose measure word, especially before nouns that do not have a specific measure word of their own*.ge
+V, CV: to give ; for (the benefit), to*geei
+NU, QW: a few, several; how many?*jii
+NU: nine*jeou
+M: a piece of lump, measure word for money*kuay
+NU: two*leang
+NU: zero*ling
+N: change, coins*ling chyan
+NU: six*liow

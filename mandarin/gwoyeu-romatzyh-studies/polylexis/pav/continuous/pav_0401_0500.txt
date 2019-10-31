@@ -1,0 +1,104 @@
+Words 0401 to 0500
+===
+Write in GR.
+===
+N: clock*jong
+N: hour (z…)*jong tour
+V: to handle, to manage*bann
+N: written test*bii shyh
+MA, N (TW): spring (…j…)*chuen jih
+N: Chinese New Year (Lunar New Year, Spring Festival)*chuen jye
+MA, N (TW): spring (…t…)*chuen tian
+MA, N (TW): winter (…j…)*dong jih
+MA, N (TW): winter (…t…)*dong tian
+N: scenery, view, landscape*feng jiing
+AV: should ; CV(-N): it's …'s turn ; DEM: the (as a determiner)*gai
+A: just, recently*gang
+MA, N (TW): just now (second character can be replaced with 才)*gang gang
+N: nation, country*gwo jia
+A-NU: quite a few*hao jii
+M: measure word for numbers and dates*haw
+SV: to be anxious, rushing*jyi
+N, M: season*jih
+N: season*jih jye
+N, M: festival; section (for classes)*jye
+N: holiday*jye ryh
+MA, N (TW): this year*jin nian
+V: to see*kann daw
+V: to test*kao
+VO, N: to take a test; test, exam (k…)*kao shyh
+N: oral test*koou shyh
+M: measure for cars, buses, etc.*lianq
+N: hotel, inn*leu goan
+V, N: to travel, to take a trip*leu shyng
+MA, N (TW): next year*ming nian
+N, M: year*nian
+N: Europe*ou jou
+M: measure word for school semesters*chyi
+MA, N (TW): autumn, fall (…j…)*chiou jih
+MA, N (TW): autumn, fall (…t…)*chiou tian
+MA, N (TW): last year*chiuh nian
+N: time*shyr jian
+V: to try*shyh
+IE: to try and see*shyh shyh kann
+MA, N (TW): summer (…j…)*shiah jih
+MA, N (TW): summer (…t…)*shiah tian
+VO: to rain*shiah yeu
+MA, N (TW): new year*shin nian
+N: week*shing chyi
+SV: to be OK, to be permitted*shyng
+N, M: semester*shyue chyi
+AV: should, ought to*ing gai
+N: rain*yeu
+MA, N (TW): rainy season, monsoon season*yeu jih
+N: month*yueh
+IE: what now? what am I supposed to do now? what happens?*tzeen .me bann
+SV: to be nervous, anxious*jau jyi
+N: Mid-Autumn Festival*jong chiou jye
+V: to stay, to lie*juh
+MA: recently, lately*tzuey jinn
+M: measure word for poems and songs*shoou
+N: mother's sister*a yi
+N: aunt, wife of father's elder brother*bor muu
+N: ear (M: 隻, 對)*eel .duo
+N: fruit juice (M: 種, 杯, 盒)*guoo jy
+N: Hamburg ; hamburger (also ～包, second character also written 飽)*hann bao
+N: Chinese character*hann tzyh
+N: program, item on a program (on the TV) ; N: program, events (of entertainment, etc.)*jye muh
+N: elder sister (Taiwanese version, the dictionary pronunciation of this character is 'zǐ')*jiee .jie
+N: coffee*ka fei
+VO: to watch a basketball game*kann lan chyou say
+N: tiger*lao huu
+N: a pet name for a cat (Mimi)*mhi mhi
+N: New York*neou iue
+N: beer (M: 杯, 瓶, 罐 or 桶)*pyi jeou
+N: wall*chyang
+N: sandwich*san ming jyh
+N: socks, stockings (M: 隻 or 雙)*wah .tzy
+M: measure word for one of a pair, and also for certain animals, and for boats*jy
+N: illness, disease; (～人) patient*binq
+V: to become ill*binq .le
+A: don't have to, need not*bwu bih
+V: to hit, to beat, to strike*daa
+V: to plan*daa suann
+A: must, have to*deei
+V: to put, to release ; to let go, set free, release; to place, put*fanq
+VO: to have a holiday, vacation*fanq jiah
+SV, VO: to be at ease, not worry*fanq shin
+V, N: to have a cold; cold, flu*gaan maw
+SV: to be well again, recover; SV: to be ready*hao .le
+VO: to ski*hwa sheue
+SV: to be bad*huay
+SV: to be broken, ruined, out of order, spoiled*huay .le
+N: vacation, holiday*jiah
+A: just, exactly, only ; then, right away ; (indicating immediacy)*jiow
+A, SV, N: possibly; to be possible; possibility*kee neng
+N: week*lii bay
+N: Sunday (l…t…)*lii bay tian
+IE: never mind, it doesn't matter, it's nothing, that's all right*mei shyh .el
+N: mountain*shan
+VO: to become ill, to be sick*sheng binq
+SV: to be comfortable*shu fwu
+V: to calculate*suann
+A, SV: especially, to be special*teh bye
+V: to forget*wanq

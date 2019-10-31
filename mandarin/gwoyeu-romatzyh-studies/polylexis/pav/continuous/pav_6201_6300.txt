@@ -1,0 +1,104 @@
+Words 6201 to 6300
+===
+Write in GR.
+===
+N: match [TOP-S]*huoo chair
+N: machine, machinery, mechanism [TOP-S]*ji shieh
+N: cotton [TOP-S]*mian
+N: quilt with cotton wadding [TOP-S]*mian bey
+N: cotton [TOP-S]*mian hua
+N: chess, a chess-like game, any piece used in a board game  [TOP-S]*chyi
+VO: to play chess [TOP-S]*shiah chyi
+N: rifle, gun [TOP-S]*chiang
+N: file, record, dossier, archives [TOP-S]*daang ann
+V: to browbeat, to take advantage of, to pick on [TOP-S]*chi fuh
+V: to cheat, to dupe [TOP-S]*chi piann
+V: to have a rest or a stop at work, to go to bed [TOP-S]*shie
+SV: to be askew, to be crooked, to be inclined, to be devious, to be underhand [TOP-S]*uai
+V: to completely lack [TOP-S]*haur wu
+CV: along [TOP-S]*yan
+N: bathroom, shower room [TOP-S]*yuh shyh
+N: blood [TOP-S]*shiee yeh
+A, N, V: transitional; intermediate state or stage; to ferry a stream [TOP-S]*guoh duh
+V: to roll, to trundle, to get away, to beat it [TOP-S]*goen
+N: soybean milk [TOP-S]*dow jiang
+SV: to be clean and tidy, to be neat [TOP-S]*jeeng jye
+N: profit [TOP-S]*lih ruenn
+V: to pour liquid on, to sprinkle water on, to irrigate, to water, to cast [TOP-S]*jiau
+V: to filtrate [TOP-S]*guoh liuh
+SV: to be gray [TOP-S]*huei
+N: gray, ashy, pessimistic, gloomy [TOP-S]*huei seh
+SV: to lose heart, to be discouraged [TOP-S]*huei shin
+N: panda [TOP-S]*shyong mhau
+V: to boil, to stew, to decoct, to endure, to hold out, to stay up late or the whole night [TOP-S]*aur
+V: to light, to kindle, to ignite [TOP-S]*dean ran
+N: fuel [TOP-S]*ran liaw
+V: to burn [TOP-S]*ran shau
+N: candle [TOP-S]*lah jwu
+SV: to be firm, to be durable [TOP-S]*lau
+N: discontent, complaint, grumble [TOP-S]*lau sau
+V: to pull, to lead along by holding a hand or halter [TOP-S]*chian
+N: wolf, greedy and cruel person [TOP-S]*lang
+SV: to be fierce, to be valiant, to be fearsome, to be severe [TOP-S]*meeng
+N: prison, jail [TOP-S]*jian yuh
+V: to gain, to acquire, to win, to achieve [TOP-S]*huoh der
+N: rose [TOP-S]*mei guei
+N: ceramics, pottery and porcelain [TOP-S]*taur tsyr
+V: to move backward and forward, to throw, to leave someone behind, to throw off [TOP-S]*shoai
+N: disease, illness [TOP-S]*jyi binq
+N: mark, trace, vestige [TOP-S]*hern ji
+V: to tickle, to itch [TOP-S]*yeang
+N: soap [TOP-S]*feir tzaw
+N: flowerpot, pot, planter [TOP-S]*hua pern
+M: measure word for the contents of a basin [TOP-S]*pern
+V: to gaze or stare at [TOP-S]*ding
+VO: to be sleepless, to suffer from insomnia [TOP-S]*shy mian
+V: to open the eyes [TOP-S]*jeng
+RC: to open the eyes [TOP-S]*jeng kai
+SV: to become blind, to become tangled (of thread) [TOP-S]*shia
+V: to see, to look at [TOP-S]*chyau
+N: cannon, firecracker, big gun [TOP-S]*paw
+V: to pound, to ram, to break, to smash, to fail, to bungle [TOP-S]*tzar
+N: magnetic tape [TOP-S]*tsyr day
+N: base, foundation [TOP-S]*ji chuu
+N: obstacle, barrier [TOP-S]*janq ay
+V: to hinder, to block, to impede, to bar [TOP-S]*tzuu ay
+N: secret (first character also written with the 礻 radical) [TOP-S]*mih mih
+N: secretary (first character also written with the 礻 radical) [TOP-S]*mih shu
+SV: to be mysterious, to be mystical [TOP-S]*shern mih
+N: order, sequence, arrangement [TOP-S]*jyh shiuh
+N: harvest, gains, results [TOP-S]*shou huoh
+N: symbol, mark, code, diacritic mark, sign, signal, notation, token, insignia [TOP-S]*fwu haw
+V: to accord or tally with, to conform to [TOP-S]*fwu her
+N: arrow [TOP-S]*jiann
+N, V: building, structure, edifice, architecture; to build, to construct, to erect [TOP-S]*jiann jwu
+M: measure word for small, hard things, such as sand, grain or medicine [TOP-S]*lih
+V: to glue, to stick, to paste [TOP-S]*nian
+N: gruel, porridge, congee [TOP-S]*jou
+N: grain, cereals, food [TOP-S]*liang shyr
+V: to correct, to redress [TOP-S]*jiou jenq
+A: one after another, in succession, numerous and in great confusion [TOP-S]*fen fen
+V: to stitch, to sew [TOP-S]*ferng
+N: rope, string [TOP-S]*sherng .tzy
+N: wing [TOP-S]*chyh baang
+V: to play a role or tricks, to flourish a sword [TOP-S]*shoa
+V: to consume, to waste time, to dawdle [TOP-S]*haw
+V: to delay, to hold up [TOP-S]*dan wuh
+V: to engage, to invite [TOP-S]*pinn chiing
+N: liver [TOP-S]*gan
+N: neck [TOP-S]*bor .tzy
+VO: to lose temper, to get angry [TOP-S]*fa pyi chih
+N: disposition, temperament, temper [TOP-S]*pyi chih
+N: toothpaste [TOP-S]*ya gau
+SV: to be audacious, to be bold, to be daring [TOP-S]*dah daan
+N: courage, guts [TOP-S]*daan lianq
+N: heart [TOP-S]*shin tzanq
+N: tongue [TOP-S]*sher .tou
+M: measure word for vessels of considerable size [TOP-S]*sau
+N: germ, bacterium [TOP-S]*shih jiunn
+N: spinach [TOP-S]*bo tsay
+N: tea leaves [TOP-S]*char yeh
+N: leaves of trees [TOP-S]*shuh yeh
+N: leaf [TOP-S]*yeh .tzy
+N: funeral rites, funeral [TOP-S]*tzanq lii
+N: honey [TOP-S]*feng mih

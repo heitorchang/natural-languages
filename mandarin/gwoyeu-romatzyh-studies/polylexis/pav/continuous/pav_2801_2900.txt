@@ -1,0 +1,104 @@
+Words 2801 to 2900
+===
+Write in GR.
+===
+N: artist*yih shuh jia
+N: the art world*yih shuh jieh
+AT: classical*guu dean
+N: ancient times, antiquity*guu day
+N: dictionary (M: 本)*tzyh dean
+N: ballet*ba leei wuu
+VO: to take a bath or shower*shii tzao
+N: bathroom*shii tzao jian
+N, V: basis, grounds; on the basis of, according to*gen jiuh
+N, V: commentary, assessment, appraisal; to give a comment, to comment on*pyng luenn
+N: standard, level*shoei joen
+V: to let a chance slip by, to miss out on*tsuoh guoh
+N: stage play*wuu tair jiuh
+VO: to get online*shanq shiann
+SV: to be aggravating, annoying, irritating*chih ren
+N: concert of vocal music; (熱門音樂…) concert of popular vocal music  (M: 場)*yean chanq huey
+N: popular music*reh men in yueh
+N: a singer's concert with autograph session*chian chanq huey
+N: jeans (M: 條)*niou tzae kuh
+N: cowboy*niou tzae
+N, SV: rule, regulation, etiquette, established practice; to be well-behaved*guei jeu
+SV: to be well-behaved, to be well-disciplined, to be well-mannered*yeou guei jeu
+N, V: stipulation, rule, regulation; V: to stipulate*guei dinq
+M: measure of how many times something happened (for example trips to a place)*tanq
+SV, V: to me remorseful; to regret, to repent*how hoei
+VO: to shake hands*woh shoou
+SV: to arouse attention, to cause excitement, to cause a sensation, to make a stir*hong donq
+N: subject, subject matter, material constituting the main theme of an article or composition*tyi tsair
+N, V: expression, manifestation; to express, to manifest, to show, to display*beau shiann
+N: impression*yinn shianq
+SV: to be deep*shen
+N, V: reference; to refer to, to use something for comparison, to consult*tsan kao
+N: reference book, reference*tsan kao shu
+N, SV: tradition, convention; to be traditional*chwan toong
+N: drama, theatre*shih jiuh
+N: play, theatrical performance (M: 場 or 齣)*shih
+M: measure word for dramatic pieces*chu
+N: opera*ge jiuh
+N: opera house*ge jiuh yuann
+A: once, formerly, previously, in the past*tserng jing
+CONJ: due to, because of, as a result of, owing to*you yu
+N, V: attempt, try; to attempt, to try*charng shyh
+V: to compose; to edit, to compile*bian
+N: script*jiuh been
+V: to employ, to use, to adopt*tsae yonq
+V: to accept; to receive*jie show
+N: example, case, instance*lih .tzy
+N: news media, broadcast media*chwan boh mei tii
+V: to spread, to disseminate news or information*chwan boh
+N: evaluation, appraisal*pyng jiah
+N: National Theatre*gwo jia jiuh yuann
+N: abstract painting*chou shianq huah
+SV: to be abstract*chou shianq
+N: popular song*liou shyng ge cheu
+N: idol*oou shianq
+P: particle used for imperative sentences to remind the listener to pay particular attention to a matter*o
+VO: to hang up the telephone*guah diann huah
+N: transliteration of Joseph Haydn's surname*hae duenn
+N: transliteration of Oscar*aw sy kaa
+VO: to pay a New Year call, to wish a Happy New Year*bay nian
+N: transliteration of Pablo Picasso's surname*bih kaa suoo
+N: Cloud Gate Theater, a modern dance group from Taipei (Yunmen Wuji)*yun men wuu jyi
+N: Contemporary Legend Theater (…劇場), a Taiwanese stage and opera company (Dangdai Chuanqi)*dang day chwan chyi
+N: transliteration of William Shakespeare's surname*sha shyh bii yea
+N: traditional Chinese dress for women, dating from the Qing dynasty, originally worn in Manchuria (M: 件)*chyi paur
+N: modern theatrical group performing Peking Opera (Yayin Xiaoji)*yea in sheau jyi
+N: Kingdom of Desire, a theatrical play by the Contemporary Legend Theater from Taiwan, adapted from Shakespeare's Macbeth (Yuwang Chengguo)*yuh wanq cherng gwo
+N: beer (M: 杯, 瓶, 罐 or 桶)*pyi jeou
+N: socks, stockings (M: 隻 or 雙)*wah .tzy
+N: Islam*hwei jiaw
+V: to swipe (a card) ; to brush*shua
+SV: to have a smelly, stinking, foul odour*chow
+N: pantyhose (M: 雙)*kuh wah
+V: to pour, to dump out*daw
+N: throat*hour long
+N, SV: pain, ache; to be painful*tonq
+SV: to be drunk, to be inebriated*tzuey
+M: measure word for for pails, buckets, barrels and kegs*toong
+SV: to be dizzy, to be faint*iun
+V: to get carsick*iun che
+V: to get seasick*iun chwan
+V: to get airsick*iun ji
+V: to vomit, to throw up, to regurgitate*tuu
+V: to spit*tuh
+N: skirt (M: 條)*chyun .tzy
+N: miniskirt (M: 條)*mi nii chyun
+N: party, social gathering*pay duey
+IE: to serve someone right, to bring something upon oneself*hwo gai
+VO: to smoke marijuana cigarettes*chou dah ma ian
+V: to smoke, inhale*chou
+N: marijuana cigarettes*dah ma ian
+VO: to smoke a cigarette*chou ian
+VO: to smoke a cigarette*shi ian
+N: cigarette (M: 條, 支, 包, 盒 or 根)*ian
+N: cigarette (M: 條, 支, 包, 盒 or 根)*ian
+N: cigarette (M: 條, 支, 包, 盒 or 根)*ian
+N: cigarette (M: 條, 支, 包, 盒 or 根)*shiang ian
+A, DEM: finally, in the end; the very last*tzuey how
+V: to take in, to consume narcotics*shi shyr
+V: to inhale, breathe in*shi

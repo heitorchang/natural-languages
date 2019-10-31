@@ -1,0 +1,104 @@
+Words 0101 to 0200
+===
+Write in GR.
+===
+M, N: dime, ten cents ; fair, fur, bristles*mau
+DEM: that*nah
+DEM: that (…i)*ney
+NU: seven*chi
+N: money ; a Chinese surname*chyan
+V: to please, to invite ; to hire someone to do something*chiing
+NU: three*san
+SV: few, less*shao
+NU: ten*shyr
+NU: four*syh
+M: polite measure word for people*wey
+NU: five*wuu
+NU: one*i
+A: in total, altogether*yi gonq
+V: to return change after a purchase ; V: to look for, search (also ～到)*jao
+VO: to give change back to someone after a purchase*jao chyan
+M: measure word for stick-like things*jy
+M: kind, type*joong
+N: father*bah .ba
+N: cup*bei .tzy
+N: uncle, father's elder brother, polite title for elderly gentleman (…b…)*bor .bo
+P: possesive or modifying particle*.de
+N: younger brother*dih .di
+SV, CV: to be correct ; to, toward, for*duey
+BF: son*erl
+N: son*erl .tzy
+P: a suffix, especially in Northern dialects*.el
+N: older brother*ge .ge
+N: dog*goou
+CONJ: or*hair shyh
+N: child*hair .tzy
+N: elder sister*jiee .jie
+N: teacher*lao shy
+N: mother*mha .ma
+N: cat*mhau
+N: younger sister*mey .mei
+BF: male*nan
+N: boy (also ～兒～)*nan hair .tzy
+N: boyfriend*nan perng yeou
+N: man*nan ren
+DEM: those (…i…)*ney shie
+BF: female*neu
+N: daughter*neu erl
+N: girl (also ～兒～)*neu hair .tzy
+N: girlfriend*neu perng yeou
+N: woman*neu ren
+N: friend; (小～) children*perng yeou
+N: photograph*shianq piann .el
+V: to study*shyue
+N: student*shyue sheng
+NU: some, a few*yih shie
+N: some, some of*yeou .de
+N, M, V: a common Chinese surname ; a measure word for photograph, paper, table, etc. ; to open, to stretch*jang
+DEM: these (…i…)*jey shie
+P: a noun suffix*.tzy
+NU: hundred*bae
+N: watch (also 手～)*beau
+SV: to be big, to be large*dah
+N: university*dah shyue
+N: TV set*diann shyh ji
+SV: to be enough (also ～了)*gow
+BF: machine*ji
+SV: to be old, to be used*jiow
+V: to feel, to think, to consider*jyue .de
+P: indicates excessiveness, change of state, or imminent action ; P: indicates completion of action*.le
+V: to sell*may
+SV: to be cheap*pyan yi
+NU: thousand*chian
+PH: excuse me, may I ask?*chiing wenn
+NU: ten thousand*wann
+V: to ask*wenn
+AV, V: to want to, to plan to; to think, to miss*sheang
+N: camera*shianq ji
+SV: to be small*sheau
+S, A: to be new; newly*shin
+N: school*shyue shiaw
+NU: one hundred million*yih
+SV: to be famous*yeou ming
+V: to photograph ; N: (～片) photograph; A: as usual, as before, as of old (followed by a verb) ; V: to reflect, to mirror*jaw
+N: camera (also written with 相)*jaw shianq ji
+A: really*jen
+V: to know*jy daw
+A: only*jyy
+AV, N: can, know how to ; will, shall ; meeting, party*huey
+N: food, cuisine*tsay
+V: to sing*chanq
+V: to eat; RC: (～飽) to eat one's fill; VO: (~飯) to have a meal*chy
+P: a particle used between a verb or adjective and its complement to indicate manner or degree*.de
+N: food, meal*fann
+N: song (last character can be omitted)*ge .el
+A: still, yet*hair
+SV: to be pleasant to listen to, pleasing to the ear, nice sounding*hao ting
+V: to drink*he
+V: to paint, to draw*huah
+N: words, spoken language*huah
+VO: to paint, to draw*huah huah .el
+N: painting, picture*huah .el
+V: to teach*jiau
+VO: to teach*jiau shu
+N: wine or liquor*jeou

@@ -1,0 +1,104 @@
+Words 5301 to 5400
+===
+Write in GR.
+===
+N: first Chinese dictonary, compiled by Xu Shen in 121 CE*shuo wen jiee tzyh
+N: typeface, font, style of calligraphy*tzyh tii
+AT, N, V: applied, for practical application; application; to apply, to use*yinq yonq
+N, V: writing; to write*shu shiee
+N: work, routine*shyh wuh
+A: roughly, approximately, more or less, on the whole*dah jyh
+N: one of the Warring States, one of the Three Kingdoms (Wei)*wey
+SV: to be perfect, to be complete with everything*wan bey
+N, V: change; to change, to fluctuate*biann donq
+N: end, last part, tail assembly, linguistic final*woei buh
+N: Wei-Jin Period (220-420 CE)*wey jinn
+N: Song dynasty (960-1279 CE)*sonq
+N: our country (i.e. China)*woo gwo
+V: to spread, to circulate, to hand down*liou chwan
+V: to join together, to cluster*lian juey
+AT, V: mobile, liquid (assets); to flow, to go from place to place*liou donq
+N, V: move, function; to be in motion, to run a program, to gravitate, to orbit*yunn shyng
+SV: to be simple and convenient, to be handy*jean biann
+N: Jin dynasty (265-420 CE)*jinn
+N, V: origin, genesis; to originate, to stem from*chii yuan
+AT, N: prenatal; during his or her lifetime (of a deceased)*sheng chyan
+N: Olympic Games (abbreviated name)*aw yunn huey
+CONJ, N: once, some time or other, whenever; in a single day, in very short time*yi dann
+N: classical Chinese prose*guu wen
+RC: to feel, to sense, to experience*gaan show daw
+CONJ: therefore*ru tsyy yih lai
+VO: to be unearthed or excavated, to come up out of the ground*chu tuu
+V: to found, to establish, to success, to achieve the result*cherng lih
+CONJ: except for this, in addition*chwu tsyy jy way
+N: sports or athletic ground, playground*yunn donq chaang
+CONJ: (除此之外 … , ～ … ) there are still some …*shanq yeou
+V: to evolve, to progress gradually*yean jinn
+N: ape-man, anthropoid ape*yuan ren
+SV: to be miscellaneous, to be complex*farn tzar
+SV: to be practical, to be pragmatic, to be functional*shyr yonq
+CONJ: as a matter of fact*shyr jih shanq
+SV: to be false, to be sham*shiu jea
+N, VO: motion, proposal, draft resolution; to call out a case*tyi ann
+N: structure, construction*gow tzaw
+N: six categories of Chinese characters*liow shu
+N: pictograph, pictogram, 1st of the the six categories of Chinese characters*shianq shyng
+N: body, substance, object*wuh tii
+N: ideograms, ideographic characters, 2nd of the six categories of Chinese characters*jyy shyh
+N: mark, sign, ideogram*jih haw
+N: tip, end, non-essentials, minor details*moh
+V: to fell, to cut down, to attack*far
+N: ancient Chinese weapon, probably a dagger axe or a halberd*ge
+N: weapon, arms*wuu chih
+N: horn of an ox*jeau
+N: semantic-plus-phonetic compound, 4th of the six categories of Chinese characters*shyng sheng
+N: pictogram, pictograph, signifier, signific component of a Chinese character*shyng fwu
+N: phonetic component in a Chinese character*sheng fwu
+N: figurative extension of meaning, 5th of the six categories of Chinese characters*joan juh
+N: region, district, area, land boundaries*dih yuh
+N: explanatory note, annotation*juh shyh
+N: phonetic loan characters, homophonous substitution of one character for another, 6th of the six categories of Chinese characters*jea jieh
+VO: to coin words*tzaw tzyh
+V: to borrow*jieh yonq
+PV: to issue orders, to order people about*fa haw shy linq
+N: county magistrate (traditional)*shiann linq
+V: to grow, to thrive, to yield*tzy jaang
+N: county head or magistrate*shiann jaang
+V: to utilize, to wield, to apply*yunn yonq
+N, V: extract, excerpt; to extract*jye luh
+N: written national language, national language and literature*gwo wen
+M: volume of a book*tseh
+N: spoken and written language, language and literature*yeu wen
+N: institute for compilation and translation*bian yih goan
+V: to belong to … , to be part of …*shuu yu
+N: blade, sword*renn
+BF: to be clever and nimble*ling
+BF: to be transparent, to be clear*cherng
+N, RC: formation; to constitute, to form, to compose, to make up*gow cherng
+V: to have unique (e.g. talent or insight)*dwu jiuh
+N: early stage, early phase, early period*tzao chyi
+AT, N: initial, prime, first; initially, at first*tzuey chu
+N: river*chuan
+SV: to be simple, to be brief, to be sketchy*jean liueh
+N: form, shape, pattern, morphology*shyng tay
+SV: to be convex*tu
+SV: to be concave*au
+SV: to be very long, to be endless*mann charng
+A: up to now, so far*jyh jin
+AT: original, originally posessed, previously existing*yuan yeou
+N: characteristic, distinctive feature, trait, property*teh jeng
+N: style of characters, form of a character, graph, script, morpheme*tzyh shyng
+N, V: company, corporation, union, linguistic compound; to make up, to compose, to unite, to form a partnership*tzuu her
+N: difference, divergence, discrepancy, diversity*cha yih
+N: dog (classical version)*cheuan
+BF: to die young*iau
+V: to increase and decrease, to fluctuate*tzeng jean
+N: position, place, aspect, part*buh wey
+N: cassiabark tree*jin guey
+N: informal essay, jottings*swei bii
+N: what is printed, published or reported in a publication*suoo tzay
+N: Chinese surname (Shen)*sheen
+BF: to chant, to declaim; (～田字) poem from late Qing times, using a variety of characters containing 田 as a part, written by 沈啟南*yeong
+RC: to stretch, to reach, to jut out*shen chu
+N: in one's mind, in one's heart*shiong jong
+N: at first, originally*dang chu

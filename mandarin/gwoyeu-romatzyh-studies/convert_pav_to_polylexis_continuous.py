@@ -14,13 +14,13 @@ if __name__ == "__main__":
     fout = None
     with open(SOURCE_FILE, encoding="utf-8") as fin:
         for line in fin:
-            if line_num % 200 == 1:
+            if line_num % 100 == 1:
                 if fout:
                     fout.close()
-                fname = DEST_DIR + "pav_{:04d}_{:04d}.txt".format(line_num, line_num+199)
+                fname = DEST_DIR + "pav_{:04d}_{:04d}.txt".format(line_num, line_num+99)
                 print("Writing to", fname)
                 fout = open(fname, 'w', encoding="utf-8")
-                print(fname.replace(".txt", ""), file=fout)
+                print("Words {:04d} to {:04d}".format(line_num, line_num+99), file=fout)
                 print("===", file=fout)
                 print("Write in GR.", file=fout)
                 print("===", file=fout)

@@ -1,0 +1,104 @@
+Words 0301 to 0400
+===
+Write in GR.
+===
+N: room*u .tzy
+L: down, under ; V: to disembark, to get off ; M: measure word for downward actions of the hand*shiah
+N (PW): under, below*shiah miann
+N: elementary school*sheau shyue
+N: chair*yii .tzy
+SV: to be far from*yeuan
+A: indicating that action is in progress ; V, CV: to be (at, in, on, etc.)*tzay
+N (PW): here (…l…)*jeh lii
+N (PW): here (…r)*jeh .el
+N (PW): here, over here (…i…)*jey bian
+BF: table*juo
+N: table*juo .tzy
+N: ship, boat (also ～兒)*chwan
+CV: from*tsorng
+V, CV: to reach, to arrive; to leave for*daw
+V: to fly*fei
+N: airplane*fei ji
+CV, CONJ, V: with; and ; to follow, to accompany*gen
+N: city bus*gong che
+N: city bus*gong gonq chih che
+IE: OK, nothing special*hair hao
+V: to return*hwei
+V: to return, to come back*hwei lai
+V: to leave, to go back*hwei chiuh
+N: fire*huoo
+N: train*huoo che
+MA, N (TW): today*jin tian
+V: to drive, to open, to turn on ; to bloom, to blossom ; to hold an event ; to fill out, to write out, to issue*kai
+VO: to drive (a car)*kai che
+V: to see*kann jiann
+V: to come ; to do (something implied in the context)*lai
+P: indicates excessiveness, change of state, or imminent action ; P: indicates completion of action*.le
+SV: to be tired*ley
+MA, N (TW): tomorrow*ming tian
+N: ticket*piaw
+IE: sit down, please have a seat*chiing tzuoh
+NA, N (TW): before noon, morning*shanq wuu
+MA (QW): when? what time?*shern .me shyr how
+N: time*shyr how
+N, M: day, sky, heaven*tian
+V: to stop*tyng
+VO: to park a car*tyng che
+V: to play, to enjoy*wan .el
+SV: to be late*woan
+N: dinner, supper (…f…)*woan fann
+MA, N (TW): evening*woan shanq
+BF: noon, midday ; N: 7th of the Twelve Terrestrial Branches, symbolized by the horse (馬)*wuu
+N: lunch (…f…)*wuu fann
+MA, N: afternoon*shiah wuu
+A: together, together with, with*yi kuay .el
+A: already*yii jing
+N: breakfast (…f…)*tzao fann
+MA, N (TW): morning*tzao shanq
+A (QW): how?*tzeen .me
+IE: how about … ? how is everything?*tzeen .me yanq
+V: to return change after a purchase ; V: to look for, search (also ～到)*jao
+MA, N (TW): noon*jong wuu
+V: to walk*tzoou
+VO, PT: to walk (on a road or street) ; to fire someone, to dismiss someone from a job (叫～、請～)*tzoou luh
+MA, N (TW): yesterday*tzwo tian
+V, CV: to sit, to travel, 'sit' on a plane, boat, or train, etc.; to go by …*tzuoh
+P: question particle, implying probability; sentence suffix, indicating a request*.ba
+N, M: class; measure for a group , measure word for regularly scheduled means of transport*ban
+A: don't*bye
+N: other*bye .de
+N: other people*bye ren
+V: to lack, to be short of*chah
+A: about, almost*chah buh duo
+N: bed*chwang
+V: to wait*deeng
+M, N, V: o'clock, measure word for a small quantity of things; point, spot ; to click with a computer mouse*dean
+M: o'clock*dean jong
+IE: sorry, excuse me*duey buh chii
+M, N: minute*fen jong
+N: bus stand, bus stop*gong che jann
+N: company*gong sy
+V, CV: to pass  (an occasion) ; a suffix indicating completion of an action, or completion of an action as an experience*guoh
+N: train station*huoo che jann
+A: just, exactly, only ; then, right away ; (indicating immediacy)*jiow
+M: a quarter of an hour ; to carve*keh
+N, M: class; measure word for lessons*keh
+A: immediately*maa shanq
+IE: no problem*mei wenn tyi
+DEM: every*meei
+N: door, gate (also ～兒)*men
+N: entrance, doorway*men koou
+VO: to get up from bed*chii chwang
+L: up, on ; V: to go to, to get on, to board*shanq
+VO: to begin work, to start work, to go to work*shanq ban
+V: to sleep*shuey
+VO: to sleep*shuey jiaw
+N: problem, question*wenn tyi
+L: down, under ; V: to disembark, to get off ; M: measure word for downward actions of the hand*shiah
+VO, IE: to get out of class; end of class*shiah keh
+V: to rest*shiou shyi
+N, M: night*yeh
+MA, N (TW): night*yeh lii
+MA, N: a moment, a short while (…h, also with the third tone, also ～兒)*yi huey
+A: together*yih chii
+V, N: to stand; train or bus station*jann

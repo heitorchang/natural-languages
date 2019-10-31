@@ -618,6 +618,7 @@ def convert_syllable_core(py):
         "lu:an1": 'lhiuan',
         "lu:an2": 'liuan',
         "lu:an3": 'leuan',
+        "lüe4": 'liueh',
         "lu:e4": 'liueh',
         "luan1": 'lhuan',
         "luan2": 'luan',
@@ -630,6 +631,8 @@ def convert_syllable_core(py):
         "luo2": 'luo',
         "luo3": 'luoo',
         "luo4": 'luoh',
+        "m2": 'm',
+        "m5": '.m',
         "ma1": 'mha',
         "ma2": 'ma',
         "ma3": 'maa',
@@ -702,9 +705,11 @@ def convert_syllable_core(py):
         "na2": 'na',
         "na3": 'naa',
         "na4": 'nah',
-        "nai1": 'nai',
+        "nai1": 'nhai',
+        "nai2": 'nai',
         "nai3": 'nae',
         "nai4": 'nay',
+        "nai5": '.nai',
         "nan1": 'nhan',
         "nan2": 'nan',
         "nan3": 'naan',
@@ -755,11 +760,13 @@ def convert_syllable_core(py):
         "nü3": 'neu',
         "nü4": 'niuh',
         "nu:e4": 'niueh',
+        "nüe4": 'niueh',
         "nuan3": 'noan',
         "nuo2": 'nuo',
         "nuo3": 'nuoo',
         "nuo4": 'nuoh',
         "o1": 'o',
+        "o2": 'or',
         "ou1": 'ou',
         "ou3": 'oou',
         "ou4": 'ow',
@@ -1334,7 +1341,7 @@ def convert_syllable_core(py):
     }    
 
     if py not in table:
-        print("Warning:", py, "not in table")
+        raise ValueError("Warning:", py, "not in table")
     return table.get(py, py)
 
 def convert_syllable(py):
@@ -1350,6 +1357,8 @@ def convert_syllable(py):
 
 def convert_word(w):
     # convert a word such as Hua2ren2 into hwa ren
+    orig = w
+    w = w.replace(" ", "").replace("-", "")
     syllables = []
     ct = 0
     while w:
@@ -1359,7 +1368,12 @@ def convert_word(w):
         numindex = re.search("[1-5]", w).span()[1]
         syllables.append(w[:numindex])
         w = w[numindex:]
-    return " ".join(map(convert_syllable, syllables))
+    try:
+        converted = " ".join(map(convert_syllable, syllables))
+    except ValueError:
+        print("Warning:", orig, "could not be converted")
+        converted = orig
+    return converted
 
     
 ENTRY_PATTERN = re.compile(r'\"([\w:]+?)"')

@@ -1,0 +1,104 @@
+Words 1301 to 1400
+===
+Write in GR.
+===
+N: stone*shyr tour
+N: petroleum, oil*shyr you
+V: to adapt to*shyh yinq
+N: body temperature*tii uen
+AT: natural*tian ran
+N: natural resources*tian ran tzy yuan
+N: temperature*uen duh
+SV: to be delicious, to be fresh*shian
+N: banana (M: 跟, 串)*shiang jiau
+VO, SV: to miss home; to be homesick*sheang jia
+N: wheat*sheau may
+SV: to be fresh*shin shian
+N: snow shoes*sheue shye
+N: snow suit*sheue i
+AT: common, general*yih ban
+IE: generally speaking (…e…)*yih ban erl luenn
+IE: generally speaking (…l…s…)*yih ban lai shuo
+IE: generally speaking (…s…l…)*yih ban shuo lai
+N, SV: oil; to be oily*you
+SV: (of food) to be greasy or oily*you nih
+A: especially, above all*you chyi shyh
+N: jade*yuh
+N: corn, maize*yuh mii
+N: type, variety, kind*joong ley
+V: to fill, to load ; to install, to load, pack, fill*juang
+VO: to equip with heating*juang noan chih
+A, SV: to be punctual, on time*joen shyr
+N: resource*tzy yuan
+V, N: to report, to make sth known; a report (written or spoken)*baw gaw
+V, N: to memorize, to learn by heart, to recite from memory; the back of the body, the back of an object*bey
+SV: to be passive*bey donq
+VO: to recite a passage from memory; act of memorizing a passage*bey shu
+RC: to memorize, to commit to memory*bey shiah lai
+N, V: make-up exam; to take a make-up exam*buu kao
+PT: must, have to, is indispensable, will inevitably (非 … ～)*buh kee
+V: to check, examine, inspect; to look into, investigate; to look up, consult*char
+V, PV, RE: to become, to turn into, to complete; to V as; a resultative ending indicating success, completion, or accomplishment of an action ; M: one tenth*cherng
+N: word*tsyr
+V: to work as, to serve as*dang
+V, RE: to fall over; a resultative ending indicating toppling or falling over of the subject*dao
+SV: to have bad luck or an unlucky break; to get into trouble*dao mei
+SV: to be low*di
+N: verb*donq tsyr
+V: to translate; to turn (over, upside down, up, etc.); to rummage, to search*fan
+V, N: to translate, interpret; translator, interpreter, translation*fan yih
+PT: must, have to, is indispensable, will inevitably (～ … 不可)*fei
+M: cent ; points, score (at an exam, in sports and contests, etc.)*fen
+N: score, grade (at an exam, from a course)*fen shuh
+V: to review (f)*fuh shyi
+N: senior high school (10th, 11th and 12th grades)*gau jong
+N: lyrics or words of a song*ge tsyr
+V: to pass a test, pass an exam; to be qualified*jyi ger
+RC: to remember, to fix in mind, to commit to memory*jih juh
+VO: to oil, lubricate, refuel; (slang) to make an extra effort ('Go for it!'), to cheer (a performer)*jia you
+N: gasoline (petrol) filling station*jia you jann
+N: teaching method, way of teaching*jiau faa
+N: point of view, opinion, way of looking at things*kann faa
+N: exam paper, test booklet (M: 份)*kao jiuann
+V: to deduct ; to buckle up*kow
+VO: to deduct points, take off credit*kow fen
+SV: to be worn out; to be rotten, decayed; (slang) rotten, terrible*lann
+SV: to be formidable, sharp*lih hay
+N: color (of face), facial expression ; complexion, facial expression*lean seh
+V, N: to know, to understand; knowledge, understanding (the simpler, more common version)*leau jiee
+V, N: to know, to understand; knowledge, understanding (the more complicated version, without 了)*leau jiee
+P: particle indicating exclamation or interrogation*.lou
+N: noun*ming tsyr
+SV: to be sad, to be distressed*nan guoh
+AV: would rather, had better, would sooner (…k…)*ning kee
+AV: would rather, had better, would sooner (…y…)*ning yuann
+I: interjection indicating doubt ('Really?')*or
+N: final exam (at the end of a term)*chyi moh kao
+A: actually, in fact, as a matter of fact*chyi shyr
+N: mid-term exam*chyi jong kao
+SV, V: to be relaxed, easy, comfortable; to relax, wind down*ching song
+A: if, in case, in the event of*ru guoo
+N: way of speaking, an orally expressed view*shuo faa
+V, SV, RE: to die; to be dead*syy
+IE: (slang) will surely die*syy dinq .le
+SV: to be relaxed, lenient, slack, loose*song
+V: to be considered as*suann shyh
+V: to discuss (formally)*tao luenn
+V: to kick*ti
+RC: to kick*ti daw
+RC: to kick away (literally or figuratively)*ti kai
+M: measure word for questions or problems (at a test or in an exercise)*tyi
+N: title, subject, topic; problems, questions at a test*tyi muh
+V: to review (w…)*uen shyi
+N: grammar*wen faa
+SV: to be bored; to be boring and uninteresting; to be a nuisance; to be nonsensical*wu liau
+N: way of thinking, point of view*sheang faa
+N: thoughts and ideas, mentality*shin lii
+N: psychology*shin lii shyue
+I: interjection indicating surprise*yi
+N: subject (of a sentence)*juu tsyr
+N: teaching assistant*juh jiaw
+A, AT: to be automatic, voluntary; automatically, voluntarily*tzyh donq
+IE: self-motivated and spontaneous*tzyh donq tzyh fa
+N: way of doing things*tzuoh faa
+N: homework*tzuoh yeh

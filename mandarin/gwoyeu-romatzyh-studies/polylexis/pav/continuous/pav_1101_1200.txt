@@ -1,0 +1,104 @@
+Words 1101 to 1200
+===
+Write in GR.
+===
+I: an interjection indicating surprise or discontent*ai iau
+N: office (M: 間)*bann gong shyh
+N: table, form, list (M: 張)*beau
+VO: to have or give a make-up lesson*buu keh
+V: to receive tutoring*buu shyi
+N: cram school, private institution that offers tutoring in various subjects (M: 家)*buu shyi ban
+V, N: to subsidize; a subsidy, allowance*buu juh
+N: blog*buh luoh ger
+N: vegetable prices, food prices*tsay jiah
+N: grade (at school), academic record, achievement*cherng ji
+N: report card, transcript (M: 張)*cherng ji dan
+V: to be for rent, offer for rent, rent to others*chu tzu
+N: Mainland China*dah luh
+N: electricity bill*diann fey
+N: telephone bill*diann huah fey
+V: to conclude, draw up (a treaty, agreement, etc.); to order, subscribe to; to book, make a reservation (at a hotel, restaurant, etc.)*dinq
+N: subleasor*ell farng dong
+N: landlord*farng dong
+N: housing prices*farng jiah
+N: tenant*farng keh
+N: rent*farng tzu
+V: to sublet, to rent separately*fen tzu
+V: to pay*fuh
+N: apartment building, multi-storey, multi-family dwelling (M: 棟, 間)*gong yuh
+RC: to join, combine; together*her chii lai
+V: to jointly rent, rent together, share rental*her tzu
+N: environment, surroundings, financial conditions (of a family)*hwan jinq
+SV, V: to be alive, living; to live*hwo
+N: taxi (M: 輌, 部)*jih cherng che
+V, N: to plan, to map out; a plan, project, program (last character also written 劃)*jih huah
+N: price, cost*jiah chyan
+V: to cut with scissors, to clip, to trim*jean
+N: scissors, clippers (M: 把)*jean dau
+VO: to give or get a haircut*jean tour faa
+N: scholarship, fellowship*jeang shyue jin
+V: to hand in, give to, pass on to*jiau
+V: to exchange, swap*jiau huann
+VO: to make friends*jiau perng yeou
+N: transportation, traffic*jiau tong
+VO: to get, call, hail a cab*jiaw che
+N: classroom*jiaw shyh
+N: professor (M: 位)*jiaw show
+N: gold (M: 塊)*jin .tzy
+N, SV: difficulty; to be difficult, hard*kuenn nan
+RC: to have insufficient time, to be too late (to do something)*lai buh jyi
+N: barber shop (M: 家)*lii faa ting
+N: travel expenses*leu fey
+V: to have plastic surgery, beauty treatment for the face*meei rong
+N: beauty parlor (M: 家)*meei rong yuann
+V, SV: to understand, realize, know; to be clear*ming bair
+V: to touch, bump*penq
+RC: to meet unexpectedly, to run into, to chance upon (…d…)*penq daw
+RC: to meet unexpectedly, to run into, to chance upon (only for people) (…j…)*penq jiann
+RC: to run up against, to come accross*penq shanq
+V: to knock, to beat, to tap, to pound*chiau
+V: to please, to invite ; to hire someone to do something*chiing
+V: to ask for advice, to consult with*chiing jiaw
+VO: to log on to the Internet, to use the Internet*shanq woang
+V: to apply for*shen chiing
+N: application form (M: 張)*shen chiing beau
+N, V: life; to live*sheng hwo
+N: living expenses*sheng hwo fey
+N: summer school, summer session*shuu chyi ban
+N: water bill*shoei fey
+AT: all (last character can be omitted)*suoo yeou .de
+V: to fill in, to stuff*tyan
+V, SV, RE: to go, move or flow unobstructed; to communicate; open, passable; unobstructed*tong
+N: hair (on the head of a human) (M: 根, 頭)*tour faa
+V: to recommend*tuei jiann
+N: letter of recommendation*tuei jiann shinn
+N: the Internet*woang luh
+N: website*woang jann
+N: Internet address*woang jyy
+N: price of goods*wuh jiah
+V: to download*shiah tzay
+N: lounge, lobby, foyer*shiou shyi shyh
+N: school tuition fees*shyue fey
+N: academic credits*shyue fen
+V: to study, to learn*shyue shyi
+V, N: to make an appointment; appointment, engagement*iue
+V, N: to have a date; date*iue huey
+N: Mainland China*jong gwo dah luh
+N: materials, data, information*tzy liaw
+V: to rent*tzu
+RC: to rent out*tzu chu chiuh
+V, N: to help, assist, aid; assistance, aid*bang juh
+N: parcel, package*bau guoo
+'illness comes through the mouth'*binq tsorng koou ruh
+N: museum*bor wuh goan
+A: not only*bwu dann
+V: to visit (a place, exhibition, etc.)*tsan guan
+VO: to bear, or endure, hardships; to suffer hardships; to have a rough time*chy kuu
+V: to divide*chwu
+N: division (in mathematics)*chwu faa
+N: Grand Canyon*dah shya guu
+CONJ: but, still, however*dann shyh
+N: island*dao
+N: earthquake*dih jenn
+I: interjection used to indicate agreement*.en
+V, N: to develop, expand; development, expansion*fa jaan
