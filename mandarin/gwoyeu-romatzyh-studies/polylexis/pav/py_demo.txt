@@ -1,6 +1,7 @@
 Basic Chinese words in Pinyin
 ===
-Write Pinyin for the English term. Tone numbers are required. Use 'v' for 'ü'. Do not put spaces between syllables.<br>
+Write Pinyin for the English term. Tone numbers are required.<br>
+Use lowercase letters only and 'v' for 'ü'. Do not put spaces between syllables.<br>
 Example: to be good, well. Write hao3
 ===
 SV: to be good, well ; A: very, quite*hao3
