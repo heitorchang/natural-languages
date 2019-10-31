@@ -1,0 +1,55 @@
+Basic Chinese words in Pinyin
+===
+Write Pinyin for the English term. Tone numbers are required. Use 'v' for 'ü'. Do not put spaces between syllables.<br>
+Example: to be good, well. Write hao3
+===
+SV: to be good, well ; A: very, quite*hao3
+A: not*bu4
+PN: I, me*wo3
+PN: you*ni3
+PN: he, him; she, her*ta1
+N: Taiwan*tai2wan1
+N: China*zhong1guo2
+N: USA, America*mei3guo2
+V: to be called, to call*jiao4
+N: given name*ming2zi5
+V, N: surname, family name*xing4
+SV: to be beautiful*mei3
+N: American*mei3guo2ren2
+N: person*ren2
+QW: who? whom?*shei2
+QW: what?*shen2me5
+V: to be (am, are, is)*shi4
+N: Mr, Sir, husband*xian1sheng1
+N: Mrs, wife*tai4tai5
+IE: long time no see*hao3jiu3bu2jian4
+A: very*hen3
+V: to see, to meet*jian4
+SV: to be hot*re4
+SV: to be cold*leng3
+SV: to be busy*mang2
+V: to go*qu4
+VO: to go to class*shang4ke4
+N: weather*tian1qi4
+N: Ms*xiao3jie3
+V: to thank, thank you*xie4xie5
+A: also*ye3
+IE: goodbye (literally: 'see you again')*zai4jian4
+IE, SV: good morning, to be early*zao3
+IE: good night*wan3an1
+N: vehicle, car*che1
+N: movie*dian4ying3
+N: thing*dong1xi1
+V: to understand*dong3
+SV: to be expensive*gui4
+SV: to be good-looking*hao3kan4
+V: to watch, to read, to look at*kan4
+A: but, however*ke3shi4
+V: to buy*mai3
+N: book*shu1
+N: written language*wen2
+V, AV: to like*xi3huan1
+V, AV: to want*yao4
+V: to have; there is, there are*you3
+V, CV: to give*gei3
+N: money ; a Chinese surname*qian2
