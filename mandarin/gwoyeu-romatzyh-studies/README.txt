@@ -2,18 +2,28 @@ Chinese Studies with Gwoyeu Romatzyh
 
 Emacs Gwoyeu Romatzyh input method, converted from chinese-py-b5
 
-Note: Pinyin was translated halfway by a script and finished manually.
-There may be some errors.
+File: gwoyeu-romatzyh-input.el
 
-Copy the expressions from add-to-dot-emacs.txt to your ~/.emacs file,
-replacing the directory with the path where you have saved this
-repository.
+Update for Emacs 26.2:
+
+Create a directory "lisp/" under "emacs-26.2/"
+
+Copy gwoyeu-romatzyh-input.el to this lisp/ directory and run byte-compile-file
+
+Add to .emacs
+
+;; Quail and leim
+(add-to-list 'load-path "c:/PATH/TO/emacs-26.2/lisp/")
+(require 'gwoyeu-romatzyh-input)
 
 Restart Emacs and type C-x RET \ to switch input methods
 
 Type 'chinese-gwoyeu-romatzyh'
 
 Enjoy 國語羅馬字輸入!
+
+Note: Pinyin was translated halfway by a script and finished manually.
+There may be some errors.
 
 
 CC-CEDICT Gwoyeu Romatzyh Simplified Characters version
