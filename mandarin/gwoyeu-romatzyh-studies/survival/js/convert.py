@@ -1331,6 +1331,7 @@ table = {
     "zuo3": 'tzuoo',
     "zuo4": 'tzuoh',
     'xie': '.shie',
+    'ne': '.ne',
     
 }    
 
@@ -1343,9 +1344,13 @@ if __name__ == "__main__":
     with open(jsname, encoding="utf-8") as gr, open(fname + "_py.js", 'w', encoding="utf-8") as out:
         for line in gr:
             parts = line.split(" ")
+            if len(line) < 2 or line[0] == " " or parts[0] == "const" or line[0] == "`" or line[0] == "]":
+                print(line, end="", file=out)
+                continue
             try:
                 py = grpy[parts[0]]
                 print(py + " " + " ".join(parts[1:]), end="", file=out)
             except KeyError:
+                print("Warning: {} not found in table.".format(parts[0]))
                 print(line, end="", file=out)
             
