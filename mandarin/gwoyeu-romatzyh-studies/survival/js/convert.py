@@ -624,6 +624,7 @@ table = {
     "luo4": 'luoh',
     "m2": 'm',
     "m5": '.m',
+    "ma5": '.ma',
     "ma1": 'mha',
     "ma2": 'ma',
     "ma3": 'maa',
@@ -1328,7 +1329,9 @@ table = {
     "zuo1": 'tzuo',
     "zuo2": 'tzwo',
     "zuo3": 'tzuoo',
-    "zuo4": 'tzuoh'
+    "zuo4": 'tzuoh',
+    'xie': '.shie',
+    
 }    
 
 grpy = {v: k for k, v in table.items()}
