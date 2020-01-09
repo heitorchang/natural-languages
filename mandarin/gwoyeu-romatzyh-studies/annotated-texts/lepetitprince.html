@@ -6,7 +6,7 @@
         <title>Gwoyeu Romatzyh Annotated Text</title>
         <style>
          .para {
-             margin-bottom: 2.5rem;
+             margin-bottom: 2.2rem;
          }
          
          .char {
@@ -15,8 +15,6 @@
 
          .indenter {
              width: 2.4rem;
-             display: inline-block;
-             margin-bottom: 1.5rem;
          }
          
          .gr {
@@ -27,7 +25,7 @@
          .totalchar {
              display: inline-block;
              text-align: center;
-             margin-bottom: 1.5rem;
+             margin-bottom: 2.2rem;
          }
 
          [v-cloak] > * {
@@ -43,7 +41,7 @@
         <div id="gwoyeutext" v-cloak>
             <h3>Le Petit Prince</h3>
             <div v-for="para in fmt" class="para">
-                <div class="indenter">
+                <div class="indenter totalchar">
                     &nbsp;
                 </div>
                 
