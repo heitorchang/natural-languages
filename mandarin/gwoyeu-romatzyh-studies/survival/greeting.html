@@ -1,0 +1,112 @@
+ <!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+        <title>Mandarin Survival</title>
+        <style>
+         .para {
+             margin-bottom: 2.2rem;
+         }
+         
+         .char {
+             font-size: 1.4rem;
+             margin: 0.2rem;
+         }
+
+         .indenter {
+             width: 2.4rem;
+         }
+
+         .english {
+             background-color: #DDF;
+             padding: 0.6rem 1.2rem;
+             margin-bottom: 0.5rem;
+             font-size: 1.4rem;
+         }
+
+         .mandarin {
+             padding: 0 1.2rem;
+         }
+         
+         .gr {
+             background-color: #EEE;
+             padding: 0.2rem 0.5rem;
+         }
+
+         .totalchar {
+             display: inline-block;
+             text-align: center;
+             margin-bottom: 2.2rem;
+         }
+
+         [v-cloak] > * {
+             display: none;
+         }
+
+         [v-cloak]::before {
+             content: "Loading...";
+         }
+        </style>
+    </head>
+    <body>
+        <div id="gwoyeutext" v-cloak>
+            <h3>{{ header }}</h3>
+            <div v-for="phrase in fmt" class="para">
+                <div class="english">
+                    {{ phrase[0] }}
+                </div>
+
+                <div class="mandarin">
+                    <div v-for="char in phrase[1]" class="totalchar">
+                        <div class="char">
+                            {{ char[1] }}
+                        </div>
+                        <div class="gr">
+                            {{ char[0] }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <script src="js/vue2.min.js"></script>
+        <script src="js/greeting_raw.js"></script>
+        <script>
+         function convertPara(para) {
+           let result = [];
+           for (word of para.trim().split("\n")) {
+             result.push(word.trim().split(" "));
+           }
+           return result;
+         }
+         
+         const app = new Vue({
+           el: "#gwoyeutext",
+           
+           data: {
+             header: "Greeting",
+             raw: raw,
+           },
+
+           computed: {
+             fmt() {
+               let result = [];
+               for (phrase of this.raw) {
+                 let curphr = [];
+                 curphr.push(phrase[0]);
+                 curphr.push(convertPara(phrase[1]));
+                 result.push(curphr);
+               }             
+               return result;
+             }
+           },
+           
+           methods: {
+
+           },
+
+         });
+        </script>
+    </body>
+</html>
