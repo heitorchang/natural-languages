@@ -64,6 +64,10 @@ function htmlifyWord(word) {
   var simpl = parts[1];
   var py = word.match(/\[.*?\]/)[0];
   py = py.slice(1, py.length - 1);
+
+  var py_english = parts.slice(2).join(" ");
+  var py_english_pyend = py_english.indexOf("]");
+  py_english = py_english.substr(py_english_pyend+1);
   
   result = "<a href='#s' onclick='a(\"" + trad + "\")'>" + 
     '<span class="hint--top" data-hint="' + trad + '">' +
@@ -71,7 +75,8 @@ function htmlifyWord(word) {
     '<span class="hint--top simsun" data-hint="' + simpl + '">' +
     simpl + "</span> " +
     pyPhrase2gr(py) +
-    parts.slice(2).join(" ") + "<br>";
+    // parts.slice(2).join(" ") + "<br>";  // print Pinyin
+    py_english + "<br>";
   return result;
 }
 
