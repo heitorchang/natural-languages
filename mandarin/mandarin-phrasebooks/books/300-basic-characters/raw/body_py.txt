@@ -1,0 +1,75 @@
+mouth
+kou3 口
+--
+tooth
+ya2 牙
+chi3 齒
+--
+tongue
+she2 舌
+tou5 頭
+--
+lip
+zui3 嘴
+chun2 唇
+--
+eye
+yan3 眼
+jing5 睛
+--
+eyebrow
+mei2 眉
+mao5 毛
+--
+nose
+bi2 鼻
+zi5 子
+--
+ear
+er3 耳
+duo5 朵
+--
+hand
+shou3 手
+--
+foot
+jiao3 腳
+--
+head
+tou2 頭
+--
+hair (on the head)
+tou2 頭
+fa5 髮
+--
+hair
+han4 汗
+mao2 毛
+--
+body
+shen1 身
+ti3 體
+--
+shoulder
+jian1 肩
+bang3 膀
+--
+back
+bei4 背
+--
+skin
+pi2 皮
+fu1 膚
+--
+bone
+gu3 骨
+tou5 頭
+--
+heart
+xin1 心
+--
+blood
+xie3 血
+--
+stomach
+wei4 胃

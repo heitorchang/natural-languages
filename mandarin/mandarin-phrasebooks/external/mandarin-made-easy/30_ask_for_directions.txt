@@ -1,0 +1,27 @@
+問路;wenn luh;ask for directions
+左邊;tzuoo bian;left
+右邊;yow bian;right
+左轉;tzuoo joan;turn left
+右轉;yow joan;turn right
+直走;jyr tzoou;go straight
+前面;chyan miann;ahead
+後面;how miann;behind
+裡面;lii miann;inside
+對面;duey miann;across from
+公車站;gong che jann;bus stop
+捷運站;jye yunn jann;MRT station
+機場;ji chaang;airport
+十字路口;shyr tzyh luh koou;intersection
+大馬路;dah maa luh;major road
+人行道;ren shyng daw;sidewalk
+斑馬線;ban maa shiann;pedestrian crossing
+路標;luh biau;road sign
+這附近有超級市場嗎?;jeh fuh jinn yeou chau jyi shyh chaang .ma?;Is there a supermarket nearby?
+有，過紅綠燈後往左轉走就到了;yeou, guoh horng liuh deng how woang tzuoo joan tzoou jiow daw .le;Yes, go past the traffic light, turn left, and there it is.
+離這兒很遠嗎?;li jeh .el heen yeuan .ma?;Is it far from here?
+不遠，走路五分鐘就到了;buh yeuan, tzoou luh wuu fen jong jiow daw .le;No, it takes only 5 minutes on foot.
+去故宮博物院要搭幾路公車?;chiuh guh gong bor wuh yuann yaw da jii luh gong che?;Which bus should I take to the National Palace Museum?
+請搭三零四路公車;chiing da san ling syh luh gong che;Please take Bus 304
+司機先生，到了請告訴我。;sy ji shian sheng, daw .le chiing gaw suh woo.;Driver, please let me know when we get there
+好的;hao .de;All right
+故宮博物院到了，你該下車了。;guh gong bor wuh yuann daw .le, nii gai shiah che .le;This is the National Palace Museum, you should get off here.

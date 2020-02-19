@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+        <title>Mandarin Phrasebooks</title>
+        <style>
+         @font-face {
+             font-family: "SourceSansPro";
+             src: url('../css/SourceSansPro-Regular.ttf') format('truetype');
+             font-style: normal;
+         }
+         
+         body {
+             font-family: "SourceSansPro", sans-serif;
+         }
+         
+         .para {
+             margin-bottom: 1.5em;
+         }
+         
+         .char {
+             font-size: 1.4em;
+             margin: 0.2em;
+         }
+
+         .indenter {
+             width: 2.4em;
+         }
+
+         .english {
+             background-color: #DDF;
+             padding: 0.3em 0.6em;
+             margin-bottom: 0.2em;
+             font-size: 1.4em;
+         }
+
+         .mandarin {
+             padding: 0 0.7em;
+         }
+         
+         .gr {
+             background-color: #FFC;
+             padding: 0.1em 0.3em;
+             font-size: 1.2em;
+         }
+
+         .totalchar {
+             display: inline-block;
+             text-align: center;
+             margin-bottom: 1.7em;
+         }
+
+         [v-cloak] > * {
+             display: none;
+         }
+
+         [v-cloak]::before {
+             content: "Loading...";
+         }
+
+         a {
+             margin-right: 1.2em;
+             text-decoration: none;
+             font-weight: bold;
+             font-size: 1.2em;
+         }
+        </style>
+    </head>
+    <body>
+        <div id="gwoyeutext" v-cloak>
+            <a href="35_money_py_s.html">&lt; Previous</a>
+            <a href="index_py_s.html">Contents</a>
+            <a href="37_measure_words_py_s.html">Next &gt;</a>
+            
+            <h3>Withdrawing money
+</h3>
+            <div v-for="phrase in fmt" class="para">
+                <div class="english">
+                    {{ phrase[0] }}
+                </div>
+
+                <div class="mandarin">
+                    <div v-for="char in phrase[1]" class="totalchar">
+                        <div class="char">
+                            {{ char[1] }}
+                        </div>
+                        <div class="gr">
+                            {{ PinyinConverter.convert(char[0]) }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <a href="35_money_py_s.html">&lt; Previous</a>
+            <a href="index_py_s.html">Contents</a>
+            <a href="37_measure_words_py_s.html">Next &gt;</a>
+
+            <br><br><br><br><br><br>
+        </div>
+        
+        <script src="../js/vue2.min.js"></script>
+        <script>
+         const raw = [
+[`withdrawing money from a bank`, `
+dao4 到
+yin2 银
+hang2 行
+ti2 提
+kuan3 款
+`],
+[`formal way of expressing numbers`, `
+da4 大
+xie3 写
+`],
+[`zero`, `
+ling2 零
+`],
+[`one`, `
+yi1 壹
+`],
+[`two`, `
+er4 贰
+`],
+[`three`, `
+san1 参
+`],
+[`four`, `
+si4 肆
+`],
+[`five`, `
+wu3 伍
+`],
+[`six`, `
+liu4 陆
+`],
+[`seven`, `
+qi1 柒
+`],
+[`eight`, `
+ba1 捌
+`],
+[`nine`, `
+jiu3 玖
+`],
+[`ten`, `
+shi2 拾
+`],
+[`hundred`, `
+bai3 百
+`],
+[`thousand`, `
+qian1 千
+`],
+[`ten thousand`, `
+wan4 万
+`],
+[`deposit book`, `
+cun2 存
+zhe2 摺
+`],
+[`deposit slip`, `
+cun2 存
+ru4 入
+ping2 凭
+tiao2 条
+`],
+[`withdrawal slip`, `
+qu3 取
+kuan3 款
+ping2 凭
+tiao2 条
+`],
+[`account number`, `
+zhang4 帐
+hao4 号
+`],
+[`access code`, `
+qu3 取
+kuan3 款
+mi4 密
+ma3 码
+`],
+[`seal`, `
+yin4 印
+zhang1 章
+`],
+[`date`, `
+ri4 日
+qi2 期
+`],
+[`name on the account`, `
+hu4 户
+ming2 名
+`],
+[`amount`, `
+jin1 金
+e2 额
+`],
+[`a dollar`, `
+yuan2 元
+`],
+[`a dollar`, `
+kuai4 块
+`],
+[`only, exactly`, `
+zheng3 整
+`],
+[`Which counter should I go to to exchange US Dollars for NT Dollars?`, `
+qing3 请
+wen4 问
+mei3 美
+jin1 金
+dui4 兑
+huan4 换
+cheng2 成
+tai2 台
+bi4 币
+zai4 在
+na3 哪
+ge5 个
+gui4 柜
+tai2 台
+? ?
+`],
+[`Please take a number first and wait for your number to be called`, `
+qing3 请
+xian1 先
+chou1 抽
+hao4 号
+ma3 码
+pai2 牌
+, ，
+deng3 等
+hou4 候
+jiao4 叫
+hao4 号
+. 。
+`],
+[`I would like to exchange these 500 US Dollars for NT Dollars`, `
+wo3 我
+yao4 要
+jiang1 将
+zhe4 这
+wu3 五
+bai3 百
+mei3 美
+yuan2 元
+dui4 兑
+huan4 换
+cheng2 成
+tai2 台
+bi4 币
+`],
+[`Please give me some bills and coins`, `
+qing3 请
+gei3 给
+wo3 我
+yi4 一
+xie1 些
+xiao3 小
+chao1 钞
+he2 和
+ying4 硬
+bi4 币
+`],
+[`I want to make a withdrawal`, `
+wo3 我
+yao4 要
+qu3 取
+kuan3 款
+`],
+[`Please fill out this withdrawal slip first.`, `
+qing3 请
+xian1 先
+tian2 填
+xie3 写
+zhe4 这
+zhang1 张
+qu3 取
+kuan3 款
+ping2 凭
+tiao2 条
+`],
+[`I can't read Chinese, can you help me?`, `
+wo3 我
+kan4 看
+bu4 不
+dong3 懂
+, ，
+ni3 你
+neng2 能
+bang1 帮
+wo3 我
+ma5 吗
+? ?
+`],
+[`OK`, `
+hao3 好
+de5 的
+`],
+[`Write your account number here`, `
+zhe4 这
+li3 里
+xie3 写
+cun2 存
+zhe2 摺
+zhang4 帐
+hao4 号
+`],
+[`This is your withdrawal password`, `
+zhe4 这
+li3 里
+xie3 写
+qu3 取
+kuan3 款
+mi4 密
+ma3 码
+`],
+[`This is for the amount of money you want to withdraw.`, `
+zhe4 这
+li3 里
+xie3 写
+qu3 取
+kuan3 款
+jin1 金
+e2 额
+`],
+[`Write your name here`, `
+zhe4 这
+li3 里
+xie3 写
+ni3 你
+de5 的
+ming2 名
+zi5 字
+`],
+[`Put your seal here`, `
+zai4 在
+zhe4 这
+li3 里
+gai4 盖
+zhang1 章
+`],
+[`That's it`, `
+zhe4 这
+yang5 样
+jiu4 就
+xing2 行
+le5 了
+`],
+[`Thanks`, `
+xie4 谢
+xie5 谢
+ni3 你
+`],
+[`You're welcome`, `
+bu2 不
+ke4 客
+qi4 气
+`],
+];
+
+         // PinyinConverter by David Chanin and Jen Liu @quizlet 2013
+
+         (function() {
+           var PinyinConverter;
+
+           PinyinConverter = {
+             pinyinRegex: /(shuang|chuang|zhuang|xiang|qiong|shuai|niang|guang|sheng|kuang|shang|jiong|huang|jiang|shuan|xiong|zhang|zheng|zhong|zhuai|zhuan|qiang|chang|liang|chuan|cheng|chong|chuai|hang|peng|chuo|piao|pian|chua|ping|yang|pang|chui|chun|chen|chan|chou|chao|chai|zhun|mang|meng|weng|shai|shei|miao|zhui|mian|yong|ming|wang|zhuo|zhua|shao|yuan|bing|zhen|fang|feng|zhan|zhou|zhao|zhei|zhai|rang|suan|reng|song|seng|dang|deng|dong|xuan|sang|rong|duan|cuan|cong|ceng|cang|diao|ruan|dian|ding|shou|xing|zuan|jiao|zong|zeng|zang|jian|tang|teng|tong|bian|biao|shan|tuan|huan|xian|huai|tiao|tian|hong|xiao|heng|ying|jing|shen|beng|kuan|kuai|nang|neng|nong|juan|kong|nuan|keng|kang|shua|niao|guan|nian|ting|shuo|guai|ning|quan|qiao|shui|gong|geng|gang|qian|bang|lang|leng|long|qing|ling|luan|shun|lian|liao|zhi|lia|liu|qin|lun|lin|luo|lan|lou|qiu|gai|gei|gao|gou|gan|gen|lao|lei|lai|que|gua|guo|nin|gui|niu|nie|gun|qie|qia|jun|kai|kei|kao|kou|kan|ken|qun|nun|nuo|xia|kua|kuo|nen|kui|nan|nou|kun|jue|nao|nei|hai|hei|hao|hou|han|hen|nai|rou|xiu|jin|hua|huo|tie|hui|tun|tui|hun|tuo|tan|jiu|zai|zei|zao|zou|zan|zen|eng|tou|tao|tei|tai|zuo|zui|xin|zun|jie|jia|run|diu|cai|cao|cou|can|cen|die|dia|xue|rui|cuo|cui|dun|cun|cin|ruo|rua|dui|sai|sao|sou|san|sen|duo|den|dan|dou|suo|sui|dao|sun|dei|zha|zhe|dai|xun|ang|ong|wai|fen|fan|fou|fei|zhu|wei|wan|min|miu|mie|wen|men|lie|chi|cha|che|man|mou|mao|mei|mai|yao|you|yan|chu|pin|pie|yin|pen|pan|pou|pao|shi|sha|she|pei|pai|yue|bin|bie|yun|nüe|lve|shu|ben|ban|bao|bei|bai|lüe|nve|ren|ran|rao|xie|re|ri|si|su|se|ru|sa|cu|ce|ca|ji|ci|zi|zu|ze|za|hu|he|ha|ju|ku|ke|qi|ka|gu|ge|ga|li|lu|le|qu|la|ni|xi|nu|ne|na|ti|tu|te|ta|xu|di|du|de|bo|lv|ba|ai|ei|ao|ou|an|en|er|da|wu|wa|wo|fu|fo|fa|nv|mi|mu|yi|ya|ye|me|mo|ma|pi|pu|po|yu|pa|bi|nü|bu|lü|e|o|a)r?[1-5]/gi,
+             vowels: {
+               'a*': '0',
+               'e*': '1',
+               'i*': '2',
+               'o*': '3',
+               'u*': '4',
+               'ü*': '5',
+               'A*': '6',
+               'E*': '7',
+               'I*': '8',
+               'O*': '9',
+               'U*': '10',
+               'Ü*': '11'
+             },
+             pinyin: {
+               1: ['ā', 'ē', 'ī', 'ō', 'ū', 'ǖ', 'Ā', 'Ē', 'Ī', 'Ō', 'Ū', 'Ǖ'],
+               2: ['á', 'é', 'í', 'ó', 'ú', 'ǘ', 'Á', 'É', 'Í', 'Ó', 'Ú', 'Ǘ'],
+               3: ['ǎ', 'ě', 'ǐ', 'ǒ', 'ǔ', 'ǚ', 'Ǎ', 'Ě', 'Ǐ', 'Ǒ', 'Ǔ', 'Ǚ'],
+               4: ['à', 'è', 'ì', 'ò', 'ù', 'ǜ', 'À', 'È', 'Ì', 'Ò', 'Ù', 'Ǜ'],
+               5: ['a', 'e', 'i', 'o', 'u', 'ü', 'A', 'E', 'I', 'O', 'U', 'Ü']
+             },
+             convert: function(string) {
+               var j, len, match, matches, replacement;
+               matches = string.match(this.pinyinRegex);
+               if (!matches) {
+                 return string;
+               }
+               for (j = 0, len = matches.length; j < len; j++) {
+                 match = matches[j];
+                 replacement = this.getReplacement(match);
+                 string = string.replace(match, replacement);
+               }
+               return string;
+             },
+             getReplacement: function(match) {
+               var accentMap, accentedVowelChar, base, replacedWord, tone, vowel, vowelChar, vowelNum, word;
+               accentMap = this.getAccentMap();
+               tone = match.slice(-1);
+               word = match.slice(0, -1).replace('v', 'ü').replace('V', 'Ü');
+               for (base in accentMap) {
+                 vowel = accentMap[base];
+                 if (word.indexOf(base) >= 0) {
+                   vowelChar = vowel.match(/.\*/)[0];
+                   vowelNum = this.vowels[vowelChar];
+                   accentedVowelChar = this.pinyin[tone.toString()][vowelNum];
+                   replacedWord = word.replace(base, vowel).replace(vowelChar, accentedVowelChar);
+                   return replacedWord;
+                 }
+               }
+               return match;
+             },
+             getAccentMap: function() {
+               var base, i, j, len, nostars, ref, stars, starsArray;
+               if (!this.accentMap) {
+                 stars = 'a*i a*o e*i ia* ia*o ie* io* iu* ' + 'A*I A*O E*I IA* IA*O IE* IO* IU* ' + 'o*u ua* ua*i ue* ui* uo* üe* ' + 'O*U UA* UA*I UE* UI* UO* ÜE* ' + 'A* E* I* O* U* Ü* ' + 'a* e* i* o* u* ü*';
+                 nostars = stars.replace(/\*/g, '');
+                 starsArray = stars.split(' ');
+                 this.accentMap = {};
+                 ref = nostars.split(' ');
+                 for (i = j = 0, len = ref.length; j < len; i = ++j) {
+                   base = ref[i];
+                   this.accentMap[base] = starsArray[i];
+                 }
+               }
+               return this.accentMap;
+             }
+           };
+
+           (function(root, factory) {
+             if (typeof define === 'function' && define.amd) {
+               return define(factory);
+             } else if (typeof exports === 'object') {
+               return module.exports = factory();
+             } else {
+               return root.PinyinConverter = factory();
+             }
+           })(this, function() {
+             return PinyinConverter;
+           });
+
+         }).call(this);
+
+         
+         function convertPara(para) {
+           let result = [];
+           for (word of para.trim().split("\n")) {
+             result.push(word.trim().split(" "));
+           }
+           return result;
+         }
+         
+         const app = new Vue({
+           el: "#gwoyeutext",
+           
+           data: {
+             raw: raw,
+           },
+
+           computed: {
+             fmt() {
+               let result = [];
+               for (phrase of this.raw) {
+                 let curphr = [];
+                 curphr.push(phrase[0]);
+                 curphr.push(convertPara(phrase[1]));
+                 result.push(curphr);
+               }             
+               return result;
+             }
+           },
+         });
+        </script>
+    </body>
+</html>
+
+

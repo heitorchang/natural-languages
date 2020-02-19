@@ -1,0 +1,685 @@
+I'm lost
+mi2 迷
+lu4 路
+le5 了
+--
+Could you please help me?
+qing3 請
+wen4 問
+ni3 你
+ke3 可
+yi3 以
+bang1 幫
+zhu4 助
+wo3 我
+ma5 嗎
+? ﹖
+--
+Can I ask you a question?
+wo3 我
+ke3 可
+yi3 以
+wen4 問
+ni3 你
+yi4 一
+ge5 個
+wen4 問
+ti2 題
+ma5 嗎
+? ﹖
+--
+I think I'm lost. Can I ask you a question?
+wo3 我
+xiang3 想
+wo3 我
+mi2 迷
+lu4 路
+le5 了
+, ，
+ke3 可
+yi3 以
+jie4 借
+wen4 問
+yi2 一
+xia4 下
+lu4 路
+ma5 嗎
+? ﹖
+--
+May I help you?
+xu1 需
+yao4 要
+bang1 幫
+mang2 忙
+ma5 嗎
+? ﹖
+--
+What is this place?
+zhe4 這
+li3 裡
+shi4 是
+shen2 什
+me5 麼
+di4 地
+fang5 方
+? ﹖
+--
+Where am I?
+wo3 我
+xian4 現
+zai4 在
+zai4 在
+na3 哪
+li3 裡
+? ﹖
+--
+Excuse me. Could you please tell me where I am?
+bu4 不
+hao3 好
+yi4 意
+si5 思
+, ，
+ke3 可
+yi3 以
+qing3 請
+ni3 你
+gao4 告
+su5 訴
+wo3 我
+, ，
+wo3 我
+xian4 現
+zai4 在
+zai4 在
+na3 哪
+li3 裡
+ma5 嗎
+? ﹖
+--
+Excuse me. Could you tell me what this place is?
+bu4 不
+hao3 好
+yi4 意
+si5 思
+, ，
+ke3 可
+yi3 以
+gao4 告
+su5 訴
+wo3 我
+, ，
+zhe4 這
+li3 裡
+shi4 是
+na3 哪
+li3 裡
+ma5 嗎
+? ﹖
+--
+Excuse me. Please tell me, where is the bus stop?
+bu4 不
+hao3 好
+yi4 意
+si5 思
+, ，
+ke3 可
+yi3 以
+gao4 告
+su5 訴
+wo3 我
+, ，
+gong1 公
+che1 車
+zhan4 站
+pai2 牌
+zai4 在
+na3 哪
+li3 裡
+ma5 嗎
+? ﹖
+--
+Could you please tell me how to get to Zhongshan Road?
+ke3 可
+yi3 以
+qing3 請
+ni3 你
+gao4 告
+su5 訴
+wo3 我
+, ，
+yao4 要
+ru2 如
+he2 何
+qu4 去
+zhong1 中
+shan1 山
+lu4 路
+ma5 嗎
+? ﹖
+--
+I don't know how to get to Zhongshan Road
+wo3 我
+bu4 不
+zhi1 知
+dao4 道
+gai1 該
+zen3 怎
+me5 麼
+qu4 去
+zhong1 中
+shan1 山
+lu4 路
+--
+How can I get to Zhongshan Road?
+qing3 請
+wen4 問
+wo3 我
+yao4 要
+zen3 怎
+me5 麼
+qu4 去
+zhong1 中
+shan1 山
+lu4 路
+ne5 呢
+? ﹖
+--
+How far is it from here?
+ta1 它
+li2 離
+zhe4 這
+li3 裡
+duo1 多
+yuan3 遠
+? ﹖
+--
+How long does it take?
+xu1 需
+yao4 要
+duo1 多
+jiu3 久
+ke3 可
+yi3 以
+dao4 到
+da2 達
+? ﹖
+--
+How far is the hospital from here?
+yi1 醫
+yuan4 院
+li2 離
+zhe4 這
+li3 裡
+duo1 多
+yuan3 遠
+? ﹖
+--
+10 minutes away on foot
+zou3 走
+lu4 路
+guo4 過
+qu4 去
+da4 大
+yue1 約
+shi2 十
+fen1 分
+zhong1 鐘
+--
+Go straight
+zhi2 直
+zou3 走
+--
+Go straight along
+yan2 沿
+zhe5 著
+lu4 路
+zhi2 直
+zou3 走
+--
+turn left
+zuo3 左
+zhuan3 轉
+--
+turn right
+you4 右
+zhuan3 轉
+--
+make another left
+zai4 再
+zuo3 左
+zhuan3 轉
+--
+make another right
+zai4 再
+you4 右
+zhuan3 轉
+--
+on your left
+zai4 在
+ni3 你
+de5 的
+zuo3 左
+shou3 手
+bian1 邊
+--
+on your right
+zai4 在
+ni3 你
+de5 的
+you4 右
+shou3 手
+bian1 邊
+--
+Do you know where the police station is?
+qing3 請
+wen4 問
+ni3 你
+zhi1 知
+dao4 道
+jing3 警
+cha2 察
+ju2 局
+zai4 在
+na3 哪
+li3 裡
+ma5 嗎
+? ﹖
+--
+Yes. It is on the opposite side of the road
+shi4 是
+, ，
+ta1 它
+jiu4 就
+zai4 在
+zhe4 這
+tiao2 條
+lu4 路
+de5 的
+dui4 對
+mian4 面
+--
+make a U-turn
+hui2 迴
+zhuan3 轉
+--
+Could you please tell me how to get to the party?
+neng2 能
+qing3 請
+ni3 你
+gao4 告
+su5 訴
+wo3 我
+zen3 怎
+me5 麼
+qu4 去
+pai4 派
+dui4 對
+ma5 嗎
+? ﹖
+--
+Go straight and make a U-turn at the traffic lights
+zhi2 直
+zhi2 直
+zou3 走
+, ，
+ran2 然
+hou4 後
+zai4 在
+hong2 紅
+lü4 綠
+deng1 燈
+na4 那
+li3 裡
+hui2 迴
+zhuan3 轉
+--
+when you hit ~
+dang1 當
+ni3 你
+yu4 遇
+dao4 到
+~ ~
+--
+when you reach ~
+dang1 當
+ni3 你
+dao4 到
+le5 了
+~ ~
+--
+Could you please tell me where the post office is?
+ni3 你
+ke3 可
+yi3 以
+gao4 告
+su5 訴
+wo3 我
+zen3 怎
+me5 麼
+qu4 去
+you2 郵
+ju2 局
+ma5 嗎
+? ﹖
+--
+Yes. Go straight until you hit the intersection. Then turn left
+hao3 好
+a5 啊
+, ，
+ni3 你
+zhi2 直
+zhi2 直
+zou3 走
+, ，
+zhi2 直
+dao4 到
+yu4 遇
+dao4 到
+shi2 十
+zi4 字
+lu4 路
+kou3 口
+, ，
+ran2 然
+hou4 後
+jiu4 就
+zuo3 左
+zhuan3 轉
+--
+You will hit the bus stop
+ni3 你
+jiang1 將
+hui4 會
+yu4 遇
+dao4 到
+gong1 公
+che1 車
+zhan4 站
+pai2 牌
+--
+You will reach the parking lot
+ni3 你
+jiang1 將
+hui4 會
+dao4 到
+da2 達
+ting2 停
+che1 車
+chang3 場
+--
+The drugstore is over there
+yao4 藥
+fang2 房
+jiu4 就
+zai4 在
+na4 那
+li3 裡
+--
+Excuse me. Where is the badminton court?
+bu4 不
+hao3 好
+yi4 意
+si5 思
+, ，
+qing3 請
+wen4 問
+yu3 羽
+qiu2 球
+chang3 場
+zai4 在
+na3 哪
+li3 裡
+? ﹖
+--
+Make a left and make another left
+ni3 你
+zuo3 左
+zhuan3 轉
+, ，
+ran2 然
+hou4 後
+zai4 在
+zuo3 左
+zhuan3 轉
+--
+You will hit the badminton court
+ni3 你
+jiu4 就
+hui4 會
+kan4 看
+dao4 到
+yu3 羽
+qiu2 球
+chang3 場
+le5 了
+--
+Could you please tell me how to get to the meeting room, Miss?
+xiao3 小
+jie3 姐
+, ，
+ke3 可
+yi3 以
+ma2 麻
+fan5 煩
+ni3 你
+gao4 告
+su5 訴
+wo3 我
+, ，
+hui4 會
+yi4 議
+shi4 室
+yao4 要
+zen3 怎
+me5 麼
+zou3 走
+ma5 嗎
+? ﹖
+--
+Take a right and go straight along the hall. The meeting room is right there
+you4 右
+zhuan3 轉
+, ，
+ran2 然
+hou4 後
+yan2 沿
+zhe5 著
+da4 大
+ting1 廳
+zhi2 直
+zhi2 直
+zou3 走
+, ，
+hui4 會
+yi4 議
+shi4 室
+jiu4 就
+zai4 在
+na4 那
+li3 裡
+--
+traffic lights
+hong2 紅
+lü4 綠
+deng1 燈
+--
+intersection
+shi2 十
+zi4 字
+lu4 路
+kou1 口
+--
+overpass
+lu4 陸
+qiao2 橋
+--
+the entrance to the alley
+xiang4 巷
+zi5 子
+kou3 口
+--
+in the alley
+xiang4 巷
+zi5 子
+nei4 內
+--
+footbridge
+tian1 天
+qiao2 橋
+--
+crosswalk
+ban1 斑
+ma3 馬
+xian4 線
+--
+the corner
+zhuan3 轉
+wan1 彎
+chu3 處
+--
+junction
+cha1 叉
+lu4 路
+kou3 口
+--
+railway
+tie3 鐵
+dao4 道
+--
+sign
+jiao1 交
+tong1 通
+biao1 標
+shi4 示
+--
+lamppost
+lu4 路
+deng1 燈
+--
+postbox
+you2 郵
+tong3 筒
+--
+police booth
+jing3 警
+cha2 察
+gang3 崗
+shao4 哨
+--
+dead end
+si3 死
+lu4 路
+--
+sidewalk
+ren2 人
+xing2 行
+dao4 道
+--
+take ~ line
+da1 搭
+shang4 上
+jie2 捷
+yun4 運
+~ ~
+xian4 線
+--
+Take the blue line
+da1 搭
+cheng2 乘
+lan2 籃
+xian4 線
+--
+Get off at Taipei Main Station
+zai4 在
+tai2 台
+bei3 北
+che1 車
+zhan4 站
+xia4 下
+che1 車
+--
+Go out through exit no. 2
+cong2 從
+er4 二
+hao4 號
+chu1 出
+kou3 口
+chu1 出
+qu4 去
+--
+Take exit no. 5
+wang3 往
+wu3 五
+hao4 號
+chu1 出
+kou3 口
+zou3 走
+--
+Take the Sukhumvit line, get off at Ekamai Station and take exit no. 2
+da1 搭
+cheng2 乘
+jie2 捷
+yun4 運
+su1 蘇
+kun1 坤
+wei1 威
+xian4 線
+, ，
+dao4 到
+yi1 伊
+ka3 卡
+mai4 邁
+zhan4 站
+zhi1 之
+hou4 後
+jiu4 就
+xia4 下
+che1 車
+, ，
+ran2 然
+hou4 後
+wang3 往
+er4 二
+hao4 號
+chu1 出
+kou3 口
+zou3 走
+--
+Then turn around to the opposite side
+ran2 然
+hou4 後
+zhuan3 轉
+tou2 頭
+zou3 走
+dao4 到
+dui4 對
+mian4 面
+--
+Then go straight along the road until you hit the Bangkok Planetarium on your left
+zai4 再
+yan2 沿
+zhe5 著
+lu4 路
+zhi2 直
+zhi2 直
+zou3 走
+, ，
+nin2 你
+jiu1 就
+hui4 會
+kan4 看
+dao4 到
+man4 曼
+gu3 谷
+tian1 天
+wen2 文
+guan3 館
+jiu4 就
+zai4 在
+ni3 你
+de5 的
+zuo3 左
+shou3 手
+bian1 邊
+--
+

@@ -1,0 +1,125 @@
+balcony
+yang2 陽
+tai2 台
+--
+washing machine
+xi3 洗
+yi1 衣
+ji1 機
+--
+laundry detergent
+xi3 洗
+yi1 衣
+jing1 精
+--
+laundry basket
+xi3 洗
+yi1 衣
+lan2 籃
+--
+clothes dryer
+hong1 烘
+gan1 乾
+ji1 機
+--
+clothesline
+shai4 曬
+yi1 衣
+sheng2 繩
+--
+vacuum cleaner
+xi1 吸
+chen2 塵
+qi4 器
+--
+clothespin
+yi1 衣
+jia2 夾
+--
+mop
+tuo1 拖
+ba3 把
+--
+broom
+sao4 掃
+ba3 把
+--
+dustpan
+ben3 畚
+ji1 箕
+--
+brush
+shua1 刷
+zi5 子
+--
+clothes hanger
+yi1 衣
+jia4 架
+--
+I've been busy lately
+wo3 我
+zui4 最
+jin4 近
+hen3 很
+mang2 忙
+--
+Please help me do the laundry tomorrow.
+ming2 明
+tian1 天
+ni3 你
+bang1 幫
+wo3 我
+xi3 洗
+yi1 衣
+fu2 服
+--
+Scrub the collars for me.
+yi1 衣
+ling3 領
+bang1 幫
+wo3 我
+shua1 刷
+yi2 一
+xia4 下
+--
+The laundry detergent is on the right side of the washing machine
+xi3 洗
+yi1 衣
+jing1 精
+fang4 放
+zai4 在
+xi3 洗
+yi1 衣
+ji1 機
+de5 的
+you4 右
+bian1 邊
+. 。
+--
+The clothes pins and hangers are on the left
+yi1 衣
+jia2 夾
+he2 何
+yi1 衣
+jia4 架
+zai4 在
+zuo3 左
+bian1 邊
+. 。
+--
+Remember to put them in the dryer after spin drying
+tuo1 脫
+shui3 水
+hou4 後
+ji4 記
+de2 得
+na2 拿
+dao4 到
+hong1 烘
+gan1 乾
+ji1 機
+hong1 烘
+gan1 乾
+. 。
+--
+

@@ -1,0 +1,214 @@
+Shemay Creativity Studio
+xi3 喜
+mei3 美
+chuang4 創
+yi4 意
+gong1 工
+zuo4 作
+fang2 房
+--
+general manager
+zong3 總
+jing1 經
+li3 理
+--
+Lin Zhiru
+lin2 林
+zhi4 志
+ru2 儒
+--
+address
+di4 地
+zhi3 址
+--
+Taipei City, Xinyi Rd., 168
+tai2 台
+bei3 北
+shi4 市
+xin4 信
+yi4 義
+qu1 區
+xin4 信
+yi4 義
+lu4 路
+yi4 一
+liu4 六
+ba1 八
+hao4 號
+--
+telephone
+dian4 電
+hua4 話
+--
+fax
+chuan2 傳
+zhen1 真
+--
+website
+wang3 網
+zhi3 址
+--
+email
+dian4 電
+zi3 子
+you2 郵
+jian4 件
+--
+company ID number
+tong3 統
+yi1 一
+bian1 編
+hao4 號
+--
+company
+gong1 公
+si1 司
+hang2 行
+hao4 號
+--
+job title
+zhi2 職
+cheng1 稱
+--
+chairman
+dong3 董
+shi4 事
+zhang3 長
+--
+general manager
+zong3 總
+jing1 經
+li3 理
+--
+assistant general manager
+fu4 副
+zong3 總
+jing1 經
+li3 理
+--
+associate manager
+xiang1 襄
+li3 理
+--
+deputy manager
+fu4 副
+li3 理
+--
+manager
+jing1 經
+li3 理
+--
+director
+ke4 課
+zhang3 長
+--
+director
+zhu3 主
+ren4 任
+--
+Let me introduce you
+wo3 我
+lai2 來
+jie4 介
+shao4 紹
+yi2 一
+xia4 下
+--
+This is my colleague, Mr. Song
+ta1 他
+shi4 是
+wo3 我
+gong1 公
+si1 司
+de5 的
+tong2 同
+shi4 事
+, ，
+song4 宋
+xian1 先
+sheng1 生
+. 。
+--
+Hello, Song is my last name
+ni3 你
+hao3 好
+, ，
+bi4 敝
+xing4 姓
+song4 宋
+--
+Here is my business card
+zhe4 這
+shi4 是
+wo3 我
+de5 的
+ming2 名
+pian4 片
+--
+Please let me know if there is anything I need to improve
+qing3 請
+duo1 多
+duo1 多
+zhi3 指
+jiao4 教
+--
+May I have your business card?
+wo3 我
+ke3 可
+yi3 以
+yao4 要
+ni3 你
+de5 的
+ming2 名
+pian4 片
+ma5 嗎
+? ?
+--
+Of course, it's very nice to meet you.
+dang1 當
+ran2 然
+ke3 可
+yi3 以
+, ，
+hen3 很
+gao1 高
+xing4 興
+ren4 認
+shi4 識
+ni3 你
+. 。
+--
+I hope we can work together over the long term.
+wo3 我
+xi1 希
+wang4 望
+wo3 我
+men5 們
+ke3 可
+yi3 以
+chang2 長
+qi2 期
+he2 合
+zuo4 作
+. 。
+--
+I hope we can work well together.
+zhu4 祝
+wo3 我
+men5 們
+he2 合
+zuo4 作
+yu2 愉
+kuai4 快
+--
+Let's keep in touch.
+wo3 我
+men5 們
+bao3 保
+chi2 持
+lian2 聯
+luo4 絡
+ba5 吧
+. 。
+--
+

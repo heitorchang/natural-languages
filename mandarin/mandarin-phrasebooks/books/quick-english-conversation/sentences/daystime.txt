@@ -1,0 +1,13 @@
+What time is it?;jii dean .le;幾點了﹖
+It's six o' clock;liow dean;六點
+It's six fifteen;liow dean shyr wuu fen;六點十五分
+It's half past six;liow dean bann;六點半
+It's four o' clock in the afternoon;shiah wuu syh dean;下午四點
+It's three o' clock in the morning;ling chern san dean;凌晨三點
+It's eleven a.m.;tzao shanq shyr i dean;早上十一點
+It's ten to two p.m.;hair yeou shyr fen jong jiow shyh shiah wuu leang dean;還有十分鐘就是下午兩點
+What day is it today?;jin tian shyh shing chyi jii .ne?;今天是星期幾呢﹖
+It's Monday;shing chyi i;星期一
+Excuse me, what day is it today?;buh hao yih .sy, chiing wenn jin tian shing chyi jii?;不好意思，請問今天星期幾﹖
+What is the date today?;jin tian shyh jii haw?;今天是幾號﹖
+It's the eighteenth;shyr ba haw;十八號

@@ -1,0 +1,147 @@
+Fruit
+shui3 水
+guo3 果
+--
+apple
+ping2 蘋
+guo3 果
+--
+pear
+li2 梨
+zi5 子
+--
+grapes
+pu2 葡
+tao2 萄
+--
+watermelon
+xi1 西
+gua1 瓜
+--
+peach
+tao2 桃
+zi5 子
+--
+strawberry
+cao3 草
+mei2 莓
+--
+persimmon
+shi4 柿
+zi5 子
+--
+banana
+xiang1 香
+jiao1 蕉
+--
+pineapple
+feng4 鳳
+li2 梨
+--
+melon
+xiang1 香
+gua1 瓜
+--
+orange
+ju2 橘
+zi5 子
+--
+tomato
+fan1 蕃
+qie2 茄
+--
+lemon
+ning2 檸
+meng2 檬
+--
+mango
+mang2 芒
+guo3 果
+--
+avocado
+luo4 酪
+li2 梨
+--
+papaya
+mu4 木
+gua1 瓜
+--
+kiwi
+qi2 奇
+yi4 異
+guo3 果
+--
+coconut
+ye2 椰
+zi5 子
+--
+What fruit do you like?
+ni3 妳
+xi3 喜
+huan1 歡
+chi1 吃
+shen2 什
+me5 麼
+shui3 水
+guo3 果
+? ?
+--
+The fruit in Taiwan is all very sweet
+tai2 台
+wan1 灣
+de5 的
+shui3 水
+guo3 果
+dou1 都
+hen3 很
+tian2 甜
+. 。
+--
+I like all of them a lot.
+wo3 我
+dou1 都
+hen3 很
+xi3 喜
+huan1 歡
+. 。
+--
+Pineapple and watermelon are my favorite fruits
+wo3 我
+zui4 最
+xi3 喜
+huan1 歡
+chi1 吃
+de5 的
+shi4 是
+feng4 鳳
+li2 梨
+he2 和
+xi1 西
+gua1 瓜
+. 。
+--
+And you?
+na4 那
+ni3 妳
+ne5 呢
+? ?
+--
+Pears are my favorite fruit.
+wo3 我
+zui4 最
+xi3 喜
+huan1 歡
+chi1 吃
+li2 梨
+zi5 子
+. 。
+--
+Bananas are good, too
+xiang1 香
+jiao1 蕉
+ye3 也
+bu2 不
+cuo4 錯
+. 。
+--
+

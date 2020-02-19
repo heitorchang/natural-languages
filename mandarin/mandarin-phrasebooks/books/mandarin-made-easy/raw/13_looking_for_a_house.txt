@@ -1,0 +1,340 @@
+looking for a house
+jao 找
+farng 房
+tzyy 子
+--
+suite
+taw 套
+farng 房
+--
+room
+yea 雅
+farng 房
+--
+apartment
+gong 公
+yuh 寓
+--
+townhouse
+tow 透
+tian 天
+--
+store
+shang 商
+diann 店
+--
+elevator
+diann 電
+ti 梯
+--
+security guard
+jiing 警
+wey 衛
+--
+for sale
+show 售
+--
+for rent
+chu 出
+tzu 租
+--
+take over a business
+diing 頂
+ranq 讓
+--
+suite for rent
+taw 套
+farng 房
+chu 出
+tzu 租
+--
+one bedroom
+yih 一
+farng 房
+--
+one living room
+yih 一
+ting 廳
+--
+one bathroom
+yi 一
+wey 衛
+--
+quiet in a noisy area
+naw 鬧
+jong 中
+cheu 取
+jinq 靜
+--
+bright
+tsae 採
+guang 光
+jia 佳
+--
+close to MRT
+li 離
+jye 捷
+yunn 運
+jinn 近
+--
+furniture included
+fuh 附
+jia 家
+jiuh 具
+--
+NT$ 10,000 per month
+yueh 月
+tzu 租
+yi 一
+wann 萬
+--
+for information
+yih 意
+jee 者
+chiing 請
+chiah 洽
+--
+telephone
+diann 電
+huah 話
+--
+for sale
+chu 出
+show 售
+--
+three large rooms
+dah 大
+san 三
+farng 房
+--
+square layout
+ger 格
+jyu 局
+fang 方
+jenq 正
+--
+good (wide) view
+shyh 視
+yee 野
+kuan 寬
+kuoh 闊
+--
+million-dollar decor
+bae 百
+wann 萬
+juang 裝
+hwang 潢
+--
+close to school
+jinn 近
+shyue 學
+chiu 區
+--
+parking space included
+fuh 附
+che 車
+wey 位
+--
+Excuse me, do you have a suite for rent?
+chiing 請
+wenn 問
+, ，
+nii 你
+yeou 有
+taw 套
+farng 房
+yaw 要
+chu 出
+tzu 租
+.ma 嗎
+? ?
+--
+Yes, how many of you are renting?
+shyh 是
+.a 啊
+, ，
+nii 你
+yeou 有
+jii 幾
+.ge 個
+ren 人
+yaw 要
+juh 住
+.ne 呢
+? ?
+--
+Just me
+woo 我
+yih 一
+.ge 個
+ren 人
+juh 住
+--
+Can I take a look at the place?
+woo 我
+kee 可
+yii 以
+kann 看
+.kan 看
+farng 房
+jian 間
+.ma 嗎
+? ?
+--
+Of course
+dang 當
+ran 然
+kee 可
+yii 以
+. 。
+--
+How much is the rent per month?
+yih 一
+.ge 個
+yueh 月
+farng 房
+tzu 租
+shyh 是
+duo 多
+shao 少
+? ?
+--
+NT$ 10,000 per month, not including utilities.
+yih 一
+.ge 個
+yueh 月
+yi 一
+wann 萬
+kuay 塊
+chyan 錢
+, ，
+shoei 水
+diann 電
+fey 費
+buh 不
+bau 包
+harn 含
+--
+How much is the deposit?
+nii 你
+shiu 需
+yaw 要
+jii 幾
+.ge 個
+yueh 月
+.de 的
+ia 押
+jin 金
+? ?
+--
+Two months' rent
+leang 兩
+.ge 個
+yueh 月
+.de 的
+farng 房
+tzu 租
+--
+I am a student, can you rent it a little cheaper?
+woo 我
+shyh 是
+shyue 學
+sheng 生
+, ，
+chiing 請
+suann 算
+woo 我
+pyan 便
+.i 宜
+yih 一
+dean 點
+--
+Sorry, I can't lower the price.
+duey 對
+buh 不
+chii 起
+, ，
+woo 我
+mei 沒
+yeou 有
+bann 辦
+faa 法
+tzay 再
+jianq 降
+jiah 價
+.le 了
+--
+It's the best price.
+jeh 這
+shyh 是
+tzuey 最
+pyan 便
+.i 宜
+.le 了
+--
+The place next door is cheaper.
+ger 隔
+bih 壁
+nah 那
+yih 一
+jian 間
+bii 比
+jiaw 較
+pyan 便
+.i 宜
+--
+Do you want to take a look?
+nii 你
+yaw 要
+tsan 參
+kao 考
+yi 一
+shiah 下
+.ma 嗎
+? ?
+--
+Yes, I do.
+hao 好
+, ，
+woo 我
+yaw 要
+kann 看
+.kan 看
+--
+This one is good, too
+jeh 這
+yih 一
+jian 間
+yee 也
+bwu 不
+tsuoh 錯
+--
+I'll take it
+woo 我
+jyue 決
+dinq 定
+tzu 租
+.le 了
+--
+Okay. I'll charge you NT$ 9,000 per month for the rent.
+hao 好
+.ba 吧
+. 。
+woo 我
+suann 算
+nii 你
+jeou 九
+chian 千
+hao 好
+.le 了
+--
+Okay. Let's sign a contract, then
+hao 好
+, 。
+nah 那
+woo 我
+.men 們
+chian 簽
+iue 約
+.ba 吧
+--

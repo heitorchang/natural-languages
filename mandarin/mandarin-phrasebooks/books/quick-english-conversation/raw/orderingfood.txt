@@ -1,0 +1,562 @@
+I'd like to make a reservation, please
+ma 麻
+.fan 煩
+nii 你
+, ，
+woo 我
+sheang 想
+yaw 要
+dinq 訂
+wey 位
+. 。
+--
+For what time?
+chiing 請
+wenn 問
+yaw 要
+dinq 訂
+jii 幾
+dean 點
+? ﹖
+--
+For how many people?
+jii 幾
+wey 位
+? ﹖
+--
+I'd like to make a breakfast reservation, please
+woo 我
+sheang 想
+dinq 訂
+tzao 早
+tsan 餐
+.de 的
+wey 位
+.jy 置
+--
+I'd like to make a lunch reservation, please
+woo 我
+sheang 想
+dinq 訂
+wuu 午
+tsan 餐
+.de 的
+wey 位
+.jy 置
+--
+I'd like to make a dinner reservation, please
+woo 我
+sheang 想
+dinq 訂
+woan 晚
+tsan 餐
+.de 的
+wey 位
+.jy 置
+--
+I'd like to make a dinner reservation for two people at 7 o'clock, please
+woo 我
+sheang 想
+dinq 訂
+woan 晚
+tsan 餐
+shyr 時
+duann 段
+.de 的
+wey 位
+.jy 置
+, ，
+leang 兩
+wey 位
+, ，
+chi 七
+dean 點
+--
+Can I see the menu, please?
+woo 我
+kee 可
+yii 以
+kann 看
+yi 一
+shiah 下
+tsay 菜
+dan 單
+.ma 嗎
+? ﹖
+--
+Can I have the menu, please?
+woo 我
+kee 可
+yii 以
+yaw 要
+tsay 菜
+dan 單
+.ma 嗎
+? ﹖
+--
+Are you ready to order?
+joen 準
+bey 備
+hao 好
+dean 點
+tsan 餐
+.le 了
+.ma 嗎
+? ﹖
+--
+What would you like to order?
+chiing 請
+wenn 問
+sheang 想
+dean 點
+shern 什
+.me 麼
+? ﹖
+--
+Here you go
+tzay 在
+jeh 這
+lii 裡
+--
+There you go
+tzay 在
+nah 那
+lii 裡
+--
+Here we go
+lai 來
+.ba 吧
+--
+Your dumbbell is too heavy. I can't lift it
+nii 你
+.de 的
+yea 啞
+ling 鈴
+tay 太
+jonq 重
+.le 了
+, ，
+woo 我
+gen 根
+been 本
+jeu 舉
+buh 不
+chii 起
+lai 來
+--
+Come on, Tony. Here we go, you can do it!
+jia 加
+you 油
+, ，
+dong 東
+ni 尼
+, ，
+lai 來
+.ba 吧
+, ，
+nii 你
+bann 辦
+.de 得
+daw 到
+.de 得
+! ﹗
+--
+There you go!
+nii 你
+kann 看
+.ba 吧
+! ﹗
+--
+I'd like a chicken salad, please
+woo 我
+sheang 想
+yaw 要
+ji 雞
+row 肉
+sha 沙
+lha 拉
+, ，
+shieh 謝
+.shie 謝
+--
+Can I have a seafood spaghetti, please?
+woo 我
+kee 可
+yii 以
+dean 點
+yih 一
+parn 盤
+hae 海
+shian 鮮
+yih 義
+dah 大
+lih 利
+miann 麵
+.ma 嗎
+? ﹖
+--
+Can I get extra salad dressing, please?
+kee 可
+yii 以
+duo 多
+geei 給
+woo 我
+i 一
+shie 些
+sha 沙
+lha 拉
+jianq 醬
+.ma 嗎
+? ﹖
+--
+May I get it with extra rice, please?
+kee 可
+yii 以
+bang 幫
+woo 我
+duo 多
+jia 加
+i 一
+shie 些
+bair 白
+fann 飯
+.ma 嗎
+? ﹖
+--
+May I get an omelet with extra rice, please?
+kee 可
+yii 以
+geei 給
+woo 我
+dann 蛋
+bau 包
+fann 飯
+binq 並
+duo 多
+jia 加
+i 一
+dean 點
+bair 白
+fann 飯
+.ma 嗎
+? ﹖
+--
+Could you add 2 eggs to it, please?
+kee 可
+yii 以
+bang 幫
+woo 我
+jia 加
+leang 兩
+ke 棵
+dann 蛋
+.ma 嗎
+? ﹖
+--
+I'd like it not spicy at all
+woo 我
+wan 完
+chyuan 全
+bwu 不
+yaw 要
+lah 辣
+--
+I'd like it a little spicy
+woo 我
+sheang 想
+yaw 要
+sheau 小
+lah 辣
+--
+I'd like it medium spicy
+woo 我
+sheang 想
+yaw 要
+jong 中
+lah 辣
+--
+I'd like it very spicy
+woo 我
+sheang 想
+yaw 要
+dah 大
+lah 辣
+--
+It's very delicious
+fei 非
+charng 常
+meei 美
+wey 味
+--
+That's so nice
+jen 真
+shyh 是
+hao 好
+chy 吃
+--
+It's excellent
+chau 超
+hao 好
+chy 吃
+--
+Awesome!
+tzann 讚
+--
+That's tasty
+wey 味
+daw 道
+heen 很
+banq 棒
+--
+That's terrible
+buh 不
+hao 好
+chy 吃
+--
+It's too sour
+ta 它
+tay 太
+suan 酸
+.le 了
+--
+That's a bit salty
+yeou 有
+dean 點
+shyan 鹹
+--
+It's quite sweet
+jen 真
+.de 的
+hao 好
+tyan 甜
+o 喔
+--
+That's so bitter
+tay 太
+kuu 苦
+.le 了
+--
+Please hold the onion
+bwu 不
+yaw 要
+jia 加
+yang 洋
+tsong 蔥
+--
+No garlic, please
+chiing 請
+bwu 不
+yaw 要
+jia 加
+suann 蒜
+.tou 頭
+--
+Could you hold the bean sprouts, please?
+kee 可
+yii 以
+buh 不
+jia 加
+dow 豆
+ya 芽
+tsay 菜
+.ma 嗎
+? ﹖
+--
+I can't eat spicy food
+woo 我
+buh 不
+neng 能
+chy 吃
+lah 辣
+--
+I can't eat carbs
+woo 我
+buh 不
+neng 能
+chy 吃
+diann 澱
+feen 粉
+ley 類
+.de 的
+shyr 食
+wuh 物
+--
+I don't eat vegetables
+woo 我
+bwu 不
+chy 吃
+ching 青
+tsay 菜
+--
+I don't eat meat
+woo 我
+bwu 不
+chy 吃
+row 肉
+--
+I'm allergic to shrimp
+woo 我
+duey 對
+shia 蝦
+.tzy 子
+guoh 過
+miin 敏
+--
+I'm on a diet
+woo 我
+jenq 正
+tzay 在
+konq 控
+jyh 制
+yiin 飲
+shyr 食
+--
+I'm a vegetarian
+woo 我
+shyh 是
+suh 素
+shyr 食
+juu 主
+yih 義
+jee 者
+--
+I'm still waiting for my food
+woo 我
+hair 還
+tzay 在
+deeng 等
+woo 我
+.de 的
+tsan 餐
+dean 點
+--
+My order hasn't come yet
+woo 我
+dean 點
+.de 的
+tsan 餐
+hair 還
+mei 沒
+lai 來
+--
+How long will it take?
+chiing 請
+wenn 問
+hair 還
+yaw 要
+duo 多
+jeou 久
+? ﹖
+--
+Can you check it for me?
+kee 可
+yii 以
+bang 幫
+woo 我
+chiueh 確
+renn 認
+yi 一
+shiah 下
+.ma 嗎
+? ﹖
+--
+This is not what I ordered
+jeh 這
+bwu 不
+shyh 是
+woo 我
+dean 點
+.de 的
+--
+I didn't order this
+woo 我
+bwu 不
+shyh 是
+dean 點
+jeh 這
+.ge 個
+--
+Let me pay for the meal
+jeh 這
+yih 一
+tsan 餐
+ranq 讓
+woo 我
+chiing 請
+keh 客
+--
+I'll treat you
+woo 我
+chiing 請
+nii 你
+--
+It's my treat
+jeh 這
+tsyh 次
+woo 我
+chiing 請
+keh 客
+--
+It's on me
+suann 算
+woo 我
+.de 的
+--
+Let's share the bill
+woo 我
+.men 們
+yih 一
+ren 人
+fuh 付
+yi 一
+bann 半
+--
+Let's split the bill
+woo 我
+.men 們
+fen 分
+kai 開
+fuh 付
+janq 帳
+.ba 吧
+--
+Let me pay for the meal
+woo 我
+lai 來
+mae 買
+dan 單
+--
+Can I have the bill, please?
+kee 可
+yii 以
+jye 結
+janq 帳
+.ma 嗎
+? ﹖
+--
+Can I have the check, please?
+kee 可
+yii 以
+geei 給
+woo 我
+janq 帳
+dan 單
+.ma 嗎
+? ﹖
+--
+Check, please
+jye 結
+janq 帳
+--
+That will be 750 dollars, Ma'am
+sheau 小
+jiee 姐
+, ，
+tzoong 總
+gonq 共
+chi 七
+bae 百
+wuu 五
+shyr 十
+yuan 元
+--

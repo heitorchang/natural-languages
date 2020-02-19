@@ -1,0 +1,124 @@
+balcony
+yang 陽
+tair 台
+--
+washing machine
+shii 洗
+i 衣
+ji 機
+--
+laundry detergent
+shii 洗
+i 衣
+jing 精
+--
+laundry basket
+shii 洗
+i 衣
+lan 籃
+--
+clothes dryer
+hong 烘
+gan 乾
+ji 機
+--
+clothesline
+shay 曬
+i 衣
+sherng 繩
+--
+vacuum cleaner
+shi 吸
+chern 塵
+chih 器
+--
+clothespin
+i 衣
+jya 夾
+--
+mop
+tuo 拖
+baa 把
+--
+broom
+saw 掃
+baa 把
+--
+dustpan
+been 畚
+ji 箕
+--
+brush
+shua 刷
+.tzy 子
+--
+clothes hanger
+i 衣
+jiah 架
+--
+I've been busy lately
+woo 我
+tzuey 最
+jinn 近
+heen 很
+mang 忙
+--
+Please help me do the laundry tomorrow.
+ming 明
+tian 天
+nii 你
+bang 幫
+woo 我
+shii 洗
+i 衣
+fwu 服
+--
+Scrub the collars for me.
+i 衣
+liing 領
+bang 幫
+woo 我
+shua 刷
+yi 一
+shiah 下
+--
+The laundry detergent is on the right side of the washing machine
+shii 洗
+i 衣
+jing 精
+fanq 放
+tzay 在
+shii 洗
+i 衣
+ji 機
+.de 的
+yow 右
+bian 邊
+. 。
+--
+The clothes pins and hangers are on the left
+i 衣
+jya 夾
+her 何
+i 衣
+jiah 架
+tzay 在
+tzuoo 左
+bian 邊
+. 。
+--
+Remember to put them in the dryer after spin drying
+tuo 脫
+shoei 水
+how 後
+jih 記
+der 得
+na 拿
+daw 到
+hong 烘
+gan 乾
+ji 機
+hong 烘
+gan 乾
+. 。
+--

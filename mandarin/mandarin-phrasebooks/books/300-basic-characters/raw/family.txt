@@ -1,0 +1,83 @@
+dad
+bah 爸
+.ba 爸
+--
+mom
+mha 媽
+.ma 媽
+--
+grandpa
+ye 爺
+.ie 爺
+--
+grandma
+nae 奶
+.nai 奶
+--
+older brother
+ge 哥
+.ge 哥
+--
+older sister
+jiee 姊
+.jie 姊
+--
+younger brother
+dih 弟
+.di 弟
+--
+younger sister
+mey 妹
+.mei 妹
+--
+aunt (wife of father's elder brother)
+bor 伯
+muu 母
+--
+uncle (father's elder brother)
+bor 伯
+fuh 父
+--
+uncle (father's younger brother)
+shwu 叔
+.shu 叔
+--
+aunt (maternal)
+a 阿
+yi 姨
+--
+aunt (paternal)
+gu 姑
+gu 姑
+--
+father
+fuh 父
+chin 親
+--
+mother
+muu 母
+chin 親
+--
+child
+hair 孩
+.tzy 子
+--
+baby
+ing 嬰
+erl 兒
+--
+son
+erl 兒
+.tzy 子
+--
+daughter
+neu 女
+erl 兒
+--
+grandson
+suen 孫
+.tzy 子
+--
+granddaughter
+suen 孫
+neu 女

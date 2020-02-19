@@ -1,0 +1,107 @@
+taste
+wei4 味
+dao4 道
+--
+sour
+suan1 酸
+--
+sweet
+tian2 甜
+--
+bitter
+ku3 苦
+--
+spicy
+la4 辣
+--
+salty
+xian2 鹹
+--
+How does the dish taste?
+zhe4 這
+dao4 道
+cai4 菜
+wei4 味
+dao4 道
+zen3 怎
+me5 麼
+yang4 樣
+? ?
+--
+Very good and authentic
+hen3 很
+hao3 好
+chi1 吃
+. 。
+dao4 道
+di4 地
+de5 的
+yuan2 原
+wei4 味
+. 。
+--
+Very delicious.
+hen3 很
+ke3 可
+kou3 口
+--
+It melts in your mouth
+ru4 入
+kou3 口
+ji2 即
+hua4 化
+--
+Not good
+bu4 不
+hao3 好
+chi1 吃
+--
+I think it's too salty
+wo3 我
+jue2 覺
+de5 得
+tai4 太
+xian2 鹹
+le5 了
+--
+Too greasy
+tai4 太
+you2 油
+ni4 膩
+le5 了
+--
+The flavor is too strong.
+wei4 味
+dao4 道
+hen3 很
+zhong4 重
+--
+I think it's too bland.
+wo3 我
+jue2 覺
+de5 得
+wei4 味
+dao4 道
+hen3 很
+dan4 淡
+--
+I don't like this flavor
+wo3 我
+bu4 不
+xi3 喜
+huan1 歡
+zhe4 這
+zhong3 種
+kou3 口
+wei4 味
+. 。
+--
+I am not used to it
+wo3 我
+chi1 吃
+bu4 不
+xi2 習
+guan4 慣
+. 。
+--
+

@@ -1,0 +1,19 @@
+教室;jiaw shyh;classroom
+老師;lao shy;teacher
+講桌;jeang juo;teacher's desk
+學生;shyue sheng;student
+書桌;shu juo;desk
+椅子;yii .tzy;chair
+課本;keh been;textbook
+鉛筆;chian bii;pencil
+橡皮擦;shianq pyi tsa;eraser
+修正帶;shiou jenq day;correction tape
+計算機;jih suann ji;calculator
+黑板;hei baan;blackboard
+粉筆;feen bii;chalk
+板擦;baan tsa;eraser
+佈告欄;buh gaw lan;bulletin board
+地圖;dih twu;map
+地球儀;dih chyou yi;globe
+電視;diann shyh;television
+時鐘;shyr jong;clock

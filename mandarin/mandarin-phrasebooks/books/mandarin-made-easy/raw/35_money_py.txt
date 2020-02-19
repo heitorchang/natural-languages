@@ -1,0 +1,32 @@
+money
+huo4 貨
+bi4 幣
+--
+NT Dollar
+tai2 台
+bi4 幣
+--
+one NT
+yi1 一
+yuan2 元
+--
+100 NT
+yi1 一
+bai3 百
+yuan2 元
+--
+2000 NT
+liang3 兩
+qian1 千
+yuan2 元
+--
+Renminbi Yuan
+ren2 人
+min2 民
+bi4 幣
+--
+0.5 RMB
+wu3 五
+jiao3 角
+--
+

@@ -1,0 +1,23 @@
+black
+hei 黑
+--
+white
+bair 白
+--
+orange
+cherng 橙
+--
+red
+horng 紅
+--
+yellow
+hwang 黃
+--
+blue
+lan 藍
+--
+green
+liuh 綠
+--
+violet
+tzyy 紫

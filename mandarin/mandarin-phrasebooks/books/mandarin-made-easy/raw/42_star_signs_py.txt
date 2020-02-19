@@ -1,0 +1,81 @@
+star signs
+xing1 星
+zuo4 座
+--
+Capricorn
+mo2 魔
+jie2 羯
+zuo4 座
+--
+Aquarius
+shui3 水
+ping2 瓶
+zuo4 座
+--
+Pisces
+shuang1 雙
+yu2 魚
+zuo4 座
+--
+Aries
+mu3 牡
+yang2 羊
+zuo4 座
+--
+Taurus
+jin1 金
+niu2 牛
+zuo4 座
+--
+Gemini
+shuang1 雙
+zi3 子
+zuo4 座
+--
+Cancer
+ju4 巨
+xie4 蟹
+zuo4 座
+--
+Leo
+shi1 獅
+zi5 子
+zuo4 座
+--
+Virgo
+chu4 處
+nü3 女
+zuo4 座
+--
+Libra
+tian1 天
+cheng4 秤
+zuo4 座
+--
+Scorpio
+tian1 天
+xie4 蟹
+zuo4 座
+--
+Sagittarius
+she4 射
+shou3 手
+zuo4 座
+--
+What is your star sign?
+ni3 你
+shi4 是
+she2 什
+me5 麼
+xing1 星
+zuo4 座
+? ?
+--
+I am a Taurus
+wo3 我
+shi4 是
+jin1 金
+niu2 牛
+zuo4 座
+--
+

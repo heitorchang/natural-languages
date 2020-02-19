@@ -1,0 +1,187 @@
+sports
+yun4 運
+dong4 動
+--
+baseball
+bang4 棒
+qiu2 球
+--
+basketball
+lan2 籃
+qiu2 球
+--
+tennis
+wang3 網
+qiu2 球
+--
+badminton
+yu3 羽
+mao2 毛
+qiu2 球
+--
+golf
+gao1 高
+er3 爾
+fu1 夫
+qiu2 球
+--
+table tennis
+zhuo1 桌
+qiu2 球
+--
+bowling
+bao3 保
+ling2 齡
+qiu2 球
+--
+skiing
+hua2 滑
+xue3 雪
+--
+swimming
+you2 游
+yong3 泳
+--
+run a marathon
+ma3 馬
+la1 拉
+song1 松
+--
+jogging
+man4 慢
+pao3 跑
+--
+water ballet
+shui3 水
+shang4 上
+ba1 芭
+lei3 蕾
+--
+soccer
+zu2 足
+qiu2 球
+--
+skating
+liu1 溜
+bing1 冰
+--
+pole vaulting
+cheng1 撐
+gan1 竿
+tiao4 跳
+--
+taekwondo
+tai2 跆
+quan2 拳
+dao4 道
+--
+archery
+yang2 洋
+gong1 弓
+--
+boxing
+quan2 拳
+ji2 擊
+--
+gymnastics
+ti3 體
+cao1 操
+--
+Do you like sports?
+ni3 你
+xi3 喜
+huan1 歡
+yun4 運
+dong4 動
+ma5 嗎
+? ?
+--
+I like sports very much
+wo3 我
+xi3 喜
+huan1 歡
+yun4 運
+dong4 動
+--
+But I am to busy to work out
+dan4 但
+shi4 是
+, ，
+wo3 我
+hen3 很
+mang2 忙
+, ，
+mei2 沒
+you3 有
+shi2 時
+jian1 間
+yun4 運
+dong4 動
+--
+I swim when I have time.
+zhi3 只
+yao4 要
+wo3 我
+you3 有
+kong4 空
+, ，
+wo3 我
+hui4 會
+qu4 去
+you2 游
+yong3 泳
+. 。
+--
+What else do you like besides swimming?
+chu2 除
+le5 了
+you2 游
+yong3 泳
+, ，
+ni3 你
+hai2 還
+xi3 喜
+huan1 歡
+she2 什
+me5 麼
+yun4 運
+dong4 動
+? ?
+--
+I like jogging in the morning
+wo3 我
+xi3 喜
+huan1 歡
+zao3 早
+shang4 上
+qi3 起
+lai2 來
+man4 慢
+pao3 跑
+--
+Let's go jogging in the morning one day, shall we?
+gai3 改
+tian1 天
+wo3 我
+men5 們
+zao3 早
+shang4 上
+yi4 一
+qi3 起
+qu4 去
+pao3 跑
+bu4 步
+hao3 好
+ma5 嗎
+? ?
+--
+That would be great
+na4 那
+zhen1 真
+shi4 是
+tai4 太
+hao3 好
+le5 了
+! !
+--
+

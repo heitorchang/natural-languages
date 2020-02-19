@@ -1,0 +1,430 @@
+What are you doing?
+nii 你
+tzay 在
+tzuoh 做
+shern 什
+.me 麼
+? ?
+--
+What's up?
+tzay 在
+gann 幹
+ma 嘛
+? ?
+--
+I'm watching the news.
+woo 我
+jenq 正
+tzay 在
+kann 看
+shin 新
+wen 聞
+--
+Not much, just surfing the Internet.
+mei 沒
+shern 什
+.me 麼
+, ,
+jyy 只
+shyh 是
+shanq 上
+woang 網
+--
+What happened?
+fa 發
+sheng 生
+shern 什
+.me 麼
+shyh 事
+? ?
+--
+You look so happy.
+nii 你
+kann 看
+chii 起
+lai 來
+heen 很
+kai 開
+shin 心
+--
+Why are you in a hurry?
+wey 為
+shern 什
+.me 麼
+nii 你
+kann 看
+chii 起
+lai 來
+hao 好
+huang 慌
+jang 張
+? ?
+--
+What's your problem?
+nii 你 
+yeou 有
+shern 什
+.me 麼
+wenn 問
+tyi 題
+.ma 嗎
+? ?
+--
+What's wrong with you?
+nii 你
+tzeen 怎
+.me 麼
+.le 了
+.ma 嗎
+? ?
+--
+What's eating you?
+nii 你
+tzay 在
+farn 煩
+nao 腦
+shern 什
+.me 麼
+.ma 嗎
+? ?
+--
+What's troubling you?
+nii 你
+yeou 有
+shern 什
+.me 麼
+ma 麻
+.fan 煩
+.ma 嗎
+--
+What's bothering you?
+nii 你
+bey 被
+shern 什
+.me 麼
+shyh 事
+kuenn 困
+rao 擾
+.je 著
+.ma 嗎
+? ?
+--
+What can I do for you?
+yeou 有
+shern 什
+.me 麼
+woo 我
+kee 可
+yii 以
+bang 幫
+mang 忙
+.de 的
+.ma 嗎
+? ?
+--
+Can I help you?
+yeou 有
+shiu 需
+yaw 要
+woo 我
+bang 幫
+mang 忙
+.ma 嗎
+? ?
+--
+(reply) Yes, please, I lost my key.
+shyh 是
+.de 的
+, ,
+ma 麻
+.fan 煩
+nii 你
+, ,
+woo 我
+.de 的
+yaw 鑰
+.shy 匙
+bwu 不
+jiann 見
+.le 了
+--
+(reply) No, thank you.
+mei 沒
+guan 關
+.shi 係
+, , 
+shieh 謝
+.shie 謝
+nii 你
+--
+Where have you been?
+chiuh 去
+naa 哪
+lii 裡
+? ?
+--
+Where are you going?
+jenq 正 
+yaw 要
+chiuh 去
+naa 哪
+lii 裡
+? ?
+--
+Where are you?
+nii 你
+tzay 在
+naa 哪
+lii 裡
+? ?
+--
+I don't know what you're talking about.
+woo 我
+ting 聽
+buh 不
+doong 懂
+nii 你
+jenq 正
+tzay 在
+shuo 說
+shern 什
+.me 麼
+shyh 事
+.ching 情
+--
+I don't understand what you're talking about.
+woo 我
+buh 不
+ming 明
+bair 白
+nii 你
+jenq 正
+tzay 在
+shuo 說
+shern 什
+.me 麼
+shyh 事
+.ching 情
+--
+I don't know what you mean
+woo 我
+ting 聽
+buh 不
+doong 懂
+nii 你
+.de 的
+yih 意
+.sy 思
+--
+I don't understand what you mean
+woo 我
+buh 不 
+ming 明
+bair 白
+nii 你
+.de 的
+yih 意
+.sy 思
+--
+Can you just explain it?
+nii 你
+kee 可
+yii 以
+jiee 解
+shyh 釋
+yi 一
+shiah 下
+.ma 嗎
+? ?
+--
+Never mind!
+suann 算
+.le 了
+.la 啦
+! !
+--
+Can you say it again?
+kee 可
+yii 以
+tzay 再
+shuo 說
+yi 一
+tsyh 次
+.ma 嗎
+? ?
+--
+What does it mean?
+jeh 這
+shyh 是
+shern 什
+.me 麼
+yih 意
+.sy 思
+? ?
+--
+I want to be alone
+woo 我
+sheang 想
+dwu 獨
+chuu 處
+--
+What do you mean by "be alone"?
+nii 你
+shuo 說
+.de 的
+" 「
+dwu 獨
+chuu 處
+" 」
+shyh 是
+shern 什
+.me 麼
+yih 意
+.sy 思
+? ?
+--
+Can I borrow your pen, please?
+woo 我
+kee 可
+yii 以
+jieh 借
+yi 一
+shiah 下
+nii 你
+.de 的
+bii 筆
+.ma 嗎
+? ?
+shieh 謝
+.shie 謝
+nii 你
+--
+Can I borrow your money, please?
+woo 我
+kee 可
+yii 以
+gen 跟
+nii 你
+jieh 借
+yih 一
+dean 點
+chyan 錢
+.ma 嗎
+? ?
+bay 拜
+tuo 託
+nii 你
+--
+Can I borrow your cellphone, please?
+woo 我
+kee 可
+yii 以
+jieh 借
+yi 一
+shiah 下
+nii 你
+.de 的
+shoou 手
+ji 機
+.ma 嗎
+? ?
+ma 麻
+.fan 煩
+nii 你
+--
+Could you please hand me the scissors?
+kee 可
+yii 以
+chiing 請
+nii 你
+bang 幫
+woo 我
+na 拿
+jean 剪
+dau 刀
+.ma 嗎
+? ?
+--
+Could you please get me the key?
+kee 可
+yii 以
+chiing 請
+nii 你
+chwan 傳
+yaw 鑰
+.shy 匙
+geei 給
+woo 我
+.ma 嗎
+? ?
+--
+Do you know the Victory Monument?
+nii 你
+jy 知
+daw 道
+shenq 勝
+lih 利
+jih 記
+niann 念
+bei 碑
+.ma 嗎
+? ?
+--
+Do you know Tony?
+nii 你
+renn 認
+.shy 識
+dong 東
+ni 尼
+.ma 嗎
+? ?
+--
+Do you know where the parking lot is?
+nii 你
+jy 知
+daw 道
+tyng 停
+che 車
+chaang 場
+tzay 在
+naa 哪
+lii 裡
+.ma 嗎
+? ?
+--
+Do you know how far the coffee shop is?
+nii 你
+jy 知
+daw 道
+ka 咖
+fei 啡
+diann 店
+yeou 有
+duo 多
+yeuan 遠
+.ma 嗎
+? ?
+--
+Do you know what coconut milk is?
+nii 你
+jy 知
+daw 道
+shern 什
+.me 麼
+shyh 是
+ye 椰
+nae 奶
+.ma 嗎
+? ?
+--
+Do you know who Tony is?
+nii 你
+jy 知
+daw 道
+dong 東
+ni 尼
+shyh 是
+sheir 誰
+.ma 嗎
+? ?
+

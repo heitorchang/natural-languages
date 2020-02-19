@@ -1,0 +1,100 @@
+knife
+dao1 刀
+--
+bow (weapon)
+gong1 弓
+--
+axe
+fu3 斧
+zi5 子
+--
+towel
+mao2 毛
+jin1 巾
+--
+cloth
+bu4 布
+--
+clothes
+yi1 衣
+fu5 服
+--
+shoe
+xie2 鞋
+zi5 子
+--
+well (of water)
+jing3 井
+--
+bag 
+bao1 包
+--
+jade
+yu4 玉
+--
+ruler (measuring tool)
+chi3 尺
+zi5 子
+--
+pen, brush
+bi3 筆
+--
+letter, mail
+xin4 信
+--
+book
+shu1 書
+--
+picture
+hua4 畫
+--
+table
+zhuo1 桌
+--
+chair
+yi3 椅
+--
+gate, door
+men2 門
+--
+window
+chuang1 窗
+hu5 戶
+--
+bed
+chuang2 床
+--
+lamp, light
+deng1 燈
+--
+umbrella
+yu3 雨
+san3 傘
+--
+car
+che1 車
+--
+boat
+chuan2 船
+--
+ball
+qiu2 球
+--
+money
+qian2 錢
+--
+bowl
+wan3 碗
+--
+chopsticks
+kuai4 筷
+zi5 子
+--
+plate, dish
+pan2 盤
+--
+bottle
+ping2 瓶
+--
+pot, pan
+guo1 鍋

@@ -1,0 +1,131 @@
+power, strength
+li4 力
+--
+to compare
+bi3 比
+--
+public, collectively owned
+gong1 公
+--
+to stop
+zhi3 止
+--
+king
+wang2 王
+--
+husband
+fu1 夫
+--
+dawn
+dan4 旦
+--
+to be born, life
+sheng1 生
+--
+old
+gu3 古
+--
+immortal
+xian1 仙
+--
+to use
+yong4 用
+--
+giant
+ju4 巨
+ren2 人
+--
+meat
+rou4 肉
+--
+earth, ground
+di4 地
+--
+to rest
+xiu1 休
+--
+calm, safe
+an1 安
+--
+feather
+yu3 羽
+--
+to return
+hui2 回
+--
+year
+nian2 年
+--
+to travel
+xing2 行
+--
+temple
+si4 寺
+--
+letter, symbol, character
+zi4 字
+--
+position, location
+wei4 位
+--
+corner, horn
+jiao3 角
+--
+witch, wizard
+wu1 巫
+--
+room
+fang2 房
+--
+tool
+ju4 具
+--
+family name
+xing4 姓
+--
+to play
+wan2 玩
+--
+food
+shi2 食
+--
+teacher
+lao3 老
+shi1 師
+--
+time
+shi2 時
+--
+to fight
+dou4 鬥
+--
+nest
+chao2 巢
+--
+tower
+ta3 塔
+--
+love
+ai4 愛
+--
+to dance
+tiao4 跳
+wu3 舞
+--
+number
+shu4 數
+--
+calendar
+li4 曆
+--
+device, tool
+qi4 器
+--
+machine
+ji1 機
+--
+to study
+xue2 學
+--
+treasure
+bao3 寶

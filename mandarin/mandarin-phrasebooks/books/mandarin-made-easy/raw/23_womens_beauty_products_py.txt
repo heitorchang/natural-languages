@@ -1,0 +1,137 @@
+women's beauty products
+nü3 女
+sheng1 生
+yong4 用
+pin3 品
+--
+cosmetics
+hua4 化
+zhuang1 妝
+pin3 品
+--
+eye cream
+yan3 眼
+shuang1 霜
+--
+foundation
+fen3 粉
+di3 底
+--
+lipstick
+kou3 口
+hong2 紅
+--
+night cream
+wan3 晚
+shuang1 霜
+--
+toner
+hua4 化
+zhuang1 妝
+shui3 水
+--
+sunscreen lotion
+fang2 防
+shai4 曬
+ru3 乳
+yi4 液
+--
+eyelash curler
+jie2 睫
+mao2 毛
+jia2 夾
+--
+comb
+shu1 梳
+zi5 子
+--
+hair clip
+fa3 髮
+jia2 夾
+--
+nail polish
+zhi3 指
+jia3 甲
+you2 油
+--
+earrings
+er3 耳
+huan2 環
+--
+ring
+jie4 戒
+zhi3 指
+--
+bracelet
+shou3 手
+zhuo2 鐲
+--
+necklace
+xiang4 項
+lian4 鍊
+--
+sanitary pad
+wei4 衛
+sheng1 生
+mian2 棉
+--
+I want to buy some lipstick
+wo3 我
+yao4 要
+mai3 買
+kou3 口
+hong2 紅
+--
+How many colors of lipstick do you have?
+ni3 你
+men5 們
+de5 的
+kou3 口
+hong2 紅
+you3 有
+ji3 幾
+zhong3 種
+yan2 顏
+se4 色
+? ?
+--
+Five colors
+you3 有
+wu3 五
+zhong3 種
+yan2 顏
+se4 色
+--
+This color suits you
+zhe4 這
+ge5 個
+yan2 顏
+se4 色
+bi3 比
+jiao4 較
+shi4 適
+he2 合
+ni3 妳
+--
+Great, I like this color as well
+hen3 很
+hao3 好
+, ，
+wo3 我
+ye3 也
+xi3 喜
+huan1 歡
+zhe4 這
+ge5 個
+yan2 顏
+se4 色
+. 。
+--
+I'll take this one
+wo3 我
+jiu4 就
+mai3 買
+zhe4 這
+ge5 個
+--
+

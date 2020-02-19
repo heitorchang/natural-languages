@@ -1,0 +1,83 @@
+dad
+ba4 爸
+ba5 爸
+--
+mom
+ma1 媽
+ma5 媽
+--
+grandpa
+ye2 爺
+ye5 爺
+--
+grandma
+nai3 奶
+nai5 奶
+--
+older brother
+ge1 哥
+ge5 哥
+--
+older sister
+jie3 姊
+jie5 姊
+--
+younger brother
+di4 弟
+di5 弟
+--
+younger sister
+mei4 妹
+mei5 妹
+--
+aunt (wife of father's elder brother)
+bo2 伯
+mu3 母
+--
+uncle (father's elder brother)
+bo2 伯
+fu4 父
+--
+uncle (father's younger brother)
+shu2 叔
+shu5 叔
+--
+aunt (maternal)
+a1 阿
+yi2 姨
+--
+aunt (paternal)
+gu1 姑
+gu1 姑
+--
+father
+fu4 父
+qin1 親
+--
+mother
+mu3 母
+qin1 親
+--
+child
+hai2 孩
+zi5 子
+--
+baby
+ying1 嬰
+er2 兒
+--
+son
+er2 兒
+zi5 子
+--
+daughter
+nü3 女
+er2 兒
+--
+grandson
+sun1 孫
+zi5 子
+--
+granddaughter
+sun1 孫
+nü3 女

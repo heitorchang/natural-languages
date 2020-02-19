@@ -1,0 +1,29 @@
+May I get you something to drink?;chiing wenn nii yaw he shern .me?;請問你要喝什麼﹖
+No, thanks;bwu yong .le, shieh .shie;不用了，謝謝
+I'd like a hot coffee, please;woo sheang he reh ka fei, shieh .shie;我想喝熱咖啡，謝謝
+Water, please;bair kai shoei, shieh .shie;白開水，謝謝
+What kind of drinks do you have?;chiing wenn yeou shern .me yiin liaw?;請問有什麼飲料﹖
+Would you like chicken or pork?;chiing wenn nin yaw ji row huoh ju row?;請問您要雞肉或豬肉﹖
+May I help you?;yeou shern .me shiu yaw bang mang .ma?;有什麼需要幫忙嗎﹖
+Would you like anything else?;nin hair shiu yaw shern .me .ma?;您還需要什麼嗎﹖
+spoon;tang chyr;湯匙
+fork;cha .tzy;叉子
+blanket;mau taan;毛毯
+earphones;eel ji;耳機
+pillow;jeen .tou;枕頭
+neck cushion;jiing jeen;頸枕
+magazine;tzar jyh;雜誌
+newspaper;baw jyy;報紙
+Could you please give me a blanket?;kee yii chiing nii geei woo yi jiann mau taan .ma?;可以請你給我一件毛毯嗎﹖
+Can I have some more fish sauce, please?;woo kee yii tzay duo yaw shie yu luh .ma?;我可以再多要些魚露嗎﹖
+Can I have another pillow, please?;woo kee yii tzay duo yaw yih .ge jeen .tou .ma?;我可以再多要一個枕頭嗎﹖
+Do you have any magazines?;chiing wenn yeou tzar jyh .ma?;請問有雜誌嗎﹖
+What is the departure time?;chiing wenn fei ji jii dean chii fei?;請問飛機幾點起飛﹖
+What is the arrival time?;chiing wenn fei ji jii dean daw dar?;請問飛機幾點到達﹖
+How long does it take until landing?;chiing wenn hair yeou duo jeou fei ji tsair huey jianq luoh .ne?;請問還有多久飛機才會降落呢﹖
+When will you serve the meal?;chiing wenn jii dean huey sonq tsan?;請問幾點會送餐﹖
+What is the local time in ~?;shiann tzay ~ .de shyr jian jii dean .le?;現在~的時間幾點了﹖
+What is the temperature in ~?;shiann tzay ~ jii duh?;現在~幾度﹖
+Where is the lavatory?;chiing wenn tseh suoo tzay naa lii?;請問廁所在哪裡﹖
+It is 7 hours ahead of Taiwan;shyr jian bii tair uan kuay .le chi .ge sheau shyr;時間比台灣快了七個小時
+It is 5 hours behind Taiwan;shyr jian bii tair uan mann .le wuu .ge sheau shyr;時間比台灣慢了五個小時

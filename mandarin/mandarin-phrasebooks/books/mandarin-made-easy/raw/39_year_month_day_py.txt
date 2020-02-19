@@ -1,0 +1,80 @@
+Year, month, day
+nian2 年
+, ，
+yue4 月
+, ，
+ri4 日
+--
+morning
+zao3 早
+shang4 上
+--
+daytime
+bai2 白
+tian1 天
+--
+night
+wan3 晚
+shang4 上
+--
+morning
+shang4 上
+wu3 午
+--
+afternoon
+xia4 下
+wu3 午
+--
+early in the morning
+ling2 凌
+chen2 晨
+--
+evening
+bang1 傍
+wan3 晚
+--
+every day
+mei3 每
+tian1 天
+--
+the day before yesterday
+qian2 前
+tian1 天
+--
+yesterday
+zuo2 昨
+tian1 天
+--
+today
+jin1 今
+tian1 天
+--
+tomorrow
+ming2 明
+tian1 天
+--
+the day after tomorrow
+hou4 後
+tian1 天
+--
+every week
+mei3 每
+zhou1 週
+--
+weekend
+zhou1 週
+mo4 末
+--
+last year
+qu4 去
+nian2 年
+--
+this year
+jin1 今
+nian2 年
+--
+next year
+ming2 明
+nian2 年
+--
+

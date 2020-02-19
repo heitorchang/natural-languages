@@ -1,0 +1,341 @@
+looking for a house
+zhao3 找
+fang2 房
+zi3 子
+--
+suite
+tao4 套
+fang2 房
+--
+room
+ya3 雅
+fang2 房
+--
+apartment
+gong1 公
+yu4 寓
+--
+townhouse
+tou4 透
+tian1 天
+--
+store
+shang1 商
+dian4 店
+--
+elevator
+dian4 電
+ti1 梯
+--
+security guard
+jing3 警
+wei4 衛
+--
+for sale
+shou4 售
+--
+for rent
+chu1 出
+zu1 租
+--
+take over a business
+ding3 頂
+rang4 讓
+--
+suite for rent
+tao4 套
+fang2 房
+chu1 出
+zu1 租
+--
+one bedroom
+yi4 一
+fang2 房
+--
+one living room
+yi4 一
+ting1 廳
+--
+one bathroom
+yi2 一
+wei4 衛
+--
+quiet in a noisy area
+nao4 鬧
+zhong1 中
+qu3 取
+jing4 靜
+--
+bright
+cai3 採
+guang1 光
+jia1 佳
+--
+close to MRT
+li2 離
+jie2 捷
+yun4 運
+jin4 近
+--
+furniture included
+fu4 附
+jia1 家
+ju4 具
+--
+NT$ 10,000 per month
+yue4 月
+zu1 租
+yi2 一
+wan4 萬
+--
+for information
+yi4 意
+zhe3 者
+qing3 請
+qia4 洽
+--
+telephone
+dian4 電
+hua4 話
+--
+for sale
+chu1 出
+shou4 售
+--
+three large rooms
+da4 大
+san1 三
+fang2 房
+--
+square layout
+ge2 格
+ju2 局
+fang1 方
+zheng4 正
+--
+good (wide) view
+shi4 視
+ye3 野
+kuan1 寬
+kuo4 闊
+--
+million-dollar decor
+bai3 百
+wan4 萬
+zhuang1 裝
+huang2 潢
+--
+close to school
+jin4 近
+xue2 學
+qu1 區
+--
+parking space included
+fu4 附
+che1 車
+wei4 位
+--
+Excuse me, do you have a suite for rent?
+qing3 請
+wen4 問
+, ，
+ni3 你
+you3 有
+tao4 套
+fang2 房
+yao4 要
+chu1 出
+zu1 租
+ma5 嗎
+? ?
+--
+Yes, how many of you are renting?
+shi4 是
+a5 啊
+, ，
+ni3 你
+you3 有
+ji3 幾
+ge5 個
+ren2 人
+yao4 要
+zhu4 住
+ne5 呢
+? ?
+--
+Just me
+wo3 我
+yi4 一
+ge5 個
+ren2 人
+zhu4 住
+--
+Can I take a look at the place?
+wo3 我
+ke3 可
+yi3 以
+kan4 看
+kan5 看
+fang2 房
+jian1 間
+ma5 嗎
+? ?
+--
+Of course
+dang1 當
+ran2 然
+ke3 可
+yi3 以
+. 。
+--
+How much is the rent per month?
+yi4 一
+ge5 個
+yue4 月
+fang2 房
+zu1 租
+shi4 是
+duo1 多
+shao3 少
+? ?
+--
+NT$ 10,000 per month, not including utilities.
+yi4 一
+ge5 個
+yue4 月
+yi2 一
+wan4 萬
+kuai4 塊
+qian2 錢
+, ，
+shui3 水
+dian4 電
+fei4 費
+bu4 不
+bao1 包
+han2 含
+--
+How much is the deposit?
+ni3 你
+xu1 需
+yao4 要
+ji3 幾
+ge5 個
+yue4 月
+de5 的
+ya1 押
+jin1 金
+? ?
+--
+Two months' rent
+liang3 兩
+ge5 個
+yue4 月
+de5 的
+fang2 房
+zu1 租
+--
+I am a student, can you rent it a little cheaper?
+wo3 我
+shi4 是
+xue2 學
+sheng1 生
+, ，
+qing3 請
+suan4 算
+wo3 我
+pian2 便
+yi5 宜
+yi4 一
+dian3 點
+--
+Sorry, I can't lower the price.
+dui4 對
+bu4 不
+qi3 起
+, ，
+wo3 我
+mei2 沒
+you3 有
+ban4 辦
+fa3 法
+zai4 再
+jiang4 降
+jia4 價
+le5 了
+--
+It's the best price.
+zhe4 這
+shi4 是
+zui4 最
+pian2 便
+yi5 宜
+le5 了
+--
+The place next door is cheaper.
+ge2 隔
+bi4 壁
+na4 那
+yi4 一
+jian1 間
+bi3 比
+jiao4 較
+pian2 便
+yi5 宜
+--
+Do you want to take a look?
+ni3 你
+yao4 要
+can1 參
+kao3 考
+yi2 一
+xia4 下
+ma5 嗎
+? ?
+--
+Yes, I do.
+hao3 好
+, ，
+wo3 我
+yao4 要
+kan4 看
+kan5 看
+--
+This one is good, too
+zhe4 這
+yi4 一
+jian1 間
+ye3 也
+bu2 不
+cuo4 錯
+--
+I'll take it
+wo3 我
+jue2 決
+ding4 定
+zu1 租
+le5 了
+--
+Okay. I'll charge you NT$ 9,000 per month for the rent.
+hao3 好
+ba5 吧
+. 。
+wo3 我
+suan4 算
+ni3 你
+jiu3 九
+qian1 千
+hao3 好
+le5 了
+--
+Okay. Let's sign a contract, then
+hao3 好
+, 。
+na4 那
+wo3 我
+men5 們
+qian1 簽
+yue1 約
+ba5 吧
+--
+

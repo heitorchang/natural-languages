@@ -1,0 +1,172 @@
+Family members
+jia1 家
+ting2 庭
+cheng2 成
+yuan2 員
+--
+grandfather
+ye2 爺
+ye5 爺
+--
+grandmother
+nai3 奶
+nai5 奶
+--
+father
+fu4 父
+qin1 親
+--
+mother
+mu3 母
+qin1 親
+--
+husband
+xian1 先
+sheng1 生
+--
+husband
+zhang4 丈
+fu1 夫
+--
+wife
+tai4 太
+tai5 太
+--
+wife
+qi1 妻
+zi5 子
+--
+older brother
+ge1 哥
+ge5 哥
+--
+older sister
+jie3 姊
+jie5 姊
+--
+younger sister
+mei4 妹
+mei5 妹
+--
+younger brother
+di4 弟
+di5 弟
+--
+son
+er2 兒
+zi5 子
+--
+daughter
+nü3 女
+er2 兒
+--
+brothers
+xiong1 兄
+di4 弟
+--
+sisters
+jie3 姊
+mei4 妹
+--
+uncle (father's side)
+shu2 叔
+shu5 叔
+--
+uncle (mother's side)
+jiu4 舅
+jiu5 舅
+--
+cousin
+tang2 堂
+xiong1 兄
+di4 弟
+--
+cousin
+biao3 表
+xiong1 兄
+di4 弟
+--
+aunt (father's side)
+gu1 姑
+gu5 姑
+--
+aunt (mother's side)
+a1 阿
+yi2 姨
+--
+man
+nan2 男
+ren2 人
+--
+woman
+nü3 女
+ren2 人
+--
+boy
+nan2 男
+hai2 孩
+--
+girl
+nü3 女
+hai2 孩
+--
+child
+xiao3 小
+hai2 孩
+--
+baby
+ying1 嬰
+er2 兒
+--
+How many people are in your family?
+ni3 你
+jia1 家
+you3 有
+ji3 幾
+kou3 口
+ren2 人
+? ?
+--
+There are four people in my family.
+wo3 我
+jia1 家
+you3 有
+si4 四
+kou3 口
+ren2 人
+--
+My father, mother, sister, and me.
+fu4 父
+qin1 親
+, ，
+mu3 母
+qin1 親
+, ，
+mei4 妹
+mei5 妹
+, ，
+hai2 還
+you3 有
+wo3 我
+. 。
+--
+I live with my family.
+wo3 我
+he2 和
+jia1 家
+ren2 人
+zhu4 住
+zai4 在
+yi4 一
+qi3 起
+. 。
+--
+I live in Taipei.
+wo3 我
+zhu4 住
+zai4 在
+tai2 台
+bei3 北
+. 。
+--
+

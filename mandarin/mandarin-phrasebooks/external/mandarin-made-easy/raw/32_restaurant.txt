@@ -1,0 +1,216 @@
+restaurant
+tsan 餐
+ting 廳
+--
+table
+juo 桌
+.tzy 子
+--
+round table
+yuan 圓
+juo 桌
+--
+menu
+tsay 菜
+dan 單
+--
+cook
+chwu 廚
+shy 師
+--
+dishwasher
+shii 洗
+woan 碗
+gong 工
+--
+waiter
+nan 男
+fwu 服
+wuh 務
+sheng 生
+--
+waitress
+neu 女
+fwu 服
+wuh 務
+sheng 生
+--
+cashier
+shou 收
+yn 銀
+yuan 員
+--
+spoon
+tang 湯
+chyr 匙
+--
+chopsticks
+kuay 筷
+.tzy 子
+--
+rice bowl
+fann 飯
+woan 碗
+--
+soup bowl
+tang 湯
+woan 碗
+--
+My last name is Lin, and I would like to make a reservation
+woo 我
+shinq 姓
+lin 林
+, ，
+woo 我
+yaw 要
+dinq 訂
+wey 位
+. 。
+--
+What day and what time would you like to reserve?
+nii 你
+yaw 要
+dinq 訂
+shing 星
+chyi 期
+jii 幾
+, ，
+jii 幾
+dean 點
+.ne 呢
+? ?
+--
+I would like to make a reservation for this Saturday at 7 PM
+woo 我
+yaw 要
+dinq 訂
+jeh 這
+.ge 個
+shing 星
+chyi 期
+liow 六
+, ，
+woan 晚
+shanq 上
+chi 七
+dean 點
+. 。
+--
+how many people?
+yeou 有
+jii 幾
+wey 位
+.ne 呢
+? ?
+--
+Five
+gonq 共
+wuu 五
+wey 位
+--
+I'm sorry, we are full at 7 PM
+duey 對
+buh 不
+chii 起
+, ，
+woan 晚
+shanq 上
+chi 七
+dean 點
+yii 已
+jing 經
+keh 客
+maan 滿
+.le 了
+--
+Could you change the time to 6 PM?
+kee 可
+yii 以
+gae 改
+woan 晚
+shanq 上
+liow 六
+dean 點
+.ma 嗎
+? ?
+--
+OK
+hao 好
+.de 的
+--
+Hi, my last name is Lin
+nii 你
+hao 好
+, ，
+woo 我
+shinq 姓
+lin 林
+--
+I have a reservation
+woo 我
+yeou 有
+dinq 訂
+wey 位
+--
+OK, please follow me
+hao 好
+.de 的
+, ，
+chiing 請
+gen 跟
+woo 我
+lai 來
+--
+Here is the menu
+chiing 請
+kann 看
+yi 一
+shiah 下
+tsay 菜
+dan 單
+--
+This is our specialty
+jeh 這
+shyh 是
+woo 我
+.men 們
+.de 的
+jau 招
+pair 牌
+tsay 菜
+--
+I would like to order these dishes
+woo 我
+yaw 要
+dean 點
+jeh 這
+jii 幾
+daw 道
+tsay 菜
+--
+Please give me one more bowl and chopsticks
+chiing 請
+tzay 再
+geei 給
+woo 我
+yi 一
+fuh 副
+woan 碗
+kuay 筷
+--
+Check, please
+woo 我
+yaw 要
+mae 買
+dan 單
+--
+Please go to the cashier to pay your bill
+chiing 請
+daw 到
+shou 收
+yn 銀
+yuan 員
+nah 那
+mae 買
+dan 單
+--

@@ -1,0 +1,131 @@
+power, strength
+lih 力
+--
+to compare
+bii 比
+--
+public, collectively owned
+gong 公
+--
+to stop
+jyy 止
+--
+king
+wang 王
+--
+husband
+fu 夫
+--
+dawn
+dann 旦
+--
+to be born, life
+sheng 生
+--
+old
+guu 古
+--
+immortal
+shian 仙
+--
+to use
+yonq 用
+--
+giant
+jiuh 巨
+ren 人
+--
+meat
+row 肉
+--
+earth, ground
+dih 地
+--
+to rest
+shiou 休
+--
+calm, safe
+an 安
+--
+feather
+yeu 羽
+--
+to return
+hwei 回
+--
+year
+nian 年
+--
+to travel
+shyng 行
+--
+temple
+syh 寺
+--
+letter, symbol, character
+tzyh 字
+--
+position, location
+wey 位
+--
+corner, horn
+jeau 角
+--
+witch, wizard
+u 巫
+--
+room
+farng 房
+--
+tool
+jiuh 具
+--
+family name
+shinq 姓
+--
+to play
+wan 玩
+--
+food
+shyr 食
+--
+teacher
+lao 老
+shy 師
+--
+time
+shyr 時
+--
+to fight
+dow 鬥
+--
+nest
+chaur 巢
+--
+tower
+taa 塔
+--
+love
+ay 愛
+--
+to dance
+tiaw 跳
+wuu 舞
+--
+number
+shuh 數
+--
+calendar
+lih 曆
+--
+device, tool
+chih 器
+--
+machine
+ji 機
+--
+to study
+shyue 學
+--
+treasure
+bao 寶

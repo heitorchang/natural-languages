@@ -1,0 +1,26 @@
+水果;shoei guoo;Fruit
+蘋果;pyng guoo;apple
+梨子;li .tzy;pear
+葡萄;pwu taur;grapes
+西瓜;shi gua;watermelon
+桃子;taur .tzy;peach
+草莓;tsao mei;strawberry
+柿子;shyh .tzy;persimmon
+香蕉;shiang jiau;banana
+鳳梨;fenq li;pineapple
+香瓜;shiang gua;melon
+橘子;jyu .tzy;orange
+蕃茄;fan chye;tomato
+檸檬;ning meng;lemon
+芒果;mang guoo;mango
+酪梨;luoh li;avocado
+木瓜;muh gua;papaya
+奇異果;chyi yih guoo;kiwi
+椰子;ye .tzy;coconut
+妳喜歡吃什麼水果?;nii shii huan chy sherm shoei guoo?;What fruit do you like?
+台灣的水果都很甜。;tair uan .de shoei guoo dou heen tyan.;The fruit in Taiwan is all very sweet
+我都很喜歡。;woo dou heen shii huan.;I like all of them a lot.
+我最喜歡吃的是鳳梨和西瓜。;woo tzuey shii huan chy .de shyh fenq li her shi gua.;Pineapple and watermelon are my favorite fruits
+那妳呢?;nah nii .ne?;And you?
+我最喜歡吃梨子。;woo tzuey shii huan chy li .tzy.;Pears are my favorite fruit.
+香蕉也不錯。;shiang jiau yee bwu tsuoh;Bananas are good, too

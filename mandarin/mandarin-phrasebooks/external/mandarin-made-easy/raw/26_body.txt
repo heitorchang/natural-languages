@@ -1,0 +1,263 @@
+body
+shen 身
+tii 體
+--
+head
+tour 頭
+--
+hair
+tour 頭
+faa 髮
+--
+eyebrows
+mei 眉
+mau 毛
+--
+eyes
+yean 眼
+jing 睛
+--
+nose
+byi 鼻
+.tzy 子
+--
+mouth
+tzoei 嘴
+ba 巴
+--
+lips
+tzoei 嘴
+chwen 唇
+--
+beard
+hwu 鬍
+.tzy 子
+--
+ear
+eel 耳
+.duo 朵
+--
+tongue
+sher 舌
+.tou 頭
+--
+teeth
+ya 牙
+chyy 齒
+--
+face
+lean 臉
+--
+skin
+pyi 皮
+fu 膚
+--
+neck
+bor 脖
+.tzy 子
+--
+throat
+hour 喉
+long 嚨
+--
+shoulder
+jian 肩
+baang 膀
+--
+chest
+shiong 胸
+--
+ribs
+leh 肋
+guu 骨
+--
+breast
+ruu 乳
+farng 房
+--
+stomach
+wey 胃
+--
+belly
+duh 肚
+.tzy 子
+--
+back
+bey 背
+--
+bone
+guu 骨
+.tou 頭
+--
+buttocks
+pih 屁
+guu 股
+--
+genitals
+sheng 生
+jyr 殖
+chih 器
+--
+anus
+gang 肛
+men 門
+--
+arm
+shoou 手
+bey 臂
+--
+elbow
+shoou 手
+joou 肘
+--
+hand
+shoou 手
+--
+finger
+shoou 手
+jyy 指
+tour 頭
+--
+thumb
+muu 拇
+jyy 指
+--
+index finger
+shyr 食
+jyy 指
+--
+middle finger
+jong 中
+jyy 指
+--
+ring finger
+wu 無
+ming 名
+jyy 指
+--
+little finger
+sheau 小
+jyy 指
+--
+nail
+shoou 手
+jyy 指
+jea 甲
+--
+thigh
+dah 大
+toei 腿
+--
+knee
+shi 膝
+gay 蓋
+--
+leg
+toei 腿
+--
+lower leg
+sheau 小
+toei 腿
+--
+foot
+jeau 腳
+--
+ankle
+jeau 腳
+hwai 踝
+--
+toe
+jeau 腳
+jyy 趾
+--
+sole
+jeau 腳
+dii 底
+--
+Your hair is so long!
+nii 妳
+.de 的
+tour 頭
+faa 髮
+hao 好
+charng 長
+.o 喔
+! !
+--
+Your eyes are big
+nii 妳
+.de 的
+yean 眼
+jing 睛
+heen 很
+dah 大
+--
+You have a pretty nose
+nii 妳
+.de 的
+byi 鼻
+.tzy 子
+heen 很
+tiing 挺
+--
+Your skin is so soft
+nii 妳
+.de 的
+pyi 皮
+fu 膚
+heen 很
+nenn 嫩
+--
+Your calf is skinny
+nii 妳
+.de 的
+sheau 小
+toei 腿
+heen 很
+shih 細
+--
+You are so skinny
+nii 妳
+hao 好
+show 瘦
+--
+You are chubby
+nii 你
+hao 好
+panq 胖
+--
+You have a stylish beard
+nii 你
+.de 的
+hwu 鬍
+.tzy 子
+heen 很
+yeou 有
+geh 個
+shinq 性
+--
+You have very neat teeth
+nii 你
+.de 的
+ya 牙
+chyy 齒
+heen 很
+jeeng 整
+chyi 齊
+--
+My throat is dry
+woo 我
+.de 的
+hour 喉
+long 嚨
+heen 很
+gan 乾
+--
+My arms are thickset
+woo 我
+.de 的
+shoou 手
+bey 臂
+heen 很
+tsu 粗
+--

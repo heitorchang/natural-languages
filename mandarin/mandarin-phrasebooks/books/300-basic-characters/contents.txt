@@ -1,0 +1,12 @@
+family.txt Family
+body.txt Human Body
+nature.txt Nature
+animals.txt Animals
+vegetables.txt Plants
+utensils.txt Utensils
+verbs.txt Verbs
+misc.txt Miscellaneous
+opposites.txt Opposites
+measurewords.txt Measure Words
+thematic.txt Thematic
+colors.txt Colors

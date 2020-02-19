@@ -1,0 +1,97 @@
+sky
+tian 天
+--
+sun
+ryh 日
+--
+moon
+yueh 月
+--
+star
+shing 星
+--
+dusk
+shih 夕
+--
+light
+guang 光
+--
+earth
+tuu 土
+--
+tree, wood
+muh 木
+--
+water
+shoei 水
+--
+fire
+huoo 火
+--
+gold
+jin 金
+--
+mountain
+shan 山
+--
+ocean
+hae 海
+--
+river
+chuan 川
+--
+spring, small stream
+chyuan 泉
+--
+creek
+shi 溪
+--
+wind
+feng 風
+--
+rain
+yeu 雨
+--
+rainbow
+tsae 彩
+horng 虹
+--
+air, gas
+chih 氣
+--
+snow
+sheue 雪
+--
+cloud
+yun 雲
+--
+thunder
+lei 雷
+--
+electricity
+diann 電
+--
+stone
+shyr 石
+--
+field
+tyan 田
+--
+sand
+sha 沙
+--
+mud
+ni 泥
+--
+road
+luh 路
+--
+island
+dao 島
+--
+forest
+sen 森
+lin 林
+--
+smoke
+ian 煙

@@ -1,0 +1,176 @@
+bed
+chwang 床
+--
+single bed
+dan 單
+ren 人
+chwang 床
+--
+double bed
+shuang 雙
+ren 人
+chwang 床
+--
+pillow
+jeen 枕
+tour 頭
+--
+bed sheet
+chwang 床
+dan 單
+--
+blanket
+mian 棉
+bey 被
+--
+window
+chuang 窗
+--
+wall clock
+guah 掛
+jong 鐘
+--
+wardrobe
+i 衣
+guey 櫃
+--
+dresser
+huah 化
+juang 妝
+guey 櫃
+--
+mirror
+jinq 鏡
+.tzy 子
+--
+desk
+shu 書
+juo 桌
+--
+computer
+diann 電
+nao 腦
+--
+electric fan
+diann 電
+feng 風
+shann 扇
+--
+air conditioner
+leeng 冷
+chih 氣
+ji 機
+--
+chair
+yii 椅
+.tzy 子
+--
+electric radiator
+diann 電
+noan 暖
+lu 爐
+--
+window blinds
+bae 百
+yeh 葉
+chuang 窗
+--
+That's my sister's room
+nah 那
+shyh 是
+woo 我
+mey 妹
+.mei 妹
+.de 的
+farng 房
+jian 間
+--
+This is my room
+jeh 這
+shyh 是
+woo 我
+.de 的
+farng 房
+jian 間
+--
+Do you sleep alone?
+nii 你
+yih 一
+.ge 個
+ren 人
+shuey 睡
+.ma 嗎
+? ?
+--
+Yes
+duey 對
+.a 啊
+--
+Wow! That's so nice
+.ua 哇
+! !
+hao 好
+hao 好
+.o 喔
+--
+I have to sleep with my younger brother in a double bed.
+woo 我
+dou 都
+yaw 要
+her 和
+dih 弟
+.di 弟
+shuey 睡
+i 一
+jang 張
+shuang 雙
+ren 人
+chwang 床
+--
+I share the same computer with him
+her 和
+ta 他
+gonq 共
+yonq 用
+yih 一
+tair 台
+diann 電
+nao 腦
+--
+Do you feel hot?
+nii 你
+huey 會
+reh 熱
+.ma 嗎
+? ?
+--
+Do you want me to turn on the air conditioner?
+yaw 要
+bwu 不
+yaw 要
+kai 開
+leeng 冷
+chih 氣
+? ?
+--
+I am not that hot
+woo 我
+bwu 不
+tay 太
+reh 熱
+--
+Do you want me to open the window?
+daa 打
+kai 開
+chuang 窗
+--
+The fan will be fine.
+kai 開
+diann 電
+feng 風
+shann 扇
+jiow 就
+kee 可
+yii 以
+.le 了
+--

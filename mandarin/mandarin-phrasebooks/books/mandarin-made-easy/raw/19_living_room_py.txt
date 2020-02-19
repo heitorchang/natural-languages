@@ -1,0 +1,145 @@
+living room
+ke4 客
+ting1 廳
+--
+sofa
+sha1 沙
+fa1 發
+--
+side table
+cha2 茶
+ji1 几
+--
+teamaking set
+cha2 茶
+ju4 具
+--
+stereo system
+yin1 音
+xiang3 響
+--
+lamp
+tai2 檯
+deng1 燈
+--
+window
+chuang1 窗
+hu4 戶
+--
+curtain
+chuang1 窗
+lian2 簾
+--
+throw pillow
+kao4 靠
+dian4 墊
+--
+flooring
+di4 地
+ban3 板
+--
+television
+dian4 電
+shi4 視
+--
+Welcome
+huan1 歡
+ying2 迎
+guang1 光
+lin2 臨
+--
+please come in
+qing3 請
+jin4 進
+--
+Have a seat, please
+qing3 請
+sui2 隨
+bian4 便
+zuo4 坐
+--
+There's a cushion beside you, help yourself
+pang2 旁
+bian1 邊
+you3 有
+kao4 靠
+dian4 墊
+, ，
+qing3 請
+zi4 自
+ji3 己
+na2 拿
+--
+You have a tea set!
+ni3 你
+men5 們
+jia1 家
+you3 有
+cha2 茶
+ju4 具
+ye5 耶
+! !
+--
+I like tea a lot
+wo3 我
+hen3 很
+xi3 喜
+huan1 歡
+he1 喝
+cha2 茶
+. 。
+--
+Let's make some tea and have a chat
+wo3 我
+men5 們
+lai2 來
+pao4 泡
+cha2 茶
+liao2 聊
+tian1 天
+hao3 好
+le5 了
+--
+I'll open the window to let some fresh air in
+da3 打
+kai1 開
+chuang1 窗
+, ，
+rang4 讓
+kong1 空
+qi4 氣
+liu2 流
+tong1 通
+. 。
+--
+Do you have a stereo?
+ni3 你
+men5 們
+jia1 家
+you3 有
+yin1 音
+xiang3 響
+ma5 嗎
+? ?
+--
+Yes!
+you3 有
+a5 啊
+--
+Let's play some music
+lai2 來
+yi4 一
+dian3 點
+yin1 音
+yue4 樂
+ba5 吧
+--
+Sure, no problem.
+hao3 好
+de5 的
+, ，
+mei2 沒
+wen4 問
+ti2 題
+--
+

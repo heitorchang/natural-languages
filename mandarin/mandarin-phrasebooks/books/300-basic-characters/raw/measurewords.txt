@@ -1,0 +1,68 @@
+classifier for slices
+piann 片
+--
+classifier for horses
+pii 匹
+--
+classifier for books
+been 本
+--
+platform, stage
+tair 臺
+--
+classifier for flowers
+duoo 朵
+--
+classifier for rows or strings
+chuann 串
+--
+cup
+bei 杯
+--
+classifier for sticks, rods
+jy 枝
+--
+classifier for planes and large vehicles
+jiah 架
+--
+classifier for long, slender objects
+gen 根
+--
+generic classifier
+geh 個
+--
+classifier for birds; one of a pair
+jy 隻
+--
+bucket
+toong 桶
+--
+top, roof
+diing 頂
+--
+box
+her 盒
+--
+classifier for flat objects, sheets
+jang 張
+--
+classifier for long, thin things
+tyau 條
+--
+classifier for small round things
+lih 粒
+--
+classifier for houses and buildings
+donq 棟
+--
+classifier for pieces of cloth, cake, soap, currency
+kuay 塊
+--
+classifier for trees, cabbages, and plants
+ke 棵
+--
+classifier for vehicles
+lianq 輛
+--
+pair
+shuang 雙

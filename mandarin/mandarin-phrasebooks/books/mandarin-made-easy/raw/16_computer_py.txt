@@ -1,0 +1,179 @@
+notebook computer
+bi3 筆
+ji4 記
+xing2 型
+dian4 電
+nao3 腦
+--
+notebook computer
+bi3 筆
+ji4 記
+ben3 本
+dian4 電
+nao3 腦
+--
+mouse
+hua2 滑
+shu3 鼠
+--
+mouse
+shu3 鼠
+biao1 標
+--
+monitor
+ying2 螢
+mu4 幕
+--
+hard drive
+zhu3 主
+ji1 機
+--
+keyboard
+jian4 鍵
+pan2 盤
+--
+crash
+dang4 當
+ji1 機
+--
+crash
+si3 死
+ji1 機
+--
+save file
+cun2 存
+dang3 檔
+--
+save file
+cun2 存
+pan2 盤
+--
+surf the internet
+shang4 上
+wang3 網
+--
+hacker
+hai4 駭
+ke4 客
+--
+headset
+er3 耳
+ji1 機
+--
+printer
+yin4 印
+biao3 表
+ji1 機
+--
+printer
+da3 打
+yin4 印
+ji1 機
+--
+ink cartridge
+mo4 墨
+shui3 水
+--
+speakers
+la3 喇
+ba1 叭
+--
+How many hours a day do you surf the Internet?
+ni3 你
+yi4 一
+tian1 天
+shang4 上
+wang3 網
+ji3 幾
+ge5 個
+xiao3 小
+shi2 時
+? ?
+--
+I surf the Internet over 10 hours a day.
+wo3 我
+mei3 每
+tian1 天
+shang4 上
+wang3 網
+chao1 超
+guo4 過
+shi2 十
+ge5 個
+xiao3 小
+shi2 時
+. 。
+--
+Doesn't that make you tired?
+ni3 你
+zhe4 這
+yang4 樣
+bu2 不
+lei4 累
+ma5 嗎
+? ?
+--
+No, surfing the Internet is a lot of fun for me.
+bu2 不
+hui4 會
+, ，
+wo3 我
+zui4 最
+da4 大
+de5 的
+le4 樂
+qu4 趣
+jiu4 就
+shi4 是
+shang4 上
+wang3 網
+--
+I take the notebook along with me to have Internet access when I go out.
+chu1 出
+men2 門
+, ，
+wo3 我
+ye3 也
+hui4 會
+dai4 帶
+bi3 筆
+ji4 記
+xing2 型
+dian4 電
+nao3 腦
+shang4 上
+wang3 網
+--
+I have no choice. It's necessary for my work.
+mei2 沒
+ban4 辦
+fa3 法
+, ，
+yin1 因
+wei4 為
+gong1 工
+zuo4 作
+shang4 上
+de5 的
+xu1 需
+yao4 要
+--
+So I need to take a ten-minute rest every 30 minutes.
+suo3 所
+yi3 以
+wo3 我
+bi4 必
+xu1 須
+mei3 每
+san1 三
+shi2 十
+fen1 分
+zhong1 鐘
+xiu1 休
+xi2 息
+shi2 十
+fen1 分
+zhong1 鐘
+. 。
+--
+

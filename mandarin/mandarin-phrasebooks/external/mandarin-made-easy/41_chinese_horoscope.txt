@@ -1,0 +1,18 @@
+十二生肖;shyr ell sheng shiaw;Chinese horoscope
+二零零八年;ell ling ling ba nian;2008
+老鼠;lao shuu;rat
+牛;niou;ox
+老虎;lao huu;tiger
+兔子;tuh .tzy;rabbit
+龍;long;dragon
+蛇;sher;snake
+馬;maa;horse
+羊;yang;sheep
+猴子;hour .tzy;monkey
+雞;ji;rooster
+狗;goou;dog
+豬;ju;pig
+你是屬什麼的?;nii shyh shuu sher .me .de?;What is your Chinese horoscope sign?
+我屬馬;woo shuu maa;I am a horse
+你是哪一年生的?;nii shyh naa yih nian sheng .de?;Which year were you born in?
+我是猴年生的;woo shyh hour nian sheng .de;I was born in the year of the monkey

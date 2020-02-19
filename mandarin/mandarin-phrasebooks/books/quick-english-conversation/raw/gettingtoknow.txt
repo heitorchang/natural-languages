@@ -1,0 +1,196 @@
+What's your name?
+chiing 請
+wenn 問
+nii 你
+jiaw 叫
+shern 什
+.me 麼
+ming 名
+.tzy 字
+? ?
+--
+Can I have your name, please?
+chiing 請
+jiau 教
+nin 您
+.de 的
+dah 大
+ming 名
+shyh 是
+? ?
+--
+May I ask your name, please?
+chiing 請
+wenn 問
+nin 您
+.de 的
+dah 大
+ming 名
+? ?
+--
+My name is Tony
+woo 我
+jiaw 叫
+dong 東
+ni 尼
+--
+You may call me Tony
+nii 你
+kee 可
+yii 已
+jiaw 叫
+woo 我
+dong 東
+ni 尼
+--
+How old are you?
+chiing 請
+wenn 問
+nii 你
+jii 幾
+suey 歲
+? ?
+--
+I'm 35 years old
+woo 我
+san 三
+shyr 十
+wuu 五
+suey 歲
+--
+When were you born?
+nii 你
+shern 什
+.me 麼
+shyr 時
+how 候
+chu 出
+sheng 生
+? ?
+--
+I was born on November 3rd
+woo 我
+chu 出
+sheng 生
+yu 於
+shyr 十
+i 一
+yueh 月
+san 三
+haw 號
+--
+What's your birthday?
+nii 你
+.de 的
+sheng 生
+ryh 日
+shyh 是
+jii 幾
+haw 號
+? ?
+--
+My birthday is on December 19th
+woo 我
+.de 的
+sheng 生
+ryh 日
+shyh 是
+shyr 十
+ell 二
+yueh 月
+shyr 十
+jeou 九
+haw 號
+--
+I am senior to you
+woo 我
+.de 的
+nian 年
+ling 齡
+bii 比
+nii 你
+dah 大
+--
+You are junior to me
+nii 你
+.de 的
+nian 年
+ling 齡
+bii 比
+woo 我
+sheau 小
+--
+Tony is 3 years my senior
+dong 東
+ni 尼
+bii 比
+woo 我
+nian 年
+jaang 長
+san 三
+suey 歲
+--
+Tony is 10 years my junior
+dong 東
+ni 尼 
+bii 比
+woo 我
+nian 年
+ching 輕
+shyr 十
+suey 歲
+--
+What do you do for a living?
+nii 你
+tzuoh 做
+shern 什
+.me 麼
+gong 工
+tzuoh 作
+? ?
+--
+I am a nurse
+woo 我
+shyh 是
+huh 護
+shyh 士
+--
+I work as ~
+woo 我
+.de 的
+gong 工
+tzuoh 作
+shyh 是
+tzuoh 做
+~ ~
+--
+I work for ~
+woo 我
+tzay 在
+~ ~
+shanq 上
+ban 班
+--
+Where are you from?
+nii 你
+lai 來
+tzyh 自
+naa 哪
+lii 裡
+? ?
+--
+I'm from Canada
+woo 我
+lai 來
+tzyh 自
+jia 加
+na 拿
+dah 大
+--
+I'm Thai
+woo 我
+shyh 是
+tay 泰
+gwo 國
+ren 人
+--

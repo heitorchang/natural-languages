@@ -1,0 +1,326 @@
+How do you get to ~ ?
+ni3 你
+zen3 怎
+me5 麼
+qu4 去
+~ ~
+de5 的
+? ﹖
+--
+How do you get here?
+ni3 你
+zen3 怎
+me5 麼
+guo4 過
+lai2 來
+de5 的
+? ﹖
+--
+How do you get there?
+ni3 你
+zen3 怎
+me5 麼
+qu4 去
+na4 那
+li3 裡
+de5 的
+? ﹖
+--
+I drive
+wo3 我
+kai1 開
+che1 車
+--
+I ride a bike
+wo3 我
+qi2 騎
+jiao3 腳
+ta4 踏
+che1 車
+--
+I ride a motorcycle
+wo3 我
+qi2 騎
+ji1 機
+che1 車
+--
+I walk to the market
+wo3 我
+zou3 走
+lu4 路
+qu4 去
+cai4 菜
+shi4 市
+chang3 場
+--
+I go to school on foot
+wo3 我
+yong4 用
+zou3 走
+de5 的
+dao4 到
+xue2 學
+xiao4 校
+--
+I walk barefoot on the grass
+wo3 我
+da3 打
+chi4 赤
+jiao3 腳
+zai4 在
+cao3 草
+di4 地
+shang4 上
+zou3 走
+--
+I go to school by car
+wo3 我
+da1 搭
+qi4 汽
+che1 車
+qu4 去
+xue2 學
+xiao4 校
+--
+I go to the countryside by train
+wo3 我
+da1 搭
+huo3 火
+che1 車
+qu4 去
+xiang1 鄉
+xia5 下
+--
+I went to the hospital by bus
+wo3 我
+da1 搭
+gong1 公
+che1 車
+qu4 去
+yi1 醫
+yuan4 院
+--
+I caught a cab to the party
+wo3 我
+da1 搭
+ji4 計
+cheng2 程
+che1 車
+dao4 到
+ji1 機
+chang3 場
+--
+I will catch a train to the city center
+wo3 我
+jiang1 將
+da1 搭
+huo3 火
+che1 車
+dao4 到
+shi4 市
+zhong1 中
+xin1 心
+--
+I will take the MRT to the concert
+wo3 我
+jiang1 將
+da1 搭
+jie2 捷
+yun4 運
+dao4 到
+yan3 演
+chang4 唱
+hui4 會
+hui4 會
+chang3 場
+--
+Could you please take me to Central Park?
+ke3 可
+yi3 以
+song4 送
+wo3 我
+dao4 到
+zhong1 中
+yang1 央
+gong1 公
+yuan2 園
+ma5 嗎
+? ﹖
+--
+How far is the university?
+da4 大
+xue2 學
+hai2 還
+you3 有
+duo1 多
+yuan3 遠
+ne5 呢
+? ﹖
+--
+How far is the airport from here?
+ji1 機
+chang3 場
+li2 離
+zhe4 這
+li3 裡
+you3 有
+duo1 多
+yuan3 遠
+? ﹖
+--
+How far is it from here?
+ta1 它
+li2 離
+zhe4 這
+li3 裡
+duo1 多
+yuan3 遠
+? ﹖
+--
+How far is it?
+hai2 還
+you3 有
+duo1 多
+yuan3 遠
+? ﹖
+--
+How long does it take?
+yao4 要
+hua1 花
+duo1 多
+shao3 少
+shi2 時
+jian1 間
+cai2 才
+hui4 會
+dao4 到
+ne5 呢
+? ﹖
+--
+Let me get off at the bus stop, please
+qing3 請
+rang4 讓
+wo3 我
+zai4 在
+gong1 公
+che1 車
+zhan4 站
+pai2 牌
+xia4 下
+che1 車
+--
+Let me get off at the corner of the street, please
+qing3 請
+rang4 讓
+wo3 我
+zai4 在
+jie1 街
+jiao3 角
+na4 那
+li3 裡
+xia4 下
+che1 車
+--
+Pull over here, please
+qing3 請
+ting2 停
+zai4 在
+zhe4 這
+li3 裡
+--
+Pull over there, please
+qing3 請
+ting2 停
+zai4 在
+na4 那
+li3 裡
+--
+How much is the fare?
+qing3 請
+wen4 問
+che1 車
+zi1 資
+duo1 多
+shao3 少
+qian2 錢
+? ﹖
+--
+How much do I owe you?
+wo3 我
+yao4 要
+fu4 付
+ni3 你
+duo1 多
+shao3 少
+qian2 錢
+? ﹖
+--
+need a ride
+xu1 需
+yao4 要
+ren2 人
+song4 送
+yi1 一
+cheng2 程
+--
+Do you need a ride?
+ni3 你
+yao4 要
+da1 搭
+shun4 順
+feng1 風
+che1 車
+ma5 嗎
+? ﹖
+--
+Tony always walks Jenny home
+dong1 東
+ni2 尼
+zong3 總
+shi4 是
+zou3 走
+lu4 路
+song4 送
+zhen1 珍
+ni2 妮
+hui2 回
+jia1 家
+--
+Tony always escorts Jenny home
+dong1 東
+ni2 尼
+zong3 總
+shi4 是
+hu4 護
+song4 送
+zhen1 珍
+ni2 妮
+hui2 回
+jia1 家
+--
+Jenny asks Tony to walk her home
+zhen1 珍
+ni2 妮
+qing3 請
+dong1 東
+ni2 尼
+zou3 走
+lu4 路
+pei2 培
+ta1 她
+hui2 回
+jia1 家
+--
+Jenny asks Tony to escort her home
+zhen1 珍
+ni2 妮
+qing3 請
+dong1 東
+ni2 尼
+hu4 護
+song4 送
+ta1 她
+hui2 回
+jia1 家
+--
+

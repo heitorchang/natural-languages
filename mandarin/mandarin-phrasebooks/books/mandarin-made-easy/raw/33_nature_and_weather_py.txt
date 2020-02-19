@@ -1,0 +1,234 @@
+nature and weather
+zi4 自
+ran2 然
+jie4 界
+yu3 與
+tian1 天
+qi4 氣
+--
+sun
+tai4 太
+yang2 陽
+--
+moon
+yue4 月
+liang4 亮
+--
+star
+xing1 星
+xing1 星
+--
+mountain
+shan1 山
+--
+sea
+hai3 海
+--
+season
+ji4 季
+jie2 節
+--
+spring
+chun1 春
+tian1 天
+--
+sunny
+qing2 晴
+tian1 天
+--
+Spring is here
+chun1 春
+tian1 天
+dao4 到
+le5 了
+--
+It's warm
+hen3 很
+nuan3 暖
+huo5 和
+--
+Spring is warm with new blossoms
+chun1 春
+nuan3 暖
+hua1 花
+kai1 開
+--
+The spring flowers and cherry blossoms are opening up
+ying2 迎
+chun1 春
+hua1 花
+gen1 跟
+ying1 櫻
+hua1 花
+dou1 都
+sheng4 盛
+kai1 開
+le5 了
+--
+summer
+xia4 夏
+tian1 天
+--
+humid
+chao2 潮
+shi1 濕
+--
+muggy
+men1 悶
+re4 熱
+--
+cloudy
+yin1 陰
+tian1 天
+--
+raining
+xia4 下
+yu3 雨
+--
+typhoon
+tai2 颱
+feng1 風
+--
+thunderstorm
+bao4 暴
+feng1 風
+yu3 雨
+--
+thunder
+da3 打
+lei2 雷
+--
+lightning
+shan3 閃
+dian4 電
+--
+It's getting hot
+bian4 變
+re4 熱
+le5 了
+--
+It is incredibly hot
+re4 熱
+si3 死
+le5 了
+--
+The temperature will reach 35 degrees.
+wen1 溫
+du4 度
+yao4 要
+sheng1 升
+dao4 到
+san1 三
+shi2 十
+wu3 五
+du4 度
+le5 了
+--
+I hope it rains
+wo3 我
+xi1 希
+wang4 望
+xia4 下
+yi4 一
+chang3 場
+yu3 雨
+--
+It's going to rain soon
+kuai4 快
+yao4 要
+xia4 下
+yu3 雨
+le5 了
+--
+A typhoon is coming soon
+tai2 颱
+feng1 風
+kuai4 快
+yao4 要
+lai2 來
+le5 了
+--
+Typhoons bring strong winds and heavy rain
+tai2 颱
+feng1 風
+dai4 帶
+lai2 來
+qiang2 強
+feng1 風
+hao2 豪
+yu3 雨
+--
+I wish that typhoons would never come
+xi1 希
+wang4 望
+tai2 颱
+feng1 風
+bu2 不
+yao4 要
+lai2 來
+. 。
+--
+autumn
+qiu1 秋
+tian1 天
+--
+maple leaf
+feng1 楓
+ye4 葉
+--
+It's cool
+hen3 很
+liang2 涼
+kuai4 快
+--
+The air in fall is refreshing
+qiu1 秋
+gao1 高
+qi4 氣
+shuang3 爽
+--
+winter
+dong1 冬
+tian1 天
+--
+snowing
+xia4 下
+xue3 雪
+--
+The weather is getting colder and colder
+tian1 天
+qi4 氣
+yue4 越
+lai2 來
+yue4 越
+leng3 冷
+le5 了
+--
+a cold front is coming
+han2 寒
+liu2 流
+yao4 要
+lai2 來
+le5 了
+--
+it is freezing
+leng3 冷
+si3 死
+le5 了
+--
+It's snowing in Hehuan Mountain
+he2 合
+huan1 歡
+shan1 山
+xia4 下
+xue3 雪
+le5 了
+--
+I am eager to see the snow
+hao3 好
+xiang3 想
+qu4 去
+kan4 看
+xue3 雪
+--
+

@@ -1,0 +1,91 @@
+to sit
+zuo4 坐
+--
+to stand
+zhan4 站
+--
+to walk
+zou3 走
+--
+to climb
+pan1 攀
+pa2 爬
+--
+to chase after
+zhui1 追
+--
+to run
+pao3 跑
+--
+to jump
+tiao4 跳
+--
+to slip, to slide
+hua2 滑
+--
+to swim
+you2 游
+yong3 泳
+--
+to fly
+fei1 飛
+--
+to eat
+chi1 吃
+--
+to drink
+he1 喝
+--
+to sleep
+shui4 睡
+--
+to wear
+chuan1 穿
+--
+to wash
+xi3 洗
+--
+to wipe
+ca1 擦
+--
+to laugh
+xiao4 笑
+--
+to cry
+ku1 哭
+--
+to sing
+chang4 唱
+--
+to speak
+shuo1 說
+--
+to see
+kan4 看
+--
+to listen
+ting1 聽
+--
+to smell, to hear
+wen2 聞
+--
+to cry (of birds, animals, and insects)
+ming2 鳴
+--
+to grab, to scratch
+zhua1 抓
+--
+to clap, to take (a photo)
+pai1 拍
+--
+to pull
+la1 拉
+--
+to push
+tui1 推
+--
+to pull up
+ba2 拔
+--
+to hit, to strike
+qiao1 敲

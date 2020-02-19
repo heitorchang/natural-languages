@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+        <title>Mandarin Phrasebooks</title>
+        <style>
+         @font-face {
+             font-family: "SourceSansPro";
+             src: url('../css/SourceSansPro-Regular.ttf') format('truetype');
+             font-style: normal;
+         }
+         
+         body {
+             font-family: "SourceSansPro", sans-serif;
+         }
+         
+         .para {
+             margin-bottom: 1.5em;
+         }
+         
+         .char {
+             font-size: 1.4em;
+             margin: 0.2em;
+         }
+
+         .indenter {
+             width: 2.4em;
+         }
+
+         .english {
+             background-color: #DDF;
+             padding: 0.3em 0.6em;
+             margin-bottom: 0.2em;
+             font-size: 1.4em;
+         }
+
+         .mandarin {
+             padding: 0 0.7em;
+         }
+         
+         .gr {
+             background-color: #FFC;
+             padding: 0.1em 0.3em;
+             font-size: 1.2em;
+         }
+
+         .totalchar {
+             display: inline-block;
+             text-align: center;
+             margin-bottom: 1.7em;
+         }
+
+         [v-cloak] > * {
+             display: none;
+         }
+
+         [v-cloak]::before {
+             content: "Loading...";
+         }
+
+         a {
+             margin-right: 1.2em;
+             text-decoration: none;
+             font-weight: bold;
+             font-size: 1.2em;
+         }
+        </style>
+    </head>
+    <body>
+        <div id="gwoyeutext" v-cloak>
+            <a href="thankyou_py_s.html">&lt; Previous</a>
+            <a href="index_py_s.html">Contents</a>
+            <a href="daystime_py_s.html">Next &gt;</a>
+            
+            <h3>Sorry
+</h3>
+            <div v-for="phrase in fmt" class="para">
+                <div class="english">
+                    {{ phrase[0] }}
+                </div>
+
+                <div class="mandarin">
+                    <div v-for="char in phrase[1]" class="totalchar">
+                        <div class="char">
+                            {{ char[1] }}
+                        </div>
+                        <div class="gr">
+                            {{ PinyinConverter.convert(char[0]) }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <a href="thankyou_py_s.html">&lt; Previous</a>
+            <a href="index_py_s.html">Contents</a>
+            <a href="daystime_py_s.html">Next &gt;</a>
+
+            <br><br><br><br><br><br>
+        </div>
+        
+        <script src="../js/vue2.min.js"></script>
+        <script>
+         const raw = [
+[`I'm sorry`, `
+dui4 对
+bu4 不
+qi3 起
+`],
+[`I'm sorry for coming late`, `
+dui4 对
+bu4 不
+qi3 起
+wo3 我
+chi2 迟
+dao4 到
+le5 了
+`],
+[`Sorry for making you cry`, `
+bao4 抱
+qian4 歉
+rang4 让
+ni3 你
+ku1 哭
+le5 了
+`],
+[`Sorry for taking your time`, `
+bao4 抱
+qian4 歉
+zhan4 佔
+yong4 用
+ni3 你
+de5 的
+shi2 时
+jian1 间
+`],
+[`I apologize for the inconvenience`, `
+wo3 我
+dui4 对
+yu2 于
+zao4 造
+cheng2 成
+kun4 困
+rao3 扰
+biao3 表
+shi4 示
+qian4 歉
+yi4 意
+`],
+[`We apologize for the delay`, `
+dui4 对
+yu2 于
+yan2 延
+chi2 迟
+yi2 一
+shi4 事
+wo3 我
+men5 们
+gan3 感
+dao4 到
+bao4 抱
+qian4 歉
+`],
+[`I'm sorry for breaking the promise`, `
+dui4 对
+bu4 不
+qi3 起
+wo3 我
+mei2 没
+you3 有
+shou3 守
+cheng2 承
+nuo4 诺
+`],
+[`I won't make this mistake again`, `
+wo3 我
+bu2 不
+hui4 会
+zai4 再
+fan4 犯
+le5 了
+`],
+[`I won't do this again`, `
+wo3 我
+bu2 不
+hui4 会
+zai4 再
+zhe4 这
+me5 么
+zuo4 做
+le5 了
+`],
+[`I'll never do this again`, `
+wo3 我
+jue2 绝
+dui4 对
+bu2 不
+hui4 会
+zai4 再
+zhe4 这
+me5 么
+zuo4 做
+le5 了
+`],
+[`I'll never let it happen again`, `
+wo3 我
+bu2 不
+hui4 会
+rang4 让
+tong2 同
+yang4 样
+de5 的
+zhuang4 状
+kuang4 况
+zai4 再
+ci4 次
+fa1 发
+sheng1 生
+`],
+[`It won't happen again`, `
+ta1 它
+bu2 不
+hui4 会
+zai4 再
+fa1 发
+sheng1 生
+le5 了
+`],
+[`Sorry for not being with you`, `
+dui4 对
+bu2 不
+qi3 起
+bu4 不
+neng2 能
+han4 和
+ni3 你
+zai4 在
+yi1 一
+qi3 起
+`],
+[`I didn't mean it`, `
+wo3 我
+bu2 不
+shi4 是
+gu4 故
+yi4 意
+de5 的
+`],
+[`I didn't mean to hurt you`, `
+wo3 我
+bu2 不
+shi4 是
+gu4 故
+yi4 意
+yao4 要
+shang1 伤
+hai4 害
+ni3 你
+`],
+[`Please don't be mad at me`, `
+qing3 请
+bu2 不
+yao4 要
+sheng1 生
+wo3 我
+de5 的
+qi4 气
+`],
+[`Please forgive me`, `
+qing3 请
+ni3 你
+yuan2 原
+liang4 谅
+wo3 我
+`],
+[`Excuse me`, `
+bu4 不
+hao3 好
+yi4 意
+si5 思
+`],
+[`Sorry for disturbing you`, `
+bu4 不
+hao3 好
+yi4 意
+si5 思
+, ，
+da3 打
+rao3 扰
+yi2 一
+xia4 下
+`],
+[`I beg your pardon`, `
+bu2 不
+hao3 好
+yi4 意
+si5 思
+, ，
+da3 打
+duan4 断
+ni3 你
+men5 们
+yi2 一
+xia4 下
+`],
+[`Excuse me (please move and let me get past)`, `
+jie4 借
+guo4 过
+`],
+[`It's okay`, `
+mei2 没
+guan1 关
+xi5 系
+`],
+[`Forget about it`, `
+suan4 算
+le5 了
+`],
+[`Forget it`, `
+bie2 别
+zai4 在
+yi4 意
+`],
+[`Don't worry`, `
+bu2 不
+yao4 要
+dan1 担
+xin1 心
+`],
+[`Let bygones be bygones`, `
+guo4 过
+qu4 去
+le5 了
+jiu4 就
+suan4 算
+le5 了
+`],
+];
+
+         // PinyinConverter by David Chanin and Jen Liu @quizlet 2013
+
+         (function() {
+           var PinyinConverter;
+
+           PinyinConverter = {
+             pinyinRegex: /(shuang|chuang|zhuang|xiang|qiong|shuai|niang|guang|sheng|kuang|shang|jiong|huang|jiang|shuan|xiong|zhang|zheng|zhong|zhuai|zhuan|qiang|chang|liang|chuan|cheng|chong|chuai|hang|peng|chuo|piao|pian|chua|ping|yang|pang|chui|chun|chen|chan|chou|chao|chai|zhun|mang|meng|weng|shai|shei|miao|zhui|mian|yong|ming|wang|zhuo|zhua|shao|yuan|bing|zhen|fang|feng|zhan|zhou|zhao|zhei|zhai|rang|suan|reng|song|seng|dang|deng|dong|xuan|sang|rong|duan|cuan|cong|ceng|cang|diao|ruan|dian|ding|shou|xing|zuan|jiao|zong|zeng|zang|jian|tang|teng|tong|bian|biao|shan|tuan|huan|xian|huai|tiao|tian|hong|xiao|heng|ying|jing|shen|beng|kuan|kuai|nang|neng|nong|juan|kong|nuan|keng|kang|shua|niao|guan|nian|ting|shuo|guai|ning|quan|qiao|shui|gong|geng|gang|qian|bang|lang|leng|long|qing|ling|luan|shun|lian|liao|zhi|lia|liu|qin|lun|lin|luo|lan|lou|qiu|gai|gei|gao|gou|gan|gen|lao|lei|lai|que|gua|guo|nin|gui|niu|nie|gun|qie|qia|jun|kai|kei|kao|kou|kan|ken|qun|nun|nuo|xia|kua|kuo|nen|kui|nan|nou|kun|jue|nao|nei|hai|hei|hao|hou|han|hen|nai|rou|xiu|jin|hua|huo|tie|hui|tun|tui|hun|tuo|tan|jiu|zai|zei|zao|zou|zan|zen|eng|tou|tao|tei|tai|zuo|zui|xin|zun|jie|jia|run|diu|cai|cao|cou|can|cen|die|dia|xue|rui|cuo|cui|dun|cun|cin|ruo|rua|dui|sai|sao|sou|san|sen|duo|den|dan|dou|suo|sui|dao|sun|dei|zha|zhe|dai|xun|ang|ong|wai|fen|fan|fou|fei|zhu|wei|wan|min|miu|mie|wen|men|lie|chi|cha|che|man|mou|mao|mei|mai|yao|you|yan|chu|pin|pie|yin|pen|pan|pou|pao|shi|sha|she|pei|pai|yue|bin|bie|yun|nüe|lve|shu|ben|ban|bao|bei|bai|lüe|nve|ren|ran|rao|xie|re|ri|si|su|se|ru|sa|cu|ce|ca|ji|ci|zi|zu|ze|za|hu|he|ha|ju|ku|ke|qi|ka|gu|ge|ga|li|lu|le|qu|la|ni|xi|nu|ne|na|ti|tu|te|ta|xu|di|du|de|bo|lv|ba|ai|ei|ao|ou|an|en|er|da|wu|wa|wo|fu|fo|fa|nv|mi|mu|yi|ya|ye|me|mo|ma|pi|pu|po|yu|pa|bi|nü|bu|lü|e|o|a)r?[1-5]/gi,
+             vowels: {
+               'a*': '0',
+               'e*': '1',
+               'i*': '2',
+               'o*': '3',
+               'u*': '4',
+               'ü*': '5',
+               'A*': '6',
+               'E*': '7',
+               'I*': '8',
+               'O*': '9',
+               'U*': '10',
+               'Ü*': '11'
+             },
+             pinyin: {
+               1: ['ā', 'ē', 'ī', 'ō', 'ū', 'ǖ', 'Ā', 'Ē', 'Ī', 'Ō', 'Ū', 'Ǖ'],
+               2: ['á', 'é', 'í', 'ó', 'ú', 'ǘ', 'Á', 'É', 'Í', 'Ó', 'Ú', 'Ǘ'],
+               3: ['ǎ', 'ě', 'ǐ', 'ǒ', 'ǔ', 'ǚ', 'Ǎ', 'Ě', 'Ǐ', 'Ǒ', 'Ǔ', 'Ǚ'],
+               4: ['à', 'è', 'ì', 'ò', 'ù', 'ǜ', 'À', 'È', 'Ì', 'Ò', 'Ù', 'Ǜ'],
+               5: ['a', 'e', 'i', 'o', 'u', 'ü', 'A', 'E', 'I', 'O', 'U', 'Ü']
+             },
+             convert: function(string) {
+               var j, len, match, matches, replacement;
+               matches = string.match(this.pinyinRegex);
+               if (!matches) {
+                 return string;
+               }
+               for (j = 0, len = matches.length; j < len; j++) {
+                 match = matches[j];
+                 replacement = this.getReplacement(match);
+                 string = string.replace(match, replacement);
+               }
+               return string;
+             },
+             getReplacement: function(match) {
+               var accentMap, accentedVowelChar, base, replacedWord, tone, vowel, vowelChar, vowelNum, word;
+               accentMap = this.getAccentMap();
+               tone = match.slice(-1);
+               word = match.slice(0, -1).replace('v', 'ü').replace('V', 'Ü');
+               for (base in accentMap) {
+                 vowel = accentMap[base];
+                 if (word.indexOf(base) >= 0) {
+                   vowelChar = vowel.match(/.\*/)[0];
+                   vowelNum = this.vowels[vowelChar];
+                   accentedVowelChar = this.pinyin[tone.toString()][vowelNum];
+                   replacedWord = word.replace(base, vowel).replace(vowelChar, accentedVowelChar);
+                   return replacedWord;
+                 }
+               }
+               return match;
+             },
+             getAccentMap: function() {
+               var base, i, j, len, nostars, ref, stars, starsArray;
+               if (!this.accentMap) {
+                 stars = 'a*i a*o e*i ia* ia*o ie* io* iu* ' + 'A*I A*O E*I IA* IA*O IE* IO* IU* ' + 'o*u ua* ua*i ue* ui* uo* üe* ' + 'O*U UA* UA*I UE* UI* UO* ÜE* ' + 'A* E* I* O* U* Ü* ' + 'a* e* i* o* u* ü*';
+                 nostars = stars.replace(/\*/g, '');
+                 starsArray = stars.split(' ');
+                 this.accentMap = {};
+                 ref = nostars.split(' ');
+                 for (i = j = 0, len = ref.length; j < len; i = ++j) {
+                   base = ref[i];
+                   this.accentMap[base] = starsArray[i];
+                 }
+               }
+               return this.accentMap;
+             }
+           };
+
+           (function(root, factory) {
+             if (typeof define === 'function' && define.amd) {
+               return define(factory);
+             } else if (typeof exports === 'object') {
+               return module.exports = factory();
+             } else {
+               return root.PinyinConverter = factory();
+             }
+           })(this, function() {
+             return PinyinConverter;
+           });
+
+         }).call(this);
+
+         
+         function convertPara(para) {
+           let result = [];
+           for (word of para.trim().split("\n")) {
+             result.push(word.trim().split(" "));
+           }
+           return result;
+         }
+         
+         const app = new Vue({
+           el: "#gwoyeutext",
+           
+           data: {
+             raw: raw,
+           },
+
+           computed: {
+             fmt() {
+               let result = [];
+               for (phrase of this.raw) {
+                 let curphr = [];
+                 curphr.push(phrase[0]);
+                 curphr.push(convertPara(phrase[1]));
+                 result.push(curphr);
+               }             
+               return result;
+             }
+           },
+         });
+        </script>
+    </body>
+</html>
+
+

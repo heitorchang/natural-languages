@@ -1,0 +1,164 @@
+I
+woo 我
+--
+you
+nii 你
+--
+you (polite)
+nin 您
+--
+he/she
+ta 他
+--
+we
+woo 我
+.men 們
+--
+you all
+nii 你
+.men 們
+--
+they
+ta 他
+.men 們
+--
+How are you?
+nii 你
+hao 好
+.ma 嗎
+? ?
+--
+Excuse me, may I have your surname?
+chiing 請
+wenn 問
+, ﹐
+nin 您
+guey 貴
+shinq 姓
+? ﹖
+--
+My surname is Ma
+woo 我
+shinq 姓
+maa 馬
+--
+What is your name?
+nii 你
+jiaw 叫
+sher 什
+.me 麼
+ming 名
+.tzy 字
+? ﹖
+--
+My Chinese name is Ma Gaishian.
+woo 我
+.de 的
+jong 中
+wen 文
+ming 名
+.tzy 字
+jiaw 叫
+maa 馬
+gay 蓋
+shian 先
+--
+Please let me know if there is anything I need to improve.
+chiing 請
+duo 多
+duo 多
+jyy 指
+jiaw 教
+--
+Nice to meet you
+heen 很
+gau 高
+shinq 興
+renn 認
+shyh 識
+nii 你
+--
+Nice to meet you, too
+woo 我
+yee 也
+heen 很
+gau 高
+shinq 興
+renn 認
+shyh 識
+nii 你
+--
+How have you been in Taiwan?
+nii 你
+tzay 在
+tair 台
+uan 灣
+guoh 過
+.de 的
+hao 好
+.ma 嗎
+? ﹖
+--
+Not bad
+hair 還
+kee 可
+yii 以
+--
+Thanks for your concern
+shieh 謝
+shieh 謝
+nii 你
+.de 的
+guan 關
+shin 心
+--
+I'm glad to talk to you
+gen 跟
+nii 你
+tarn 談
+huah 話
+jyue 覺
+.de 得
+heen 很
+yu 愉
+kuay 快
+--
+Can we change our meeting to some other day?
+woo 我
+.men 們
+gae 改
+tian 天
+tzay 再
+jiann 見
+miann 面
+hao 好
+.ma 嗎
+? ?
+--
+Sure, see you
+hao 好
+.de 的
+, ﹐
+tzay 再
+jiann 見
+--
+help
+bang 幫
+mang 忙
+--
+to support
+jy 支
+chyr 持
+--
+to invite, invitation
+iau 邀
+chiing 請
+--
+hospitality
+jau 招
+day 待
+--
+practice
+liann 練
+shyi 習
+--

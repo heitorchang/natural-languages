@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+        <title>Mandarin Phrasebooks</title>
+        <style>
+         @font-face {
+             font-family: "SourceSansPro";
+             src: url('../css/SourceSansPro-Regular.ttf') format('truetype');
+             font-style: normal;
+         }
+         
+         body {
+             font-family: "SourceSansPro", sans-serif;
+         }
+         
+         .para {
+             margin-bottom: 1.5em;
+         }
+         
+         .char {
+             font-size: 1.4em;
+             margin: 0.2em;
+         }
+
+         .indenter {
+             width: 2.4em;
+         }
+
+         .english {
+             background-color: #DDF;
+             padding: 0.3em 0.6em;
+             margin-bottom: 0.2em;
+             font-size: 1.4em;
+         }
+
+         .mandarin {
+             padding: 0 0.7em;
+         }
+         
+         .gr {
+             background-color: #FFC;
+             padding: 0.1em 0.3em;
+             font-size: 1.2em;
+         }
+
+         .totalchar {
+             display: inline-block;
+             text-align: center;
+             margin-bottom: 1.7em;
+         }
+
+         [v-cloak] > * {
+             display: none;
+         }
+
+         [v-cloak]::before {
+             content: "Loading...";
+         }
+
+         a {
+             margin-right: 1.2em;
+             text-decoration: none;
+             font-weight: bold;
+             font-size: 1.2em;
+         }
+        </style>
+    </head>
+    <body>
+        <div id="gwoyeutext" v-cloak>
+            <a href="congratulations_py.html">&lt; Previous</a>
+            <a href="index_py.html">Contents</a>
+            <a href="ideas_py.html">Next &gt;</a>
+            
+            <h3>Relationships
+</h3>
+            <div v-for="phrase in fmt" class="para">
+                <div class="english">
+                    {{ phrase[0] }}
+                </div>
+
+                <div class="mandarin">
+                    <div v-for="char in phrase[1]" class="totalchar">
+                        <div class="char">
+                            {{ char[1] }}
+                        </div>
+                        <div class="gr">
+                            {{ PinyinConverter.convert(char[0]) }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <a href="congratulations_py.html">&lt; Previous</a>
+            <a href="index_py.html">Contents</a>
+            <a href="ideas_py.html">Next &gt;</a>
+
+            <br><br><br><br><br><br>
+        </div>
+        
+        <script src="../js/vue2.min.js"></script>
+        <script>
+         const raw = [
+[`I have a crush on Jenny`, `
+wo3 我
+xi3 喜
+huan5 歡
+shang4 上
+le5 了
+zhen1 珍
+ni2 妮
+`],
+[`I have a big crush on him`, `
+wo3 我
+hao3 好
+xi3 喜
+huan5 歡
+ta1 他
+o1 喔
+`],
+[`He has a big crush on me`, `
+ta1 他
+zhen1 真
+de5 的
+hen3 很
+mi2 迷
+lian4 戀
+wo3 我
+`],
+[`Tony has a big crush on Jenny`, `
+dong1 東
+ni2 尼
+fei1 非
+chang2 常
+mi2 迷
+lian4 戀
+zhen1 珍
+ni2 妮
+`],
+[`Jenny is falling in love with Tony`, `
+zhen1 珍
+ni2 妮
+zheng4 正
+zai4 在
+mi2 迷
+lian4 戀
+zhe5 著
+dong1 東
+ni2 尼
+`],
+[`I'm falling in love with him`, `
+wo3 我
+zheng4 正
+mi2 迷
+lian4 戀
+zhe5 著
+ta1 他
+`],
+[`~ is in love with ~`, `
+~ ~
+dui4 對
+~ ~
+zhui4 墜
+ru4 入
+ai4 愛
+he2 河
+`],
+[`I am in love with Jenny`, `
+wo3 我
+ai4 愛
+shang4 上
+zhen1 珍
+ni2 妮
+`],
+[`~ are in love with each other`, `
+~ ~
+xiang1 相
+ai4 愛
+zhe5 著
+`],
+[`Tony and Jenny have a crush on each other`, `
+dong1 東
+ni2 尼
+han4 和
+zhen1 珍
+ni2 妮
+bi3 彼
+ci3 此
+xi3 喜
+huan5 歡
+zhe5 著
+dui4 對
+fang1 方
+`],
+[`I have a secret crush on my teacher`, `
+wo3 我
+zheng4 正
+zai4 在
+an4 暗
+lian4 戀
+wo3 我
+de5 的
+lao3 老
+shi1 師
+`],
+[`Jenny is secretly in love with Tony`, `
+zhen1 珍
+ni2 妮
+zheng4 正
+zai4 在
+tou1 偷
+tou1 偷
+de5 地
+an4 暗
+lian4 戀
+dong1 東
+ni2 尼
+`],
+[`I have a date with Jenny`, `
+wo3 我
+zheng4 正
+zai4 在
+han4 和
+zhen1 珍
+ni2 妮
+yue1 約
+hui4 會
+`],
+[`I have a date. You won't believe with who`, `
+wo3 我
+you3 有
+zai4 在
+yue1 約
+hui4 會
+. 。
+ni3 妳
+yi2 一
+ding4 定
+bu4 不
+xiang1 相
+xin4 信
+shi4 是
+han4 和
+shei2 誰
+`],
+[`Who with?`, `
+dui4 對
+fang1 方
+shi4 是
+shei2 誰
+? ﹖
+`],
+[`The hottest guy from the second year`, `
+er4 二
+nian2 年
+ji2 級
+mu4 目
+qian2 前
+zui4 最
+hang1 夯
+de5 的
+nan2 男
+sheng1 生
+`],
+[`Tony? Are you kidding me?`, `
+shi4 是
+dong1 東
+ni2 尼
+ma5 嗎
+? ﹖
+ni3 妳
+zai4 在
+kai1 開
+wan2 玩
+xiao4 笑
+ma5 嗎
+? ﹖
+`],
+[`What a lucky girl you are!`, `
+ni3 妳
+zhen1 真
+de5 的
+hao3 好
+xing4 幸
+yun4 運
+o1 喔
+! ﹗
+`],
+[`I asked Tony out on a date`, `
+wo3 我
+yue1 約
+le5 了
+dong1 東
+ni2 尼
+chu1 出
+qu4 去
+yue1 約
+hui4 會
+`],
+[`I think Tony has a crush on Jenny`, `
+wo3 我
+ren4 認
+wei2 為
+dong1 東
+ni2 尼
+xi3 喜
+huan5 歡
+zhen1 珍
+ni2 妮
+`],
+[`I love you`, `
+wo3 我
+ai4 愛
+ni3 你
+`],
+[`I do love you`, `
+wo3 我
+shi4 是
+zhen1 真
+de5 的
+ai4 愛
+ni3 你
+`],
+[`I love you so much`, `
+wo3 我
+fei1 非
+chang2 常
+ai4 愛
+ni3 你
+`],
+[`I really love you`, `
+wo3 我
+zhen1 真
+de5 的
+hen3 很
+ai4 愛
+ni3 你
+`],
+[`I can't live without you`, `
+wo3 我
+bu4 不
+neng2 能
+mei2 沒
+you3 有
+ni3 你
+`],
+[`I wish you were here by my side forever`, `
+wo3 我
+xi1 希
+wang4 望
+ni3 你
+yong3 永
+yuan3 遠
+dou1 都
+zai4 在
+wo3 我
+de5 的
+shen1 身
+bian1 邊
+`],
+[`All I want is you`, `
+wo3 我
+yao4 要
+de5 的
+yi1 一
+qie1 切
+wei2 唯
+you3 有
+ni3 你
+`],
+[`I miss you`, `
+wo3 我
+xiang3 想
+ni3 你
+`],
+[`I think of you too`, `
+wo3 我
+ye3 也
+xiang3 想
+ni3 你
+`],
+[`I am marrying Jenny`, `
+wo3 我
+ji2 即
+jiang1 將
+han4 和
+zhen1 珍
+ni2 妮
+jie2 結
+hun1 婚
+`],
+[`wedding ceremony`, `
+jie2 結
+hun1 婚
+dian3 典
+li3 禮
+`],
+[`wedding party`, `
+jie2 結
+hun1 婚
+pai4 派
+dui4 對
+`],
+[`wedding reception`, `
+hun1 婚
+yan4 宴
+`],
+[`I love him as a brother`, `
+wo3 我
+zhi3 只
+xiang4 像
+ge1 哥
+ge5 哥
+yi2 一
+yang4 樣
+ai4 愛
+ta1 他
+`],
+[`She loves me as a brother`, `
+ta1 她
+zhi3 只
+xiang4 像
+ge1 哥
+ge5 哥
+na4 那
+yang4 樣
+ai4 愛
+wo3 我
+`],
+[`I think of Jenny as just a sister`, `
+wo3 我
+zhi3 只
+shi4 是
+ba3 把
+zhen1 珍
+ni2 妮
+dang4 當
+zuo4 作
+mei4 妹
+mei5 妹
+er2 而
+yi3 已
+`],
+[`I can't get along with you`, `
+wo3 我
+han4 和
+ni3 你
+bu4 不
+he2 合
+`],
+[`Jenny and Tony can't get along with each other`, `
+zhen1 珍
+ni2 妮
+han4 和
+dong1 東
+ni2 尼
+bi3 彼
+ci3 此
+bu4 不
+he2 合
+`],
+[`We can't get along well`, `
+wo3 我
+men5 們
+bi3 彼
+ci3 此
+bu4 不
+tai4 太
+he2 合
+`],
+[`I have changed`, `
+wo3 我
+bian4 變
+le5 了
+`],
+[`Tony cheated on Jenny`, `
+dong1 東
+ni2 尼
+dui4 對
+zhen1 珍
+ni2 妮
+bu4 不
+zhong1 忠
+`],
+[`We should take a break`, `
+wo3 我
+men5 們
+ying1 應
+gai1 該
+fen1 分
+kai1 開
+yi2 一
+duan4 段
+shi2 時
+jian1 間
+`],
+[`They took a break`, `
+ta1 他
+men5 們
+fen1 分
+kai1 開
+yi2 一
+duan4 段
+shi2 時
+jian1 間
+le5 了
+`],
+[`I dumped Tony`, `
+wo3 我
+shuai3 甩
+le5 了
+dong1 東
+ni2 尼
+`],
+[`Jenny dumped Tony`, `
+zhen1 珍
+ni2 妮
+ba3 把
+dong1 東
+ni2 尼
+gei3 給
+shuai3 甩
+le5 了
+`],
+[`She dumped me`, `
+ta1 她
+pao1 拋
+qi4 棄
+wo3 我
+le5 了
+`],
+[`Tony and Jenny broke up`, `
+dong1 東
+ni2 尼
+han4 和
+zhen1 珍
+ni2 妮
+fen1 分
+shou3 手
+le5 了
+`],
+[`We are finished`, `
+wo3 我
+men5 們
+zhi1 之
+jian1 間
+yi3 已
+jing1 經
+jie2 結
+shu4 束
+le5 了
+`],
+[`It's over between us`, `
+wo3 我
+men5 們
+zhi1 之
+jian1 間
+de5 的
+shi4 事
+yi3 已
+jing1 經
+shi4 是
+guo4 過
+qu5 去
+shi4 式
+le5 了
+`],
+[`Tony is getting a divorce`, `
+dong1 東
+ni2 尼
+ji2 即
+jiang1 將
+li2 離
+hun1 婚
+`],
+[`Tony is getting divorced from Jenny`, `
+dong1 東
+ni2 尼
+ji2 即
+jiang1 將
+yao4 要
+han4 和
+zhen1 珍
+ni2 妮
+li2 離
+hun1 婚
+`],
+[`They got divorced`, `
+ta1 他
+men5 們
+li2 離
+hun1 婚
+le5 了
+`],
+];
+
+         // PinyinConverter by David Chanin and Jen Liu @quizlet 2013
+
+         (function() {
+           var PinyinConverter;
+
+           PinyinConverter = {
+             pinyinRegex: /(shuang|chuang|zhuang|xiang|qiong|shuai|niang|guang|sheng|kuang|shang|jiong|huang|jiang|shuan|xiong|zhang|zheng|zhong|zhuai|zhuan|qiang|chang|liang|chuan|cheng|chong|chuai|hang|peng|chuo|piao|pian|chua|ping|yang|pang|chui|chun|chen|chan|chou|chao|chai|zhun|mang|meng|weng|shai|shei|miao|zhui|mian|yong|ming|wang|zhuo|zhua|shao|yuan|bing|zhen|fang|feng|zhan|zhou|zhao|zhei|zhai|rang|suan|reng|song|seng|dang|deng|dong|xuan|sang|rong|duan|cuan|cong|ceng|cang|diao|ruan|dian|ding|shou|xing|zuan|jiao|zong|zeng|zang|jian|tang|teng|tong|bian|biao|shan|tuan|huan|xian|huai|tiao|tian|hong|xiao|heng|ying|jing|shen|beng|kuan|kuai|nang|neng|nong|juan|kong|nuan|keng|kang|shua|niao|guan|nian|ting|shuo|guai|ning|quan|qiao|shui|gong|geng|gang|qian|bang|lang|leng|long|qing|ling|luan|shun|lian|liao|zhi|lia|liu|qin|lun|lin|luo|lan|lou|qiu|gai|gei|gao|gou|gan|gen|lao|lei|lai|que|gua|guo|nin|gui|niu|nie|gun|qie|qia|jun|kai|kei|kao|kou|kan|ken|qun|nun|nuo|xia|kua|kuo|nen|kui|nan|nou|kun|jue|nao|nei|hai|hei|hao|hou|han|hen|nai|rou|xiu|jin|hua|huo|tie|hui|tun|tui|hun|tuo|tan|jiu|zai|zei|zao|zou|zan|zen|eng|tou|tao|tei|tai|zuo|zui|xin|zun|jie|jia|run|diu|cai|cao|cou|can|cen|die|dia|xue|rui|cuo|cui|dun|cun|cin|ruo|rua|dui|sai|sao|sou|san|sen|duo|den|dan|dou|suo|sui|dao|sun|dei|zha|zhe|dai|xun|ang|ong|wai|fen|fan|fou|fei|zhu|wei|wan|min|miu|mie|wen|men|lie|chi|cha|che|man|mou|mao|mei|mai|yao|you|yan|chu|pin|pie|yin|pen|pan|pou|pao|shi|sha|she|pei|pai|yue|bin|bie|yun|nüe|lve|shu|ben|ban|bao|bei|bai|lüe|nve|ren|ran|rao|xie|re|ri|si|su|se|ru|sa|cu|ce|ca|ji|ci|zi|zu|ze|za|hu|he|ha|ju|ku|ke|qi|ka|gu|ge|ga|li|lu|le|qu|la|ni|xi|nu|ne|na|ti|tu|te|ta|xu|di|du|de|bo|lv|ba|ai|ei|ao|ou|an|en|er|da|wu|wa|wo|fu|fo|fa|nv|mi|mu|yi|ya|ye|me|mo|ma|pi|pu|po|yu|pa|bi|nü|bu|lü|e|o|a)r?[1-5]/gi,
+             vowels: {
+               'a*': '0',
+               'e*': '1',
+               'i*': '2',
+               'o*': '3',
+               'u*': '4',
+               'ü*': '5',
+               'A*': '6',
+               'E*': '7',
+               'I*': '8',
+               'O*': '9',
+               'U*': '10',
+               'Ü*': '11'
+             },
+             pinyin: {
+               1: ['ā', 'ē', 'ī', 'ō', 'ū', 'ǖ', 'Ā', 'Ē', 'Ī', 'Ō', 'Ū', 'Ǖ'],
+               2: ['á', 'é', 'í', 'ó', 'ú', 'ǘ', 'Á', 'É', 'Í', 'Ó', 'Ú', 'Ǘ'],
+               3: ['ǎ', 'ě', 'ǐ', 'ǒ', 'ǔ', 'ǚ', 'Ǎ', 'Ě', 'Ǐ', 'Ǒ', 'Ǔ', 'Ǚ'],
+               4: ['à', 'è', 'ì', 'ò', 'ù', 'ǜ', 'À', 'È', 'Ì', 'Ò', 'Ù', 'Ǜ'],
+               5: ['a', 'e', 'i', 'o', 'u', 'ü', 'A', 'E', 'I', 'O', 'U', 'Ü']
+             },
+             convert: function(string) {
+               var j, len, match, matches, replacement;
+               matches = string.match(this.pinyinRegex);
+               if (!matches) {
+                 return string;
+               }
+               for (j = 0, len = matches.length; j < len; j++) {
+                 match = matches[j];
+                 replacement = this.getReplacement(match);
+                 string = string.replace(match, replacement);
+               }
+               return string;
+             },
+             getReplacement: function(match) {
+               var accentMap, accentedVowelChar, base, replacedWord, tone, vowel, vowelChar, vowelNum, word;
+               accentMap = this.getAccentMap();
+               tone = match.slice(-1);
+               word = match.slice(0, -1).replace('v', 'ü').replace('V', 'Ü');
+               for (base in accentMap) {
+                 vowel = accentMap[base];
+                 if (word.indexOf(base) >= 0) {
+                   vowelChar = vowel.match(/.\*/)[0];
+                   vowelNum = this.vowels[vowelChar];
+                   accentedVowelChar = this.pinyin[tone.toString()][vowelNum];
+                   replacedWord = word.replace(base, vowel).replace(vowelChar, accentedVowelChar);
+                   return replacedWord;
+                 }
+               }
+               return match;
+             },
+             getAccentMap: function() {
+               var base, i, j, len, nostars, ref, stars, starsArray;
+               if (!this.accentMap) {
+                 stars = 'a*i a*o e*i ia* ia*o ie* io* iu* ' + 'A*I A*O E*I IA* IA*O IE* IO* IU* ' + 'o*u ua* ua*i ue* ui* uo* üe* ' + 'O*U UA* UA*I UE* UI* UO* ÜE* ' + 'A* E* I* O* U* Ü* ' + 'a* e* i* o* u* ü*';
+                 nostars = stars.replace(/\*/g, '');
+                 starsArray = stars.split(' ');
+                 this.accentMap = {};
+                 ref = nostars.split(' ');
+                 for (i = j = 0, len = ref.length; j < len; i = ++j) {
+                   base = ref[i];
+                   this.accentMap[base] = starsArray[i];
+                 }
+               }
+               return this.accentMap;
+             }
+           };
+
+           (function(root, factory) {
+             if (typeof define === 'function' && define.amd) {
+               return define(factory);
+             } else if (typeof exports === 'object') {
+               return module.exports = factory();
+             } else {
+               return root.PinyinConverter = factory();
+             }
+           })(this, function() {
+             return PinyinConverter;
+           });
+
+         }).call(this);
+
+         
+         function convertPara(para) {
+           let result = [];
+           for (word of para.trim().split("\n")) {
+             result.push(word.trim().split(" "));
+           }
+           return result;
+         }
+         
+         const app = new Vue({
+           el: "#gwoyeutext",
+           
+           data: {
+             raw: raw,
+           },
+
+           computed: {
+             fmt() {
+               let result = [];
+               for (phrase of this.raw) {
+                 let curphr = [];
+                 curphr.push(phrase[0]);
+                 curphr.push(convertPara(phrase[1]));
+                 result.push(curphr);
+               }             
+               return result;
+             }
+           },
+         });
+        </script>
+    </body>
+</html>
+

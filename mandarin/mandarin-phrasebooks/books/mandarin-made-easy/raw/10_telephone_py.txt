@@ -1,0 +1,291 @@
+telephone
+dian4 電
+hua4 話
+--
+fire (119)
+huo3 火
+zai1 災
+--
+fraud (165)
+zha4 詐
+pian4 騙
+--
+crime (110)
+fan4 犯
+zui4 罪
+--
+phone directory (104)
+cha2 查
+hao4 號
+tai2 台
+--
+mobile phone
+xing2 行
+dong4 動
+dian4 電
+hua4 話
+--
+mobile phone
+shou3 手
+ji1 機
+--
+pay phone
+gong1 公
+gong4 共
+dian4 電
+hua4 話
+--
+phone booth
+dian4 電
+hua4 話
+ting2 亭
+--
+operator
+zong3 總
+ji1 機
+--
+yellow pages
+dian4 電
+hua4 話
+bu4 簿
+--
+phone card
+dian4 電
+hua4 話
+ka3 卡
+--
+call
+da3 打
+dian4 電
+hua4 話
+--
+talk
+jiang3 講
+dian4 電
+hua4 話
+--
+listen
+ting1 聽
+dian4 電
+hua4 話
+--
+answer
+jie1 接
+dian4 電
+hua4 話
+--
+hang up
+gua4 掛
+dian4 電
+hua4 話
+--
+The number you have dialed is busy, please try again later.
+nin2 您
+bo1 撥
+de5 的
+dian4 電
+hua4 話
+tong1 通
+hua4 話
+zhong1 中
+, ，
+qing3 請
+shao1 稍
+hou4 後
+zai4 再
+bo1 撥
+. 。
+--
+The number you have dialed is not being answered. You have been forwarded to voice mail. Please leave a message after the beep.
+nin2 您
+bo1 撥
+de5 的
+dian4 電
+hua4 話
+wu2 無
+ren2 人
+jie1 接
+ting1 聽
+, ，
+zhuan3 轉
+jie1 接
+yu3 語
+yin1 音
+xin4 信
+xiang1 箱
+. 。
+bi4 嗶
+sheng1 聲
+hou4 後
+qing3 請
+liu2 留
+yan2 言
+. 。
+--
+May I please speak to Prof. Zhiying Lin?
+ma2 麻
+fan2 煩
+, ，
+qing3 請
+jie1 接
+lin2 林
+zhi4 志
+ying3 穎
+jiao4 教
+shou4 授
+--
+May I ask who is calling?
+qing3 請
+wen4 問
+na3 哪
+li3 裡
+zhao3 找
+ta1 他
+? ?
+--
+I am his student. My name is Ryan.
+wo3 我
+shi4 是
+ta1 他
+de5 的
+xue2 學
+sheng1 生
+, ，
+jiao4 叫
+lai2 來
+en1 恩
+--
+chiing 請
+shao1 稍
+deng3 等
+, ，
+wo3 我
+bang1 幫
+ni3 你
+zhuan3 轉
+jie1 接
+. 。
+--
+shieh 謝
+xie5 謝
+. 。
+--
+chiing 請
+wen4 問
+, ，
+zhang1 張
+xian1 先
+sheng1 生
+zai4 在
+jia1 家
+ma5 嗎
+? ?
+--
+nii 你
+da3 打
+cuo4 錯
+le5 了
+--
+jeh 這
+li3 裡
+mei2 沒
+you3 有
+zhe4 這
+ge5 個
+ren2 人
+. 。
+--
+nah 那
+bian1 邊
+bu2 不
+shi4 是
+zhang1 張
+gong1 公
+guan3 館
+ma5 嗎
+? ?
+--
+bwu 不
+shi4 是
+--
+duey 對
+bu4 不
+qi3 起
+--
+chiing 請
+wen4 問
+, ，
+chen2 陳
+jing1 經
+li3 理
+zai4 在
+ma5 嗎
+? ?
+--
+buh 不
+hao3 好
+yi4 意
+si5 思
+, ，
+ta1 她
+gang1 剛
+gang1 剛
+chu1 出
+qu4 去
+le5 了
+--
+nii 你
+yao4 要
+liu2 留
+yan2 言
+ma5 嗎
+? ?
+--
+buh 不
+, ，
+wo3 我
+you3 有
+ji2 急
+shi4 事
+zhao3 找
+ta1 她
+, ，
+qing3 請
+ni3 你
+gao4 告
+su4 訴
+wo3 我
+ta1 她
+de5 的
+shou3 手
+ji1 機
+. 。
+--
+ta 她
+de5 的
+dian4 電
+hua4 話
+hao4 號
+ma3 馬
+shi4 是
+ling2 零
+jiu3 九
+wu3 五
+ba1 八
+- -
+wu3 五
+er4 二
+ling2 零
+- -
+yi1 一
+san1 三
+yi1 一
+si4 四
+. 。
+--
+shieh 謝
+xie5 謝
+ni3 你
+. 。
+--
+

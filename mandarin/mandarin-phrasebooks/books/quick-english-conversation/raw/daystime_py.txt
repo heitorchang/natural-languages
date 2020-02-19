@@ -1,0 +1,98 @@
+What time is it?
+ji3 幾
+dian3 點
+le5 了
+? ﹖
+--
+It's six o' clock
+liu4 六
+dian3 點
+--
+It's six fifteen
+liu4 六
+dian3 點
+shi2 十
+wu3 五
+fen1 分
+--
+It's half past six
+liu4 六
+dian3 點
+ban4 半
+--
+It's four o' clock in the afternoon
+xia4 下
+wu3 午
+si4 四
+dian3 點
+--
+It's three o' clock in the morning
+ling2 凌
+chen2 晨
+san1 三
+dian3 點
+--
+It's eleven a.m.
+zao3 早
+shang4 上
+shi2 十
+yi1 一
+dian3 點
+--
+It's ten to two p.m.
+hai2 還
+you3 有
+shi2 十
+fen1 分
+zhong1 鐘
+jiu4 就
+shi4 是
+xia4 下
+wu3 午
+liang3 兩
+dian3 點
+--
+What day is it today?
+jin1 今
+tian1 天
+shi4 是
+xing1 星
+qi2 期
+ji3 幾
+ne5 呢
+? ﹖
+--
+It's Monday
+xing1 星
+qi2 期
+yi1 一
+--
+Excuse me, what day is it today?
+bu4 不
+hao3 好
+yi4 意
+si5 思
+, ，
+qing3 請
+wen4 問
+jin1 今
+tian1 天
+xing1 星
+qi2 期
+ji3 幾
+? ﹖
+--
+What is the date today?
+jin1 今
+tian1 天
+shi4 是
+ji3 幾
+hao4 號
+? ﹖
+--
+It's the eighteenth
+shi2 十
+ba1 八
+hao4 號
+--
+

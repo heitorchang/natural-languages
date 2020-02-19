@@ -1,0 +1,244 @@
+typical Chinese cuisine
+pin3 品
+chang2 嚐
+zhong1 中
+guo2 國
+cai4 菜
+--
+house special
+zhao1 招
+pai2 牌
+fan4 飯
+--
+stewed pork with rice
+kong4 控
+rou4 肉
+fan4 飯
+--
+shrimp rolls with rice
+xia1 蝦
+juan3 捲
+fan4 飯
+--
+pork chops with rice
+pai2 排
+gu3 骨
+fan4 飯
+--
+fried chicken leg with rice
+ji1 雞
+tui3 腿
+fan4 飯
+--
+cod with rice
+xue3 鱈
+yu2 魚
+fan4 飯
+--
+beef with rice
+niu2 牛
+nan2 腩
+fan4 飯
+--
+fried rice
+chao3 炒
+fan4 飯
+--
+beef noodle soup
+niu2 牛
+rou4 肉
+mian4 麵
+--
+fried noodles
+chao3 炒
+mian4 麵
+--
+congee
+zhou1 粥
+--
+rice porridge
+xi1 稀
+fan4 飯
+--
+soup
+tang1 湯
+--
+Have you eaten?
+ni3 你
+chi1 吃
+fan4 飯
+le5 了
+mei2 沒
+? ?
+--
+Not yet. I'm starving!
+hai2 還
+mei2 沒
+. 。
+wo3 我
+kuai4 快
+e4 餓
+bian3 扁
+le5 了
+--
+My treat today.
+jin1 今
+tian1 天
+wo3 我
+qing3 請
+ke4 客
+--
+What do you feel like eating?
+ni3 你
+xiang3 想
+chi1 吃
+shen2 什
+me5 麼
+? ?
+--
+I heard that their beef noodles are good.
+ting1 聽
+shuo1 說
+zhe4 這
+yi4 一
+jia1 家
+niu2 牛
+rou4 肉
+mian4 麵
+hen3 很
+hao3 好
+chi1 吃
+. 。
+--
+Let's give them a try
+wo3 我
+men5 們
+qu4 去
+chang2 嚐
+chang5 嚐
+ba5 吧
+! !
+--
+I want two beef noodles, sir
+lao3 老
+ban3 闆
+, ，
+wo3 我
+yao4 要
+liang3 兩
+wan3 碗
+niu2 牛
+rou4 肉
+mian4 麵
+--
+Both spicy?
+liang3 兩
+wan3 碗
+dou1 都
+yao4 要
+jia1 加
+la4 辣
+ma5 嗎
+? ?
+--
+One spicy, and the other not.
+yi4 一
+wan3 碗
+jia1 加
+la4 辣
+, ，
+yi4 一
+wan3 碗
+bu2 不
+yao4 要
+jia1 加
+la4 辣
+. 。
+--
+Do you want any side dishes?
+ni3 你
+men5 們
+xu1 需
+yao4 要
+xiao3 小
+cai4 菜
+ma5 嗎
+? ?
+--
+I want to have dried tofu, seaweed, braised egg, and vegetables
+wo3 我
+yao4 要
+dou4 豆
+gan1 干
+, ，
+hai3 海
+dai4 帶
+, ，
+lu3 滷
+dan4 蛋
+he2 和
+tang4 燙
+qing1 青
+cai4 菜
+--
+Check please.
+lao3 老
+ban3 闆
+, ，
+wo3 我
+yao4 要
+mai3 買
+dan1 單
+--
+That'll be two hundred and ten dollars
+zong3 總
+gong4 共
+liang3 兩
+bai3 百
+yi4 一
+shi2 十
+yuan2 元
+--
+Thanks for coming.
+xie4 謝
+xie4 謝
+guang1 光
+lin2 臨
+--
+What do you feel like eating?
+ni3 你
+xiang3 想
+chi1 吃
+shen2 什
+me5 麼
+? ?
+--
+feel like seeing
+xiang3 想
+kan4 看
+--
+feel like listening
+xiang3 想
+ting1 聽
+--
+feel like drinking
+xiang3 想
+he1 喝
+--
+Let's give it a try
+wo3 我
+men5 們
+qu4 去
+chang2 嚐
+chang5 嚐
+ba5 吧
+--
+Let's check it out
+kan4 看
+kan5 看
+--
+Let's have a listen
+ting1 聽
+ting5 聽
+--
+

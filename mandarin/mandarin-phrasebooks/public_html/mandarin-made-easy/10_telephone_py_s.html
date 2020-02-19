@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+        <title>Mandarin Phrasebooks</title>
+        <style>
+         @font-face {
+             font-family: "SourceSansPro";
+             src: url('../css/SourceSansPro-Regular.ttf') format('truetype');
+             font-style: normal;
+         }
+         
+         body {
+             font-family: "SourceSansPro", sans-serif;
+         }
+         
+         .para {
+             margin-bottom: 1.5em;
+         }
+         
+         .char {
+             font-size: 1.4em;
+             margin: 0.2em;
+         }
+
+         .indenter {
+             width: 2.4em;
+         }
+
+         .english {
+             background-color: #DDF;
+             padding: 0.3em 0.6em;
+             margin-bottom: 0.2em;
+             font-size: 1.4em;
+         }
+
+         .mandarin {
+             padding: 0 0.7em;
+         }
+         
+         .gr {
+             background-color: #FFC;
+             padding: 0.1em 0.3em;
+             font-size: 1.2em;
+         }
+
+         .totalchar {
+             display: inline-block;
+             text-align: center;
+             margin-bottom: 1.7em;
+         }
+
+         [v-cloak] > * {
+             display: none;
+         }
+
+         [v-cloak]::before {
+             content: "Loading...";
+         }
+
+         a {
+             margin-right: 1.2em;
+             text-decoration: none;
+             font-weight: bold;
+             font-size: 1.2em;
+         }
+        </style>
+    </head>
+    <body>
+        <div id="gwoyeutext" v-cloak>
+            <a href="09_fruit_py_s.html">&lt; Previous</a>
+            <a href="index_py_s.html">Contents</a>
+            <a href="11_occupation_py_s.html">Next &gt;</a>
+            
+            <h3>Telephone
+</h3>
+            <div v-for="phrase in fmt" class="para">
+                <div class="english">
+                    {{ phrase[0] }}
+                </div>
+
+                <div class="mandarin">
+                    <div v-for="char in phrase[1]" class="totalchar">
+                        <div class="char">
+                            {{ char[1] }}
+                        </div>
+                        <div class="gr">
+                            {{ PinyinConverter.convert(char[0]) }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <a href="09_fruit_py_s.html">&lt; Previous</a>
+            <a href="index_py_s.html">Contents</a>
+            <a href="11_occupation_py_s.html">Next &gt;</a>
+
+            <br><br><br><br><br><br>
+        </div>
+        
+        <script src="../js/vue2.min.js"></script>
+        <script>
+         const raw = [
+[`telephone`, `
+dian4 电
+hua4 话
+`],
+[`fire (119)`, `
+huo3 火
+zai1 灾
+`],
+[`fraud (165)`, `
+zha4 诈
+pian4 骗
+`],
+[`crime (110)`, `
+fan4 犯
+zui4 罪
+`],
+[`phone directory (104)`, `
+cha2 查
+hao4 号
+tai2 台
+`],
+[`mobile phone`, `
+xing2 行
+dong4 动
+dian4 电
+hua4 话
+`],
+[`mobile phone`, `
+shou3 手
+ji1 机
+`],
+[`pay phone`, `
+gong1 公
+gong4 共
+dian4 电
+hua4 话
+`],
+[`phone booth`, `
+dian4 电
+hua4 话
+ting2 亭
+`],
+[`operator`, `
+zong3 总
+ji1 机
+`],
+[`yellow pages`, `
+dian4 电
+hua4 话
+bu4 簿
+`],
+[`phone card`, `
+dian4 电
+hua4 话
+ka3 卡
+`],
+[`call`, `
+da3 打
+dian4 电
+hua4 话
+`],
+[`talk`, `
+jiang3 讲
+dian4 电
+hua4 话
+`],
+[`listen`, `
+ting1 听
+dian4 电
+hua4 话
+`],
+[`answer`, `
+jie1 接
+dian4 电
+hua4 话
+`],
+[`hang up`, `
+gua4 挂
+dian4 电
+hua4 话
+`],
+[`The number you have dialed is busy, please try again later.`, `
+nin2 您
+bo1 拨
+de5 的
+dian4 电
+hua4 话
+tong1 通
+hua4 话
+zhong1 中
+, ，
+qing3 请
+shao1 稍
+hou4 后
+zai4 再
+bo1 拨
+. 。
+`],
+[`The number you have dialed is not being answered. You have been forwarded to voice mail. Please leave a message after the beep.`, `
+nin2 您
+bo1 拨
+de5 的
+dian4 电
+hua4 话
+wu2 无
+ren2 人
+jie1 接
+ting1 听
+, ，
+zhuan3 转
+jie1 接
+yu3 语
+yin1 音
+xin4 信
+xiang1 箱
+. 。
+bi4 哔
+sheng1 声
+hou4 后
+qing3 请
+liu2 留
+yan2 言
+. 。
+`],
+[`May I please speak to Prof. Zhiying Lin?`, `
+ma2 麻
+fan2 烦
+, ，
+qing3 请
+jie1 接
+lin2 林
+zhi4 志
+ying3 颖
+jiao4 教
+shou4 授
+`],
+[`May I ask who is calling?`, `
+qing3 请
+wen4 问
+na3 哪
+li3 里
+zhao3 找
+ta1 他
+? ?
+`],
+[`I am his student. My name is Ryan.`, `
+wo3 我
+shi4 是
+ta1 他
+de5 的
+xue2 学
+sheng1 生
+, ，
+jiao4 叫
+lai2 来
+en1 恩
+`],
+[`chiing 请`, `
+shao1 稍
+deng3 等
+, ，
+wo3 我
+bang1 帮
+ni3 你
+zhuan3 转
+jie1 接
+. 。
+`],
+[`shieh 谢`, `
+xie5 谢
+. 。
+`],
+[`chiing 请`, `
+wen4 问
+, ，
+zhang1 张
+xian1 先
+sheng1 生
+zai4 在
+jia1 家
+ma5 吗
+? ?
+`],
+[`nii 你`, `
+da3 打
+cuo4 错
+le5 了
+`],
+[`jeh 这`, `
+li3 里
+mei2 没
+you3 有
+zhe4 这
+ge5 个
+ren2 人
+. 。
+`],
+[`nah 那`, `
+bian1 边
+bu2 不
+shi4 是
+zhang1 张
+gong1 公
+guan3 馆
+ma5 吗
+? ?
+`],
+[`bwu 不`, `
+shi4 是
+`],
+[`duey 对`, `
+bu4 不
+qi3 起
+`],
+[`chiing 请`, `
+wen4 问
+, ，
+chen2 陈
+jing1 经
+li3 理
+zai4 在
+ma5 吗
+? ?
+`],
+[`buh 不`, `
+hao3 好
+yi4 意
+si5 思
+, ，
+ta1 她
+gang1 刚
+gang1 刚
+chu1 出
+qu4 去
+le5 了
+`],
+[`nii 你`, `
+yao4 要
+liu2 留
+yan2 言
+ma5 吗
+? ?
+`],
+[`buh 不`, `
+, ，
+wo3 我
+you3 有
+ji2 急
+shi4 事
+zhao3 找
+ta1 她
+, ，
+qing3 请
+ni3 你
+gao4 告
+su4 诉
+wo3 我
+ta1 她
+de5 的
+shou3 手
+ji1 机
+. 。
+`],
+[`ta 她`, `
+de5 的
+dian4 电
+hua4 话
+hao4 号
+ma3 马
+shi4 是
+ling2 零
+jiu3 九
+wu3 五
+ba1 八
+- -
+wu3 五
+er4 二
+ling2 零
+- -
+yi1 一
+san1 三
+yi1 一
+si4 四
+. 。
+`],
+[`shieh 谢`, `
+xie5 谢
+ni3 你
+. 。
+`],
+];
+
+         // PinyinConverter by David Chanin and Jen Liu @quizlet 2013
+
+         (function() {
+           var PinyinConverter;
+
+           PinyinConverter = {
+             pinyinRegex: /(shuang|chuang|zhuang|xiang|qiong|shuai|niang|guang|sheng|kuang|shang|jiong|huang|jiang|shuan|xiong|zhang|zheng|zhong|zhuai|zhuan|qiang|chang|liang|chuan|cheng|chong|chuai|hang|peng|chuo|piao|pian|chua|ping|yang|pang|chui|chun|chen|chan|chou|chao|chai|zhun|mang|meng|weng|shai|shei|miao|zhui|mian|yong|ming|wang|zhuo|zhua|shao|yuan|bing|zhen|fang|feng|zhan|zhou|zhao|zhei|zhai|rang|suan|reng|song|seng|dang|deng|dong|xuan|sang|rong|duan|cuan|cong|ceng|cang|diao|ruan|dian|ding|shou|xing|zuan|jiao|zong|zeng|zang|jian|tang|teng|tong|bian|biao|shan|tuan|huan|xian|huai|tiao|tian|hong|xiao|heng|ying|jing|shen|beng|kuan|kuai|nang|neng|nong|juan|kong|nuan|keng|kang|shua|niao|guan|nian|ting|shuo|guai|ning|quan|qiao|shui|gong|geng|gang|qian|bang|lang|leng|long|qing|ling|luan|shun|lian|liao|zhi|lia|liu|qin|lun|lin|luo|lan|lou|qiu|gai|gei|gao|gou|gan|gen|lao|lei|lai|que|gua|guo|nin|gui|niu|nie|gun|qie|qia|jun|kai|kei|kao|kou|kan|ken|qun|nun|nuo|xia|kua|kuo|nen|kui|nan|nou|kun|jue|nao|nei|hai|hei|hao|hou|han|hen|nai|rou|xiu|jin|hua|huo|tie|hui|tun|tui|hun|tuo|tan|jiu|zai|zei|zao|zou|zan|zen|eng|tou|tao|tei|tai|zuo|zui|xin|zun|jie|jia|run|diu|cai|cao|cou|can|cen|die|dia|xue|rui|cuo|cui|dun|cun|cin|ruo|rua|dui|sai|sao|sou|san|sen|duo|den|dan|dou|suo|sui|dao|sun|dei|zha|zhe|dai|xun|ang|ong|wai|fen|fan|fou|fei|zhu|wei|wan|min|miu|mie|wen|men|lie|chi|cha|che|man|mou|mao|mei|mai|yao|you|yan|chu|pin|pie|yin|pen|pan|pou|pao|shi|sha|she|pei|pai|yue|bin|bie|yun|nüe|lve|shu|ben|ban|bao|bei|bai|lüe|nve|ren|ran|rao|xie|re|ri|si|su|se|ru|sa|cu|ce|ca|ji|ci|zi|zu|ze|za|hu|he|ha|ju|ku|ke|qi|ka|gu|ge|ga|li|lu|le|qu|la|ni|xi|nu|ne|na|ti|tu|te|ta|xu|di|du|de|bo|lv|ba|ai|ei|ao|ou|an|en|er|da|wu|wa|wo|fu|fo|fa|nv|mi|mu|yi|ya|ye|me|mo|ma|pi|pu|po|yu|pa|bi|nü|bu|lü|e|o|a)r?[1-5]/gi,
+             vowels: {
+               'a*': '0',
+               'e*': '1',
+               'i*': '2',
+               'o*': '3',
+               'u*': '4',
+               'ü*': '5',
+               'A*': '6',
+               'E*': '7',
+               'I*': '8',
+               'O*': '9',
+               'U*': '10',
+               'Ü*': '11'
+             },
+             pinyin: {
+               1: ['ā', 'ē', 'ī', 'ō', 'ū', 'ǖ', 'Ā', 'Ē', 'Ī', 'Ō', 'Ū', 'Ǖ'],
+               2: ['á', 'é', 'í', 'ó', 'ú', 'ǘ', 'Á', 'É', 'Í', 'Ó', 'Ú', 'Ǘ'],
+               3: ['ǎ', 'ě', 'ǐ', 'ǒ', 'ǔ', 'ǚ', 'Ǎ', 'Ě', 'Ǐ', 'Ǒ', 'Ǔ', 'Ǚ'],
+               4: ['à', 'è', 'ì', 'ò', 'ù', 'ǜ', 'À', 'È', 'Ì', 'Ò', 'Ù', 'Ǜ'],
+               5: ['a', 'e', 'i', 'o', 'u', 'ü', 'A', 'E', 'I', 'O', 'U', 'Ü']
+             },
+             convert: function(string) {
+               var j, len, match, matches, replacement;
+               matches = string.match(this.pinyinRegex);
+               if (!matches) {
+                 return string;
+               }
+               for (j = 0, len = matches.length; j < len; j++) {
+                 match = matches[j];
+                 replacement = this.getReplacement(match);
+                 string = string.replace(match, replacement);
+               }
+               return string;
+             },
+             getReplacement: function(match) {
+               var accentMap, accentedVowelChar, base, replacedWord, tone, vowel, vowelChar, vowelNum, word;
+               accentMap = this.getAccentMap();
+               tone = match.slice(-1);
+               word = match.slice(0, -1).replace('v', 'ü').replace('V', 'Ü');
+               for (base in accentMap) {
+                 vowel = accentMap[base];
+                 if (word.indexOf(base) >= 0) {
+                   vowelChar = vowel.match(/.\*/)[0];
+                   vowelNum = this.vowels[vowelChar];
+                   accentedVowelChar = this.pinyin[tone.toString()][vowelNum];
+                   replacedWord = word.replace(base, vowel).replace(vowelChar, accentedVowelChar);
+                   return replacedWord;
+                 }
+               }
+               return match;
+             },
+             getAccentMap: function() {
+               var base, i, j, len, nostars, ref, stars, starsArray;
+               if (!this.accentMap) {
+                 stars = 'a*i a*o e*i ia* ia*o ie* io* iu* ' + 'A*I A*O E*I IA* IA*O IE* IO* IU* ' + 'o*u ua* ua*i ue* ui* uo* üe* ' + 'O*U UA* UA*I UE* UI* UO* ÜE* ' + 'A* E* I* O* U* Ü* ' + 'a* e* i* o* u* ü*';
+                 nostars = stars.replace(/\*/g, '');
+                 starsArray = stars.split(' ');
+                 this.accentMap = {};
+                 ref = nostars.split(' ');
+                 for (i = j = 0, len = ref.length; j < len; i = ++j) {
+                   base = ref[i];
+                   this.accentMap[base] = starsArray[i];
+                 }
+               }
+               return this.accentMap;
+             }
+           };
+
+           (function(root, factory) {
+             if (typeof define === 'function' && define.amd) {
+               return define(factory);
+             } else if (typeof exports === 'object') {
+               return module.exports = factory();
+             } else {
+               return root.PinyinConverter = factory();
+             }
+           })(this, function() {
+             return PinyinConverter;
+           });
+
+         }).call(this);
+
+         
+         function convertPara(para) {
+           let result = [];
+           for (word of para.trim().split("\n")) {
+             result.push(word.trim().split(" "));
+           }
+           return result;
+         }
+         
+         const app = new Vue({
+           el: "#gwoyeutext",
+           
+           data: {
+             raw: raw,
+           },
+
+           computed: {
+             fmt() {
+               let result = [];
+               for (phrase of this.raw) {
+                 let curphr = [];
+                 curphr.push(phrase[0]);
+                 curphr.push(convertPara(phrase[1]));
+                 result.push(curphr);
+               }             
+               return result;
+             }
+           },
+         });
+        </script>
+    </body>
+</html>
+
+

@@ -1,0 +1,177 @@
+bed
+chuang2 床
+--
+single bed
+dan1 單
+ren2 人
+chuang2 床
+--
+double bed
+shuang1 雙
+ren2 人
+chuang2 床
+--
+pillow
+zhen3 枕
+tou2 頭
+--
+bed sheet
+chuang2 床
+dan1 單
+--
+blanket
+mian2 棉
+bei4 被
+--
+window
+chuang1 窗
+--
+wall clock
+gua4 掛
+zhong1 鐘
+--
+wardrobe
+yi1 衣
+gui4 櫃
+--
+dresser
+hua4 化
+zhuang1 妝
+gui4 櫃
+--
+mirror
+jing4 鏡
+zi5 子
+--
+desk
+shu1 書
+zhuo1 桌
+--
+computer
+dian4 電
+nao3 腦
+--
+electric fan
+dian4 電
+feng1 風
+shan4 扇
+--
+air conditioner
+leng3 冷
+qi4 氣
+ji1 機
+--
+chair
+yi3 椅
+zi5 子
+--
+electric radiator
+dian4 電
+nuan3 暖
+lu2 爐
+--
+window blinds
+bai3 百
+ye4 葉
+chuang1 窗
+--
+That's my sister's room
+na4 那
+shi4 是
+wo3 我
+mei4 妹
+mei5 妹
+de5 的
+fang2 房
+jian1 間
+--
+This is my room
+zhe4 這
+shi4 是
+wo3 我
+de5 的
+fang2 房
+jian1 間
+--
+Do you sleep alone?
+ni3 你
+yi4 一
+ge5 個
+ren2 人
+shui4 睡
+ma5 嗎
+? ?
+--
+Yes
+dui4 對
+a5 啊
+--
+Wow! That's so nice
+wa5 哇
+! !
+hao3 好
+hao3 好
+o5 喔
+--
+I have to sleep with my younger brother in a double bed.
+wo3 我
+dou1 都
+yao4 要
+he2 和
+di4 弟
+di5 弟
+shui4 睡
+yi1 一
+zhang1 張
+shuang1 雙
+ren2 人
+chuang2 床
+--
+I share the same computer with him
+he2 和
+ta1 他
+gong4 共
+yong4 用
+yi4 一
+tai2 台
+dian4 電
+nao3 腦
+--
+Do you feel hot?
+ni3 你
+hui4 會
+re4 熱
+ma5 嗎
+? ?
+--
+Do you want me to turn on the air conditioner?
+yao4 要
+bu2 不
+yao4 要
+kai1 開
+leng3 冷
+qi4 氣
+? ?
+--
+I am not that hot
+wo3 我
+bu2 不
+tai4 太
+re4 熱
+--
+Do you want me to open the window?
+da3 打
+kai1 開
+chuang1 窗
+--
+The fan will be fine.
+kai1 開
+dian4 電
+feng1 風
+shan4 扇
+jiu4 就
+ke3 可
+yi3 以
+le5 了
+--
+

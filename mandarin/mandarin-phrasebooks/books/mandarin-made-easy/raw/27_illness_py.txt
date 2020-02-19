@@ -1,0 +1,249 @@
+illness
+ji2 疾
+bing4 病
+--
+headache
+tou2 頭
+tong4 痛
+--
+sun stroke
+zhong4 中
+shu3 暑
+--
+fever
+fa1 發
+shao1 燒
+--
+sore throat
+hou2 喉
+long2 嚨
+tong4 痛
+--
+cough
+ke2 咳
+sou4 嗽
+--
+toothache
+ya2 牙
+tong4 痛
+--
+dizzy
+tou2 頭
+yun1 暈
+--
+earache
+er3 耳
+duo5 朵
+tong4 痛
+--
+cold
+gan3 感
+mao4 冒
+--
+vomit
+ou3 嘔
+tu4 吐
+--
+runny nose
+liu2 流
+bi2 鼻
+shui3 水
+--
+bloody nose
+liu2 流
+bi2 鼻
+xie3 血
+--
+stomachache
+du4 肚
+zi3 子
+tong4 痛
+--
+stomachache
+wei4 胃
+tong4 痛
+--
+depression
+you1 憂
+yu4 鬱
+zheng4 症
+--
+backache
+yao1 腰
+tong4 痛
+--
+bloated
+zhang4 脹
+qi4 氣
+--
+indigestion
+xiao1 消
+hua4 化
+bu4 不
+liang2 良
+--
+heart disease
+xin1 心
+zang4 臟
+bing4 病
+--
+cancer
+ai2 癌
+zheng4 症
+--
+diabetes
+tang2 糖
+niao4 尿
+bing4 病
+--
+appendicitis
+mang2 盲
+chang2 腸
+yan2 炎
+--
+tonsillitis
+bian3 扁
+tao2 桃
+xian4 腺
+fa1 發
+yan2 炎
+--
+kidney infection
+shen4 腎
+zang4 臟
+yan2 炎
+--
+hypertension
+gao1 高
+xie3 血
+ya1 壓
+--
+hypotension
+di1 低
+xie3 血
+ya1 壓
+--
+nervous breakdown
+shen2 神
+jing1 經
+shuai1 衰
+ruo4 弱
+--
+stomach ulcer
+wei4 胃
+kui4 潰
+yang2 瘍
+--
+I don't feel good
+wo3 我
+shen1 身
+ti3 體
+bu4 不
+shu1 舒
+fu2 服
+--
+Can you go with me to the hospital?
+ni3 你
+neng2 能
+pei2 陪
+wo3 我
+qu4 去
+yi1 醫
+yuan4 院
+ma5 嗎
+? ?
+--
+All right, I will go with you
+hao3 好
+, ，
+wo3 我
+pei2 陪
+ni3 你
+qu4 去
+--
+You don't look good. Are you not feeling well?
+ni3 你
+de5 的
+lian3 臉
+se4 色
+bu2 不
+tai4 太
+hao3 好
+, ，
+ni3 你
+na3 哪
+bian1 邊
+bu4 不
+shu1 舒
+fu2 服
+? ?
+--
+I have a stomachache and diarrhea
+wo3 我
+wei4 胃
+tong4 痛
+, ，
+la1 拉
+du4 肚
+zi5 子
+--
+Your life is too stressful
+ni3 你
+de5 的
+sheng1 生
+huo2 活
+tai4 太
+jin3 緊
+zhang1 張
+--
+You need to relax physically and mentally
+ni3 你
+yao4 要
+shen1 身
+xin1 心
+bao3 保
+chi2 持
+qing1 輕
+song1 鬆
+--
+Eat small amounts, but frequently. Do not eat too much too quickly
+er2 而
+qie3 且
+yao4 要
+shao3 少
+liang4 量
+duo1 多
+can1 餐
+, ，
+bu2 不
+yao4 要
+bao4 暴
+shi2 食
+bao4 暴
+yin3 飲
+--
+You can get it filled at the dispensary
+qing3 請
+dao4 到
+yao4 藥
+fang2 房
+ling3 領
+yao4 藥
+--
+Take once after each meal
+san1 三
+can1 餐
+fan4 飯
+hou4 後
+chi1 吃
+--
+You will feel better in a few days
+guo4 過
+ji3 幾
+tian1 天
+jiu4 就
+hui4 會
+hao3 好
+le5 了
+--
+

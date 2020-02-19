@@ -1,0 +1,66 @@
+I'm lost;mi luh .le;迷路了
+Could you please help me?;chiing wenn nii kee yii bang juh woo .ma?;請問你可以幫助我嗎﹖
+Can I ask you a question?;woo kee yii wenn nii yih .ge wenn tyi .ma?;我可以問你一個問題嗎﹖
+I think I'm lost. Can I ask you a question?;woo sheang woo mi luh .le, kee yii jieh wenn yi shiah luh .ma?;我想我迷路了，可以借問一下路嗎﹖
+May I help you?;shiu yaw bang mang .ma?;需要幫忙嗎﹖
+What is this place?;jeh lii shyh shern .me dih .fang?;這裡是什麼地方﹖
+Where am I?;woo shiann tzay tzay naa lii?;我現在在哪裡﹖
+Excuse me. Could you please tell me where I am?;buh hao yih .sy, kee yii chiing nii gaw .su woo, woo shiann tzay tzay naa lii .ma?;不好意思，可以請你告訴我，我現在在哪裡嗎﹖
+Excuse me. Could you tell me what this place is?;buh hao yih .sy, kee yii gaw .su woo, jeh lii shyh naa lii .ma?;不好意思，可以告訴我，這裡是哪裡嗎﹖
+Excuse me. Please tell me, where is the bus stop?;buh hao yih .sy, kee yii gaw .su woo, gong che jann pair tzay naa lii .ma?;不好意思，可以告訴我，公車站牌在哪裡嗎﹖
+Could you please tell me how to get to Zhongshan Road?;kee yii chiing nii gaw .su woo, yaw ru her chiuh jong shan luh .ma?;可以請你告訴我，要如何去中山路嗎﹖
+I don't know how to get to Zhongshan Road;woo buh jy daw gai tzeen .me chiuh jong shan luh;我不知道該怎麼去中山路
+How can I get to Zhongshan Road?;chiing wenn woo yaw tzeen .me chiuh jong shan luh .ne?;請問我要怎麼去中山路呢﹖
+How far is it from here?;ta li jeh lii duo yeuan?;它離這裡多遠﹖
+How long does it take?;shiu yaw duo jeou kee yii daw dar?;需要多久可以到達﹖
+How far is the hospital from here?;i yuann li jeh lii duo yeuan?;醫院離這裡多遠﹖
+10 minutes away on foot;tzoou luh guoh chiuh dah iue shyr fen jong;走路過去大約十分鐘
+Go straight;jyr tzoou;直走
+Go straight along;yan .je luh jyr tzoou;沿著路直走
+turn left;tzuoo joan;左轉
+turn right;yow joan;右轉
+make another left;tzay tzuoo joan;再左轉
+make another right;tzay yow joan;再右轉
+on your left;tzay nii .de tzuoo shoou bian;在你的左手邊
+on your right;tzay nii .de yow shoou bian;在你的右手邊
+Do you know where the police station is?;chiing wenn nii jy daw jiing char jyu tzay naa lii .ma?;請問你知道警察局在哪裡嗎﹖
+Yes. It is on the opposite side of the road;shyh, ta jiow tzay jeh tyau luh .de duey miann;是，它就在這條路的對面
+make a U-turn;hwei joan;迴轉
+Could you please tell me how to get to the party?;neng chiing nii gaw .su woo tzeen .me chiuh pay duey .ma?;能請你告訴我怎麼去派對嗎﹖
+Go straight and make a U-turn at the traffic lights;jyr jyr tzoou, ran how tzay horng liuh deng nah lii hwei joan;直直走，然後在紅綠燈那裡迴轉
+when you hit ~;dang nii yuh daw ~;當你遇到~
+when you reach ~;dang nii daw .le ~;當你到了~
+Could you please tell me where the post office is?;nii kee yii gaw .su woo tzeen .me chiuh you jyu .ma?;你可以告訴我怎麼去郵局嗎﹖
+Yes. Go straight until you hit the intersection. Then turn left;hao .a, nii jyr jyr tzoou, jyr daw yuh daw shyr tzyh luh koou, ran how jiow tzuoo joan;好啊，你直直走，直到遇到十字路口，然後就左轉
+You will hit the bus stop;nii jiang huey yuh daw gong che jann pair;你將會遇到公車站牌
+You will reach the parking lot;nii jiang huey daw dar tyng che chaang;你將會到達停車場
+The drugstore is over there;yaw farng jiow tzay nah lii;藥房就在那裡
+Excuse me. Where is the badminton court?;buh hao yih .sy, chiing wenn yeu chyou chaang tzay naa lii?;不好意思，請問羽球場在哪裡﹖
+Make a left and make another left;nii tzuoo joan, ran how tzay tzuoo joan;你左轉，然後在左轉
+You will hit the badminton court;nii jiow huey kann daw yeu chyou chaang .le;你就會看到羽球場了
+Could you please tell me how to get to the meeting room, Miss?;sheau jiee, kee yii ma .fan nii gaw .su woo, huey yih shyh yaw tzeen .me tzoou .ma?;小姐，可以麻煩你告訴我，會議室要怎麼走嗎﹖
+Take a right and go straight along the hall. The meeting room is right there;yow joan, ran how yan .je dah ting jyr jyr tzoou, huey yih shyh jiow tzay nah lii;右轉，然後沿著大廳直直走，會議室就在那裡
+traffic lights;horng liuh deng;紅綠燈
+intersection;shyr tzyh luh kou;十字路口
+overpass;luh chyau;陸橋
+the entrance to the alley;shianq .tzy koou;巷子口
+in the alley;shianq .tzy ney;巷子內
+footbridge;tian chyau;天橋
+crosswalk;ban maa shiann;斑馬線
+the corner;joan uan chuu;轉彎處
+junction;cha luh koou;叉路口
+railway;tiee daw;鐵道
+sign;jiau tong biau shyh;交通標示
+lamppost;luh deng;路燈
+postbox;you toong;郵筒
+police booth;jiing char gaang shaw;警察崗哨
+dead end;syy luh;死路
+sidewalk;ren shyng daw;人行道
+take ~ line;da shanq jye yunn ~ shiann;搭上捷運~線
+Take the blue line;da cherng lan shiann;搭乘籃線
+Get off at Taipei Main Station;tzay tair beei che jann shiah che;在台北車站下車
+Go out through exit no. 2;tsorng ell haw chu koou chu chiuh;從二號出口出去
+Take exit no. 5;woang wuu haw chu koou tzoou;往五號出口走
+Take the Sukhumvit line, get off at Ekamai Station and take exit no. 2;da cherng jye yunn su kuen uei shiann, daw i kaa may jann jy how jiow shiah che, ran how woang ell haw chu koou tzoou;搭乘捷運蘇坤威線，到伊卡邁站之後就下車，然後往二號出口走
+Then turn around to the opposite side;ran how joan tour tzoou daw duey miann;然後轉頭走到對面
+Then go straight along the road until you hit the Bangkok Planetarium on your left;tzay yan .je luh jyr jyr tzoou, nin jiou huey kann daw mann guu tian wen goan jiow tzay nii .de tzuoo shoou bian;再沿著路直直走，你就會看到曼谷天文館就在你的左手邊

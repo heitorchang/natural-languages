@@ -1,0 +1,749 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+        <title>Mandarin Phrasebooks</title>
+        <style>
+         @font-face {
+             font-family: "SourceSansPro";
+             src: url('../css/SourceSansPro-Regular.ttf') format('truetype');
+             font-style: normal;
+         }
+         
+         body {
+             font-family: "SourceSansPro", sans-serif;
+         }
+         
+         .para {
+             margin-bottom: 1.5em;
+         }
+         
+         .char {
+             font-size: 1.4em;
+             margin: 0.2em;
+         }
+
+         .indenter {
+             width: 2.4em;
+         }
+
+         .english {
+             background-color: #DDF;
+             padding: 0.3em 0.6em;
+             margin-bottom: 0.2em;
+             font-size: 1.4em;
+         }
+
+         .mandarin {
+             padding: 0 0.7em;
+         }
+         
+         .gr {
+             background-color: #FFC;
+             padding: 0.1em 0.3em;
+             font-size: 1.2em;
+         }
+
+         .totalchar {
+             display: inline-block;
+             text-align: center;
+             margin-bottom: 1.7em;
+         }
+
+         [v-cloak] > * {
+             display: none;
+         }
+
+         [v-cloak]::before {
+             content: "Loading...";
+         }
+
+         a {
+             margin-right: 1.2em;
+             text-decoration: none;
+             font-weight: bold;
+             font-size: 1.2em;
+         }
+        </style>
+    </head>
+    <body>
+        <div id="gwoyeutext" v-cloak>
+            <a href="directions_py.html">&lt; Previous</a>
+            <a href="index_py.html">Contents</a>
+            <a href="telephone_py.html">Next &gt;</a>
+            
+            <h3>Appointments
+</h3>
+            <div v-for="phrase in fmt" class="para">
+                <div class="english">
+                    {{ phrase[0] }}
+                </div>
+
+                <div class="mandarin">
+                    <div v-for="char in phrase[1]" class="totalchar">
+                        <div class="char">
+                            {{ char[1] }}
+                        </div>
+                        <div class="gr">
+                            {{ PinyinConverter.convert(char[0]) }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <a href="directions_py.html">&lt; Previous</a>
+            <a href="index_py.html">Contents</a>
+            <a href="telephone_py.html">Next &gt;</a>
+
+            <br><br><br><br><br><br>
+        </div>
+        
+        <script src="../js/vue2.min.js"></script>
+        <script>
+         const raw = [
+[`Are you available tonight?`, `
+jin1 今
+tian1 天
+wan3 晚
+shang4 上
+ni3 你
+fang1 方
+bian4 便
+ma5 嗎
+? ﹖
+`],
+[`Are you free next week?`, `
+xia4 下
+ge5 個
+xing1 星
+qi2 期
+ni3 你
+you3 有
+kong4 空
+ma5 嗎
+? ﹖
+`],
+[`Are you free for a meeting at 4 p.m.?`, `
+xia4 下
+wu3 午
+si4 四
+dian3 點
+de5 的
+shi2 時
+hou4 候
+ni3 你
+you3 有
+kong4 空
+kai1 開
+ge5 個
+hui4 會
+ma5 嗎
+? ﹖
+`],
+[`possibly`, `
+ke3 可
+neng2 能
+you3 有
+kong4 空
+`],
+[`maybe`, `
+ye3 也
+xu3 許
+`],
+[`Are you free for the concert tonight?`, `
+jin1 今
+tian1 天
+wan3 晚
+shang4 上
+ni3 你
+you3 有
+kong4 空
+qu4 去
+kan4 看
+yan3 演
+chang4 唱
+hui4 會
+ma5 嗎
+? ﹖
+`],
+[`Maybe. Let me check my appointment book`, `
+ye3 也
+xu3 許
+ke3 可
+yi3 以
+, ，
+wo3 我
+xian1 先
+que4 確
+ren4 認
+yi2 一
+xia4 下
+shi2 時
+jian1 間
+biao3 表
+`],
+[`of course`, `
+dang1 當
+ran2 然
+you3 有
+kong4 空
+`],
+[`why not?`, `
+you3 有
+kong4 空
+a5 啊
+`],
+[`I'll see you at the hospital at 6 p.m.`, `
+wo3 我
+bang4 傍
+wan3 晚
+liu4 六
+dian3 點
+qu4 去
+yi1 醫
+yuan4 院
+zhao3 找
+ni3 你
+`],
+[`I'll see you at the mall at 2 p.m.`, `
+xia4 下
+wu3 午
+liang3 兩
+dian3 點
+gou4 購
+wu4 物
+zhong1 中
+xin1 心
+jian4 見
+`],
+[`I'll see you at the coffee shop at 8 o'clock`, `
+zao3 早
+shang4 上
+ba1 八
+dian3 點
+ka1 咖
+fei1 啡
+ting1 廳
+jian4 見
+`],
+[`Are you free for study tonight?`, `
+jin1 今
+tian1 天
+wan3 晚
+shang4 上
+you3 有
+mei2 沒
+you3 有
+kong4 空
+yi1 一
+qi3 起
+nian4 唸
+shu1 書
+? ﹖
+`],
+[`Sure. Why not?`, `
+hao3 好
+a5 啊
+, ，
+zen3 怎
+me5 麼
+hui4 會
+mei2 沒
+kong4 空
+? ﹖
+`],
+[`I'll see you at the library at 7 p.m.`, `
+na4 那
+wan3 晚
+shang4 上
+qi1 七
+dian3 點
+tu2 圖
+shu1 書
+guan3 館
+jian4 見
+`],
+[`I'll pick you up at 2 p.m.`, `
+wo3 我
+hui4 會
+zai4 在
+xia4 下
+wu3 午
+liang3 兩
+dian3 點
+qu4 去
+jie1 接
+ni3 你
+`],
+[`I'll pick you up from the airport at 11 p.m.`, `
+wo3 我
+hui4 會
+zai4 在
+wan3 晚
+shang4 上
+shi2 十
+yi1 一
+dian3 點
+dao4 到
+ji1 機
+chang3 場
+jie1 接
+ni3 你
+`],
+[`I'd like to take you out for dinner`, `
+wo3 我
+xiang3 想
+qing3 請
+ni3 你
+chi1 吃
+yi1 一
+dun4 頓
+fan4 飯
+`],
+[`I'd like to invite you to have lunch`, `
+wo3 我
+xiang3 想
+yao1 邀
+qing3 請
+ni3 你
+qu4 去
+chi1 吃
+wu3 午
+can1 餐
+`],
+[`Shall we have breakfast?`, `
+wo3 我
+men5 們
+yi1 一
+qi3 起
+chi1 吃
+zao3 早
+can1 餐
+hao3 好
+ma5 嗎
+? ﹖
+`],
+[`Let's grab a bite!`, `
+wo3 我
+men5 們
+yi1 一
+qi3 起
+qu4 去
+zhao3 找
+ge5 個
+jian3 簡
+dan1 單
+de5 的
+dong1 東
+xi1 西
+lai2 來
+chi1 吃
+ba5 吧
+! ﹗
+`],
+[`Would you like to go out for a coffee?`, `
+ni3 你
+xiang3 想
+bu4 不
+xiang3 想
+qu4 去
+he1 喝
+ge5 個
+ka1 咖
+fei1 啡
+ne5 呢
+? ﹖
+`],
+[`Can I ask you for a nice coffee?`, `
+wo3 我
+ke3 可
+yi3 以
+zhao3 找
+ni3 你
+yi1 一
+qi3 起
+qu4 去
+he1 喝
+bei1 杯
+hao3 好
+he1 喝
+de5 的
+ka1 咖
+fei1 啡
+ma5 嗎
+? ﹖
+`],
+[`Let's have afternoon tea!`, `
+yi1 一
+qi3 起
+qu4 去
+he1 喝
+xia4 下
+wu3 午
+cha2 茶
+ba5 吧
+! ﹗
+`],
+[`Let's hang out sometime`, `
+you3 有
+kong4 空
+yi1 一
+qi3 起
+qu4 去
+xiao1 消
+mo2 磨
+shi2 時
+jian1 間
+`],
+[`Let's chill tonight`, `
+jin1 今
+tian1 天
+wan3 晚
+shang4 上
+yi1 一
+qi3 起
+zhao3 找
+ge5 個
+di4 地
+fang1 方
+fang4 放
+song1 鬆
+`],
+[`Let's go outside`, `
+yi1 一
+qi3 起
+qu4 去
+wai4 外
+mian4 面
+zou3 走
+zou3 走
+`],
+[`It's interesting`, `
+hao3 好
+xiang4 像
+bu2 不
+cuo4 錯
+`],
+[`I'd love to`, `
+wo3 我
+xiang3 想
+qu4 去
+`],
+[`That sounds good`, `
+ting1 聽
+qi3 起
+lai2 來
+hen3 很
+bang4 棒
+`],
+[`That sounds great`, `
+ting1 聽
+qi3 起
+lai2 來
+hao3 好
+zan4 讚
+`],
+[`It's going to be fun`, `
+yi2 一
+ding4 定
+hen3 很
+hao3 好
+wan2 玩
+`],
+[`I'm afraid I can't`, `
+wo3 我
+kong3 恐
+pa4 怕
+bu4 不
+xing2 行
+`],
+[`I'd love to but I really can't`, `
+wo3 我
+hao3 好
+xiang3 想
+qu4 去
+, ，
+ke3 可
+shi4 是
+zhen1 真
+de5 的
+bu4 不
+xing2 行
+`],
+[`I'd love to but I need to ~`, `
+wo3 我
+hao3 好
+xiang3 想
+qu4 去
+, ，
+dan4 但
+shi4 是
+wo3 我
+bi4 必
+xu1 須
+~ ~
+`],
+[`I don't think I can`, `
+wo3 我
+bu4 不
+jue2 覺
+de5 得
+dao4 到
+shi2 時
+hou4 候
+neng2 能
+qu4 去
+`],
+[`I can't make it`, `
+wo3 我
+mei2 沒
+ban4 辦
+fa3 法
+qu4 去
+`],
+[`I'd like to take you out for a dinner`, `
+wo3 我
+xiang3 想
+dai4 帶
+ni3 你
+qu4 去
+chi1 吃
+yi1 一
+dun4 頓
+wan3 晚
+can1 餐
+`],
+[`I'd love to but I don't think I can`, `
+wo3 我
+hen3 很
+xiang3 想
+qu4 去
+, ，
+ke3 可
+shi4 是
+wo3 我
+xiang3 想
+ke3 可
+neng2 能
+qu4 去
+bu4 不
+liao3 了
+`],
+[`Could we have dinner at 8 p.m. instead?`, `
+wo3 我
+men5 們
+ke3 可
+yi3 以
+gai3 改
+dao4 到
+wan3 晚
+shang4 上
+ba1 八
+dian3 點
+chi1 吃
+wan3 晚
+can1 餐
+ma5 嗎
+? ﹖
+`],
+[`Could we go shopping tomorrow instead?`, `
+wo3 我
+men5 們
+ke3 可
+yi3 以
+gai3 改
+cheng2 成
+ming2 明
+tian1 天
+zai4 再
+qu4 去
+guang4 逛
+jie1 街
+ma5 嗎
+? ﹖
+`],
+[`How about 7 p.m.?`, `
+ru2 如
+guo3 果
+shi4 是
+wan3 晚
+shang4 上
+qi1 七
+dian3 點
+ne5 呢
+? ﹖
+`],
+[`What about this weekend?`, `
+ru2 如
+guo3 果
+shi4 是
+zhe4 這
+ge5 個
+zhou1 週
+mo4 末
+ne5 呢
+? ﹖
+`],
+[`Would you like to go shopping?`, `
+xiang1 相
+yue1 約
+qu4 去
+guang4 逛
+jie1 街
+`],
+[`Shall we go shopping at Central Plaza?`, `
+wo3 我
+men5 們
+yao4 要
+bu2 不
+yao4 要
+yi1 一
+qi3 起
+qu4 去
+zhong1 中
+yang1 央
+guang3 廣
+chang3 場
+guang4 逛
+jie1 街
+? ﹖
+`],
+[`Are you free for some shopping?`, `
+ni3 你
+you3 有
+mei2 沒
+you3 有
+kong4 空
+yi1 一
+qi3 起
+qu4 去
+guang4 逛
+ge5 個
+jie1 街
+? ﹖
+`],
+];
+
+         // PinyinConverter by David Chanin and Jen Liu @quizlet 2013
+
+         (function() {
+           var PinyinConverter;
+
+           PinyinConverter = {
+             pinyinRegex: /(shuang|chuang|zhuang|xiang|qiong|shuai|niang|guang|sheng|kuang|shang|jiong|huang|jiang|shuan|xiong|zhang|zheng|zhong|zhuai|zhuan|qiang|chang|liang|chuan|cheng|chong|chuai|hang|peng|chuo|piao|pian|chua|ping|yang|pang|chui|chun|chen|chan|chou|chao|chai|zhun|mang|meng|weng|shai|shei|miao|zhui|mian|yong|ming|wang|zhuo|zhua|shao|yuan|bing|zhen|fang|feng|zhan|zhou|zhao|zhei|zhai|rang|suan|reng|song|seng|dang|deng|dong|xuan|sang|rong|duan|cuan|cong|ceng|cang|diao|ruan|dian|ding|shou|xing|zuan|jiao|zong|zeng|zang|jian|tang|teng|tong|bian|biao|shan|tuan|huan|xian|huai|tiao|tian|hong|xiao|heng|ying|jing|shen|beng|kuan|kuai|nang|neng|nong|juan|kong|nuan|keng|kang|shua|niao|guan|nian|ting|shuo|guai|ning|quan|qiao|shui|gong|geng|gang|qian|bang|lang|leng|long|qing|ling|luan|shun|lian|liao|zhi|lia|liu|qin|lun|lin|luo|lan|lou|qiu|gai|gei|gao|gou|gan|gen|lao|lei|lai|que|gua|guo|nin|gui|niu|nie|gun|qie|qia|jun|kai|kei|kao|kou|kan|ken|qun|nun|nuo|xia|kua|kuo|nen|kui|nan|nou|kun|jue|nao|nei|hai|hei|hao|hou|han|hen|nai|rou|xiu|jin|hua|huo|tie|hui|tun|tui|hun|tuo|tan|jiu|zai|zei|zao|zou|zan|zen|eng|tou|tao|tei|tai|zuo|zui|xin|zun|jie|jia|run|diu|cai|cao|cou|can|cen|die|dia|xue|rui|cuo|cui|dun|cun|cin|ruo|rua|dui|sai|sao|sou|san|sen|duo|den|dan|dou|suo|sui|dao|sun|dei|zha|zhe|dai|xun|ang|ong|wai|fen|fan|fou|fei|zhu|wei|wan|min|miu|mie|wen|men|lie|chi|cha|che|man|mou|mao|mei|mai|yao|you|yan|chu|pin|pie|yin|pen|pan|pou|pao|shi|sha|she|pei|pai|yue|bin|bie|yun|nüe|lve|shu|ben|ban|bao|bei|bai|lüe|nve|ren|ran|rao|xie|re|ri|si|su|se|ru|sa|cu|ce|ca|ji|ci|zi|zu|ze|za|hu|he|ha|ju|ku|ke|qi|ka|gu|ge|ga|li|lu|le|qu|la|ni|xi|nu|ne|na|ti|tu|te|ta|xu|di|du|de|bo|lv|ba|ai|ei|ao|ou|an|en|er|da|wu|wa|wo|fu|fo|fa|nv|mi|mu|yi|ya|ye|me|mo|ma|pi|pu|po|yu|pa|bi|nü|bu|lü|e|o|a)r?[1-5]/gi,
+             vowels: {
+               'a*': '0',
+               'e*': '1',
+               'i*': '2',
+               'o*': '3',
+               'u*': '4',
+               'ü*': '5',
+               'A*': '6',
+               'E*': '7',
+               'I*': '8',
+               'O*': '9',
+               'U*': '10',
+               'Ü*': '11'
+             },
+             pinyin: {
+               1: ['ā', 'ē', 'ī', 'ō', 'ū', 'ǖ', 'Ā', 'Ē', 'Ī', 'Ō', 'Ū', 'Ǖ'],
+               2: ['á', 'é', 'í', 'ó', 'ú', 'ǘ', 'Á', 'É', 'Í', 'Ó', 'Ú', 'Ǘ'],
+               3: ['ǎ', 'ě', 'ǐ', 'ǒ', 'ǔ', 'ǚ', 'Ǎ', 'Ě', 'Ǐ', 'Ǒ', 'Ǔ', 'Ǚ'],
+               4: ['à', 'è', 'ì', 'ò', 'ù', 'ǜ', 'À', 'È', 'Ì', 'Ò', 'Ù', 'Ǜ'],
+               5: ['a', 'e', 'i', 'o', 'u', 'ü', 'A', 'E', 'I', 'O', 'U', 'Ü']
+             },
+             convert: function(string) {
+               var j, len, match, matches, replacement;
+               matches = string.match(this.pinyinRegex);
+               if (!matches) {
+                 return string;
+               }
+               for (j = 0, len = matches.length; j < len; j++) {
+                 match = matches[j];
+                 replacement = this.getReplacement(match);
+                 string = string.replace(match, replacement);
+               }
+               return string;
+             },
+             getReplacement: function(match) {
+               var accentMap, accentedVowelChar, base, replacedWord, tone, vowel, vowelChar, vowelNum, word;
+               accentMap = this.getAccentMap();
+               tone = match.slice(-1);
+               word = match.slice(0, -1).replace('v', 'ü').replace('V', 'Ü');
+               for (base in accentMap) {
+                 vowel = accentMap[base];
+                 if (word.indexOf(base) >= 0) {
+                   vowelChar = vowel.match(/.\*/)[0];
+                   vowelNum = this.vowels[vowelChar];
+                   accentedVowelChar = this.pinyin[tone.toString()][vowelNum];
+                   replacedWord = word.replace(base, vowel).replace(vowelChar, accentedVowelChar);
+                   return replacedWord;
+                 }
+               }
+               return match;
+             },
+             getAccentMap: function() {
+               var base, i, j, len, nostars, ref, stars, starsArray;
+               if (!this.accentMap) {
+                 stars = 'a*i a*o e*i ia* ia*o ie* io* iu* ' + 'A*I A*O E*I IA* IA*O IE* IO* IU* ' + 'o*u ua* ua*i ue* ui* uo* üe* ' + 'O*U UA* UA*I UE* UI* UO* ÜE* ' + 'A* E* I* O* U* Ü* ' + 'a* e* i* o* u* ü*';
+                 nostars = stars.replace(/\*/g, '');
+                 starsArray = stars.split(' ');
+                 this.accentMap = {};
+                 ref = nostars.split(' ');
+                 for (i = j = 0, len = ref.length; j < len; i = ++j) {
+                   base = ref[i];
+                   this.accentMap[base] = starsArray[i];
+                 }
+               }
+               return this.accentMap;
+             }
+           };
+
+           (function(root, factory) {
+             if (typeof define === 'function' && define.amd) {
+               return define(factory);
+             } else if (typeof exports === 'object') {
+               return module.exports = factory();
+             } else {
+               return root.PinyinConverter = factory();
+             }
+           })(this, function() {
+             return PinyinConverter;
+           });
+
+         }).call(this);
+
+         
+         function convertPara(para) {
+           let result = [];
+           for (word of para.trim().split("\n")) {
+             result.push(word.trim().split(" "));
+           }
+           return result;
+         }
+         
+         const app = new Vue({
+           el: "#gwoyeutext",
+           
+           data: {
+             raw: raw,
+           },
+
+           computed: {
+             fmt() {
+               let result = [];
+               for (phrase of this.raw) {
+                 let curphr = [];
+                 curphr.push(phrase[0]);
+                 curphr.push(convertPara(phrase[1]));
+                 result.push(curphr);
+               }             
+               return result;
+             }
+           },
+         });
+        </script>
+    </body>
+</html>
+

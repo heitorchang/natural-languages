@@ -1,0 +1,86 @@
+Chinese horoscope
+shi2 十
+er4 二
+sheng1 生
+xiao4 肖
+--
+2008
+er4 二
+ling2 零
+ling2 零
+ba1 八
+nian2 年
+--
+rat
+lao3 老
+shu3 鼠
+--
+ox
+niu2 牛
+--
+tiger
+lao3 老
+hu3 虎
+--
+rabbit
+tu4 兔
+zi5 子
+--
+dragon
+long2 龍
+--
+snake
+she2 蛇
+--
+horse
+ma3 馬
+--
+sheep
+yang2 羊
+--
+monkey
+hou2 猴
+zi5 子
+--
+rooster
+ji1 雞
+--
+dog
+gou3 狗
+--
+pig
+zhu1 豬
+--
+What is your Chinese horoscope sign?
+ni3 你
+shi4 是
+shu3 屬
+she2 什
+me5 麼
+de5 的
+? ?
+--
+I am a horse
+wo3 我
+shu3 屬
+ma3 馬
+--
+Which year were you born in?
+ni3 你
+shi4 是
+na3 哪
+yi4 一
+nian2 年
+sheng1 生
+de5 的
+? ?
+--
+I was born in the year of the monkey
+wo3 我
+shi4 是
+hou2 猴
+nian2 年
+sheng1 生
+de5 的
+--
+

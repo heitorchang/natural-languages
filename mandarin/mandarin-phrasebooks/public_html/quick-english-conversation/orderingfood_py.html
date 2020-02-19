@@ -1,0 +1,790 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+        <title>Mandarin Phrasebooks</title>
+        <style>
+         @font-face {
+             font-family: "SourceSansPro";
+             src: url('../css/SourceSansPro-Regular.ttf') format('truetype');
+             font-style: normal;
+         }
+         
+         body {
+             font-family: "SourceSansPro", sans-serif;
+         }
+         
+         .para {
+             margin-bottom: 1.5em;
+         }
+         
+         .char {
+             font-size: 1.4em;
+             margin: 0.2em;
+         }
+
+         .indenter {
+             width: 2.4em;
+         }
+
+         .english {
+             background-color: #DDF;
+             padding: 0.3em 0.6em;
+             margin-bottom: 0.2em;
+             font-size: 1.4em;
+         }
+
+         .mandarin {
+             padding: 0 0.7em;
+         }
+         
+         .gr {
+             background-color: #FFC;
+             padding: 0.1em 0.3em;
+             font-size: 1.2em;
+         }
+
+         .totalchar {
+             display: inline-block;
+             text-align: center;
+             margin-bottom: 1.7em;
+         }
+
+         [v-cloak] > * {
+             display: none;
+         }
+
+         [v-cloak]::before {
+             content: "Loading...";
+         }
+
+         a {
+             margin-right: 1.2em;
+             text-decoration: none;
+             font-weight: bold;
+             font-size: 1.2em;
+         }
+        </style>
+    </head>
+    <body>
+        <div id="gwoyeutext" v-cloak>
+            <a href="shopping_py.html">&lt; Previous</a>
+            <a href="index_py.html">Contents</a>
+            <a href="transportation_py.html">Next &gt;</a>
+            
+            <h3>Ordering food
+</h3>
+            <div v-for="phrase in fmt" class="para">
+                <div class="english">
+                    {{ phrase[0] }}
+                </div>
+
+                <div class="mandarin">
+                    <div v-for="char in phrase[1]" class="totalchar">
+                        <div class="char">
+                            {{ char[1] }}
+                        </div>
+                        <div class="gr">
+                            {{ PinyinConverter.convert(char[0]) }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <a href="shopping_py.html">&lt; Previous</a>
+            <a href="index_py.html">Contents</a>
+            <a href="transportation_py.html">Next &gt;</a>
+
+            <br><br><br><br><br><br>
+        </div>
+        
+        <script src="../js/vue2.min.js"></script>
+        <script>
+         const raw = [
+[`I'd like to make a reservation, please`, `
+ma2 麻
+fan5 煩
+ni3 你
+, ，
+wo3 我
+xiang3 想
+yao4 要
+ding4 訂
+wei4 位
+. 。
+`],
+[`For what time?`, `
+qing3 請
+wen4 問
+yao4 要
+ding4 訂
+ji3 幾
+dian3 點
+? ﹖
+`],
+[`For how many people?`, `
+ji3 幾
+wei4 位
+? ﹖
+`],
+[`I'd like to make a breakfast reservation, please`, `
+wo3 我
+xiang3 想
+ding4 訂
+zao3 早
+can1 餐
+de5 的
+wei4 位
+zhi5 置
+`],
+[`I'd like to make a lunch reservation, please`, `
+wo3 我
+xiang3 想
+ding4 訂
+wu3 午
+can1 餐
+de5 的
+wei4 位
+zhi5 置
+`],
+[`I'd like to make a dinner reservation, please`, `
+wo3 我
+xiang3 想
+ding4 訂
+wan3 晚
+can1 餐
+de5 的
+wei4 位
+zhi5 置
+`],
+[`I'd like to make a dinner reservation for two people at 7 o'clock, please`, `
+wo3 我
+xiang3 想
+ding4 訂
+wan3 晚
+can1 餐
+shi2 時
+duan4 段
+de5 的
+wei4 位
+zhi5 置
+, ，
+liang3 兩
+wei4 位
+, ，
+qi1 七
+dian3 點
+`],
+[`Can I see the menu, please?`, `
+wo3 我
+ke3 可
+yi3 以
+kan4 看
+yi2 一
+xia4 下
+cai4 菜
+dan1 單
+ma5 嗎
+? ﹖
+`],
+[`Can I have the menu, please?`, `
+wo3 我
+ke3 可
+yi3 以
+yao4 要
+cai4 菜
+dan1 單
+ma5 嗎
+? ﹖
+`],
+[`Are you ready to order?`, `
+zhun3 準
+bei4 備
+hao3 好
+dian3 點
+can1 餐
+le5 了
+ma5 嗎
+? ﹖
+`],
+[`What would you like to order?`, `
+qing3 請
+wen4 問
+xiang3 想
+dian3 點
+shen2 什
+me5 麼
+? ﹖
+`],
+[`Here you go`, `
+zai4 在
+zhe4 這
+li3 裡
+`],
+[`There you go`, `
+zai4 在
+na4 那
+li3 裡
+`],
+[`Here we go`, `
+lai2 來
+ba5 吧
+`],
+[`Your dumbbell is too heavy. I can't lift it`, `
+ni3 你
+de5 的
+ya3 啞
+ling2 鈴
+tai4 太
+zhong4 重
+le5 了
+, ，
+wo3 我
+gen1 根
+ben3 本
+ju3 舉
+bu4 不
+qi3 起
+lai2 來
+`],
+[`Come on, Tony. Here we go, you can do it!`, `
+jia1 加
+you2 油
+, ，
+dong1 東
+ni2 尼
+, ，
+lai2 來
+ba5 吧
+, ，
+ni3 你
+ban4 辦
+de5 得
+dao4 到
+de5 得
+! ﹗
+`],
+[`There you go!`, `
+ni3 你
+kan4 看
+ba5 吧
+! ﹗
+`],
+[`I'd like a chicken salad, please`, `
+wo3 我
+xiang3 想
+yao4 要
+ji1 雞
+rou4 肉
+sha1 沙
+la1 拉
+, ，
+xie4 謝
+xie5 謝
+`],
+[`Can I have a seafood spaghetti, please?`, `
+wo3 我
+ke3 可
+yi3 以
+dian3 點
+yi4 一
+pan2 盤
+hai3 海
+xian1 鮮
+yi4 義
+da4 大
+li4 利
+mian4 麵
+ma5 嗎
+? ﹖
+`],
+[`Can I get extra salad dressing, please?`, `
+ke3 可
+yi3 以
+duo1 多
+gei3 給
+wo3 我
+yi1 一
+xie1 些
+sha1 沙
+la1 拉
+jiang4 醬
+ma5 嗎
+? ﹖
+`],
+[`May I get it with extra rice, please?`, `
+ke3 可
+yi3 以
+bang1 幫
+wo3 我
+duo1 多
+jia1 加
+yi1 一
+xie1 些
+bai2 白
+fan4 飯
+ma5 嗎
+? ﹖
+`],
+[`May I get an omelet with extra rice, please?`, `
+ke3 可
+yi3 以
+gei3 給
+wo3 我
+dan4 蛋
+bao1 包
+fan4 飯
+bing4 並
+duo1 多
+jia1 加
+yi1 一
+dian3 點
+bai2 白
+fan4 飯
+ma5 嗎
+? ﹖
+`],
+[`Could you add 2 eggs to it, please?`, `
+ke3 可
+yi3 以
+bang1 幫
+wo3 我
+jia1 加
+liang3 兩
+ke1 棵
+dan4 蛋
+ma5 嗎
+? ﹖
+`],
+[`I'd like it not spicy at all`, `
+wo3 我
+wan2 完
+quan2 全
+bu2 不
+yao4 要
+la4 辣
+`],
+[`I'd like it a little spicy`, `
+wo3 我
+xiang3 想
+yao4 要
+xiao3 小
+la4 辣
+`],
+[`I'd like it medium spicy`, `
+wo3 我
+xiang3 想
+yao4 要
+zhong1 中
+la4 辣
+`],
+[`I'd like it very spicy`, `
+wo3 我
+xiang3 想
+yao4 要
+da4 大
+la4 辣
+`],
+[`It's very delicious`, `
+fei1 非
+chang2 常
+mei3 美
+wei4 味
+`],
+[`That's so nice`, `
+zhen1 真
+shi4 是
+hao3 好
+chi1 吃
+`],
+[`It's excellent`, `
+chao1 超
+hao3 好
+chi1 吃
+`],
+[`Awesome!`, `
+zan4 讚
+`],
+[`That's tasty`, `
+wei4 味
+dao4 道
+hen3 很
+bang4 棒
+`],
+[`That's terrible`, `
+bu4 不
+hao3 好
+chi1 吃
+`],
+[`It's too sour`, `
+ta1 它
+tai4 太
+suan1 酸
+le5 了
+`],
+[`That's a bit salty`, `
+you3 有
+dian3 點
+xian2 鹹
+`],
+[`It's quite sweet`, `
+zhen1 真
+de5 的
+hao3 好
+tian2 甜
+o1 喔
+`],
+[`That's so bitter`, `
+tai4 太
+ku3 苦
+le5 了
+`],
+[`Please hold the onion`, `
+bu2 不
+yao4 要
+jia1 加
+yang2 洋
+cong1 蔥
+`],
+[`No garlic, please`, `
+qing3 請
+bu2 不
+yao4 要
+jia1 加
+suan4 蒜
+tou5 頭
+`],
+[`Could you hold the bean sprouts, please?`, `
+ke3 可
+yi3 以
+bu4 不
+jia1 加
+dou4 豆
+ya2 芽
+cai4 菜
+ma5 嗎
+? ﹖
+`],
+[`I can't eat spicy food`, `
+wo3 我
+bu4 不
+neng2 能
+chi1 吃
+la4 辣
+`],
+[`I can't eat carbs`, `
+wo3 我
+bu4 不
+neng2 能
+chi1 吃
+dian4 澱
+fen3 粉
+lei4 類
+de5 的
+shi2 食
+wu4 物
+`],
+[`I don't eat vegetables`, `
+wo3 我
+bu2 不
+chi1 吃
+qing1 青
+cai4 菜
+`],
+[`I don't eat meat`, `
+wo3 我
+bu2 不
+chi1 吃
+rou4 肉
+`],
+[`I'm allergic to shrimp`, `
+wo3 我
+dui4 對
+xia1 蝦
+zi5 子
+guo4 過
+min3 敏
+`],
+[`I'm on a diet`, `
+wo3 我
+zheng4 正
+zai4 在
+kong4 控
+zhi4 制
+yin3 飲
+shi2 食
+`],
+[`I'm a vegetarian`, `
+wo3 我
+shi4 是
+su4 素
+shi2 食
+zhu3 主
+yi4 義
+zhe3 者
+`],
+[`I'm still waiting for my food`, `
+wo3 我
+hai2 還
+zai4 在
+deng3 等
+wo3 我
+de5 的
+can1 餐
+dian3 點
+`],
+[`My order hasn't come yet`, `
+wo3 我
+dian3 點
+de5 的
+can1 餐
+hai2 還
+mei2 沒
+lai2 來
+`],
+[`How long will it take?`, `
+qing3 請
+wen4 問
+hai2 還
+yao4 要
+duo1 多
+jiu3 久
+? ﹖
+`],
+[`Can you check it for me?`, `
+ke3 可
+yi3 以
+bang1 幫
+wo3 我
+que4 確
+ren4 認
+yi2 一
+xia4 下
+ma5 嗎
+? ﹖
+`],
+[`This is not what I ordered`, `
+zhe4 這
+bu2 不
+shi4 是
+wo3 我
+dian3 點
+de5 的
+`],
+[`I didn't order this`, `
+wo3 我
+bu2 不
+shi4 是
+dian3 點
+zhe4 這
+ge5 個
+`],
+[`Let me pay for the meal`, `
+zhe4 這
+yi4 一
+can1 餐
+rang4 讓
+wo3 我
+qing3 請
+ke4 客
+`],
+[`I'll treat you`, `
+wo3 我
+qing3 請
+ni3 你
+`],
+[`It's my treat`, `
+zhe4 這
+ci4 次
+wo3 我
+qing3 請
+ke4 客
+`],
+[`It's on me`, `
+suan4 算
+wo3 我
+de5 的
+`],
+[`Let's share the bill`, `
+wo3 我
+men5 們
+yi4 一
+ren2 人
+fu4 付
+yi2 一
+ban4 半
+`],
+[`Let's split the bill`, `
+wo3 我
+men5 們
+fen1 分
+kai1 開
+fu4 付
+zhang4 帳
+ba5 吧
+`],
+[`Let me pay for the meal`, `
+wo3 我
+lai2 來
+mai3 買
+dan1 單
+`],
+[`Can I have the bill, please?`, `
+ke3 可
+yi3 以
+jie2 結
+zhang4 帳
+ma5 嗎
+? ﹖
+`],
+[`Can I have the check, please?`, `
+ke3 可
+yi3 以
+gei3 給
+wo3 我
+zhang4 帳
+dan1 單
+ma5 嗎
+? ﹖
+`],
+[`Check, please`, `
+jie2 結
+zhang4 帳
+`],
+[`That will be 750 dollars, Ma'am`, `
+xiao3 小
+jie3 姐
+, ，
+zong3 總
+gong4 共
+qi1 七
+bai3 百
+wu3 五
+shi2 十
+yuan2 元
+`],
+];
+
+         // PinyinConverter by David Chanin and Jen Liu @quizlet 2013
+
+         (function() {
+           var PinyinConverter;
+
+           PinyinConverter = {
+             pinyinRegex: /(shuang|chuang|zhuang|xiang|qiong|shuai|niang|guang|sheng|kuang|shang|jiong|huang|jiang|shuan|xiong|zhang|zheng|zhong|zhuai|zhuan|qiang|chang|liang|chuan|cheng|chong|chuai|hang|peng|chuo|piao|pian|chua|ping|yang|pang|chui|chun|chen|chan|chou|chao|chai|zhun|mang|meng|weng|shai|shei|miao|zhui|mian|yong|ming|wang|zhuo|zhua|shao|yuan|bing|zhen|fang|feng|zhan|zhou|zhao|zhei|zhai|rang|suan|reng|song|seng|dang|deng|dong|xuan|sang|rong|duan|cuan|cong|ceng|cang|diao|ruan|dian|ding|shou|xing|zuan|jiao|zong|zeng|zang|jian|tang|teng|tong|bian|biao|shan|tuan|huan|xian|huai|tiao|tian|hong|xiao|heng|ying|jing|shen|beng|kuan|kuai|nang|neng|nong|juan|kong|nuan|keng|kang|shua|niao|guan|nian|ting|shuo|guai|ning|quan|qiao|shui|gong|geng|gang|qian|bang|lang|leng|long|qing|ling|luan|shun|lian|liao|zhi|lia|liu|qin|lun|lin|luo|lan|lou|qiu|gai|gei|gao|gou|gan|gen|lao|lei|lai|que|gua|guo|nin|gui|niu|nie|gun|qie|qia|jun|kai|kei|kao|kou|kan|ken|qun|nun|nuo|xia|kua|kuo|nen|kui|nan|nou|kun|jue|nao|nei|hai|hei|hao|hou|han|hen|nai|rou|xiu|jin|hua|huo|tie|hui|tun|tui|hun|tuo|tan|jiu|zai|zei|zao|zou|zan|zen|eng|tou|tao|tei|tai|zuo|zui|xin|zun|jie|jia|run|diu|cai|cao|cou|can|cen|die|dia|xue|rui|cuo|cui|dun|cun|cin|ruo|rua|dui|sai|sao|sou|san|sen|duo|den|dan|dou|suo|sui|dao|sun|dei|zha|zhe|dai|xun|ang|ong|wai|fen|fan|fou|fei|zhu|wei|wan|min|miu|mie|wen|men|lie|chi|cha|che|man|mou|mao|mei|mai|yao|you|yan|chu|pin|pie|yin|pen|pan|pou|pao|shi|sha|she|pei|pai|yue|bin|bie|yun|nüe|lve|shu|ben|ban|bao|bei|bai|lüe|nve|ren|ran|rao|xie|re|ri|si|su|se|ru|sa|cu|ce|ca|ji|ci|zi|zu|ze|za|hu|he|ha|ju|ku|ke|qi|ka|gu|ge|ga|li|lu|le|qu|la|ni|xi|nu|ne|na|ti|tu|te|ta|xu|di|du|de|bo|lv|ba|ai|ei|ao|ou|an|en|er|da|wu|wa|wo|fu|fo|fa|nv|mi|mu|yi|ya|ye|me|mo|ma|pi|pu|po|yu|pa|bi|nü|bu|lü|e|o|a)r?[1-5]/gi,
+             vowels: {
+               'a*': '0',
+               'e*': '1',
+               'i*': '2',
+               'o*': '3',
+               'u*': '4',
+               'ü*': '5',
+               'A*': '6',
+               'E*': '7',
+               'I*': '8',
+               'O*': '9',
+               'U*': '10',
+               'Ü*': '11'
+             },
+             pinyin: {
+               1: ['ā', 'ē', 'ī', 'ō', 'ū', 'ǖ', 'Ā', 'Ē', 'Ī', 'Ō', 'Ū', 'Ǖ'],
+               2: ['á', 'é', 'í', 'ó', 'ú', 'ǘ', 'Á', 'É', 'Í', 'Ó', 'Ú', 'Ǘ'],
+               3: ['ǎ', 'ě', 'ǐ', 'ǒ', 'ǔ', 'ǚ', 'Ǎ', 'Ě', 'Ǐ', 'Ǒ', 'Ǔ', 'Ǚ'],
+               4: ['à', 'è', 'ì', 'ò', 'ù', 'ǜ', 'À', 'È', 'Ì', 'Ò', 'Ù', 'Ǜ'],
+               5: ['a', 'e', 'i', 'o', 'u', 'ü', 'A', 'E', 'I', 'O', 'U', 'Ü']
+             },
+             convert: function(string) {
+               var j, len, match, matches, replacement;
+               matches = string.match(this.pinyinRegex);
+               if (!matches) {
+                 return string;
+               }
+               for (j = 0, len = matches.length; j < len; j++) {
+                 match = matches[j];
+                 replacement = this.getReplacement(match);
+                 string = string.replace(match, replacement);
+               }
+               return string;
+             },
+             getReplacement: function(match) {
+               var accentMap, accentedVowelChar, base, replacedWord, tone, vowel, vowelChar, vowelNum, word;
+               accentMap = this.getAccentMap();
+               tone = match.slice(-1);
+               word = match.slice(0, -1).replace('v', 'ü').replace('V', 'Ü');
+               for (base in accentMap) {
+                 vowel = accentMap[base];
+                 if (word.indexOf(base) >= 0) {
+                   vowelChar = vowel.match(/.\*/)[0];
+                   vowelNum = this.vowels[vowelChar];
+                   accentedVowelChar = this.pinyin[tone.toString()][vowelNum];
+                   replacedWord = word.replace(base, vowel).replace(vowelChar, accentedVowelChar);
+                   return replacedWord;
+                 }
+               }
+               return match;
+             },
+             getAccentMap: function() {
+               var base, i, j, len, nostars, ref, stars, starsArray;
+               if (!this.accentMap) {
+                 stars = 'a*i a*o e*i ia* ia*o ie* io* iu* ' + 'A*I A*O E*I IA* IA*O IE* IO* IU* ' + 'o*u ua* ua*i ue* ui* uo* üe* ' + 'O*U UA* UA*I UE* UI* UO* ÜE* ' + 'A* E* I* O* U* Ü* ' + 'a* e* i* o* u* ü*';
+                 nostars = stars.replace(/\*/g, '');
+                 starsArray = stars.split(' ');
+                 this.accentMap = {};
+                 ref = nostars.split(' ');
+                 for (i = j = 0, len = ref.length; j < len; i = ++j) {
+                   base = ref[i];
+                   this.accentMap[base] = starsArray[i];
+                 }
+               }
+               return this.accentMap;
+             }
+           };
+
+           (function(root, factory) {
+             if (typeof define === 'function' && define.amd) {
+               return define(factory);
+             } else if (typeof exports === 'object') {
+               return module.exports = factory();
+             } else {
+               return root.PinyinConverter = factory();
+             }
+           })(this, function() {
+             return PinyinConverter;
+           });
+
+         }).call(this);
+
+         
+         function convertPara(para) {
+           let result = [];
+           for (word of para.trim().split("\n")) {
+             result.push(word.trim().split(" "));
+           }
+           return result;
+         }
+         
+         const app = new Vue({
+           el: "#gwoyeutext",
+           
+           data: {
+             raw: raw,
+           },
+
+           computed: {
+             fmt() {
+               let result = [];
+               for (phrase of this.raw) {
+                 let curphr = [];
+                 curphr.push(phrase[0]);
+                 curphr.push(convertPara(phrase[1]));
+                 result.push(curphr);
+               }             
+               return result;
+             }
+           },
+         });
+        </script>
+    </body>
+</html>
+

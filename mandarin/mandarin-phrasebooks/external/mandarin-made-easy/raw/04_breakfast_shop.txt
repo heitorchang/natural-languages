@@ -1,0 +1,237 @@
+breakfast shop
+tzao 早
+tsan 餐
+diann 店
+--
+Chinese style
+jong 中
+shyh 式
+--
+meat bun
+row 肉
+bau 包
+--
+soy milk
+dow 豆
+jiang 漿
+--
+steamed bread
+man 饅
+.tou 頭
+--
+rice ball
+fann 飯
+twan 糰
+--
+fried bread stick
+you 油
+tyau 條
+--
+green onion pancake
+tsong 蔥
+you 油
+biing 餅
+--
+rice porridge, congee
+jou 粥
+--
+clay oven roll
+shau 燒
+biing 餅
+--
+egg cake
+dann 蛋
+biing 餅
+--
+turnip cake
+luo 蘿
+bo 蔔
+gau 糕
+--
+Miss, what would you like to eat?
+sheau 小
+jiee 姐
+, ，
+nii 妳
+yaw 要
+chy 吃
+sher 什
+.me 麼
+? ?
+--
+Two loaves of steamed bread and a cup of soymilk
+leang 兩
+.ge 個
+man 饅
+.tou 頭
+her 和
+yih 一
+bei 杯
+dow 豆
+jiang 漿
+--
+Need anything else?
+hair 還
+shiu 需
+yaw 要
+bye 別
+.de 的
+.ma 嗎
+? ?
+--
+One more egg cake
+tzay 再
+jia 加
+i 一
+.ge 個
+dann 蛋
+biing 餅
+--
+No, that's it
+bwu 不
+yonq 用
+.le 了
+, ，
+jeh 這
+.iang 樣
+jiow 就
+hao 好
+--
+Sir, I'm in a hurry, please hurry up
+lao 老
+baan 闆
+, ，
+woo 我
+gaan 趕
+shyr 時
+jian 間
+, ，
+chiing 請
+kuay 快
+yih 一
+dean 點
+--
+OK, I will make it immediately
+hao 好
+.de 的
+, ，
+woo 我
+maa 馬
+shanq 上
+tzuoh 做
+--
+How much?
+duo 多
+shao 少
+chyan 錢
+? ?
+--
+Forty-five dollars
+syh 四
+shyr 十
+wuu 五
+kuay 塊
+--
+Here is one hundred dollars
+shou 收
+nii 妳
+yih 一
+bae 百
+yuan 元
+--
+Here's your fifty-five dollars change
+jao 找
+wuu 五
+shyr 十
+wuu 五
+kuay 塊
+chyan 錢
+--
+Western style
+shi 西
+shyh 式
+--
+coffee
+ka 咖
+fei 啡
+--
+black tea
+horng 紅
+char 茶
+--
+corn soup
+yuh 玉
+mii 米
+nong 濃
+tang 湯
+--
+sandwich
+san 三
+ming 明
+jyh 治
+--
+hamburger
+hann 漢
+bao 堡
+--
+cola
+kee 可
+leh 樂
+--
+milk
+niou 牛
+nae 奶
+--
+I want a cup of black coffee
+woo 我
+yaw 要
+yih 一
+bei 杯
+hei 黑
+ka 咖
+fei 啡
+--
+OK, anything else?
+hao 好
+.de 的
+, ，
+hair 還
+yaw 要
+bye 別
+.de 的
+.ma 嗎
+? ?
+--
+A cheese sandwich
+i 一
+.ge 個
+chii 起
+sy 司
+san 三
+ming 明
+jyh 治
+--
+For here or to go?
+nii 你
+yaw 要
+ney 內
+yonq 用
+hair 還
+shyh 是
+way 外
+day 帶
+? ?
+--
+For here
+woo 我
+yaw 要
+ney 內
+yonq 用
+--
+OK, coming right up!
+hao 好
+, ，
+maa 馬
+shanq 上
+lai 來
+--

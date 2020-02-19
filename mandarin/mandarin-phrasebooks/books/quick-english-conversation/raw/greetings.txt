@@ -1,0 +1,71 @@
+Hi!
+nii 你
+hao 好
+! !
+--
+Hello!
+ha 哈
+lhuo 囉
+! !
+--
+Good morning.
+tzao 早
+an 安
+--
+Good afternoon.
+wuu 午
+an 安
+---
+Good evening.
+woan 晚
+an 安
+--
+How is it going?
+tzuey 最
+jinn 近
+hao 好
+.ma 嗎
+? ?
+--
+How are you doing?
+tzuey 最
+jinn 近
+guoh 過
+.de 得
+tzeen 怎
+.me 麼
+yanq 樣
+? ?
+--
+I'm well.
+woo 我
+heen 很
+hao 好
+--
+I'm not well.
+bwu 不
+tay 太
+hao 好
+--
+Where have you been?
+nii 你
+dou 都
+chiuh 去
+naa 哪
+lii 裡
+.le 了
+? ?
+--
+Long time no see.
+hao 好
+jeou 久
+bwu 不
+jiann 見
+--
+Nice to meet you.
+heen 很
+gau 高
+shinq 興
+renn 認
+.shy 識
+nii 你

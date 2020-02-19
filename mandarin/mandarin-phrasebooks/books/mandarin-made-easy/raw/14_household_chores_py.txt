@@ -1,0 +1,130 @@
+household chores
+jia1 家
+shi4 事
+--
+cook rice
+zhu3 煮
+fan4 飯
+--
+cook vegetables
+shao1 燒
+cai4 菜
+--
+do dishes
+xi3 洗
+wan3 碗
+--
+clean
+da3 打
+sao3 掃
+--
+sweep
+sao3 掃
+di4 地
+--
+mop
+tuo1 拖
+di4 地
+--
+water
+jiao1 澆
+shui3 水
+--
+do laundry
+xi3 洗
+yi1 衣
+fu2 服
+--
+iron clothes
+tang4 燙
+yi1 衣
+fu2 服
+--
+tidy the room
+zheng3 整
+li3 理
+fang2 房
+jian1 間
+--
+take out the trash
+dao4 倒
+le4 垃
+se4 圾
+--
+walk the dog
+liu4 遛
+gou3 狗
+--
+feed the pet
+wei4 餵
+chong3 寵
+wu4 物
+--
+give the pet a bath
+bang1 幫
+chong3 寵
+wu4 物
+xi3 洗
+zao3 澡
+--
+I have to go home and cook after work
+wo3 我
+xia4 下
+ban1 班
+hou4 後
+, ，
+hui2 回
+jia1 家
+hai2 還
+yao4 要
+zhu3 煮
+fan4 飯
+shao1 燒
+cai4 菜
+--
+But my husband is considerate
+bu2 不
+guo4 過
+, ，
+wo3 我
+xian1 先
+sheng1 生
+hen3 很
+ti3 體
+tie1 貼
+--
+He helps me to wash the dishes, mop the floor, and take out the garbage
+ta1 他
+hui4 會
+bang1 幫
+wo3 我
+xi3 洗
+wan3 碗
+, ，
+tuo1 拖
+di4 地
+, ，
+dao4 倒
+le4 垃
+se4 圾
+. 。
+--
+He shares the housework.
+bang1 幫
+wo3 我
+fen1 分
+dan1 擔
+jia1 家
+shi4 事
+. 。
+--
+I feel very fortunate.
+wo3 我
+jue2 覺
+de5 得
+wo3 我
+hen3 很
+xing4 幸
+fu2 福
+--
+

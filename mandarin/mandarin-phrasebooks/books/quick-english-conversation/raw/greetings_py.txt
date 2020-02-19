@@ -1,0 +1,71 @@
+Hi!
+ni3 你
+hao3 好
+! !
+--
+Hello!
+ha1 哈
+luo1 囉
+! !
+--
+Good morning.
+zao3 早
+an1 安
+--
+Good afternoon.
+wu3 午
+an1 安
+--
+Good evening.
+wan3 晚
+an1 安
+--
+How is it going?
+zui4 最
+jin4 近
+hao3 好
+ma5 嗎
+? ?
+--
+How are you doing?
+zui4 最
+jin4 近
+guo4 過
+de5 得
+zen3 怎
+me5 麼
+yang4 樣
+? ?
+--
+I'm well.
+wo3 我
+hen3 很
+hao3 好
+--
+I'm not well.
+bu2 不
+tai4 太
+hao3 好
+--
+Where have you been?
+ni3 你
+dou1 都
+qu4 去
+na3 哪
+li3 裡
+le5 了
+? ?
+--
+Long time no see.
+hao3 好
+jiu3 久
+bu2 不
+jian4 見
+--
+Nice to meet you.
+hen3 很
+gao1 高
+xing4 興
+ren4 認
+shi5 識
+ni3 你

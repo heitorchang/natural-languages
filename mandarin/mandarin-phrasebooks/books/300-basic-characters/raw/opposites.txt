@@ -1,0 +1,89 @@
+big
+dah 大
+--
+small
+sheau 小
+--
+above
+shanq 上
+--
+below
+shiah 下
+--
+left
+tzuoo 左
+--
+right
+yow 右
+--
+early
+tzao 早
+--
+late
+woan 晚
+--
+quick
+kuay 快
+--
+slow
+mann 慢
+--
+cold
+leeng 冷
+--
+hot
+reh 熱
+--
+male
+nan 男
+--
+female
+neu 女
+--
+old
+lao 老
+--
+young
+yow 幼
+--
+long
+charng 長
+--
+short
+doan 短
+--
+tall
+gau 高
+--
+low
+di 低
+--
+thick
+tsu 粗
+--
+thin
+shih 細
+--
+inside
+lii 裡
+--
+outside
+way 外
+--
+fat
+panq 胖
+--
+skinny
+show 瘦
+--
+light
+ching 輕
+--
+heavy
+jonq 重
+--
+bent
+uan 彎
+--
+straight
+jyr 直

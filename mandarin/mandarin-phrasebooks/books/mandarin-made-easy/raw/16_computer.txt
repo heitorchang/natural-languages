@@ -1,0 +1,178 @@
+notebook computer
+bii 筆
+jih 記
+shyng 型
+diann 電
+nao 腦
+--
+notebook computer
+bii 筆
+jih 記
+been 本
+diann 電
+nao 腦
+--
+mouse
+hwa 滑
+shuu 鼠
+--
+mouse
+shuu 鼠
+biau 標
+--
+monitor
+yng 螢
+muh 幕
+--
+hard drive
+juu 主
+ji 機
+--
+keyboard
+jiann 鍵
+parn 盤
+--
+crash
+danq 當
+ji 機
+--
+crash
+syy 死
+ji 機
+--
+save file
+tswen 存
+daang 檔
+--
+save file
+tswen 存
+parn 盤
+--
+surf the internet
+shanq 上
+woang 網
+--
+hacker
+hay 駭
+keh 客
+--
+headset
+eel 耳
+ji 機
+--
+printer
+yinn 印
+beau 表
+ji 機
+--
+printer
+daa 打
+yinn 印
+ji 機
+--
+ink cartridge
+moh 墨
+shoei 水
+--
+speakers
+laa 喇
+ba 叭
+--
+How many hours a day do you surf the Internet?
+nii 你
+yih 一
+tian 天
+shanq 上
+woang 網
+jii 幾
+.ge 個
+sheau 小
+shyr 時
+? ?
+--
+I surf the Internet over 10 hours a day.
+woo 我
+meei 每
+tian 天
+shanq 上
+woang 網
+chau 超
+guoh 過
+shyr 十
+.ge 個
+sheau 小
+shyr 時
+. 。
+--
+Doesn't that make you tired?
+nii 你
+jeh 這
+yanq 樣
+bwu 不
+ley 累
+.ma 嗎
+? ?
+--
+No, surfing the Internet is a lot of fun for me.
+bwu 不
+huey 會
+, ，
+woo 我
+tzuey 最
+dah 大
+.de 的
+leh 樂
+chiuh 趣
+jiow 就
+shyh 是
+shanq 上
+woang 網
+--
+I take the notebook along with me to have Internet access when I go out.
+chu 出
+men 門
+, ，
+woo 我
+yee 也
+huey 會
+day 帶
+bii 筆
+jih 記
+shyng 型
+diann 電
+nao 腦
+shanq 上
+woang 網
+--
+I have no choice. It's necessary for my work.
+mei 沒
+bann 辦
+faa 法
+, ，
+in 因
+wey 為
+gong 工
+tzuoh 作
+shanq 上
+.de 的
+shiu 需
+yaw 要
+--
+So I need to take a ten-minute rest every 30 minutes.
+suoo 所
+yii 以
+woo 我
+bih 必
+shiu 須
+meei 每
+san 三
+shyr 十
+fen 分
+jong 鐘
+shiou 休
+shyi 息
+shyr 十
+fen 分
+jong 鐘
+. 。
+--

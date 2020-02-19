@@ -1,0 +1,14 @@
+時間;shyr jian;time
+兩點五分;leang dean wuu fen;five past two
+十二點差五分;shyr ell dean cha wuu fen;five to twelve
+十二點整;shyr ell dean jeeng;twelve o' clock sharp
+現在幾點?;shiann tzay jii dean;What time is it?
+八點差五分;ba dean cha wuu fen;It's five to eight
+開往台北的火車幾點出發?;kai woang tair beei .de huoo che jii dean chu fa?;What time does the train for Taipei leave?
+八點整出發;ba dean jeeng chu fa;At eight o' clock sharp
+幾點到達台北?;jii dean daw dar tair beei?;What time does it get to Taipei?
+十點三十分到達台北;shyr dean san shyr fen daw dar tair beei;At ten-thirty
+請給我兩張來回票;chiing geei woo leang jang lai hwei piaw;Please give me two round-trip tickets.
+請問，在幾號月台上車?;chiing wenn, tzay jii haw yueh tair shanq che?;Excuse me, what number is the boarding platform?
+一號月台;yi haw yueh tair;Platform 1.
+

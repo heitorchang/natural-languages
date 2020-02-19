@@ -1,0 +1,81 @@
+classroom
+jiaw 教
+shyh 室
+--
+teacher
+lao 老
+shy 師
+--
+teacher's desk
+jeang 講
+juo 桌
+--
+student
+shyue 學
+sheng 生
+--
+desk
+shu 書
+juo 桌
+--
+chair
+yii 椅
+.tzy 子
+--
+textbook
+keh 課
+been 本
+--
+pencil
+chian 鉛
+bii 筆
+--
+eraser
+shianq 橡
+pyi 皮
+tsa 擦
+--
+correction tape
+shiou 修
+jenq 正
+day 帶
+--
+calculator
+jih 計
+suann 算
+ji 機
+--
+blackboard
+hei 黑
+baan 板
+--
+chalk
+feen 粉
+bii 筆
+--
+eraser
+baan 板
+tsa 擦
+--
+bulletin board
+buh 佈
+gaw 告
+lan 欄
+--
+map
+dih 地
+twu 圖
+--
+globe
+dih 地
+chyou 球
+yi 儀
+--
+television
+diann 電
+shyh 視
+--
+clock
+shyr 時
+jong 鐘
+--

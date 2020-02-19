@@ -1,0 +1,89 @@
+big
+da4 大
+--
+small
+xiao3 小
+--
+above
+shang4 上
+--
+below
+xia4 下
+--
+left
+zuo3 左
+--
+right
+you4 右
+--
+early
+zao3 早
+--
+late
+wan3 晚
+--
+quick
+kuai4 快
+--
+slow
+man4 慢
+--
+cold
+leng3 冷
+--
+hot
+re4 熱
+--
+male
+nan2 男
+--
+female
+nü3 女
+--
+old
+lao3 老
+--
+young
+you4 幼
+--
+long
+chang2 長
+--
+short
+duan3 短
+--
+tall
+gao1 高
+--
+low
+di1 低
+--
+thick
+cu1 粗
+--
+thin
+xi4 細
+--
+inside
+li3 裡
+--
+outside
+wai4 外
+--
+fat
+pang4 胖
+--
+skinny
+shou4 瘦
+--
+light
+qing1 輕
+--
+heavy
+zhong4 重
+--
+bent
+wan1 彎
+--
+straight
+zhi2 直

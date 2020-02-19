@@ -1,0 +1,46 @@
+001_intro_useful_conversation.txt Useful phrases (1 of 3)
+002_intro_useful_conversation.txt Useful phrases (2 of 3)
+003_intro_useful_conversation.txt Useful phrases (3 of 3)
+01_how_are_you.txt How are you?
+02_which_country.txt Which country are you from?
+03_family_members.txt Family members
+04_breakfast_shop.txt Breakfast shop
+05_typical_chinese_cuisine.txt Typical Chinese cuisine
+06_taste.txt Taste
+07_seasonings.txt Seasonings
+08_typical_taiwanese_food.txt Typical Taiwanese food
+09_fruit.txt Fruit
+10_telephone.txt Telephone
+11_occupation.txt Occupation
+12_business_card.txt Business card
+13_looking_for_a_house.txt Looking for a house
+14_household_chores.txt Household chores
+15_bedroom.txt Bedroom
+16_computer.txt Computer
+17_position.txt Position
+18_bathroom.txt Bathroom
+19_living_room.txt Living room
+20_balcony.txt Balcony
+21_clothes.txt Clothes
+22_colors.txt Colors
+23_womens_beauty_products.txt Women's beauty products
+24_classroom.txt Classroom
+25_sports.txt Sports
+26_body.txt Body
+27_illness.txt Illness
+28_public_venues.txt Public venues
+29_vehicles.txt Vehicles
+30_ask_for_directions.txt Asking for directions
+31_airport.txt Airport
+32_restaurant.txt Restaurant
+33_nature_and_weather.txt Nature and weather
+34_numbers.txt Numbers
+35_money.txt Money
+36_withdrawing_money.txt Withdrawing money
+37_measure_words.txt Measure words
+38_time.txt Time
+39_year_month_day.txt Year, month, day
+40_calendar.txt Calendar
+41_chinese_horoscope.txt Chinese horoscope
+42_star_signs.txt Star signs
+43_new_years_blessings.txt New Year's blessings

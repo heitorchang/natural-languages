@@ -1,0 +1,40 @@
+疾病;jyi binq;illness
+頭痛;tour tonq;headache
+中暑;jonq shuu;sun stroke
+發燒;fa shau;fever
+喉嚨痛;hour long tonq;sore throat
+咳嗽;ker sow;cough
+牙痛;ya tonq;toothache
+頭暈;tour iun;dizzy
+耳朵痛;eel .duo tonq;earache
+感冒;gaan maw;cold
+嘔吐;oou tuh;vomit
+流鼻水;liou byi shoei;runny nose
+流鼻血;liou byi shiee;bloody nose
+肚子痛;duh tzyy tonq;stomachache
+胃痛;wey tonq;stomachache
+憂鬱症;iou yuh jenq;depression
+腰痛;iau tonq;backache
+脹氣;janq chih;bloated
+消化不良;shiau huah buh liang;indigestion
+心臟病;shin tzanq binq;heart disease
+癌症;air jenq;cancer
+糖尿病;tarng niaw binq;diabetes
+盲腸炎;mang charng yan;appendicitis
+扁桃腺發炎;bean taur shiann fa yan;tonsillitis
+腎臟炎;shenn tzanq yan;kidney infection
+高血壓;gau shiee ia;hypertension
+低血壓;di shiee ia;hypotension
+神經衰弱;shern jing shuai ruoh;nervous breakdown
+胃潰瘍;wey kuey yang;stomach ulcer
+我身體不舒服;woo shen tii buh shu fwu;I don't feel good
+你能陪我去醫院嗎?;nii neng peir woo chiuh i yuann .ma?;Can you go with me to the hospital?
+好，我陪你去;hao, woo peir nii chiuh;All right, I will go with you
+你的臉色不太好，你哪邊不舒服?;nii .de lean seh bwu tay hao, nii naa bian buh shu fwu;You don't look good. Are you not feeling well?
+我胃痛，拉肚子;woo wey tonq, lha duh .tzy;I have a stomachache and diarrhea
+你的生活太緊張;nii .de sheng hwo tay jiin jang;Your life is too stressful
+你要身心保持輕鬆;nii yaw shen shin bao chyr ching song;You need to relax physically and mentally
+而且要少量多餐，不要暴食暴飲;erl chiee yaw shao lianq duo tsan, bwu yaw baw shyr baw yiin;Eat small amounts, but frequently. Do not eat too much too quickly
+請到藥房領藥;chiing daw yaw farng liing yaw;You can get it filled at the dispensary
+三餐飯後吃;san tsan fann how chy;Take once after each meal
+過幾天就會好了;guoh jii tian jiow huey hao .le;You will feel better in a few days

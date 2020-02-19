@@ -1,0 +1,159 @@
+Colors
+yan 顏
+seh 色
+--
+white
+bair 白
+seh 色
+--
+black
+hei 黑
+seh 色
+--
+red
+horng 紅
+seh 色
+--
+orange
+jyu 橘
+seh 色
+--
+yellow
+hwang 黃
+seh 色
+--
+green
+liuh 綠
+seh 色
+--
+blue
+lan 藍
+seh 色
+--
+purple
+tzyy 紫
+seh 色
+--
+gray
+huei 灰
+seh 色
+--
+pink
+feen 粉
+horng 紅
+seh 色
+--
+brown
+tzong 棕
+seh 色
+--
+What's your favorite color?
+nii 妳
+shii 喜
+huan 歡
+sher 什
+.me 麼
+yan 顏
+seh 色
+? ?
+--
+I like white and black
+woo 我
+shii 喜
+huan 歡
+bair 白
+seh 色
+her 和
+hei 黑
+seh 色
+--
+Not me.
+nii 妳
+gen 跟
+woo 我
+buh 不
+yi 一
+yanq 樣
+--
+I like fresh, bright colors
+woo 我
+shii 喜
+huan 歡
+shian 鮮
+yann 豔
+.de 的
+yan 顏
+seh 色
+--
+I like red, yellow, and green
+woo 我
+shii 喜
+huan 歡
+horng 紅
+seh 色
+, ，
+hwang 黃
+seh 色
+, ，
+liuh 綠
+seh 色
+. 。
+--
+What color is your company uniform?
+nii 妳
+gong 公
+sy 司
+.de 的
+jyh 制
+fwu 服
+shyh 是
+sher 什
+.me 麼
+yan 顏
+seh 色
+? ?
+--
+It's a very beautiful light blue and very fashionable
+heen 很
+piaw 漂
+lianq 亮
+.de 的
+chean 淺
+lan 藍
+seh 色
+erl 而
+chiee 且
+heen 很
+yeou 有
+shyr 時
+shanq 尚
+gaan 感
+. 。
+--
+It's a very beautiful dark blue and very fashionable
+heen 很
+piaw 漂
+lianq 亮
+.de 的
+shen 深
+lan 藍
+seh 色
+erl 而
+chiee 且
+heen 很
+yeou 有
+shyr 時
+shanq 尚
+gaan 感
+. 。
+--
+Everyone is very envious
+dah 大
+jia 家
+dou 都
+heen 很
+shiann 羨
+muh 幕
+woo 我
+.ne 呢
+--

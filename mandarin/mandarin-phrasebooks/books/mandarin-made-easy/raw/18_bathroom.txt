@@ -1,0 +1,158 @@
+bathroom
+yuh 浴
+shyh 室
+--
+mirror
+jinq 鏡
+.tzy 子
+--
+sink
+shii 洗
+lean 臉
+tair 台
+--
+faucet
+shoei 水
+long 龍
+tour 頭
+--
+toothbrush
+ya 牙
+shua 刷
+--
+toothpaste
+ya 牙
+gau 膏
+--
+soap
+shiang 香
+tzaw 皂
+--
+shampoo
+shii 洗
+faa 髮
+jing 精
+--
+towel rack
+mau 毛
+jin 巾
+jiah 架
+--
+towel
+mau 毛
+jin 巾
+--
+toilet
+maa 馬
+toong 桶
+--
+plunger
+maa 馬
+toong 桶
+shi 吸
+parn 盤
+--
+trash can
+leh 垃
+seh 圾
+toong 桶
+--
+toilet paper
+wey 衛
+sheng 生
+jyy 紙
+--
+hair dryer
+chuei 吹
+feng 風
+ji 機
+--
+bathtub
+yuh 浴
+gang 缸
+--
+shower
+lian 蓮
+perng 蓬
+tour 頭
+--
+I have run out of toothpaste
+ya 牙
+gau 膏
+kuay 快
+mei 沒
+.le 了
+--
+Remember to buy some tomorrow
+ming 明
+tian 天
+jih 記
+der 得
+mae 買
+hwei 回
+lai 來
+. 。
+--
+In passing, buy some toilet paper too
+wey 衛
+sheng 生
+jyy 紙
+yee 也
+shuenn 順
+biann 便
+mae 買
+hao 好
+.le 了
+--
+The shampoo you bought last time smells good.
+shanq 上
+yi 一
+tsyh 次
+mae 買
+.de 的
+shii 洗
+faa 髮
+jing 精
+heen 很
+shiang 香
+--
+And it makes my hair feel nice
+shii 洗
+chii 起
+lai 來
+heen 很
+shu 舒
+fwu 服
+. 。
+--
+Let's go shopping together tomorrow.
+woo 我
+.men 們
+ming 明
+tian 天
+yih 一
+chii 起
+chiuh 去
+mae 買
+hao 好
+.le 了
+--
+I want to buy some other stuff as well
+woo 我
+sheang 想
+tzay 再
+mae 買
+chyi 其
+ta 它
+.de 的
+sheng 生
+hwo 活
+yonq 用
+piin 品
+. 。
+--
+Sure!
+hao 好
+.a 啊
+! !
+--

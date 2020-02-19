@@ -1,0 +1,76 @@
+measure words
+liang4 量
+ci2 詞
+--
+one person
+yi4 一
+ge5 個
+ren2 人
+--
+two computers
+liang3 兩
+tai2 台
+dian4 電
+nao3 腦
+--
+three bottles of wine
+san1 三
+ping2 瓶
+jiu3 酒
+--
+four dogs
+si4 四
+tiao2 條
+gou3 狗
+--
+five cats
+wu3 五
+zhi1 隻
+mao1 貓
+--
+six pieces of paper
+liu4 六
+zhang1 張
+zhi3 紙
+--
+seven books
+qi1 七
+ben3 本
+shu1 書
+--
+eight floors
+ba1 八
+ceng2 層
+lou2 樓
+--
+number 9
+jiu3 九
+hao4 號
+--
+ten knives
+shi2 十
+ba3 把
+dao1 刀
+zi5 子
+--
+eleven pairs of chopsticks
+shi2 十
+yi1 一
+shuang1 雙
+kuai4 筷
+zi5 子
+--
+twelve cars
+shi2 十
+er4 二
+liang4 輛
+qi4 汽
+che1 車
+--
+thirteen classes
+shi2 十
+san1 三
+tang2 堂
+ke4 課
+--
+

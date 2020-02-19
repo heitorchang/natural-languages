@@ -1,0 +1,75 @@
+mouth
+koou 口
+--
+tooth
+ya 牙
+chyy 齒
+--
+tongue
+sher 舌
+.tou 頭
+--
+lip
+tzoei 嘴
+chwen 唇
+--
+eye
+yean 眼
+.jing 睛
+--
+eyebrow
+mei 眉
+.mau 毛
+--
+nose
+byi 鼻
+.tzy 子
+--
+ear
+eel 耳
+.duo 朵
+--
+hand
+shoou 手
+--
+foot
+jeau 腳
+--
+head
+tour 頭
+--
+hair (on the head)
+tour 頭
+.fa 髮
+--
+hair
+hann 汗
+mau 毛
+--
+body
+shen 身
+tii 體
+--
+shoulder
+jian 肩
+baang 膀
+--
+back
+bey 背
+--
+skin
+pyi 皮
+fu 膚
+--
+bone
+guu 骨
+.tou 頭
+--
+heart
+shin 心
+--
+blood
+shiee 血
+--
+stomach
+wey 胃

@@ -1,0 +1,33 @@
+機場;ji chaang;airport
+國際機場;gwo jih ji chaang;international airport
+國內機場;gwo ney ji chaang;domestic airport
+護照;huh jaw;passport
+機票;ji piaw;air ticket
+頭等艙;tour deeng tsang;first class
+商務艙;shang wuh tsang;business class
+經濟艙;jing jih tsang;economy class
+登機證;deng ji jenq;boarding pass
+登機門;deng ji men;boarding gate
+推車;tuei che;cart
+托運;tuo yunn;check-in
+行李;shyng lii;luggage
+靠窗;kaw chuang;by the window
+走道;tzoou daw;aisle
+緊急出口;jiin jyi chu koou;emergency exit
+免稅店;mean shuey diann;duty-free shop
+海關;hae guan;customs
+妳好，我要買一張到北京的經濟艙座位;nii hao, woo yaw mae yih jang daw beei jing .de jing jih tsang tzuoh wey;Hi, I would like to buy an economy seat to Beijing
+請給我靠走道的位子;chiing geei woo kaw tzoou daw .de wey .tzy;Please give me an aisle seat
+好的;hao .de;Okay
+從這邊到北京要多久?;tsorng jeh bian daw beei jing yaw duo jeou?;How long does it take from here to Beijing?
+一個半小時;ig bann sheau shyr;One and a half hours
+請把妳的護照和機票給我看。;chiing baa nii .de huh jaw her ji piaw geei woo kann;Please show me your passport and flight ticket.
+好的，沒問題。;hao .de, mei wenn tyi;OK, no problem
+請準備登機;chiing joen bey deng ji;Please get ready to board the plane.
+對不起，這是我的座位;duey buh chii, jeh shyh woo .de tzuoh wey;Excuse me, this is my seat
+小姐，請給我暈機藥和一杯開水。;sheau jiee, chiing geei woo iun ji yaw her yih bei kai shoei;Miss, please give me some airsickness pills and a glass of water.
+請再給我一杯咖啡;chiing tzay geei woo yih bei ka fei;Please give me one more cup of coffee
+我要買免稅商品;woo yaw mae mean shuey shang piin;I want to buy duty-free goods
+請給我看目錄;chiing geei woo kann muh luh;Please show me the catalogue
+好的，沒問題;hao .de, mei wenn tyi;OK, no problem
+請繫上安全帶;chiing shih shanq an chyuan day;Please fasten your seatbelt

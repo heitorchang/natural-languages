@@ -1,0 +1,325 @@
+How do you get to ~ ?
+nii 你
+tzeen 怎
+.me 麼
+chiuh 去
+~ ~
+.de 的
+? ﹖
+--
+How do you get here?
+nii 你
+tzeen 怎
+.me 麼
+guoh 過
+lai 來
+.de 的
+? ﹖
+--
+How do you get there?
+nii 你
+tzeen 怎
+.me 麼
+chiuh 去
+nah 那
+lii 裡
+.de 的
+? ﹖
+--
+I drive
+woo 我
+kai 開
+che 車
+--
+I ride a bike
+woo 我
+chyi 騎
+jeau 腳
+tah 踏
+che 車
+--
+I ride a motorcycle
+woo 我
+chyi 騎
+ji 機
+che 車
+--
+I walk to the market
+woo 我
+tzoou 走
+luh 路
+chiuh 去
+tsay 菜
+shyh 市
+chaang 場
+--
+I go to school on foot
+woo 我
+yonq 用
+tzoou 走
+.de 的
+daw 到
+shyue 學
+shiaw 校
+--
+I walk barefoot on the grass
+woo 我
+daa 打
+chyh 赤
+jeau 腳
+tzay 在
+tsao 草
+dih 地
+shanq 上
+tzoou 走
+--
+I go to school by car
+woo 我
+da 搭
+chih 汽
+che 車
+chiuh 去
+shyue 學
+shiaw 校
+--
+I go to the countryside by train
+woo 我
+da 搭
+huoo 火
+che 車
+chiuh 去
+shiang 鄉
+.shia 下
+--
+I went to the hospital by bus
+woo 我
+da 搭
+gong 公
+che 車
+chiuh 去
+i 醫
+yuann 院
+--
+I caught a cab to the party
+woo 我
+da 搭
+jih 計
+cherng 程
+che 車
+daw 到
+ji 機
+chaang 場
+--
+I will catch a train to the city center
+woo 我
+jiang 將
+da 搭
+huoo 火
+che 車
+daw 到
+shyh 市
+jong 中
+shin 心
+--
+I will take the MRT to the concert
+woo 我
+jiang 將
+da 搭
+jye 捷
+yunn 運
+daw 到
+yean 演
+chanq 唱
+huey 會
+huey 會
+chaang 場
+--
+Could you please take me to Central Park?
+kee 可
+yii 以
+sonq 送
+woo 我
+daw 到
+jong 中
+iang 央
+gong 公
+yuan 園
+.ma 嗎
+? ﹖
+--
+How far is the university?
+dah 大
+shyue 學
+hair 還
+yeou 有
+duo 多
+yeuan 遠
+.ne 呢
+? ﹖
+--
+How far is the airport from here?
+ji 機
+chaang 場
+li 離
+jeh 這
+lii 裡
+yeou 有
+duo 多
+yeuan 遠
+? ﹖
+--
+How far is it from here?
+ta 它
+li 離
+jeh 這
+lii 裡
+duo 多
+yeuan 遠
+? ﹖
+--
+How far is it?
+hair 還
+yeou 有
+duo 多
+yeuan 遠
+? ﹖
+--
+How long does it take?
+yaw 要
+hua 花
+duo 多
+shao 少
+shyr 時
+jian 間
+tsair 才
+huey 會
+daw 到
+.ne 呢
+? ﹖
+--
+Let me get off at the bus stop, please
+chiing 請
+ranq 讓
+woo 我
+tzay 在
+gong 公
+che 車
+jann 站
+pair 牌
+shiah 下
+che 車
+--
+Let me get off at the corner of the street, please
+chiing 請
+ranq 讓
+woo 我
+tzay 在
+jie 街
+jeau 角
+nah 那
+lii 裡
+shiah 下
+che 車
+--
+Pull over here, please
+chiing 請
+tyng 停
+tzay 在
+jeh 這
+lii 裡
+--
+Pull over there, please
+chiing 請
+tyng 停
+tzay 在
+nah 那
+lii 裡
+--
+How much is the fare?
+chiing 請
+wenn 問
+che 車
+tzy 資
+duo 多
+shao 少
+chyan 錢
+? ﹖
+--
+How much do I owe you?
+woo 我
+yaw 要
+fuh 付
+nii 你
+duo 多
+shao 少
+chyan 錢
+? ﹖
+--
+need a ride
+shiu 需
+yaw 要
+ren 人
+sonq 送
+i 一
+cherng 程
+--
+Do you need a ride?
+nii 你
+yaw 要
+da 搭
+shuenn 順
+feng 風
+che 車
+.ma 嗎
+? ﹖
+--
+Tony always walks Jenny home
+dong 東
+ni 尼
+tzoong 總
+shyh 是
+tzoou 走
+luh 路
+sonq 送
+jen 珍
+ni 妮
+hwei 回
+jia 家
+--
+Tony always escorts Jenny home
+dong 東
+ni 尼
+tzoong 總
+shyh 是
+huh 護
+sonq 送
+jen 珍
+ni 妮
+hwei 回
+jia 家
+--
+Jenny asks Tony to walk her home
+jen 珍
+ni 妮
+chiing 請
+dong 東
+ni 尼
+tzoou 走
+luh 路
+peir 培
+ta 她
+hwei 回
+jia 家
+--
+Jenny asks Tony to escort her home
+jen 珍
+ni 妮
+chiing 請
+dong 東
+ni 尼
+huh 護
+sonq 送
+ta 她
+hwei 回
+jia 家
+--

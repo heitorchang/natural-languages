@@ -1,0 +1,47 @@
+Are you available tonight?;jin tian woan shanq nii fang biann .ma?;今天晚上你方便嗎﹖
+Are you free next week?;shiah .ge shing chyi nii yeou konq .ma?;下個星期你有空嗎﹖
+Are you free for a meeting at 4 p.m.?;shiah wuu syh dean .de shyr how nii yeou konq kai .ge huey .ma?;下午四點的時候你有空開個會嗎﹖
+possibly;kee neng yeou konq;可能有空
+maybe;yee sheu;也許
+Are you free for the concert tonight?;jin tian woan shanq nii yeou konq chiuh kann yean chanq huey .ma?;今天晚上你有空去看演唱會嗎﹖
+Maybe. Let me check my appointment book;yee sheu kee yii, woo shian chiueh renn yi shiah shyr jian beau;也許可以，我先確認一下時間表
+of course;dang ran yeou konq;當然有空
+why not?;yeou konq .a;有空啊
+I'll see you at the hospital at 6 p.m.;woo banq woan liow dean chiuh i yuann jao nii;我傍晚六點去醫院找你
+I'll see you at the mall at 2 p.m.;shiah wuu leang dean gow wuh jong shin jiann;下午兩點購物中心見
+I'll see you at the coffee shop at 8 o'clock;tzao shanq ba dean ka fei ting jiann;早上八點咖啡廳見
+Are you free for study tonight?;jin tian woan shanq yeou mei yeou konq i chii niann shu?;今天晚上有沒有空一起唸書﹖
+Sure. Why not?;hao .a, tzeen .me huey mei konq?;好啊，怎麼會沒空﹖
+I'll see you at the library at 7 p.m.;nah woan shanq chi dean twu shu goan jiann;那晚上七點圖書館見
+I'll pick you up at 2 p.m.;woo huey tzay shiah wuu leang dean chiuh jie nii;我會在下午兩點去接你
+I'll pick you up from the airport at 11 p.m.;woo huey tzay woan shanq shyr i dean daw ji chaang jie nii;我會在晚上十一點到機場接你
+I'd like to take you out for dinner;woo sheang chiing nii chy i duenn fann;我想請你吃一頓飯
+I'd like to invite you to have lunch;woo sheang iau chiing nii chiuh chy wuu tsan;我想邀請你去吃午餐
+Shall we have breakfast?;woo .men i chii chy tzao tsan hao .ma?;我們一起吃早餐好嗎﹖
+Let's grab a bite!;woo .men i chii chiuh jao .ge jean dan .de dong shi lai chy .ba!;我們一起去找個簡單的東西來吃吧﹗
+Would you like to go out for a coffee?;nii sheang buh sheang chiuh he .ge ka fei .ne?;你想不想去喝個咖啡呢﹖
+Can I ask you for a nice coffee?;woo kee yii jao nii i chii chiuh he bei hao he .de ka fei .ma?;我可以找你一起去喝杯好喝的咖啡嗎﹖
+Let's have afternoon tea!;i chii chiuh he shiah wuu char .ba!;一起去喝下午茶吧﹗
+Let's hang out sometime;yeou konq i chii chiuh shiau mo shyr jian;有空一起去消磨時間
+Let's chill tonight;jin tian woan shanq i chii jao .ge dih fang fanq song;今天晚上一起找個地方放鬆
+Let's go outside;i chii chiuh way miann tzoou tzoou;一起去外面走走
+It's interesting;hao shianq bwu tsuoh;好像不錯
+I'd love to;woo sheang chiuh;我想去
+That sounds good;ting chii lai heen banq;聽起來很棒
+That sounds great;ting chii lai hao tzann;聽起來好讚
+It's going to be fun;yi dinq heen hao wan;一定很好玩
+I'm afraid I can't;woo koong pah buh shyng;我恐怕不行
+I'd love to but I really can't;woo hao sheang chiuh, kee shyh jen .de buh shyng;我好想去，可是真的不行
+I'd love to but I need to ~;woo hao sheang chiuh, dann shyh woo bih shiu ~;我好想去，但是我必須~
+I don't think I can;woo buh jyue .de daw shyr how neng chiuh;我不覺得到時候能去
+I can't make it;woo mei bann faa chiuh;我沒辦法去
+I'd like to take you out for a dinner;woo sheang day nii chiuh chy i duenn woan tsan;我想帶你去吃一頓晚餐
+I'd love to but I don't think I can;woo heen sheang chiuh, kee shyh woo sheang kee neng chiuh buh leau;我很想去，可是我想可能去不了
+Could we have dinner at 8 p.m. instead?;woo .men kee yii gae daw woan shanq ba dean chy woan tsan .ma?;我們可以改到晚上八點吃晚餐嗎﹖
+Could we go shopping tomorrow instead?;woo .men kee yii gae cherng ming tian tzay chiuh guanq jie .ma?;我們可以改成明天再去逛街嗎﹖
+How about 7 p.m.?;ru guoo shyh woan shanq chi dean .ne?;如果是晚上七點呢﹖
+What about this weekend?;ru guoo shyh jeh .ge jou moh .ne?;如果是這個週末呢﹖
+Would you like to go shopping?;shiang iue chiuh guanq jie;相約去逛街
+Shall we go shopping at Central Plaza?;woo .men yaw bwu yaw i chii chiuh jong iang goang chaang guanq jie?;我們要不要一起去中央廣場逛街﹖
+Are you free for some shopping?;nii yeou mei yeou konq i chii chiuh guanq .ge jie?;你有沒有空一起去逛個街﹖
+

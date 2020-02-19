@@ -1,0 +1,97 @@
+sky
+tian1 天
+--
+sun
+ri4 日
+--
+moon
+yue4 月
+--
+star
+xing1 星
+--
+dusk
+xi4 夕
+--
+light
+guang1 光
+--
+earth
+tu3 土
+--
+tree, wood
+mu4 木
+--
+water
+shui3 水
+--
+fire
+huo3 火
+--
+gold
+jin1 金
+--
+mountain
+shan1 山
+--
+ocean
+hai3 海
+--
+river
+chuan1 川
+--
+spring, small stream
+quan2 泉
+--
+creek
+xi1 溪
+--
+wind
+feng1 風
+--
+rain
+yu3 雨
+--
+rainbow
+cai3 彩
+hong2 虹
+--
+air, gas
+qi4 氣
+--
+snow
+xue3 雪
+--
+cloud
+yun2 雲
+--
+thunder
+lei2 雷
+--
+electricity
+dian4 電
+--
+stone
+shi2 石
+--
+field
+tian2 田
+--
+sand
+sha1 沙
+--
+mud
+ni2 泥
+--
+road
+lu4 路
+--
+island
+dao3 島
+--
+forest
+sen1 森
+lin2 林
+--
+smoke
+yan1 煙

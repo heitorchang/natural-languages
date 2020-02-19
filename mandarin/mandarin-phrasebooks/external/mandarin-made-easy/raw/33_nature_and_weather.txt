@@ -1,0 +1,233 @@
+nature and weather
+tzyh 自
+ran 然
+jieh 界
+yeu 與
+tian 天
+chih 氣
+--
+sun
+tay 太
+yang 陽
+--
+moon
+yueh 月
+lianq 亮
+--
+star
+shing 星
+shing 星
+--
+mountain
+shan 山
+--
+sea
+hae 海
+--
+season
+jih 季
+jye 節
+--
+spring
+chuen 春
+tian 天
+--
+sunny
+chyng 晴
+tian 天
+--
+Spring is here
+chuen 春
+tian 天
+daw 到
+.le 了
+--
+It's warm
+heen 很
+noan 暖
+.huo 和
+--
+Spring is warm with new blossoms
+chuen 春
+noan 暖
+hua 花
+kai 開
+--
+The spring flowers and cherry blossoms are opening up
+yng 迎
+chuen 春
+hua 花
+gen 跟
+ing 櫻
+hua 花
+dou 都
+shenq 盛
+kai 開
+.le 了
+--
+summer
+shiah 夏
+tian 天
+--
+humid
+chaur 潮
+shy 濕
+--
+muggy
+mhen 悶
+reh 熱
+--
+cloudy
+in 陰
+tian 天
+--
+raining
+shiah 下
+yeu 雨
+--
+typhoon
+tair 颱
+feng 風
+--
+thunderstorm
+baw 暴
+feng 風
+yeu 雨
+--
+thunder
+daa 打
+lei 雷
+--
+lightning
+shaan 閃
+diann 電
+--
+It's getting hot
+biann 變
+reh 熱
+.le 了
+--
+It is incredibly hot
+reh 熱
+syy 死
+.le 了
+--
+The temperature will reach 35 degrees.
+uen 溫
+duh 度
+yaw 要
+sheng 升
+daw 到
+san 三
+shyr 十
+wuu 五
+duh 度
+.le 了
+--
+I hope it rains
+woo 我
+shi 希
+wanq 望
+shiah 下
+yih 一
+chaang 場
+yeu 雨
+--
+It's going to rain soon
+kuay 快
+yaw 要
+shiah 下
+yeu 雨
+.le 了
+--
+A typhoon is coming soon
+tair 颱
+feng 風
+kuay 快
+yaw 要
+lai 來
+.le 了
+--
+Typhoons bring strong winds and heavy rain
+tair 颱
+feng 風
+day 帶
+lai 來
+chyang 強
+feng 風
+haur 豪
+yeu 雨
+--
+I wish that typhoons would never come
+shi 希
+wanq 望
+tair 颱
+feng 風
+bwu 不
+yaw 要
+lai 來
+. 。
+--
+autumn
+chiou 秋
+tian 天
+--
+maple leaf
+feng 楓
+yeh 葉
+--
+It's cool
+heen 很
+liang 涼
+kuay 快
+--
+The air in fall is refreshing
+chiou 秋
+gau 高
+chih 氣
+shoang 爽
+--
+winter
+dong 冬
+tian 天
+--
+snowing
+shiah 下
+sheue 雪
+--
+The weather is getting colder and colder
+tian 天
+chih 氣
+yueh 越
+lai 來
+yueh 越
+leeng 冷
+.le 了
+--
+a cold front is coming
+harn 寒
+liou 流
+yaw 要
+lai 來
+.le 了
+--
+it is freezing
+leeng 冷
+syy 死
+.le 了
+--
+It's snowing in Hehuan Mountain
+her 合
+huan 歡
+shan 山
+shiah 下
+sheue 雪
+.le 了
+--
+I am eager to see the snow
+hao 好
+sheang 想
+chiuh 去
+kann 看
+sheue 雪
+--

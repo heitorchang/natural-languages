@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+        <title>Mandarin Phrasebooks</title>
+        <style>
+         @font-face {
+             font-family: "SourceSansPro";
+             src: url('../css/SourceSansPro-Regular.ttf') format('truetype');
+             font-style: normal;
+         }
+         
+         body {
+             font-family: "SourceSansPro", sans-serif;
+         }
+         
+         .para {
+             margin-bottom: 1.5em;
+         }
+         
+         .char {
+             font-size: 1.4em;
+             margin: 0.2em;
+         }
+
+         .indenter {
+             width: 2.4em;
+         }
+
+         .english {
+             background-color: #DDF;
+             padding: 0.3em 0.6em;
+             margin-bottom: 0.2em;
+             font-size: 1.4em;
+         }
+
+         .mandarin {
+             padding: 0 0.7em;
+         }
+         
+         .gr {
+             background-color: #FFC;
+             padding: 0.1em 0.3em;
+             font-size: 1.2em;
+         }
+
+         .totalchar {
+             display: inline-block;
+             text-align: center;
+             margin-bottom: 1.7em;
+         }
+
+         [v-cloak] > * {
+             display: none;
+         }
+
+         [v-cloak]::before {
+             content: "Loading...";
+         }
+
+         a {
+             margin-right: 1.2em;
+             text-decoration: none;
+             font-weight: bold;
+             font-size: 1.2em;
+         }
+        </style>
+    </head>
+    <body>
+        <div id="gwoyeutext" v-cloak>
+            <a href="04_breakfast_shop_py.html">&lt; Previous</a>
+            <a href="index_py.html">Contents</a>
+            <a href="06_taste_py.html">Next &gt;</a>
+            
+            <h3>Typical Chinese cuisine
+</h3>
+            <div v-for="phrase in fmt" class="para">
+                <div class="english">
+                    {{ phrase[0] }}
+                </div>
+
+                <div class="mandarin">
+                    <div v-for="char in phrase[1]" class="totalchar">
+                        <div class="char">
+                            {{ char[1] }}
+                        </div>
+                        <div class="gr">
+                            {{ PinyinConverter.convert(char[0]) }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <a href="04_breakfast_shop_py.html">&lt; Previous</a>
+            <a href="index_py.html">Contents</a>
+            <a href="06_taste_py.html">Next &gt;</a>
+
+            <br><br><br><br><br><br>
+        </div>
+        
+        <script src="../js/vue2.min.js"></script>
+        <script>
+         const raw = [
+[`typical Chinese cuisine`, `
+pin3 品
+chang2 嚐
+zhong1 中
+guo2 國
+cai4 菜
+`],
+[`house special`, `
+zhao1 招
+pai2 牌
+fan4 飯
+`],
+[`stewed pork with rice`, `
+kong4 控
+rou4 肉
+fan4 飯
+`],
+[`shrimp rolls with rice`, `
+xia1 蝦
+juan3 捲
+fan4 飯
+`],
+[`pork chops with rice`, `
+pai2 排
+gu3 骨
+fan4 飯
+`],
+[`fried chicken leg with rice`, `
+ji1 雞
+tui3 腿
+fan4 飯
+`],
+[`cod with rice`, `
+xue3 鱈
+yu2 魚
+fan4 飯
+`],
+[`beef with rice`, `
+niu2 牛
+nan2 腩
+fan4 飯
+`],
+[`fried rice`, `
+chao3 炒
+fan4 飯
+`],
+[`beef noodle soup`, `
+niu2 牛
+rou4 肉
+mian4 麵
+`],
+[`fried noodles`, `
+chao3 炒
+mian4 麵
+`],
+[`congee`, `
+zhou1 粥
+`],
+[`rice porridge`, `
+xi1 稀
+fan4 飯
+`],
+[`soup`, `
+tang1 湯
+`],
+[`Have you eaten?`, `
+ni3 你
+chi1 吃
+fan4 飯
+le5 了
+mei2 沒
+? ?
+`],
+[`Not yet. I'm starving!`, `
+hai2 還
+mei2 沒
+. 。
+wo3 我
+kuai4 快
+e4 餓
+bian3 扁
+le5 了
+`],
+[`My treat today.`, `
+jin1 今
+tian1 天
+wo3 我
+qing3 請
+ke4 客
+`],
+[`What do you feel like eating?`, `
+ni3 你
+xiang3 想
+chi1 吃
+shen2 什
+me5 麼
+? ?
+`],
+[`I heard that their beef noodles are good.`, `
+ting1 聽
+shuo1 說
+zhe4 這
+yi4 一
+jia1 家
+niu2 牛
+rou4 肉
+mian4 麵
+hen3 很
+hao3 好
+chi1 吃
+. 。
+`],
+[`Let's give them a try`, `
+wo3 我
+men5 們
+qu4 去
+chang2 嚐
+chang5 嚐
+ba5 吧
+! !
+`],
+[`I want two beef noodles, sir`, `
+lao3 老
+ban3 闆
+, ，
+wo3 我
+yao4 要
+liang3 兩
+wan3 碗
+niu2 牛
+rou4 肉
+mian4 麵
+`],
+[`Both spicy?`, `
+liang3 兩
+wan3 碗
+dou1 都
+yao4 要
+jia1 加
+la4 辣
+ma5 嗎
+? ?
+`],
+[`One spicy, and the other not.`, `
+yi4 一
+wan3 碗
+jia1 加
+la4 辣
+, ，
+yi4 一
+wan3 碗
+bu2 不
+yao4 要
+jia1 加
+la4 辣
+. 。
+`],
+[`Do you want any side dishes?`, `
+ni3 你
+men5 們
+xu1 需
+yao4 要
+xiao3 小
+cai4 菜
+ma5 嗎
+? ?
+`],
+[`I want to have dried tofu, seaweed, braised egg, and vegetables`, `
+wo3 我
+yao4 要
+dou4 豆
+gan1 干
+, ，
+hai3 海
+dai4 帶
+, ，
+lu3 滷
+dan4 蛋
+he2 和
+tang4 燙
+qing1 青
+cai4 菜
+`],
+[`Check please.`, `
+lao3 老
+ban3 闆
+, ，
+wo3 我
+yao4 要
+mai3 買
+dan1 單
+`],
+[`That'll be two hundred and ten dollars`, `
+zong3 總
+gong4 共
+liang3 兩
+bai3 百
+yi4 一
+shi2 十
+yuan2 元
+`],
+[`Thanks for coming.`, `
+xie4 謝
+xie4 謝
+guang1 光
+lin2 臨
+`],
+[`What do you feel like eating?`, `
+ni3 你
+xiang3 想
+chi1 吃
+shen2 什
+me5 麼
+? ?
+`],
+[`feel like seeing`, `
+xiang3 想
+kan4 看
+`],
+[`feel like listening`, `
+xiang3 想
+ting1 聽
+`],
+[`feel like drinking`, `
+xiang3 想
+he1 喝
+`],
+[`Let's give it a try`, `
+wo3 我
+men5 們
+qu4 去
+chang2 嚐
+chang5 嚐
+ba5 吧
+`],
+[`Let's check it out`, `
+kan4 看
+kan5 看
+`],
+[`Let's have a listen`, `
+ting1 聽
+ting5 聽
+`],
+];
+
+         // PinyinConverter by David Chanin and Jen Liu @quizlet 2013
+
+         (function() {
+           var PinyinConverter;
+
+           PinyinConverter = {
+             pinyinRegex: /(shuang|chuang|zhuang|xiang|qiong|shuai|niang|guang|sheng|kuang|shang|jiong|huang|jiang|shuan|xiong|zhang|zheng|zhong|zhuai|zhuan|qiang|chang|liang|chuan|cheng|chong|chuai|hang|peng|chuo|piao|pian|chua|ping|yang|pang|chui|chun|chen|chan|chou|chao|chai|zhun|mang|meng|weng|shai|shei|miao|zhui|mian|yong|ming|wang|zhuo|zhua|shao|yuan|bing|zhen|fang|feng|zhan|zhou|zhao|zhei|zhai|rang|suan|reng|song|seng|dang|deng|dong|xuan|sang|rong|duan|cuan|cong|ceng|cang|diao|ruan|dian|ding|shou|xing|zuan|jiao|zong|zeng|zang|jian|tang|teng|tong|bian|biao|shan|tuan|huan|xian|huai|tiao|tian|hong|xiao|heng|ying|jing|shen|beng|kuan|kuai|nang|neng|nong|juan|kong|nuan|keng|kang|shua|niao|guan|nian|ting|shuo|guai|ning|quan|qiao|shui|gong|geng|gang|qian|bang|lang|leng|long|qing|ling|luan|shun|lian|liao|zhi|lia|liu|qin|lun|lin|luo|lan|lou|qiu|gai|gei|gao|gou|gan|gen|lao|lei|lai|que|gua|guo|nin|gui|niu|nie|gun|qie|qia|jun|kai|kei|kao|kou|kan|ken|qun|nun|nuo|xia|kua|kuo|nen|kui|nan|nou|kun|jue|nao|nei|hai|hei|hao|hou|han|hen|nai|rou|xiu|jin|hua|huo|tie|hui|tun|tui|hun|tuo|tan|jiu|zai|zei|zao|zou|zan|zen|eng|tou|tao|tei|tai|zuo|zui|xin|zun|jie|jia|run|diu|cai|cao|cou|can|cen|die|dia|xue|rui|cuo|cui|dun|cun|cin|ruo|rua|dui|sai|sao|sou|san|sen|duo|den|dan|dou|suo|sui|dao|sun|dei|zha|zhe|dai|xun|ang|ong|wai|fen|fan|fou|fei|zhu|wei|wan|min|miu|mie|wen|men|lie|chi|cha|che|man|mou|mao|mei|mai|yao|you|yan|chu|pin|pie|yin|pen|pan|pou|pao|shi|sha|she|pei|pai|yue|bin|bie|yun|nüe|lve|shu|ben|ban|bao|bei|bai|lüe|nve|ren|ran|rao|xie|re|ri|si|su|se|ru|sa|cu|ce|ca|ji|ci|zi|zu|ze|za|hu|he|ha|ju|ku|ke|qi|ka|gu|ge|ga|li|lu|le|qu|la|ni|xi|nu|ne|na|ti|tu|te|ta|xu|di|du|de|bo|lv|ba|ai|ei|ao|ou|an|en|er|da|wu|wa|wo|fu|fo|fa|nv|mi|mu|yi|ya|ye|me|mo|ma|pi|pu|po|yu|pa|bi|nü|bu|lü|e|o|a)r?[1-5]/gi,
+             vowels: {
+               'a*': '0',
+               'e*': '1',
+               'i*': '2',
+               'o*': '3',
+               'u*': '4',
+               'ü*': '5',
+               'A*': '6',
+               'E*': '7',
+               'I*': '8',
+               'O*': '9',
+               'U*': '10',
+               'Ü*': '11'
+             },
+             pinyin: {
+               1: ['ā', 'ē', 'ī', 'ō', 'ū', 'ǖ', 'Ā', 'Ē', 'Ī', 'Ō', 'Ū', 'Ǖ'],
+               2: ['á', 'é', 'í', 'ó', 'ú', 'ǘ', 'Á', 'É', 'Í', 'Ó', 'Ú', 'Ǘ'],
+               3: ['ǎ', 'ě', 'ǐ', 'ǒ', 'ǔ', 'ǚ', 'Ǎ', 'Ě', 'Ǐ', 'Ǒ', 'Ǔ', 'Ǚ'],
+               4: ['à', 'è', 'ì', 'ò', 'ù', 'ǜ', 'À', 'È', 'Ì', 'Ò', 'Ù', 'Ǜ'],
+               5: ['a', 'e', 'i', 'o', 'u', 'ü', 'A', 'E', 'I', 'O', 'U', 'Ü']
+             },
+             convert: function(string) {
+               var j, len, match, matches, replacement;
+               matches = string.match(this.pinyinRegex);
+               if (!matches) {
+                 return string;
+               }
+               for (j = 0, len = matches.length; j < len; j++) {
+                 match = matches[j];
+                 replacement = this.getReplacement(match);
+                 string = string.replace(match, replacement);
+               }
+               return string;
+             },
+             getReplacement: function(match) {
+               var accentMap, accentedVowelChar, base, replacedWord, tone, vowel, vowelChar, vowelNum, word;
+               accentMap = this.getAccentMap();
+               tone = match.slice(-1);
+               word = match.slice(0, -1).replace('v', 'ü').replace('V', 'Ü');
+               for (base in accentMap) {
+                 vowel = accentMap[base];
+                 if (word.indexOf(base) >= 0) {
+                   vowelChar = vowel.match(/.\*/)[0];
+                   vowelNum = this.vowels[vowelChar];
+                   accentedVowelChar = this.pinyin[tone.toString()][vowelNum];
+                   replacedWord = word.replace(base, vowel).replace(vowelChar, accentedVowelChar);
+                   return replacedWord;
+                 }
+               }
+               return match;
+             },
+             getAccentMap: function() {
+               var base, i, j, len, nostars, ref, stars, starsArray;
+               if (!this.accentMap) {
+                 stars = 'a*i a*o e*i ia* ia*o ie* io* iu* ' + 'A*I A*O E*I IA* IA*O IE* IO* IU* ' + 'o*u ua* ua*i ue* ui* uo* üe* ' + 'O*U UA* UA*I UE* UI* UO* ÜE* ' + 'A* E* I* O* U* Ü* ' + 'a* e* i* o* u* ü*';
+                 nostars = stars.replace(/\*/g, '');
+                 starsArray = stars.split(' ');
+                 this.accentMap = {};
+                 ref = nostars.split(' ');
+                 for (i = j = 0, len = ref.length; j < len; i = ++j) {
+                   base = ref[i];
+                   this.accentMap[base] = starsArray[i];
+                 }
+               }
+               return this.accentMap;
+             }
+           };
+
+           (function(root, factory) {
+             if (typeof define === 'function' && define.amd) {
+               return define(factory);
+             } else if (typeof exports === 'object') {
+               return module.exports = factory();
+             } else {
+               return root.PinyinConverter = factory();
+             }
+           })(this, function() {
+             return PinyinConverter;
+           });
+
+         }).call(this);
+
+         
+         function convertPara(para) {
+           let result = [];
+           for (word of para.trim().split("\n")) {
+             result.push(word.trim().split(" "));
+           }
+           return result;
+         }
+         
+         const app = new Vue({
+           el: "#gwoyeutext",
+           
+           data: {
+             raw: raw,
+           },
+
+           computed: {
+             fmt() {
+               let result = [];
+               for (phrase of this.raw) {
+                 let curphr = [];
+                 curphr.push(phrase[0]);
+                 curphr.push(convertPara(phrase[1]));
+                 result.push(curphr);
+               }             
+               return result;
+             }
+           },
+         });
+        </script>
+    </body>
+</html>
+

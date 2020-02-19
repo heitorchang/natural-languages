@@ -1,0 +1,34 @@
+家庭成員;jia tyng cherng yuan;Family members
+爺爺;ye .ie;grandfather
+奶奶;nae .nai;grandmother
+父親;fuh chin;father
+母親;muu chin;mother
+先生;shian sheng;husband
+丈夫;janq fu;husband
+太太;tay .tai;wife
+妻子;chi .tzy;wife
+哥哥;ge .ge;older brother
+姊姊;jiee .jie;older sister
+妹妹;mey .mei;younger sister
+弟弟;dih .di;younger brother
+兒子;erl .tzy;son
+女兒;neu erl;daughter
+兄弟;shiong dih;brothers
+姊妹;jiee mey;sisters
+叔叔;shwu .shu;uncle (father's side)
+舅舅;jiow .jiou;uncle (mother's side)
+堂兄弟;tarng shiong dih;cousin
+表兄弟;beau shiong dih;cousin
+姑姑;gu .gu;aunt (father's side)
+阿姨;a yi;aunt (mother's side)
+男人;nan ren;man
+女人;neu ren;woman
+男孩;nan hair;boy
+女孩;neu hair;girl
+小孩;sheau hair;child
+嬰兒;ing erl;baby
+你家有幾口人?;nii jia yeou jii koou ren ?;How many people are in your family?
+我家有四口人;woo jia yeou syh koou ren;There are four people in my family.
+父親，母親，妹妹，還有我。;fuh chin , muu chin , mey .mei , hair yeou woo .;My father, mother, sister, and me.
+我和家人住在一起。;woo her jia ren juh tzay yih chii .;I live with my family.
+我住在台北。;woo juh tzay tair beei .;I live in Taipei.

@@ -1,0 +1,188 @@
+Clothes
+fwu 服
+juang 裝
+--
+western-style clothes
+shi 西
+juang 裝
+--
+vest, tank top
+bey 背
+shin 心
+--
+tie
+liing 領
+day 帶
+--
+trousers
+kuh 褲
+.tzy 子
+--
+shirt, blouse
+chenn 襯
+shan 衫
+--
+T-shirt
+ti T
+shiuh 恤
+--
+suit
+taw 套
+juang 裝
+--
+sportswear
+yunn 運
+donq 動
+fwu 服
+--
+sweater
+mau 毛
+i 衣
+--
+pajamas
+shuey 睡
+i 衣
+--
+swimwear
+yeong 泳
+i 衣
+--
+underwear
+ney 內
+i 衣
+--
+bra
+shiong 胸
+jaw 罩
+--
+underpants
+ney 內
+kuh 褲
+--
+cap
+maw 帽
+.tzy 子
+--
+jacket
+way 外
+taw 套
+--
+scarf
+wei 圍
+jin 巾
+--
+gloves
+shoou 手
+taw 套
+--
+handkerchief
+shoou 手
+pah 帕
+--
+stockings
+sy 絲
+wah 襪
+--
+socks
+wah 襪
+.tzy 子
+--
+skirt
+chyun 裙
+.tzy 子
+--
+jeans
+niou 牛
+tzae 仔
+kuh 褲
+--
+what are you going to wear tomorrow?
+ming 明
+tian 天
+nii 你
+yaw 要
+chuan 穿
+sher 什
+.me 麼
+i 衣
+fwu 服
+? ?
+--
+I wear a suit and tie to work every day
+woo 我
+meei 每
+tian 天
+shanq 上
+ban 班
+dou 都
+chuan 穿
+shi 西
+juang 裝
+daa 打
+liing 領
+day 帶
+. 。
+--
+Tomorrow is a holiday, so I'm going to wear casual clothes
+ming 明
+tian 天
+jiah 假
+ryh 日
+woo 我
+yaw 要
+chuan 穿
+shiou 休
+shyan 閒
+fwu 服
+. 。
+--
+A T-shirt goes with jeans
+ti T
+shiuh 恤
+pey 配
+niou 牛
+tzae 仔
+kuh 褲
+--
+Summer is coming, I'm going to buy a swimsuit
+shiah 夏
+tian 天
+kuay 快
+daw 到
+.le 了
+, ，
+woo 我
+yaw 要
+chiuh 去
+mae 買
+yi 一
+taw 套
+yeong 泳
+i 衣
+. 。
+--
+I'll go with you, I want to buy a skirt
+woo 我
+yee 也
+yaw 要
+chiuh 去
+, ，
+woo 我
+yaw 要
+mae 買
+yi 一
+jiann 件
+chyun 裙
+.tzy 子
+--
+That's great! Let's go together
+hao 好
+.a 啊
+, ，
+woo 我
+men 們
+yih 一
+chii 起
+chiuh 去
+. 。
+--

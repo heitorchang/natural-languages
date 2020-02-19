@@ -1,0 +1,240 @@
+airport
+ji 機
+chaang 場
+--
+international airport
+gwo 國
+jih 際
+ji 機
+chaang 場
+--
+domestic airport
+gwo 國
+ney 內
+ji 機
+chaang 場
+--
+passport
+huh 護
+jaw 照
+--
+air ticket
+ji 機
+piaw 票
+--
+first class
+tour 頭
+deeng 等
+tsang 艙
+--
+business class
+shang 商
+wuh 務
+tsang 艙
+--
+economy class
+jing 經
+jih 濟
+tsang 艙
+--
+boarding pass
+deng 登
+ji 機
+jenq 證
+--
+boarding gate
+deng 登
+ji 機
+men 門
+--
+cart
+tuei 推
+che 車
+--
+check-in
+tuo 托
+yunn 運
+--
+luggage
+shyng 行
+lii 李
+--
+by the window
+kaw 靠
+chuang 窗
+--
+aisle
+tzoou 走
+daw 道
+--
+emergency exit
+jiin 緊
+jyi 急
+chu 出
+koou 口
+--
+duty-free shop
+mean 免
+shuey 稅
+diann 店
+--
+customs
+hae 海
+guan 關
+--
+Hi, I would like to buy an economy seat to Beijing
+nii 妳
+hao 好
+, ，
+woo 我
+yaw 要
+mae 買
+yih 一
+jang 張
+daw 到
+beei 北
+jing 京
+.de 的
+jing 經
+jih 濟
+tsang 艙
+tzuoh 座
+wey 位
+--
+Please give me an aisle seat
+chiing 請
+geei 給
+woo 我
+kaw 靠
+tzoou 走
+daw 道
+.de 的
+wey 位
+.tzy 子
+--
+Okay
+hao 好
+.de 的
+--
+How long does it take from here to Beijing?
+tsorng 從
+jeh 這
+bian 邊
+daw 到
+beei 北
+jing 京
+yaw 要
+duo 多
+jeou 久
+? ?
+--
+One and a half hours
+yih 一
+.ge 個
+bann 半
+sheau 小
+shyr 時
+--
+Please show me your passport and flight ticket.
+chiing 請
+baa 把
+nii 妳
+.de 的
+huh 護
+jaw 照
+her 和
+ji 機
+piaw 票
+geei 給
+woo 我
+kann 看
+. 。
+--
+OK, no problem
+hao 好
+.de 的
+, ，
+mei 沒
+wenn 問
+tyi 題
+. 。
+--
+Please get ready to board the plane.
+chiing 請
+joen 準
+bey 備
+deng 登
+ji 機
+--
+Excuse me, this is my seat
+duey 對
+buh 不
+chii 起
+, ，
+jeh 這
+shyh 是
+woo 我
+.de 的
+tzuoh 座
+wey 位
+--
+Miss, please give me some airsickness pills and a glass of water.
+sheau 小
+jiee 姐
+, ，
+chiing 請
+geei 給
+woo 我
+iun 暈
+ji 機
+yaw 藥
+her 和
+yih 一
+bei 杯
+kai 開
+shoei 水
+. 。
+--
+Please give me one more cup of coffee
+chiing 請
+tzay 再
+geei 給
+woo 我
+yih 一
+bei 杯
+ka 咖
+fei 啡
+--
+I want to buy duty-free goods
+woo 我
+yaw 要
+mae 買
+mean 免
+shuey 稅
+shang 商
+piin 品
+--
+Please show me the catalogue
+chiing 請
+geei 給
+woo 我
+kann 看
+muh 目
+luh 錄
+--
+OK, no problem
+hao 好
+.de 的
+, ，
+mei 沒
+wenn 問
+tyi 題
+--
+Please fasten your seatbelt
+chiing 請
+shih 繫
+shanq 上
+an 安
+chyuan 全
+day 帶
+--

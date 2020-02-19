@@ -1,0 +1,38 @@
+I'd like to speak to Tony, please;chiing jao dong ni, shieh .shie;請找東尼，謝謝
+Speaking;jenq tzay shuo huah;正在說話
+I'm speaking;woo jiow shyh;我就是
+It's me, Tony;woo shyh dong ni;我是東尼
+Who's calling, please?;chiing wenn naa wey daa lai?;請問哪位打來﹖
+May I know who's on the line?;buh hao yih .sy chiing wenn shyh naa yi wey daa lai?;不好意思請問是哪一位打來﹖
+May I speak to Tony, please?;woo sheang jao dong ni, shieh .shie;我想找東尼，謝謝
+Who's calling, please?;chiing wenn naa wey?;請問哪位﹖
+Hold on a second, please;chiing deeng yi shiah;請等一下
+He's not in at the moment;ta shiann tzay bwu tzay;他現在不在
+Tony is not available right now;dong ni shiann tzay buh fang biann jie diann huah;東尼現在不方便接電話
+He is not available right now;ta shiann tzay mei yeou konq jie diann huah;他現在沒有空接電話
+Tony is in a meeting right now;shiann tzay dong ni jenq tzay kai huey jong;現在東尼正在開會中
+He is in a meeting;ta jenq tzay kai huey;他正在開會
+Tony is on another call at the moment;dong ni shiann tzay jenq tzay jeang diann huah jong;東尼現在正在講電話中
+He's on another call;ta jenq tzay jeang diann huah jong;他正在講電話中
+Tony is away from his desk;dong ni shiann tzay bwu tzay wey .jy shanq;東尼現在不在位置上
+May I leave a message?;woo kee yii liou huah .ma?;我可以留話嗎﹖
+Sure;kee yii;可以
+Why not?;yeou her buh kee?;有何不可﹖
+Go ahead!;lai .ba!;來吧﹗
+I'd like to speak to Tony, please;woo jao dong ni, shieh .shie;我找東尼，謝謝
+He's away from his desk;ta gang hao bwu tzay wey .jy shanq;他剛好不在位置上
+Can I leave a message?;nah woo kee yii liou huah .ma?;那我可以留話嗎﹖
+Yes, go ahead!;hao, chiing shuo .ba!;好，請說吧﹗
+Can I take a message?;woo neng liou .ge tzyh tyau .ma?;我能留個字條嗎﹖
+Please tell him to call me back;chiing joan gaw ta hwei diann huah geei woo;請轉告他回電話給我
+Would you please tell her to call me back?;ma .fan nii chiing ta hwei diann huah geei woo hao .ma?;麻煩你請她回電話給我好嗎﹖
+Would you please tell Jenny to call me back?;ma .fan nii gen jen ni shuo hwei diann huah geei woo hao .ma?;麻煩你跟珍妮說回電話給我好嗎﹖
+Please tell him to call me back as soon as possible;ma .fan nii joan gaw ta jiin kuay hwei diann huah geei woo;麻煩你轉告他盡快回電話給我
+Would you please tell her to call me back immediately?;ma .fan nii chiing ta lih keh hwei diann huah geei woo hao .ma?;麻煩你請她立刻回電話給我好嗎﹖
+Would you please tell him that I've called?;ma .fan nii joan gaw ta shuo woo yeou daa lai hao .ma?;麻煩你轉告他說我有打來好嗎﹖
+Please tell her that I've called;chiing joan gaw ta shuo woo yeou daa lai;請轉告她說我有打來
+May I have your name, please?;chiing jiau nii .de dah ming?;請教你的大名﹖
+May I ask who's calling, please?;chiing wenn naa yi wey daa lai .de .ne?;請問哪一位打來的呢﹖
+Who's calling, please?;chiing wenn nii shyh sheir?;請問你是誰﹖
+May I have your telephone number, please?;woo kee yii yaw nii .de diann huah haw maa .ma?;我可以要你的電話號碼嗎﹖
+Please let me know your telephone number;chiing gaw .su woo nii .de diann huah haw maa;請告訴我你的電話號碼

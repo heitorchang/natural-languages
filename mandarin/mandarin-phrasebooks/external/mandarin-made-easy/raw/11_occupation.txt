@@ -1,0 +1,231 @@
+occupation
+jyr 職
+yeh 業
+--
+teacher
+lao 老
+shy 師
+--
+beautician
+meei 美
+rong 容
+shy 師
+--
+engineer
+gong 工
+cherng 程
+shy 師
+--
+baker
+hong 烘
+peir 焙
+shy 師
+--
+painter
+huah 畫
+jia 家
+--
+doctor
+i 醫
+sheng 生
+--
+pharmacist
+yaw 藥
+jih 劑
+shy 師
+--
+nurse
+huh 護
+shyh 士
+--
+chef
+chwu 廚
+shy 師
+--
+photographer
+sheh 攝
+yiing 影
+shy 師
+--
+actor
+yean 演
+yuan 員
+--
+singer
+ge 歌
+shoou 手
+--
+newscaster
+shin 新
+wen 聞
+bo 播
+baw 報
+yuan 員
+--
+taxi driver
+ji 計
+cherng 程
+che 車
+sy 司
+ji 機
+--
+dancer
+wuu 舞
+daw 蹈
+jee 者
+--
+waiter
+nan 男
+fwu 服
+wuh 務
+sheng 生
+--
+waitress
+neu 女
+fwu 服
+wuh 務
+sheng 生
+--
+veterinarian
+show 獸
+i 醫
+--
+housewife
+jia 家
+tyng 庭
+juu 主
+fuh 婦
+--
+police officer
+jiing 警
+char 察
+--
+student
+shyue 學
+sheng 生
+--
+public official
+gong 公
+wuh 務
+yuan 員
+--
+plumber/electrician
+shoei 水
+diann 電
+gong 工
+--
+cleaner
+ching 清
+jye 潔
+ren 人
+yuan 員
+--
+carpenter
+muh 木
+gong 工
+--
+worker
+gong 工
+ren 人
+--
+writer
+tzuoh 作
+jia 家
+--
+cashier
+diann 店
+yuan 員
+--
+farmer
+nong 農
+fu 夫
+--
+fisherman
+yu 漁
+fu 夫
+--
+politician
+jenq 政
+jyh 治
+jia 家
+--
+lawyer
+liuh 律
+shy 師
+--
+secretary
+mih 秘
+shu 書
+--
+homeless person
+wu 無
+yeh 業
+you 遊
+min 民
+--
+street vendor
+luh 路
+bian 邊
+tan 攤
+fann 販
+--
+Where do you work?
+nii 你
+tzay 在
+naa 哪
+gau 高
+jiow 就
+? ?
+--
+I am a junior high school teacher.
+woo 我
+shyh 是
+gwo 國
+jong 中
+lao 老
+shy 師
+--
+I teach English
+woo 我
+jiau 教
+.de 的
+shyh 是
+ing 英
+wen 文
+. 。
+--
+You look like a policeman
+nii 你
+kann 看
+chii 起
+lai 來
+hao 好
+shianq 像
+jiing 警
+char 察
+.o 喔
+--
+No!
+bwu 不
+shyh 是
+.la 啦
+! !
+--
+What is your occupation?
+nah 那
+nii 你
+.de 的
+jyr 職
+yeh 業
+shyh 是
+shern 什
+.me 麼
+? ?
+--
+I am a reporter
+woo 我
+shyh 是
+jih 記
+jee 者
+. 。
+--

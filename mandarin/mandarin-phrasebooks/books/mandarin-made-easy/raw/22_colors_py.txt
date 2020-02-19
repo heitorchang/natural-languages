@@ -1,0 +1,160 @@
+Colors
+yan2 顏
+se4 色
+--
+white
+bai2 白
+se4 色
+--
+black
+hei1 黑
+se4 色
+--
+red
+hong2 紅
+se4 色
+--
+orange
+ju2 橘
+se4 色
+--
+yellow
+huang2 黃
+se4 色
+--
+green
+lü4 綠
+se4 色
+--
+blue
+lan2 藍
+se4 色
+--
+purple
+zi3 紫
+se4 色
+--
+gray
+hui1 灰
+se4 色
+--
+pink
+fen3 粉
+hong2 紅
+se4 色
+--
+brown
+zong1 棕
+se4 色
+--
+What's your favorite color?
+ni3 妳
+xi3 喜
+huan1 歡
+she2 什
+me5 麼
+yan2 顏
+se4 色
+? ?
+--
+I like white and black
+wo3 我
+xi3 喜
+huan1 歡
+bai2 白
+se4 色
+he2 和
+hei1 黑
+se4 色
+--
+Not me.
+ni3 妳
+gen1 跟
+wo3 我
+bu4 不
+yi2 一
+yang4 樣
+--
+I like fresh, bright colors
+wo3 我
+xi3 喜
+huan1 歡
+xian1 鮮
+yan4 豔
+de5 的
+yan2 顏
+se4 色
+--
+I like red, yellow, and green
+wo3 我
+xi3 喜
+huan1 歡
+hong2 紅
+se4 色
+, ，
+huang2 黃
+se4 色
+, ，
+lü4 綠
+se4 色
+. 。
+--
+What color is your company uniform?
+ni3 妳
+gong1 公
+si1 司
+de5 的
+zhi4 制
+fu2 服
+shi4 是
+she2 什
+me5 麼
+yan2 顏
+se4 色
+? ?
+--
+It's a very beautiful light blue and very fashionable
+hen3 很
+piao4 漂
+liang4 亮
+de5 的
+qian3 淺
+lan2 藍
+se4 色
+er2 而
+qie3 且
+hen3 很
+you3 有
+shi2 時
+shang4 尚
+gan3 感
+. 。
+--
+It's a very beautiful dark blue and very fashionable
+hen3 很
+piao4 漂
+liang4 亮
+de5 的
+shen1 深
+lan2 藍
+se4 色
+er2 而
+qie3 且
+hen3 很
+you3 有
+shi2 時
+shang4 尚
+gan3 感
+. 。
+--
+Everyone is very envious
+da4 大
+jia1 家
+dou1 都
+hen3 很
+xian4 羨
+mu4 幕
+wo3 我
+ne5 呢
+--
+

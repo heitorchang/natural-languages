@@ -1,0 +1,23 @@
+black
+hei1 黑
+--
+white
+bai2 白
+--
+orange
+cheng2 橙
+--
+red
+hong2 紅
+--
+yellow
+huang2 黃
+--
+blue
+lan2 藍
+--
+green
+lü4 綠
+--
+violet
+zi3 紫
