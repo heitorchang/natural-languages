@@ -1,0 +1,104 @@
+Words 5901 to 6000
+===
+Words 5901 to 6000. Write in GR.
+===
+N: flower garden [TOP-B]*hua yuan
+CONJ: or, either … or … [TOP-B]*huoh
+CONJ: or, perhaps [TOP-B]*huoh shyh
+A: soon, in no time [TOP-B]*jiow yaw
+N: boiling or just boiled water [TOP-B]*kai shoei
+VO: to start school, to begin a term (k…) [TOP-B]*kai shyue
+N: trousers, pants [TOP-B]*kuh .tzy
+N: interior, inside (also ～兒) [TOP-B]*lii bian
+N: tour, tourism [TOP-B]*leu you
+A: slowly, gradually [TOP-B]*mann mann .de
+N: wood; (～頭) log, timber [TOP-B]*muh
+V: to climb, to crawl [TOP-B]*par
+N: pencil [TOP-B]*chian bii
+N: all, whole [TOP-B]*chyuan buh
+N: food, edibles [TOP-B]*shyr wuh
+N: clock [TOP-B]*shyr jong
+A: everyday, daily [TOP-B]*tian tian
+N: dinner, supper (…c…) [TOP-B]*woan tsan
+N: envelope [TOP-B]*shinn feng
+AT: many, much, a lot of [TOP-B]*sheu duo
+N: overcast sky, cloudy day [TOP-B]*in tian
+A: sometimes, now and then [TOP-B]*yeou shyr how
+N: swimming pool [TOP-B]*you yeong chyr
+N: rainy day [TOP-B]*yeu tian
+N: breakfast (…c…) [TOP-B]*tzao tsan
+A: to be in the process or course of … [TOP-B]*jenq tzay
+VO: to cook a dish (…c…) [TOP-B]*tzuoh tsay
+RC: to finish doing something [TOP-B]*tzuoh wan
+N: picture, drawing, chart, map [TOP-L]*twu
+A, PRON: such, so, in that case; that kind of, like that (z…) [TOP-B]*jeh yanq
+N: lunch (…c…) [TOP-B]*wuu tsan
+A, N: loud voice [TOP-B]*dah sheng
+N: hat, cap, headgear (also ～子) [TOP-B]*maw
+M: traditional unit of weight equal to 0.6 kg (in Taiwan, different in other countries) [TOP-B]*jin
+N: traffic light [TOP-B]*horng liuh deng
+SV: old, aged, venerable [TOP-B]*lao
+V: to stand up, to get up, to lift, to rise [TOP-B]*chii
+VO: to celebrate or spend the Chinese New Year [TOP-B]*guoh nian
+N: there (…l…) [TOP-B]*nah lii
+N: electricity [TOP-B]*diann
+N: hotel, restaurant [TOP-B]*fann diann
+N: horse [TOP-B]*maa
+P: particle indicating surprise or dissatisfaction [TOP-L]*ai
+N: bus [TOP-L]*ba shyh
+N: (round, flat) cake [TOP-L]*biing
+A: don't want, don't … [TOP-L]*bwu yaw
+SV: never mind, to be unimportant [TOP-L]*bwu yaw jiin
+SV: a lot of; not few, many [TOP-L]*buh shao
+SV: to be not permitted [TOP-L]*buh shyng
+A: all along, at all times, always [TOP-L]*tsorng lai
+N: error, blunder [TOP-L]*tsuoh wuh
+A: nearly (also ～兒) [TOP-L]*chah yih dean
+V: to set out, to start off, to start or proceed from [TOP-L]*chu fa
+V: to go abroad from one's own country [TOP-L]*chu gwo
+V: to appear, to arise, to emerge [TOP-L]*chu shiann
+A: very, quite, awfully (d…) [TOP-L]*.de heen
+IE: if (at the end of sentence) [TOP-L]*.de huah
+N: area, district, region [TOP-L]*dih chiu
+N: tram, tramcar, streetcar, trolleybus, trolley [TOP-L]*diann che
+N: direction, orientation [TOP-L]*fang shianq
+V: to visit, to call on, to interview [TOP-L]*faang wenn
+N: cost, expenses [TOP-L]*fey yonq
+N: individual person [TOP-L]*geh ren
+N: everyone [TOP-L]*geh wey
+M: gram [TOP-L]*gong keh
+A: for a long time [TOP-L]*hao jeou
+PRON: quite a lot, a lot of [TOP-L]*hao shie
+V: to return to one's own country [TOP-L]*hwei gwo
+V: to return home [TOP-L]*hwei jia
+N: meeting, conference [TOP-L]*huey yih
+N: hen's egg [TOP-L]*ji dann
+A: extremely, very (j…) [TOP-L]*jyi .le
+V: to speak, to talk, to address [TOP-L]*jeang huah
+N: soy sauce [TOP-L]*jianq you
+V: to be called, to be known as [TOP-L]*jiaw tzuoh
+N: sisters (also written with 姊) [TOP-L]*jiee mey
+A: often, frequently, regularly, constantly [TOP-L]*jing charng
+N: truck, lorry [TOP-L]*kaa che
+VO: to feel happy, to rejoice [TOP-L]*kai shin
+VO: to see a doctor, to see a patient [TOP-L]*kann binq
+A: soon, in no time, on te verge of [TOP-L]*kuay yaw
+N: old man or woman [TOP-L]*lao ren
+N: air conditioner [TOP-L]*leeng chih ji
+N: Sunday (l…r…) [TOP-L]*lii bay ryh
+VO: I'm quite sure, you can rest assured [TOP-L]*mei tsuoh
+VO: it doesn't matter, never mind [TOP-L]*mei shern .me
+VO: it doesn't matter, it's nothing, never mind (also ～兒) [TOP-L]*mei shyh
+VO: to be uninteresting, to be boring, to be dull [TOP-L]*mei yih .sy
+SV, VO: to be useless [TOP-L]*mei yonq
+N: cooked rice [TOP-L]*mii fann
+N: noodles [TOP-L]*miann tyau
+N: postcard [TOP-L]*ming shinn piann
+PRON: which (plural) [TOP-L]*naa shie
+N: that side, there [TOP-L]*nah bian
+PRON: there, those [TOP-L]*nah shie
+A, PRON: such, so, in that case; that kind of, like that (n…) [TOP-L]*nah yanq
+N: breasts, milk [TOP-L]*nae
+N: milk tea [TOP-L]*nae char
+A: can, to be able to, to be capable of [TOP-L]*neng gow
+N: you (feminine) [TOP-L]*nii

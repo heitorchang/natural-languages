@@ -1,0 +1,189 @@
+ask for directions
+wen4 問
+lu4 路
+--
+left
+zuo3 左
+bian1 邊
+--
+right
+you4 右
+bian1 邊
+--
+turn left
+zuo3 左
+zhuan3 轉
+--
+turn right
+you4 右
+zhuan3 轉
+--
+go straight
+zhi2 直
+zou3 走
+--
+ahead
+qian2 前
+mian4 面
+--
+behind
+hou4 後
+mian4 面
+--
+inside
+li3 裡
+mian4 面
+--
+across from
+dui4 對
+mian4 面
+--
+bus stop
+gong1 公
+che1 車
+zhan4 站
+--
+MRT station
+jie2 捷
+yun4 運
+zhan4 站
+--
+airport
+ji1 機
+chang3 場
+--
+intersection
+shi2 十
+zi4 字
+lu4 路
+kou3 口
+--
+major road
+da4 大
+ma3 馬
+lu4 路
+--
+sidewalk
+ren2 人
+xing2 行
+dao4 道
+--
+pedestrian crossing
+ban1 斑
+ma3 馬
+xian4 線
+--
+road sign
+lu4 路
+biao1 標
+--
+Is there a supermarket nearby?
+zhe4 這
+fu4 附
+jin4 近
+you3 有
+chao1 超
+ji2 級
+shi4 市
+chang3 場
+ma5 嗎
+? ?
+--
+Yes, go past the traffic light, turn left, and there it is.
+you3 有
+, ，
+guo4 過
+hong2 紅
+lü4 綠
+deng1 燈
+hou4 後
+wang3 往
+zuo3 左
+zhuan3 轉
+zou3 走
+jiu4 就
+dao4 到
+le5 了
+--
+Is it far from here?
+li2 離
+zhe4 這
+r 兒
+hen3 很
+yuan3 遠
+ma5 嗎
+? ?
+--
+No, it takes only 5 minutes on foot.
+bu4 不
+yuan3 遠
+, ，
+zou3 走
+lu4 路
+wu3 五
+fen1 分
+zhong1 鐘
+jiu4 就
+dao4 到
+le5 了
+--
+Which bus should I take to the National Palace Museum?
+qu4 去
+gu4 故
+gong1 宮
+bo2 博
+wu4 物
+yuan4 院
+yao4 要
+da1 搭
+ji3 幾
+lu4 路
+gong1 公
+che1 車
+? ?
+--
+Please take Bus 304
+qing3 請
+da1 搭
+san1 三
+ling2 零
+si4 四
+lu4 路
+gong1 公
+che1 車
+--
+Driver, please let me know when we get there
+si1 司
+ji1 機
+xian1 先
+sheng1 生
+, ，
+dao4 到
+le5 了
+qing3 請
+gao4 告
+su4 訴
+wo3 我
+. 。
+--
+All right
+hao3 好
+de5 的
+--
+This is the National Palace Museum, you should get off here.
+gu4 故
+gong1 宮
+bo2 博
+wu4 物
+yuan4 院
+dao4 到
+le5 了
+, ，
+ni3 你
+gai1 該
+xia4 下
+che1 車
+le5 了
+. 。
+--
+

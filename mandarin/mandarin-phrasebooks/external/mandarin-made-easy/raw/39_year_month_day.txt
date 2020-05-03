@@ -1,0 +1,79 @@
+Year, month, day
+nian 年
+, ，
+yueh 月
+, ，
+ryh 日
+--
+morning
+tzao 早
+shanq 上
+--
+daytime
+bair 白
+tian 天
+--
+night
+woan 晚
+shanq 上
+--
+morning
+shanq 上
+wuu 午
+--
+afternoon
+shiah 下
+wuu 午
+--
+early in the morning
+ling 凌
+chern 晨
+--
+evening
+bang 傍
+woan 晚
+--
+every day
+meei 每
+tian 天
+--
+the day before yesterday
+chyan 前
+tian 天
+--
+yesterday
+tzwo 昨
+tian 天
+--
+today
+jin 今
+tian 天
+--
+tomorrow
+ming 明
+tian 天
+--
+the day after tomorrow
+how 後
+tian 天
+--
+every week
+meei 每
+jou 週
+--
+weekend
+jou 週
+moh 末
+--
+last year
+chiuh 去
+nian 年
+--
+this year
+jin 今
+nian 年
+--
+next year
+ming 明
+nian 年
+--

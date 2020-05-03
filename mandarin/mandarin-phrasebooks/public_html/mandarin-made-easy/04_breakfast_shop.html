@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+        <title>Mandarin Phrasebooks</title>
+        <style>
+         @font-face {
+             font-family: "SourceSansPro";
+             src: url('../css/SourceSansPro-Regular.ttf') format('truetype');
+             font-style: normal;
+         }
+         
+         body {
+             font-family: "SourceSansPro", sans-serif;
+         }
+         
+         .para {
+             margin-bottom: 1.5em;
+         }
+         
+         .char {
+             font-size: 1.4em;
+             margin: 0.2em;
+         }
+
+         .indenter {
+             width: 2.4em;
+         }
+
+         .english {
+             background-color: #DDF;
+             padding: 0.3em 0.6em;
+             margin-bottom: 0.2em;
+             font-size: 1.4em;
+         }
+
+         .mandarin {
+             padding: 0 0.7em;
+         }
+         
+         .gr {
+             background-color: #FFC;
+             padding: 0.1em 0.3em;
+             font-size: 1.2em;
+         }
+
+         .totalchar {
+             display: inline-block;
+             text-align: center;
+             margin-bottom: 1.7em;
+         }
+
+         [v-cloak] > * {
+             display: none;
+         }
+
+         [v-cloak]::before {
+             content: "Loading...";
+         }
+
+         a {
+             margin-right: 1.2em;
+             text-decoration: none;
+             font-weight: bold;
+             font-size: 1.2em;
+         }
+        </style>
+    </head>
+    <body>
+        <div id="gwoyeutext" v-cloak>
+            <a href="03_family_members.html">&lt; Previous</a>
+            <a href="index.html">Contents</a>
+            <a href="05_typical_chinese_cuisine.html">Next &gt;</a>
+            
+            <h3>Breakfast shop
+</h3>
+            <div v-for="phrase in fmt" class="para">
+                <div class="english">
+                    {{ phrase[0] }}
+                </div>
+
+                <div class="mandarin">
+                    <div v-for="char in phrase[1]" class="totalchar">
+                        <div class="char">
+                            {{ char[1] }}
+                        </div>
+                        <div class="gr">
+                            {{ PinyinConverter.convert(char[0]) }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <a href="03_family_members.html">&lt; Previous</a>
+            <a href="index.html">Contents</a>
+            <a href="05_typical_chinese_cuisine.html">Next &gt;</a>
+
+            <br><br><br><br><br><br>
+        </div>
+        
+        <script src="../js/vue2.min.js"></script>
+        <script>
+         const raw = [
+[`breakfast shop`, `
+tzao 早
+tsan 餐
+diann 店
+`],
+[`Chinese style`, `
+jong 中
+shyh 式
+`],
+[`meat bun`, `
+row 肉
+bau 包
+`],
+[`soy milk`, `
+dow 豆
+jiang 漿
+`],
+[`steamed bread`, `
+man 饅
+.tou 頭
+`],
+[`rice ball`, `
+fann 飯
+twan 糰
+`],
+[`fried bread stick`, `
+you 油
+tyau 條
+`],
+[`green onion pancake`, `
+tsong 蔥
+you 油
+biing 餅
+`],
+[`rice porridge, congee`, `
+jou 粥
+`],
+[`clay oven roll`, `
+shau 燒
+biing 餅
+`],
+[`egg cake`, `
+dann 蛋
+biing 餅
+`],
+[`turnip cake`, `
+luo 蘿
+bo 蔔
+gau 糕
+`],
+[`Miss, what would you like to eat?`, `
+sheau 小
+jiee 姐
+, ，
+nii 妳
+yaw 要
+chy 吃
+sher 什
+.me 麼
+? ?
+`],
+[`Two loaves of steamed bread and a cup of soymilk`, `
+leang 兩
+.ge 個
+man 饅
+.tou 頭
+her 和
+yih 一
+bei 杯
+dow 豆
+jiang 漿
+`],
+[`Need anything else?`, `
+hair 還
+shiu 需
+yaw 要
+bye 別
+.de 的
+.ma 嗎
+? ?
+`],
+[`One more egg cake`, `
+tzay 再
+jia 加
+i 一
+.ge 個
+dann 蛋
+biing 餅
+`],
+[`No, that's it`, `
+bwu 不
+yonq 用
+.le 了
+, ，
+jeh 這
+.iang 樣
+jiow 就
+hao 好
+`],
+[`Sir, I'm in a hurry, please hurry up`, `
+lao 老
+baan 闆
+, ，
+woo 我
+gaan 趕
+shyr 時
+jian 間
+, ，
+chiing 請
+kuay 快
+yih 一
+dean 點
+`],
+[`OK, I will make it immediately`, `
+hao 好
+.de 的
+, ，
+woo 我
+maa 馬
+shanq 上
+tzuoh 做
+`],
+[`How much?`, `
+duo 多
+shao 少
+chyan 錢
+? ?
+`],
+[`Forty-five dollars`, `
+syh 四
+shyr 十
+wuu 五
+kuay 塊
+`],
+[`Here is one hundred dollars`, `
+shou 收
+nii 妳
+yih 一
+bae 百
+yuan 元
+`],
+[`Here's your fifty-five dollars change`, `
+jao 找
+wuu 五
+shyr 十
+wuu 五
+kuay 塊
+chyan 錢
+`],
+[`Western style`, `
+shi 西
+shyh 式
+`],
+[`coffee`, `
+ka 咖
+fei 啡
+`],
+[`black tea`, `
+horng 紅
+char 茶
+`],
+[`corn soup`, `
+yuh 玉
+mii 米
+nong 濃
+tang 湯
+`],
+[`sandwich`, `
+san 三
+ming 明
+jyh 治
+`],
+[`hamburger`, `
+hann 漢
+bao 堡
+`],
+[`cola`, `
+kee 可
+leh 樂
+`],
+[`milk`, `
+niou 牛
+nae 奶
+`],
+[`I want a cup of black coffee`, `
+woo 我
+yaw 要
+yih 一
+bei 杯
+hei 黑
+ka 咖
+fei 啡
+`],
+[`OK, anything else?`, `
+hao 好
+.de 的
+, ，
+hair 還
+yaw 要
+bye 別
+.de 的
+.ma 嗎
+? ?
+`],
+[`A cheese sandwich`, `
+i 一
+.ge 個
+chii 起
+sy 司
+san 三
+ming 明
+jyh 治
+`],
+[`For here or to go?`, `
+nii 你
+yaw 要
+ney 內
+yonq 用
+hair 還
+shyh 是
+way 外
+day 帶
+? ?
+`],
+[`For here`, `
+woo 我
+yaw 要
+ney 內
+yonq 用
+`],
+[`OK, coming right up!`, `
+hao 好
+, ，
+maa 馬
+shanq 上
+lai 來
+`],
+];
+
+         // PinyinConverter by David Chanin and Jen Liu @quizlet 2013
+
+         (function() {
+           var PinyinConverter;
+
+           PinyinConverter = {
+             pinyinRegex: /(shuang|chuang|zhuang|xiang|qiong|shuai|niang|guang|sheng|kuang|shang|jiong|huang|jiang|shuan|xiong|zhang|zheng|zhong|zhuai|zhuan|qiang|chang|liang|chuan|cheng|chong|chuai|hang|peng|chuo|piao|pian|chua|ping|yang|pang|chui|chun|chen|chan|chou|chao|chai|zhun|mang|meng|weng|shai|shei|miao|zhui|mian|yong|ming|wang|zhuo|zhua|shao|yuan|bing|zhen|fang|feng|zhan|zhou|zhao|zhei|zhai|rang|suan|reng|song|seng|dang|deng|dong|xuan|sang|rong|duan|cuan|cong|ceng|cang|diao|ruan|dian|ding|shou|xing|zuan|jiao|zong|zeng|zang|jian|tang|teng|tong|bian|biao|shan|tuan|huan|xian|huai|tiao|tian|hong|xiao|heng|ying|jing|shen|beng|kuan|kuai|nang|neng|nong|juan|kong|nuan|keng|kang|shua|niao|guan|nian|ting|shuo|guai|ning|quan|qiao|shui|gong|geng|gang|qian|bang|lang|leng|long|qing|ling|luan|shun|lian|liao|zhi|lia|liu|qin|lun|lin|luo|lan|lou|qiu|gai|gei|gao|gou|gan|gen|lao|lei|lai|que|gua|guo|nin|gui|niu|nie|gun|qie|qia|jun|kai|kei|kao|kou|kan|ken|qun|nun|nuo|xia|kua|kuo|nen|kui|nan|nou|kun|jue|nao|nei|hai|hei|hao|hou|han|hen|nai|rou|xiu|jin|hua|huo|tie|hui|tun|tui|hun|tuo|tan|jiu|zai|zei|zao|zou|zan|zen|eng|tou|tao|tei|tai|zuo|zui|xin|zun|jie|jia|run|diu|cai|cao|cou|can|cen|die|dia|xue|rui|cuo|cui|dun|cun|cin|ruo|rua|dui|sai|sao|sou|san|sen|duo|den|dan|dou|suo|sui|dao|sun|dei|zha|zhe|dai|xun|ang|ong|wai|fen|fan|fou|fei|zhu|wei|wan|min|miu|mie|wen|men|lie|chi|cha|che|man|mou|mao|mei|mai|yao|you|yan|chu|pin|pie|yin|pen|pan|pou|pao|shi|sha|she|pei|pai|yue|bin|bie|yun|nüe|lve|shu|ben|ban|bao|bei|bai|lüe|nve|ren|ran|rao|xie|re|ri|si|su|se|ru|sa|cu|ce|ca|ji|ci|zi|zu|ze|za|hu|he|ha|ju|ku|ke|qi|ka|gu|ge|ga|li|lu|le|qu|la|ni|xi|nu|ne|na|ti|tu|te|ta|xu|di|du|de|bo|lv|ba|ai|ei|ao|ou|an|en|er|da|wu|wa|wo|fu|fo|fa|nv|mi|mu|yi|ya|ye|me|mo|ma|pi|pu|po|yu|pa|bi|nü|bu|lü|e|o|a)r?[1-5]/gi,
+             vowels: {
+               'a*': '0',
+               'e*': '1',
+               'i*': '2',
+               'o*': '3',
+               'u*': '4',
+               'ü*': '5',
+               'A*': '6',
+               'E*': '7',
+               'I*': '8',
+               'O*': '9',
+               'U*': '10',
+               'Ü*': '11'
+             },
+             pinyin: {
+               1: ['ā', 'ē', 'ī', 'ō', 'ū', 'ǖ', 'Ā', 'Ē', 'Ī', 'Ō', 'Ū', 'Ǖ'],
+               2: ['á', 'é', 'í', 'ó', 'ú', 'ǘ', 'Á', 'É', 'Í', 'Ó', 'Ú', 'Ǘ'],
+               3: ['ǎ', 'ě', 'ǐ', 'ǒ', 'ǔ', 'ǚ', 'Ǎ', 'Ě', 'Ǐ', 'Ǒ', 'Ǔ', 'Ǚ'],
+               4: ['à', 'è', 'ì', 'ò', 'ù', 'ǜ', 'À', 'È', 'Ì', 'Ò', 'Ù', 'Ǜ'],
+               5: ['a', 'e', 'i', 'o', 'u', 'ü', 'A', 'E', 'I', 'O', 'U', 'Ü']
+             },
+             convert: function(string) {
+               var j, len, match, matches, replacement;
+               matches = string.match(this.pinyinRegex);
+               if (!matches) {
+                 return string;
+               }
+               for (j = 0, len = matches.length; j < len; j++) {
+                 match = matches[j];
+                 replacement = this.getReplacement(match);
+                 string = string.replace(match, replacement);
+               }
+               return string;
+             },
+             getReplacement: function(match) {
+               var accentMap, accentedVowelChar, base, replacedWord, tone, vowel, vowelChar, vowelNum, word;
+               accentMap = this.getAccentMap();
+               tone = match.slice(-1);
+               word = match.slice(0, -1).replace('v', 'ü').replace('V', 'Ü');
+               for (base in accentMap) {
+                 vowel = accentMap[base];
+                 if (word.indexOf(base) >= 0) {
+                   vowelChar = vowel.match(/.\*/)[0];
+                   vowelNum = this.vowels[vowelChar];
+                   accentedVowelChar = this.pinyin[tone.toString()][vowelNum];
+                   replacedWord = word.replace(base, vowel).replace(vowelChar, accentedVowelChar);
+                   return replacedWord;
+                 }
+               }
+               return match;
+             },
+             getAccentMap: function() {
+               var base, i, j, len, nostars, ref, stars, starsArray;
+               if (!this.accentMap) {
+                 stars = 'a*i a*o e*i ia* ia*o ie* io* iu* ' + 'A*I A*O E*I IA* IA*O IE* IO* IU* ' + 'o*u ua* ua*i ue* ui* uo* üe* ' + 'O*U UA* UA*I UE* UI* UO* ÜE* ' + 'A* E* I* O* U* Ü* ' + 'a* e* i* o* u* ü*';
+                 nostars = stars.replace(/\*/g, '');
+                 starsArray = stars.split(' ');
+                 this.accentMap = {};
+                 ref = nostars.split(' ');
+                 for (i = j = 0, len = ref.length; j < len; i = ++j) {
+                   base = ref[i];
+                   this.accentMap[base] = starsArray[i];
+                 }
+               }
+               return this.accentMap;
+             }
+           };
+
+           (function(root, factory) {
+             if (typeof define === 'function' && define.amd) {
+               return define(factory);
+             } else if (typeof exports === 'object') {
+               return module.exports = factory();
+             } else {
+               return root.PinyinConverter = factory();
+             }
+           })(this, function() {
+             return PinyinConverter;
+           });
+
+         }).call(this);
+
+         
+         function convertPara(para) {
+           let result = [];
+           for (word of para.trim().split("\n")) {
+             result.push(word.trim().split(" "));
+           }
+           return result;
+         }
+         
+         const app = new Vue({
+           el: "#gwoyeutext",
+           
+           data: {
+             raw: raw,
+           },
+
+           computed: {
+             fmt() {
+               let result = [];
+               for (phrase of this.raw) {
+                 let curphr = [];
+                 curphr.push(phrase[0]);
+                 curphr.push(convertPara(phrase[1]));
+                 result.push(curphr);
+               }             
+               return result;
+             }
+           },
+         });
+        </script>
+    </body>
+</html>
+

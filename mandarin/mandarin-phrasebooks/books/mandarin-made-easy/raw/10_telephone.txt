@@ -1,0 +1,304 @@
+telephone
+diann 電
+huah 話
+--
+fire (119)
+huoo 火
+tzai 災
+--
+fraud (165)
+jah 詐
+piann 騙
+--
+crime (110)
+fann 犯
+tzuey 罪
+--
+phone directory (104)
+char 查
+haw 號
+tair 台
+--
+mobile phone
+shyng 行
+donq 動
+diann 電
+huah 話
+--
+mobile phone
+shoou 手
+ji 機
+--
+pay phone
+gong 公
+gonq 共
+diann 電
+huah 話
+--
+phone booth
+diann 電
+huah 話
+tyng 亭
+--
+operator
+tzoong 總
+ji 機
+--
+yellow pages
+diann 電
+huah 話
+buh 簿
+--
+phone card
+diann 電
+huah 話
+kaa 卡
+--
+call
+daa 打
+diann 電
+huah 話
+--
+talk
+jeang 講
+diann 電
+huah 話
+--
+listen
+ting 聽
+diann 電
+huah 話
+--
+answer
+jie 接
+diann 電
+huah 話
+--
+hang up
+guah 掛
+diann 電
+huah 話
+--
+The number you have dialed is busy, please try again later.
+nin 您
+bo 撥
+.de 的
+diann 電
+huah 話
+tong 通
+huah 話
+jong 中
+, ，
+chiing 請
+shau 稍
+how 後
+tzay 再
+bo 撥
+. 。
+--
+The number you have dialed is not being answered. You have been forwarded to voice mail. Please leave a message after the beep.
+nin 您
+bo 撥
+.de 的
+diann 電
+huah 話
+wu 無
+ren 人
+jie 接
+ting 聽
+, ，
+joan 轉
+jie 接
+yeu 語
+in 音
+shinn 信
+shiang 箱
+. 。
+bih 嗶
+sheng 聲
+how 後
+chiing 請
+liou 留
+yan 言
+. 。
+--
+May I please speak to Prof. Zhiying Lin?
+ma 麻
+farn 煩
+, ，
+chiing 請
+jie 接
+lin 林
+jyh 志
+yiing 穎
+jiaw 教
+show 授
+--
+May I ask who is calling?
+chiing 請
+wenn 問
+naa 哪
+lii 裡
+jao 找
+ta 他
+? ?
+--
+I am his student. My name is Ryan.
+woo 我
+shyh 是
+ta 他
+.de 的
+shyue 學
+sheng 生
+, ，
+jiaw 叫
+lai 來
+en 恩
+--
+
+chiing 請
+shau 稍
+deeng 等
+, ，
+woo 我
+bang 幫
+nii 你
+joan 轉
+jie 接
+. 。
+--
+
+shieh 謝
+.shie 謝
+. 。
+--
+
+chiing 請
+wenn 問
+, ，
+jang 張
+shian 先
+sheng 生
+tzay 在
+jia 家
+.ma 嗎
+? ?
+--
+
+nii 你
+daa 打
+tsuoh 錯
+.le 了
+--
+
+jeh 這
+lii 裡
+mei 沒
+yeou 有
+jeh 這
+.ge 個
+ren 人
+. 。
+--
+
+nah 那
+bian 邊
+bwu 不
+shyh 是
+jang 張
+gong 公
+goan 館
+.ma 嗎
+? ?
+--
+
+bwu 不
+shyh 是
+--
+
+duey 對
+buh 不
+chii 起
+--
+
+chiing 請
+wenn 問
+, ，
+chern 陳
+jing 經
+lii 理
+tzay 在
+.ma 嗎
+? ?
+--
+
+buh 不
+hao 好
+yih 意
+.sy 思
+, ，
+ta 她
+gang 剛
+gang 剛
+chu 出
+chiuh 去
+.le 了
+--
+
+nii 你
+yaw 要
+liou 留
+yan 言
+.ma 嗎
+? ?
+--
+
+buh 不
+, ，
+woo 我
+yeou 有
+jyi 急
+shyh 事
+jao 找
+ta 她
+, ，
+chiing 請
+nii 你
+gaw 告
+suh 訴
+woo 我
+ta 她
+.de 的
+shoou 手
+ji 機
+. 。
+--
+
+ta 她
+.de 的
+diann 電
+huah 話
+haw 號
+maa 馬
+shyh 是
+ling 零
+jeou 九
+wuu 五
+ba 八
+- -
+wuu 五
+ell 二
+ling 零
+- -
+i 一
+san 三
+i 一
+syh 四
+. 。
+--
+
+shieh 謝
+.shie 謝
+nii 你
+. 。
+--

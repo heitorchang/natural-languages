@@ -1,0 +1,65 @@
+seasonings
+tiao2 調
+wei4 味
+liao4 料
+--
+soy sauce
+jiang4 醬
+you2 油
+--
+salt
+yan2 鹽
+ba1 巴
+--
+MSG
+wei4 味
+jing1 精
+--
+miso
+wei4 味
+cheng1 噌
+jiang4 醬
+--
+vinegar
+cu4 醋
+--
+chili pepper
+la4 辣
+jiao1 椒
+--
+chili paste
+la4 辣
+jiao1 椒
+jiang4 醬
+--
+chili powder
+la4 辣
+jiao1 椒
+fen3 粉
+--
+ketchup
+fan1 蕃
+qie2 茄
+jiang4 醬
+--
+sugar
+tang2 糖
+--
+black pepper
+hu2 胡
+jiao1 椒
+--
+sesame oil
+ma2 麻
+you2 油
+--
+salad oil
+sha1 沙
+la1 拉
+you2 油
+--
+butter
+nai3 奶
+you2 油
+--
+

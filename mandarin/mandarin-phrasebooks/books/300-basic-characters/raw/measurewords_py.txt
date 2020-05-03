@@ -1,0 +1,68 @@
+classifier for slices
+pian4 片
+--
+classifier for horses
+pi3 匹
+--
+classifier for books
+ben3 本
+--
+platform, stage
+tai2 臺
+--
+classifier for flowers
+duo3 朵
+--
+classifier for rows or strings
+chuan4 串
+--
+cup
+bei1 杯
+--
+classifier for sticks, rods
+zhi1 枝
+--
+classifier for planes and large vehicles
+jia4 架
+--
+classifier for long, slender objects
+gen1 根
+--
+generic classifier
+ge4 個
+--
+classifier for birds; one of a pair
+zhi1 隻
+--
+bucket
+tong3 桶
+--
+top, roof
+ding3 頂
+--
+box
+he2 盒
+--
+classifier for flat objects, sheets
+zhang1 張
+--
+classifier for long, thin things
+tiao2 條
+--
+classifier for small round things
+li4 粒
+--
+classifier for houses and buildings
+dong4 棟
+--
+classifier for pieces of cloth, cake, soap, currency
+kuai4 塊
+--
+classifier for trees, cabbages, and plants
+ke1 棵
+--
+classifier for vehicles
+liang4 輛
+--
+pair
+shuang1 雙

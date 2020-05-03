@@ -1,0 +1,36 @@
+telephone*diann huah
+fire (119)*huoo tzai
+fraud (165)*jah piann
+crime (110)*fann tzuey
+phone directory (104)*char haw tair
+mobile phone*shyng donq diann huah
+mobile phone*shoou ji
+pay phone*gong gonq diann huah
+phone booth*diann huah tyng
+operator*tzoong ji
+yellow pages*diann huah buh
+phone card*diann huah kaa
+call*daa diann huah
+talk*jeang diann huah
+listen*ting diann huah
+answer*jie diann huah
+hang up*guah diann huah
+The number you have dialed is busy, please try again later.*nin bo .de diann huah tong huah jong, chiing shau how tzay bo
+The number you have dialed is not being answered. You have been forwarded to voice mail. Please leave a message after the beep.*nin bo .de diann huah wu ren jie ting, joan jie yeu in shinn shiang. bih sheng how chiing liou yan
+May I please speak to Prof. Zhiying Lin?*ma farn, chiing jie lin jyh yiing jiaw show
+May I ask who is calling?*chiing wenn naa lii jao ta?
+I am his student. My name is Ryan.*woo shyh ta .de shyue sheng, jiaw Lai en
+*chiing shau deeng, woo bang nii joan jie
+*shieh .shie
+*chiing wenn, jang shian sheng tzay jia .ma?
+*nii daa tsuoh .le
+*jeh lii mei yeou jeyg ren
+*nah bian bwu shyh jang gong goan .ma?
+*bwu shyh
+*duey buh chii
+*chiing wenn, chern jing lii tzay .ma?
+*buh hao yih .sy, ta gang gang chu chiuh .le
+*nii yaw liou yan .ma?
+*buh, woo yeou jyi shyh jao ta, chiing nii gaw suh woo ta .de shoou ji.
+*ta .de diann huah haw maa shyh ling jeou wuu ba wuu ell ling i san i syh
+*shieh .shie nii

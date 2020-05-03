@@ -1,0 +1,593 @@
+Congratulations on your graduation
+gong 恭
+shii 喜
+nii 你
+bih 畢
+yeh 業
+.le 了
+--
+Congratulations on your promotion
+gong 恭
+shii 喜
+nii 你
+sheng 升
+guan 官
+.le 了
+--
+Congratulations on the birth of your first child
+gong 恭
+shii 喜
+nii 你
+sheng 生
+.le 了
+dih 第
+yih 一
+tai 胎
+--
+Happy Birthday
+sheng 生
+ryh 日
+kuay 快
+leh 樂
+--
+Happy Holidays
+jea 假
+chyi 期
+yu 愉
+kuay 快
+--
+Happy Working Day
+gong 工
+tzuoh 作
+ryh 日
+yu 愉
+kuay 快
+--
+Happy First Day of Work
+dih 第
+yih 一
+tian 天
+shanq 上
+ban 班
+yu 愉
+kuay 快
+/ /
+kai 開
+gong 工
+dah 大
+jyi 吉
+--
+Happy First Day of School
+kai 開
+shyue 學
+ryh 日
+kuay 快
+leh 樂
+--
+Happy Opening Day!
+kai 開
+diann 店
+shoou 首
+may 賣
+ryh 日
+kuay 快
+leh 樂
+/ /
+kai 開
+jang 張
+dah 大
+jyi 吉
+--
+Happy Anniversary
+jou 週
+nian 年
+jih 紀
+niann 念
+ryh 日
+kuay 快
+leh 樂
+--
+Happy Wedding Anniversary
+jye 結
+huen 婚
+jih 紀
+niann 念
+ryh 日
+kuay 快
+leh 樂
+--
+Happy Foundation Anniversary
+cherng 成
+lih 立
+jih 紀
+niann 念
+ryh 日
+kuay 快
+leh 樂
+--
+Happy 1st Wedding Anniversary
+jye 結
+huen 婚
+dih 第
+yih 一
+.ge 個
+jou 周
+nian 年
+jih 紀
+niann 念
+ryh 日
+kuay 快
+leh 樂
+--
+Happy 5th Anniversary
+wuu 五
+jou 週
+nian 年
+jih 紀
+niann 念
+ryh 日
+kuay 快
+leh 樂
+--
+I hope you have a good trip
+woo 我
+shi 希
+wanq 望
+nii 你
+yi 一
+luh 路
+shuenn 順
+feng 風
+--
+I hope you have a nice dinner
+woo 我
+shi 希
+wanq 望
+nii 你
+yeou 有
+.ge 個
+meei 美
+hao 好
+.de 的
+woan 晚
+tsan 餐
+--
+I hope you have lots of fun
+woo 我
+shi 希
+wanq 望
+nii 你
+wan 玩
+.de 得
+kai 開
+shin 心
+--
+I hope you have a great time
+woo 我
+shi 希
+wanq 望
+nii 你
+duh 度
+guoh 過
+meei 美
+hao 好
+.de 得
+shyr 時
+guang 光
+--
+Have a good trip
+yi 一
+luh 路
+shuenn 順
+feng 風
+--
+Have lots of fun
+wan 玩
+.de 得
+yu 愉
+kuay 快
+--
+Have a nice dinner
+yonq 用
+tsan 餐
+yu 愉
+kuay 快
+--
+Have a great time
+juh 祝
+nii 你
+kuay 快
+leh 樂
+--
+I wish you a happy marriage
+woo 我
+shi 希
+wanq 望
+nii 你
+jye 結
+huen 婚
+yu 愉
+kuay 快
+--
+I wish you the best of luck
+woo 我
+shi 希
+wanq 望
+nii 你
+chau 超
+jyi 級
+shinq 幸
+yunn 運
+--
+Wish you all the best
+shi 希
+wanq 望
+nii 你
+yuh 遇
+daw 到
+.de 的
+dou 都
+shyh 是
+tzuey 最
+banq 棒
+.de 的
+shyh 事
+.ching 情
+--
+Wishing you a safe journey
+shi 希
+wanq 望
+nii 你
+leu 旅
+twu 途
+pyng 平
+an 安
+--
+Wishing you happiness
+shi 希
+wanq 望
+nii 你
+kuay 快
+leh 樂
+--
+May success be with you
+shi 希
+wanq 望
+nii 你
+cherng 成
+gong 功
+shuenn 順
+lih 利
+--
+May all your dreams come true
+shi 希
+wanq 望
+nii 你
+suoo 所
+yeou 有
+.de 的
+menq 夢
+sheang 想
+dou 都
+cherng 成
+jen 真
+--
+May all love surround you
+shi 希
+wanq 望
+ay 愛
+dou 都
+wei 圍
+raw 繞
+.je 著
+nii 你
+--
+May God bless you
+shi 希
+wanq 望
+shanq 上
+dih 帝
+bao 保
+yow 佑
+nii 你
+--
+May the strength be with you
+shi 希
+wanq 望
+nii 你
+genq 更
+jian 堅
+chyang 強
+--
+Have a good time
+juh 祝
+nii 你
+kuay 快
+leh 樂
+--
+Wishing you good health
+juh 祝
+nii 你
+shen 身
+tii 體
+jiann 健
+kang 康
+--
+I wish you wealth
+juh 祝
+nii 你
+fa 發
+tsair 財
+--
+May success be with you
+juh 祝
+nii 你
+maa 馬
+daw 到
+cherng 成
+gong 功
+--
+Belated congratulations
+sonq 送
+shanq 上
+chyr 遲
+lai 來
+.de 的
+gong 恭
+shii 喜
+--
+Happy belated birthday
+chyr 遲
+lai 來
+.de 的
+sheng 生
+ryh 日
+kuay 快
+leh 樂
+--
+Happy belated Valentine's day
+chyr 遲
+lai 來
+.de 的
+chyng 情
+ren 人
+jye 節
+kuay 快
+leh 樂
+--
+I'm sorry to hear that you broke up with him
+woo 我
+heen 很
+yi 遺
+hann 憾
+ting 聽
+shuo 說
+nii 妳
+hann 和
+ta 他
+fen 分
+shoou 手
+.le 了
+--
+I'm sorry to hear about your grandmother's sickness
+woo 我
+heen 很
+yi 遺
+hann 憾
+.de 地
+ting 聽
+daw 到
+nii 你
+nae 奶
+.nai 奶
+sheng 生
+binq 病
+.de 的
+shiau 消
+.shi 息
+--
+I'm sorry to hear about the accident
+woo 我
+heen 很
+yi 遺
+hann 憾
+.de 地
+ting 聽
+daw 到
+fa 發
+sheng 生
+yih 意
+way 外
+.de 的
+shiau 消
+.shi 息
+--
+I'm sorry to hear that
+ting 聽
+shuo 說
+nah 那
+jiann 件
+shyh 事
+.le 了
+, ，
+woo 我
+gaan 感
+daw 到
+yi 遺
+hann 憾
+--
+I'm sorry about that
+duey 對
+yu 於
+nah 那
+jiann 件
+shyh 事
+woo 我
+gaan 感
+daw 到
+yi 遺
+hann 憾
+--
+I'm so sorry about the bad news
+woo 我
+heen 很
+yi 遺
+hann 憾
+fa 發
+sheng 生
+nah 那
+.ge 個
+huay 壞
+shiau 消
+.shi 息
+--
+I'm really sorry to hear that he is gone
+ting 聽
+shuo 說
+ta 他
+li 離
+kai 開
+.le 了
+, ，
+woo 我
+jen 真
+.de 的
+gaan 感
+daw 到
+heen 很
+yi 遺
+hann 憾
+--
+I'm deeply sorry for his death
+duey 對
+yu 於
+ta 他
+.de 的
+syy 死
+shiunn 訊
+, ，
+woo 我
+shen 深
+beau 表
+yi 遺
+hann 憾
+--
+death
+syy 死
+wang 亡
+--
+passed away
+yeong 永
+bye 別
+--
+loss
+shy 失
+chiuh 去
+--
+I'm sorry for your loss (of someone)
+woo 我
+duey 對
+yu 於
+nii 你
+shy 失
+chiuh 去
+( (
+moou 某
+ren 人
+) )
+beau 表
+shyh 示
+ai 哀
+daw 悼
+jy 之
+yih 意
+--
+I'm sorry that your grandmother has passed away
+woo 我
+duey 對
+yu 於
+nii 你
+nae 奶
+.nai 奶
+guoh 過
+shyh 世
+gaan 感
+daw 到
+nan 難
+guoh 過
+--
+Please accept my sympathy on your teacher's death
+woo 我
+duey 對
+yu 於
+nii 你
+.de 的
+lao 老
+shy 師
+.de 的
+li 離
+kai 開
+shen 深
+beau 表
+torng 同
+chyng 情
+--
+Calm down
+leeng 冷
+jinq 靜
+i 一
+dean 點
+--
+It's okay
+mei 沒
+shyh 事
+.la 啦
+--
+It's going to be better
+i 一
+chieh 切
+huey 會
+genq 更
+hao 好
+.de 的
+--
+It's going to be okay
+bwu 不
+huey 會
+yeou 有
+shyh 事
+.de 的
+--
+Don't worry
+bwu 不
+yaw 要
+dan 擔
+shin 心
+--
+Keep going!
+jia 加
+you 油
+! ﹗
+--
+You can do it!
+nii 你
+kee 可
+yii 以
+.de 的
+! ﹗
+--
+This too, shall pass
+i 一
+chieh 切
+dou 都
+huey 會
+guoh 過
+chiuh 去
+.de 的
+--
+Let it be
+shuenn 順
+chyi 其
+tzyh 自
+ran 然
+--

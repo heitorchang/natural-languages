@@ -1,0 +1,20 @@
+家事;jia shyh;household chores
+煮飯;juu fann;cook rice
+燒菜;shau tsay;cook vegetables
+洗碗;shii woan;do dishes
+打掃;daa sao;clean
+掃地;sao dih;sweep
+拖地;tuo dih;mop
+澆水;jiau shoei;water
+洗衣服;shii i fwu;do laundry
+燙衣服;tanq i fwu;iron clothes
+整理房間;jeeng lii farng jian;tidy the room
+倒垃圾;daw leh seh;take out the trash
+遛狗;liow goou;walk the dog
+餵寵物;wey choong wuh;feed the pet
+幫寵物洗澡;bang choong wuh shii tzao;give the pet a bath
+我下班後，回家還要煮飯燒菜;woo shiah ban how, hwei jia hair yaw juu fann shau tsay;I have to go home and cook after work
+不過，我先生很體貼;bwu guoh, woo shian sheng heen tii tie;But my husband is considerate
+他會幫我洗碗，拖地，倒垃圾。;ta huey bang woo shii woan, tuo dih, daw leh seh;He helps me to wash the dishes, mop the floor, and take out the garbage
+幫我分擔家事。;bang woo fen dan jia shyh;He shares the housework.
+我覺得我很幸福;woo jyue .de woo heen shinq fwu;I feel very fortunate.

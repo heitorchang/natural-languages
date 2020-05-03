@@ -1,0 +1,28 @@
+sports*yunn donq
+baseball*banq chyou
+basketball*lan chyou
+tennis*woang chyou
+badminton*yeu mau chyou
+golf*gau eel fu chyou
+table tennis*juo chyou
+bowling*bao ling chyou
+skiing*hwa sheue
+swimming*you yeong
+run a marathon*maa lha song
+jogging*mann pao
+water ballet*shoei shanq ba leei
+soccer*tzwu chyou
+skating*lhiou bing
+pole vaulting*cheng gan tiaw
+taekwondo*tair chyuan daw
+archery*yang gong
+boxing*chyuan jyi
+gymnastics*tii tsau
+Do you like sports?*nii shii huan yunn donq .ma?
+I like sports very much*woo shii huan yunn donq
+But I am to busy to work out*dann shyh woo heen mang, mei yeou shyr jian yunn donq
+I swim when I have time.*jyy yaw woo yeou konq, woo huey chiuh you yeong
+What else do you like besides swimming?*chwu .le you yeong, nii hair shii huan sher .me yunn donq?
+I like jogging in the morning*woo shii huan tzao shanq chii lai mann pao
+Let's go jogging in the morning one day, shall we?*gae tian woo .men tzao shanq yih chii chiuh pao buh hao .ma?
+That would be great*nah jen shyh tay hao .le

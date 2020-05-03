@@ -1,0 +1,132 @@
+position
+wey 位
+jyh 置
+--
+on
+shanq 上
+miann 面
+--
+under
+shiah 下
+miann 面
+--
+inside
+lii 裡
+miann 面
+--
+outside
+way 外
+miann 面
+--
+between
+jong 中
+jian 間
+--
+behind
+how 後
+miann 面
+--
+on the left
+tzuoo 左
+bian 邊
+--
+on the right
+yow 右
+bian 邊
+--
+over here
+jeh 這
+bian 邊
+--
+over there
+nah 那
+bian 邊
+--
+next to
+parng 旁
+bian 邊
+--
+Where are my glasses?
+woo 我
+.de 的
+yean 眼
+jinq 鏡
+tzay 在
+naa 哪
+lii 裡
+? ?
+--
+On the desk
+tzay 在
+shu 書
+juo 桌
+shanq 上
+--
+I didn't see them?
+mei 沒
+yeou 有
+kann 看
+daw 到
+.a 啊
+? ?
+--
+Come over to help me look for them.
+nii 你
+guoh 過
+lai 來
+bang 幫
+woo 我
+jao 找
+yi 一
+shiah 下
+--
+I found them. You put them in the drawer.
+woo 我
+jao 找
+daw 到
+.le 了
+, ，
+nii 你
+fanq 放
+tzay 在
+chou 抽
+tih 屜
+lii 裡
+miann 面
+--
+Where is the dog?
+sheau 小
+goou 狗
+tzay 在
+naa 哪
+? ?
+--
+She's over there.
+ta 牠
+tzay 在
+nah 那
+bian 邊
+--
+She likes to sleep under the desk.
+ta 牠
+shii 喜
+huan 歡
+tzay 在
+shu 書
+juo 桌
+shiah 下
+miann 面
+shuey 睡
+jiaw 覺
+--
+And she likes to stay close to me.
+yee 也
+shii 喜
+huan 歡
+lai 來
+woo 我
+parng 旁
+bian 邊
+sa 撒
+jiau 嬌
+--

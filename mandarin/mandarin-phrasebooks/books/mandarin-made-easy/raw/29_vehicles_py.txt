@@ -1,0 +1,243 @@
+vehicles
+jiao1 交
+tong1 通
+gong1 工
+ju4 具
+--
+ride
+qi2 騎
+--
+motorcycle
+mo2 摩
+tuo1 托
+che1 車
+--
+bicycle
+zi4 自
+xing2 行
+che1 車
+--
+drive
+kai1 開
+--
+car
+qi4 汽
+che1 車
+--
+truck
+ka3 卡
+che1 車
+--
+take
+da1 搭
+--
+sit
+zuo4 坐
+--
+bus
+gong1 公
+che1 車
+--
+school bus
+wa2 娃
+wa5 娃
+che1 車
+--
+train
+huo3 火
+che1 車
+--
+MRT
+jie2 捷
+yun4 運
+--
+subway
+di4 地
+tie3 鐵
+--
+airplane
+fei1 飛
+ji1 機
+--
+taxi
+ji4 計
+cheng2 程
+che1 車
+--
+rental car
+chu1 出
+zu1 租
+che1 車
+--
+high-speed rail
+gao1 高
+tie3 鐵
+--
+adult ticket
+quan2 全
+piao4 票
+--
+half-price ticket
+ban4 半
+piao4 票
+--
+one-way
+dan1 單
+cheng2 程
+piao4 票
+--
+round-trip
+lai2 來
+hui2 回
+piao4 票
+--
+group ticket
+tuan2 團
+ti3 體
+piao4 票
+--
+There are a lot of cars in Taipei!
+tai2 台
+bei3 北
+de5 的
+qi4 汽
+che1 車
+hao3 好
+duo1 多
+o5 喔
+--
+Do you dare to ride a motorcycle in Taipei?
+ni3 妳
+gan3 敢
+zai4 在
+tai2 台
+bei3 北
+qi2 騎
+ji1 機
+che1 車
+ma2 嗎
+? ?
+--
+I didn't dare when I first came to Taipei
+gang1 剛
+lai2 來
+tai2 台
+bei3 北
+de5 的
+shi2 時
+hou4 候
+wo3 我
+bu4 不
+gan3 敢
+--
+But I do dare ride my motorcycle in Taipei now.
+bu2 不
+guo4 過
+, ，
+xian4 現
+zai4 在
+wo3 我
+gan3 敢
+zai4 在
+tai2 台
+bei3 北
+qi2 騎
+ji1 機
+che1 車
+--
+Because riding a motorcycle is really convenient
+yin1 因
+wei4 為
+qi2 騎
+ji1 機
+che1 車
+zhen1 真
+de5 的
+hen3 很
+fang1 方
+bian4 便
+. 。
+--
+But you have to be cautious when riding one.
+dan4 但
+shi4 是
+yao4 要
+hen3 很
+xiao3 小
+xin1 心
+--
+How do yo go to school?
+ni3 你
+dou1 都
+zen3 怎
+me5 麼
+qu4 去
+shang4 上
+xue2 學
+? ?
+--
+I go by MRT
+wo3 我
+da1 搭
+jie2 捷
+yun4 運
+qu4 去
+--
+I think taking the MRT is more convenient.
+wo3 我
+jue2 覺
+de5 得
+jie2 捷
+yun4 運
+bi3 比
+jiao4 較
+fang1 方
+bian4 便
+--
+How many motorcycles does your family have?
+ni3 你
+jia1 家
+you3 有
+ji3 幾
+tai2 台
+mo2 摩
+tuo1 托
+che1 車
+? ?
+--
+We have three motorcycles.
+wo3 我
+jia1 家
+you3 有
+san1 三
+tai2 台
+mo2 摩
+tuo1 托
+che1 車
+. 。
+--
+One is my mom's
+yi4 一
+tai2 台
+shi4 是
+ma1 媽
+ma5 媽
+de5 的
+--
+One is my brother's
+yi4 一
+tai2 台
+shi4 是
+ge1 哥
+ge5 哥
+de5 的
+--
+And the other is my sister's
+jie3 姊
+jie5 姊
+ye3 也
+you3 有
+yi4 一
+tai2 台
+--
+

@@ -1,0 +1,242 @@
+vehicles
+jiau 交
+tong 通
+gong 工
+jiuh 具
+--
+ride
+chyi 騎
+--
+motorcycle
+mo 摩
+tuo 托
+che 車
+--
+bicycle
+tzyh 自
+shyng 行
+che 車
+--
+drive
+kai 開
+--
+car
+chih 汽
+che 車
+--
+truck
+kaa 卡
+che 車
+--
+take
+da 搭
+--
+sit
+tzuoh 坐
+--
+bus
+gong 公
+che 車
+--
+school bus
+wa 娃
+.ua 娃
+che 車
+--
+train
+huoo 火
+che 車
+--
+MRT
+jye 捷
+yunn 運
+--
+subway
+dih 地
+tiee 鐵
+--
+airplane
+fei 飛
+ji 機
+--
+taxi
+jih 計
+cherng 程
+che 車
+--
+rental car
+chu 出
+tzu 租
+che 車
+--
+high-speed rail
+gau 高
+tiee 鐵
+--
+adult ticket
+chyuan 全
+piaw 票
+--
+half-price ticket
+bann 半
+piaw 票
+--
+one-way
+dan 單
+cherng 程
+piaw 票
+--
+round-trip
+lai 來
+hwei 回
+piaw 票
+--
+group ticket
+twan 團
+tii 體
+piaw 票
+--
+There are a lot of cars in Taipei!
+tair 台
+beei 北
+.de 的
+chih 汽
+che 車
+hao 好
+duo 多
+.o 喔
+--
+Do you dare to ride a motorcycle in Taipei?
+nii 妳
+gaan 敢
+tzay 在
+tair 台
+beei 北
+chyi 騎
+ji 機
+che 車
+ma 嗎
+? ?
+--
+I didn't dare when I first came to Taipei
+gang 剛
+lai 來
+tair 台
+beei 北
+.de 的
+shyr 時
+how 候
+woo 我
+buh 不
+gaan 敢
+--
+But I do dare ride my motorcycle in Taipei now.
+bwu 不
+guoh 過
+, ，
+shiann 現
+tzay 在
+woo 我
+gaan 敢
+tzay 在
+tair 台
+beei 北
+chyi 騎
+ji 機
+che 車
+--
+Because riding a motorcycle is really convenient
+in 因
+wey 為
+chyi 騎
+ji 機
+che 車
+jen 真
+.de 的
+heen 很
+fang 方
+biann 便
+. 。
+--
+But you have to be cautious when riding one.
+dann 但
+shyh 是
+yaw 要
+heen 很
+sheau 小
+shin 心
+--
+How do yo go to school?
+nii 你
+dou 都
+tzeen 怎
+.me 麼
+chiuh 去
+shanq 上
+shyue 學
+? ?
+--
+I go by MRT
+woo 我
+da 搭
+jye 捷
+yunn 運
+chiuh 去
+--
+I think taking the MRT is more convenient.
+woo 我
+jyue 覺
+.de 得
+jye 捷
+yunn 運
+bii 比
+jiaw 較
+fang 方
+biann 便
+--
+How many motorcycles does your family have?
+nii 你
+jia 家
+yeou 有
+jii 幾
+tair 台
+mo 摩
+tuo 托
+che 車
+? ?
+--
+We have three motorcycles.
+woo 我
+jia 家
+yeou 有
+san 三
+tair 台
+mo 摩
+tuo 托
+che 車
+. 。
+--
+One is my mom's
+yih 一
+tair 台
+shyh 是
+mha 媽
+.ma 媽
+.de 的
+--
+One is my brother's
+yih 一
+tair 台
+shyh 是
+ge 哥
+.ge 哥
+.de 的
+--
+And the other is my sister's
+jiee 姊
+.jie 姊
+yee 也
+yeou 有
+yih 一
+tair 台
+--

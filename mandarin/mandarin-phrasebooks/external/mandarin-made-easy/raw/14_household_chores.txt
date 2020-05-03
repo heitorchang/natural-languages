@@ -1,0 +1,129 @@
+household chores
+jia 家
+shyh 事
+--
+cook rice
+juu 煮
+fann 飯
+--
+cook vegetables
+shau 燒
+tsay 菜
+--
+do dishes
+shii 洗
+woan 碗
+--
+clean
+daa 打
+sao 掃
+--
+sweep
+sao 掃
+dih 地
+--
+mop
+tuo 拖
+dih 地
+--
+water
+jiau 澆
+shoei 水
+--
+do laundry
+shii 洗
+i 衣
+fwu 服
+--
+iron clothes
+tanq 燙
+i 衣
+fwu 服
+--
+tidy the room
+jeeng 整
+lii 理
+farng 房
+jian 間
+--
+take out the trash
+daw 倒
+leh 垃
+seh 圾
+--
+walk the dog
+liow 遛
+goou 狗
+--
+feed the pet
+wey 餵
+choong 寵
+wuh 物
+--
+give the pet a bath
+bang 幫
+choong 寵
+wuh 物
+shii 洗
+tzao 澡
+--
+I have to go home and cook after work
+woo 我
+shiah 下
+ban 班
+how 後
+, ，
+hwei 回
+jia 家
+hair 還
+yaw 要
+juu 煮
+fann 飯
+shau 燒
+tsay 菜
+--
+But my husband is considerate
+bwu 不
+guoh 過
+, ，
+woo 我
+shian 先
+sheng 生
+heen 很
+tii 體
+tie 貼
+--
+He helps me to wash the dishes, mop the floor, and take out the garbage
+ta 他
+huey 會
+bang 幫
+woo 我
+shii 洗
+woan 碗
+, ，
+tuo 拖
+dih 地
+, ，
+daw 倒
+leh 垃
+seh 圾
+. 。
+--
+He shares the housework.
+bang 幫
+woo 我
+fen 分
+dan 擔
+jia 家
+shyh 事
+. 。
+--
+I feel very fortunate.
+woo 我
+jyue 覺
+.de 得
+woo 我
+heen 很
+shinq 幸
+fwu 福
+--

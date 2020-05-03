@@ -1,0 +1,429 @@
+What are you doing?
+ni3 你
+zai4 在
+zuo4 做
+shen2 什
+me5 麼
+? ?
+--
+What's up?
+zai4 在
+gan4 幹
+ma2 嘛
+? ?
+--
+I'm watching the news.
+wo3 我
+zheng4 正
+zai4 在
+kan4 看
+xin1 新
+wen2 聞
+--
+Not much, just surfing the Internet.
+mei2 沒
+shen2 什
+me5 麼
+, ,
+zhi3 只
+shi4 是
+shang4 上
+wang3 網
+--
+What happened?
+fa1 發
+sheng1 生
+shen2 什
+me5 麼
+shi4 事
+? ?
+--
+You look so happy.
+ni3 你
+kan4 看
+qi3 起
+lai2 來
+hen3 很
+kai1 開
+xin1 心
+--
+Why are you in a hurry?
+wei4 為
+shen2 什
+me5 麼
+ni3 你
+kan4 看
+qi3 起
+lai2 來
+hao3 好
+huang1 慌
+zhang1 張
+? ?
+--
+What's your problem?
+ni3 你
+you3 有
+shen2 什
+me5 麼
+wen4 問
+ti2 題
+ma5 嗎
+? ?
+--
+What's wrong with you?
+ni3 你
+zen3 怎
+me5 麼
+le5 了
+ma5 嗎
+? ?
+--
+What's eating you?
+ni3 你
+zai4 在
+fan2 煩
+nao3 腦
+shen2 什
+me5 麼
+ma5 嗎
+? ?
+--
+What's troubling you?
+ni3 你
+you3 有
+shen2 什
+me5 麼
+ma2 麻
+fan5 煩
+ma5 嗎
+--
+What's bothering you?
+ni3 你
+bei4 被
+shen2 什
+me5 麼
+shi4 事
+kun4 困
+rao3 擾
+zhe5 著
+ma5 嗎
+? ?
+--
+What can I do for you?
+you3 有
+shen2 什
+me5 麼
+wo3 我
+ke3 可
+yi3 以
+bang1 幫
+mang2 忙
+de5 的
+ma5 嗎
+? ?
+--
+Can I help you?
+you3 有
+xu1 需
+yao4 要
+wo3 我
+bang1 幫
+mang2 忙
+ma5 嗎
+? ?
+--
+(reply) Yes, please, I lost my key.
+shi4 是
+de5 的
+, ,
+ma2 麻
+fan5 煩
+ni3 你
+, ,
+wo3 我
+de5 的
+yao4 鑰
+shi5 匙
+bu2 不
+jian4 見
+le5 了
+--
+(reply) No, thank you.
+mei2 沒
+guan1 關
+xi5 係
+, ,
+xie4 謝
+xie5 謝
+ni3 你
+--
+Where have you been?
+qu4 去
+na3 哪
+li3 裡
+? ?
+--
+Where are you going?
+zheng4 正
+yao4 要
+qu4 去
+na3 哪
+li3 裡
+? ?
+--
+Where are you?
+ni3 你
+zai4 在
+na3 哪
+li3 裡
+? ?
+--
+I don't know what you're talking about.
+wo3 我
+ting1 聽
+bu4 不
+dong3 懂
+ni3 你
+zheng4 正
+zai4 在
+shuo1 說
+shen2 什
+me5 麼
+shi4 事
+qing5 情
+--
+I don't understand what you're talking about.
+wo3 我
+bu4 不
+ming2 明
+bai2 白
+ni3 你
+zheng4 正
+zai4 在
+shuo1 說
+shen2 什
+me5 麼
+shi4 事
+qing5 情
+--
+I don't know what you mean
+wo3 我
+ting1 聽
+bu4 不
+dong3 懂
+ni3 你
+de5 的
+yi4 意
+si5 思
+--
+I don't understand what you mean
+wo3 我
+bu4 不
+ming2 明
+bai2 白
+ni3 你
+de5 的
+yi4 意
+si5 思
+--
+Can you just explain it?
+ni3 你
+ke3 可
+yi3 以
+jie3 解
+shi4 釋
+yi2 一
+xia4 下
+ma5 嗎
+? ?
+--
+Never mind!
+suan4 算
+le5 了
+la5 啦
+! !
+--
+Can you say it again?
+ke3 可
+yi3 以
+zai4 再
+shuo1 說
+yi2 一
+ci4 次
+ma5 嗎
+? ?
+--
+What does it mean?
+zhe4 這
+shi4 是
+shen2 什
+me5 麼
+yi4 意
+si5 思
+? ?
+--
+I want to be alone
+wo3 我
+xiang3 想
+du2 獨
+chu3 處
+--
+What do you mean by "be alone"?
+ni3 你
+shuo1 說
+de5 的
+" 「
+du2 獨
+chu3 處
+" 」
+shi4 是
+shen2 什
+me5 麼
+yi4 意
+si5 思
+? ?
+--
+Can I borrow your pen, please?
+wo3 我
+ke3 可
+yi3 以
+jie4 借
+yi2 一
+xia4 下
+ni3 你
+de5 的
+bi3 筆
+ma5 嗎
+? ?
+xie4 謝
+xie5 謝
+ni3 你
+--
+Can I borrow your money, please?
+wo3 我
+ke3 可
+yi3 以
+gen1 跟
+ni3 你
+jie4 借
+yi4 一
+dian3 點
+qian2 錢
+ma5 嗎
+? ?
+bai4 拜
+tuo1 託
+ni3 你
+--
+Can I borrow your cellphone, please?
+wo3 我
+ke3 可
+yi3 以
+jie4 借
+yi2 一
+xia4 下
+ni3 你
+de5 的
+shou3 手
+ji1 機
+ma5 嗎
+? ?
+ma2 麻
+fan5 煩
+ni3 你
+--
+Could you please hand me the scissors?
+ke3 可
+yi3 以
+qing3 請
+ni3 你
+bang1 幫
+wo3 我
+na2 拿
+jian3 剪
+dao1 刀
+ma5 嗎
+? ?
+--
+Could you please get me the key?
+ke3 可
+yi3 以
+qing3 請
+ni3 你
+chuan2 傳
+yao4 鑰
+shi5 匙
+gei3 給
+wo3 我
+ma5 嗎
+? ?
+--
+Do you know the Victory Monument?
+ni3 你
+zhi1 知
+dao4 道
+sheng4 勝
+li4 利
+ji4 記
+nian4 念
+bei1 碑
+ma5 嗎
+? ?
+--
+Do you know Tony?
+ni3 你
+ren4 認
+shi5 識
+dong1 東
+ni2 尼
+ma5 嗎
+? ?
+--
+Do you know where the parking lot is?
+ni3 你
+zhi1 知
+dao4 道
+ting2 停
+che1 車
+chang3 場
+zai4 在
+na3 哪
+li3 裡
+ma5 嗎
+? ?
+--
+Do you know how far the coffee shop is?
+ni3 你
+zhi1 知
+dao4 道
+ka1 咖
+fei1 啡
+dian4 店
+you3 有
+duo1 多
+yuan3 遠
+ma5 嗎
+? ?
+--
+Do you know what coconut milk is?
+ni3 你
+zhi1 知
+dao4 道
+shen2 什
+me5 麼
+shi4 是
+ye2 椰
+nai3 奶
+ma5 嗎
+? ?
+--
+Do you know who Tony is?
+ni3 你
+zhi1 知
+dao4 道
+dong1 東
+ni2 尼
+shi4 是
+shei2 誰
+ma5 嗎
+? ?

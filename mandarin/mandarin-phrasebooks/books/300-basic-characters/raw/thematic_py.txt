@@ -1,0 +1,35 @@
+spring
+chun1 春
+--
+summer
+xia4 夏
+--
+autumn
+qiu1 秋
+--
+winter
+dong1 冬
+--
+east
+dong1 東
+--
+west
+xi1 西
+--
+south 
+nan2 南
+--
+north
+bei3 北
+--
+happiness
+xi3 喜
+--
+anger
+nu4 怒
+--
+sorrow
+ai1 哀
+--
+cheerful
+le4 樂

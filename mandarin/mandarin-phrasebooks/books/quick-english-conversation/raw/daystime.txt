@@ -1,0 +1,97 @@
+What time is it?
+jii 幾
+dean 點
+.le 了
+? ﹖
+--
+It's six o' clock
+liow 六
+dean 點
+--
+It's six fifteen
+liow 六
+dean 點
+shyr 十
+wuu 五
+fen 分
+--
+It's half past six
+liow 六
+dean 點
+bann 半
+--
+It's four o' clock in the afternoon
+shiah 下
+wuu 午
+syh 四
+dean 點
+--
+It's three o' clock in the morning
+ling 凌
+chern 晨
+san 三
+dean 點
+--
+It's eleven a.m.
+tzao 早
+shanq 上
+shyr 十
+i 一
+dean 點
+--
+It's ten to two p.m.
+hair 還
+yeou 有
+shyr 十
+fen 分
+jong 鐘
+jiow 就
+shyh 是
+shiah 下
+wuu 午
+leang 兩
+dean 點
+--
+What day is it today?
+jin 今
+tian 天
+shyh 是
+shing 星
+chyi 期
+jii 幾
+.ne 呢
+? ﹖
+--
+It's Monday
+shing 星
+chyi 期
+i 一
+--
+Excuse me, what day is it today?
+buh 不
+hao 好
+yih 意
+.sy 思
+, ，
+chiing 請
+wenn 問
+jin 今
+tian 天
+shing 星
+chyi 期
+jii 幾
+? ﹖
+--
+What is the date today?
+jin 今
+tian 天
+shyh 是
+jii 幾
+haw 號
+? ﹖
+--
+It's the eighteenth
+shyr 十
+ba 八
+haw 號
+--

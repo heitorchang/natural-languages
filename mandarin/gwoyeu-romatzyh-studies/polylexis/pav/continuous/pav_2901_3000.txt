@@ -1,0 +1,104 @@
+Words 2901 to 3000
+===
+Words 2901 to 3000. Write in GR.
+===
+N: drinking straw (M: 根)*shi goan
+N: narcotics, narcotic drugs*dwu piin
+N, SV, V: poison; to be poisonous, to be harsh, to be cruel; to poison*dwu
+VO: to take drugs*shi dwu
+VO: to get poisoned, to get infected by a virus*jonq dwu
+N: virus*binq dwu
+N, V: injury, harm; to injure, to harm, to hurt*shang hay
+N, V: wound, injury; to wound, to injure, to hurt*shang
+N, SV: danger; to be dangerous, perilous*wei shean
+VO: to become addicted; to become obsessed*shanq yiin
+N: tobacco dependency, craving for a cigarette*ian yiin
+N: desire for alcohol*jeou yiin
+N: gambling addiction*duu yiin
+N: drug addiction; drug dependence*dwu yiin
+N, P, V: influence; (受X的…) to be influenced by X, to be affected by X; (隊X的...) the influence upon X, the effect upon X; to influence, to affect*yiing sheang
+SV: to be curious*haw chyi
+N: curiosity*haw chyi shin
+V: to evade, to shun, to shirk, to escape*taur bih
+V: to escape*taur
+RC: to run off, to flee, to escape*taur tzoou
+N, SV: reality; to be realistic, to be practical, to be opportunistic*shiann shyr
+V: to ease, alleviate, mitigate, lighten*jean ching
+V: to substract*jean
+V: to reduce, to cut down, lessen, decrease*jean shao
+V: to give up, to stop, to drop a bad habit*jieh
+V: to thank, to express gratitude*gaan shieh
+N, V: complaint; to complain, to grumble, to express dissatisfaction*baw yuann
+VO: to brush one's teeth*shua ya
+N: tooth (M: 顆)*ya chyy
+M: measure word for small, round things (teeth in particular)*ke
+N: tooth brush (M: 把)*ya shua
+N: brush (M: 把)*shua .tzy
+V: according to, in accordance with, on the basis of, in light of*ann jaw
+N: law*faa liuh
+N: lawyer*liuh shy
+PT: more than, over; the above mentioned*yii shanq
+V: to abide by, to comply with, to adhere to*tzuen shoou
+N: teenager, juvenile, youth*ching shaw nian
+A: temporarily, for the time being*tzann shyr
+SV: to be dreadful, to be frightening, to be fearsome, to be terrible*kee pah
+V: to fear, to be afraid of*hay pah
+N: the underworld, the world of crime; the mafia*hei sheh huey
+N, V: emphasis, attention; to value, to place importance on, to pay much attention to*jonq shyh
+A: must, have to*bih shiu
+VO: to traffic, to deal narcotics*fann dwu
+V: to deal in, to sell, to peddle*fann may
+N: vending machine*fann may ji
+V: to force, to compel*bi
+VO: to commit a crime or an offence, to sin*fann tzuey
+VO: to violate or break the law*fann faa
+VO: to err, to make a mistake*fann tsuoh
+V: to grab, to grasp, to arrest, to seize, to catch*jua
+N: family, household*jia tyng
+V: to resolve, to settle*jiee jyue
+I: interjection showing disappointment, discontent, sadness, regret; a sigh*ay
+N: cocaine*guu ke jean
+N: ecstasy (a narcotic, chemical name MDMA)*yau tour wan
+N: amphetamine*an fei ta minq
+N: spider*jy ju
+V: to bite*yeau
+N: letter box, mailbox, post-office box*shinn shiang
+N: gang, faction*bang pay
+N: a woman's first name (Xinxin)*shin shin
+N: Juvenile Welfare Act of Taiwan, prohibiting underage drinking (少年～)*fwu lih faa
+N: heroin*hae luoh in
+N: morphine*maa fei
+N: crack (a narcotic)*kuay keh
+V: to follow, to carry on, to continue (j…z…)*jie .je
+V: to continue, to go on (j…x…)*jih shiuh
+N: flower (also ～兒) ; SV: to be fond of women, to be a womanizer*hua
+M, N: dime, ten cents ; fair, fur, bristles*mau
+M: measure word for a set of books, clothes, furniture, stamps, dishes, equipment, etc.*taw
+A: furthermore, moreover, what's more, besides ; to comment on something later*tzay shuo
+V: not as good as, inferior to ; P: rather than (it's better to) (與其 … ～ … )*buh ru
+A: with one's own eyes*chin yean
+A: to say something personally, right from one's mouth (of words)*chin koou
+A: to hear with one's own ears*chin eel
+A: with one's own hands, in person, personally*chin shoou
+A: personally, in person*chin tzyh
+N: confidence, faith*shinn shin
+SV, IE: to be hateful, to be detestable, to be abominable*kee wuh
+V: to deceive, to lie, to cheat, to swindle*piann
+N: swindler, liar*piann .tzy
+V: to part company, to say goodbye, to break up, to separate*fen shoou
+N, V: explanation; to explain, to expound, to interpret*jiee shyh
+N, V: misunderstanding; to misunderstand, to misconstrue*wuh huey
+V: to happen, to occur, to take place*fa sheng
+V: to beg, to entreat, to request*chyou
+N, V: request, demand; to ask for, request, to demand*iau chyou
+SV: to be soft-hearted, to be tender-hearted, to be compassionate*shin roan
+SV: to be soft, gentle*roan
+N: computer software*roan tii
+V: to excuse, to forgive, to pardon*yuan lianq
+N: playboy, womanizer*hua hua gong tzyy
+A: always, invariably (l…)*lao shyh
+IE: to carry on a romantic relationship with two people at the same time (～船)*jeau tah leang tyau
+N: eloquence*koou tsair
+A, SV, VO: sadly; to feel sad, to feel grieved, to be broken-hearted; to hurt one's feelings, to break one's heart*shang shin
+IE: however, on the other hand*huah shuo hwei lai
+VO: to alter one's devotion, to lose one's love for a romantic partner*biann shin

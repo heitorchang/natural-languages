@@ -1,0 +1,171 @@
+Family members
+jia 家
+tyng 庭
+cherng 成
+yuan 員
+--
+grandfather
+ye 爺
+.ie 爺
+--
+grandmother
+nae 奶
+.nai 奶
+--
+father
+fuh 父
+chin 親
+--
+mother
+muu 母
+chin 親
+--
+husband
+shian 先
+sheng 生
+--
+husband
+janq 丈
+fu 夫
+--
+wife
+tay 太
+.tai 太
+--
+wife
+chi 妻
+.tzy 子
+--
+older brother
+ge 哥
+.ge 哥
+--
+older sister
+jiee 姊
+.jie 姊
+--
+younger sister
+mey 妹
+.mei 妹
+--
+younger brother
+dih 弟
+.di 弟
+--
+son
+erl 兒
+.tzy 子
+--
+daughter
+neu 女
+erl 兒
+--
+brothers
+shiong 兄
+dih 弟
+--
+sisters
+jiee 姊
+mey 妹
+--
+uncle (father's side)
+shwu 叔
+.shu 叔
+--
+uncle (mother's side)
+jiow 舅
+.jiou 舅
+--
+cousin
+tarng 堂
+shiong 兄
+dih 弟
+--
+cousin
+beau 表
+shiong 兄
+dih 弟
+--
+aunt (father's side)
+gu 姑
+.gu 姑
+--
+aunt (mother's side)
+a 阿
+yi 姨
+--
+man
+nan 男
+ren 人
+--
+woman
+neu 女
+ren 人
+--
+boy
+nan 男
+hair 孩
+--
+girl
+neu 女
+hair 孩
+--
+child
+sheau 小
+hair 孩
+--
+baby
+ing 嬰
+erl 兒
+--
+How many people are in your family?
+nii 你
+jia 家
+yeou 有
+jii 幾
+koou 口
+ren 人
+? ?
+--
+There are four people in my family.
+woo 我
+jia 家
+yeou 有
+syh 四
+koou 口
+ren 人
+--
+My father, mother, sister, and me.
+fuh 父
+chin 親
+, ，
+muu 母
+chin 親
+, ，
+mey 妹
+.mei 妹
+, ，
+hair 還
+yeou 有
+woo 我
+. 。
+--
+I live with my family.
+woo 我
+her 和
+jia 家
+ren 人
+juh 住
+tzay 在
+yih 一
+chii 起
+. 。
+--
+I live in Taipei.
+woo 我
+juh 住
+tzay 在
+tair 台
+beei 北
+. 。
+--

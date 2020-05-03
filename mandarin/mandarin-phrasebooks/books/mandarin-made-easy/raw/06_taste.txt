@@ -1,0 +1,106 @@
+taste
+wey 味
+daw 道
+--
+sour
+suan 酸
+--
+sweet
+tyan 甜
+--
+bitter
+kuu 苦
+--
+spicy
+lah 辣
+--
+salty
+shyan 鹹
+--
+How does the dish taste?
+jeh 這
+daw 道
+tsay 菜
+wey 味
+daw 道
+tzeen 怎
+.me 麼
+yanq 樣
+? ?
+--
+Very good and authentic
+heen 很
+hao 好
+chy 吃
+. 。
+daw 道
+dih 地
+.de 的
+yuan 原
+wey 味
+. 。
+--
+Very delicious.
+heen 很
+kee 可
+koou 口
+--
+It melts in your mouth
+ruh 入
+koou 口
+jyi 即
+huah 化
+--
+Not good
+buh 不
+hao 好
+chy 吃
+--
+I think it's too salty
+woo 我
+jyue 覺
+.de 得
+tay 太
+shyan 鹹
+.le 了
+--
+ Too greasy
+tay 太
+you 油
+nih 膩
+.le 了
+--
+The flavor is too strong.
+wey 味
+daw 道
+heen 很
+jonq 重
+--
+I think it's too bland.
+woo 我
+jyue 覺
+.de 得
+wey 味
+daw 道
+heen 很
+dann 淡
+--
+I don't like this flavor
+woo 我
+buh 不
+shii 喜
+huan 歡
+jeh 這
+joong 種
+koou 口
+wey 味
+. 。
+--
+I am not used to it
+woo 我
+chy 吃
+buh 不
+shyi 習
+guann 慣
+. 。
+--

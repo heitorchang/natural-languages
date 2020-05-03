@@ -1,0 +1,104 @@
+Words 1701 to 1800
+===
+Words 1701 to 1800. Write in GR.
+===
+N: voter, elector*sheuan min
+N: propaganda, advertisement*wen shiuan
+IE: in your opinion*nii kann
+V: to be elected*dang sheuan
+N: Democratic Party*min juu daang
+N: Socialist Party*sheh huey daang
+N: National Assembly*gwo min dah huey
+N: Control Yuan (a central government body in Taiwan)*jian char yuann
+N: member of the Control Yuan (a central government body in Taiwan)*jian char woei yuan
+NU (QW), A: how much? how many? ; how many, how much, more or less, somewhat*duo shao
+N: Hamburg ; hamburger (also ～包, second character also written 飽)*hann bao
+N, V: sport, exercise; to exercise ; movement, campaign, drive (political, social, etc.)*yunn donq
+N: auditorium, lecture hall*yean jeang ting
+V, N: to deliver a speech, give a lecture; lecture speech (M: 場, 次) (y…j…)*yean jeang
+V, N: to deliver a speech, give a lecture; lecture speech (M:*jeang yean
+V: to speak, explain*jeang
+VO: to bargain, to haggle over prices*jeang jiah
+V, N: to agree, give consent; agreement, consent*torng yih
+N: democratic movement*min juu yunn donq
+N, SV: democracy, to be democratic*min juu
+V: to carry out, implement, to put into practice*shyr shyng
+N: communism*gonq chaan juu yih
+N: doctrine, '-ism'*juu yih
+N: communist party*gonq chaan daang
+N: communisty party (short name)*gonq daang
+V, N: to revolt, to overhaul; a revolution (M: 次, 場)*ger minq
+N, V: reform; to reform*gae ger
+N, V, SV: success; to succeeed; to be successful*cherng gong
+V: to overthrow, overturn, topple*tuei fan
+V: to push, to shove*tuei
+SV: rotten, decayed, corrupt*fuu bay
+V: to rot, to decay, to decompose*fuu lann
+V: to establish, to set up, to found*jiann lih
+V, N: to build, to construct; construction*jiann sheh
+N: civil war (M: 場, 次)*ney jann
+VO: to go to war, to engage in combat, to battle*daa janq
+N, SV: stability; to be stable, to be settled*an dinq
+N: the people*ren min
+N: citizen, people, nationals (gu…)*gwo min
+N: citizen (go…)*gong min
+N: residents of a city*shyh min
+N, V: leadership, guidance; to lead, guide*liing dao
+N: war, combat (M: 場, 次)*jann jeng
+V: to end, finish, conclude*jye shuh
+N: strength, power (…l…)*lih lianq
+N: energy, power (…q…)*lih chih
+SV: feeble, weak, frail*ruoh
+N: force, power, influence (s…)*shyh lih
+N, V: control, command; to control, manipulate, dominate*konq jyh
+SV: serious, grave, critical*yan jonq
+SV: to be strict, severe*yan
+SV: to be strict, severe (…g…)*yan ger
+V: to move to another place*chian
+N: history*lih shyy
+DEM: each, every, various*geh
+N: system*jyh duh
+MA, N: in the future, the future*jiang lai
+N, SV: economy, financial status; to be economical, thrifty*jing jih
+V: to abandon, give up, renounce*fanq chih
+N, V: proof, evidence; to prove, to confirm (first character also written 証)*jenq ming
+N: a certificate (of a person's qualifications, abilities, etc.) (M: 張) (first character also written 証)*jenq ming shu
+N: certificate (M: 張) (first character also written 証)*jenq shu
+N: humankind, the human race*ren ley
+N: anthropology*ren ley shyue
+V: to believe that, consider that*renn wei
+N, V: democratization, to democratize*min juu huah
+N, V: westernization, to westernize*shi huah
+N, V: systematization; to systematize*jyh duh huah
+N, V: computerization; to computerize*diann nao huah
+N, V: automation; to automate*tzyh donq huah
+N, V: warming; to make warm*noan huah
+N: slippers, thongs (M: 雙)*tuo shye
+V: to pull, drag, haul; to drag on, delay; to mop*tuo
+N: courtesy, manners, social etiquette*lii maw
+SV: to be courteous, to have good manners, to be polite*yeou lii maw
+N: comic book*mann huah shu
+N: caricature, cartoon*mann huah
+N: colony*jyr min dih
+N: India*yinn duh
+V, N: to govern, to rule; governance, dominion*toong jyh
+N: army, troops, armed forces (M: 支)*jiun duey
+N: soldier, serviceperson*jiun ren
+N: ground forces, land forces, army*luh jiun
+N: naval forces, navy*hae jiun
+N: air force*kong jiun
+N: commander-in-chief*toong shuay
+V: to declare, proclaim, announce*shiuan buh
+N: cloth (M: 塊, 尺)*buh
+N: Sun Yat-sen (1866-1925)*suen jong shan
+N: Qing dynasty (1644-1911)*ching chaur
+N: Republic of China (since 1912, moved to Taiwan in 1949)*jong hwa min gwo
+N: Three Principles of the People (a treatise by Sun Yat-sen)*san min juu yih
+N: world war, (第二次~) World War II*shyh jieh dah jann
+N: Mao Zedong (1893-1976)*mau tzer dong
+N: Chiang Kai-shek (1887-1975)*jeang jieh shyr
+N: National Government*gwo min jenq fuu
+N: The People's Republic of China (since 1949) (中華～國)*ren min gonq her
+N: Eastern Europe*dong ou
+N: American Indians*yinn dih an ren
+N: The American Civil War (1861-1865)*nan beei jann jeng

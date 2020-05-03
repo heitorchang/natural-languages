@@ -1,0 +1,100 @@
+knife
+dau 刀
+--
+bow (weapon)
+gong 弓
+--
+axe
+fuu 斧
+.tzy 子
+--
+towel
+mau 毛
+jin 巾
+--
+cloth
+buh 布
+--
+clothes
+i 衣
+.fu 服
+--
+shoe
+shye 鞋
+.tzy 子
+--
+well (of water)
+jiing 井
+--
+bag 
+bau 包
+--
+jade
+yuh 玉
+--
+ruler (measuring tool)
+chyy 尺
+.tzy 子
+--
+pen, brush
+bii 筆
+--
+letter, mail
+shinn 信
+--
+book
+shu 書
+--
+picture
+huah 畫
+--
+table
+juo 桌
+--
+chair
+yii 椅
+--
+gate, door
+men 門
+--
+window
+chuang 窗
+.hu 戶
+--
+bed
+chwang 床
+--
+lamp, light
+deng 燈
+--
+umbrella
+yeu 雨
+saan 傘
+--
+car
+che 車
+--
+boat
+chwan 船
+--
+ball
+chyou 球
+--
+money
+chyan 錢
+--
+bowl
+woan 碗
+--
+chopsticks
+kuay 筷
+.tzy 子
+--
+plate, dish
+parn 盤
+--
+bottle
+pyng 瓶
+--
+pot, pan
+guo 鍋

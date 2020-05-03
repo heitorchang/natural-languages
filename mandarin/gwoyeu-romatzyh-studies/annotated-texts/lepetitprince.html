@@ -1,0 +1,171 @@
+ <!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+        <title>Gwoyeu Romatzyh Annotated Text</title>
+        <style>
+         .para {
+             margin-bottom: 2.2rem;
+         }
+         
+         .char {
+             font-size: 1.4rem;
+         }
+
+         .indenter {
+             width: 2.4rem;
+         }
+         
+         .gr {
+             background-color: #EEE;
+             padding: 0 0.5rem;
+         }
+
+         .totalchar {
+             display: inline-block;
+             text-align: center;
+             margin-bottom: 2.2rem;
+         }
+
+         [v-cloak] > * {
+             display: none;
+         }
+
+         [v-cloak]::before {
+             content: "Loading...";
+         }
+        </style>
+    </head>
+    <body>
+        <div id="gwoyeutext" v-cloak>
+            <h3>Le Petit Prince</h3>
+            <div v-for="para in fmt" class="para">
+                <div class="indenter totalchar">
+                    &nbsp;
+                </div>
+                
+                <div v-for="char in para" class="totalchar">
+                    <div class="char">
+                        {{ char[1] }}
+                    </div>
+                    <div class="gr">
+                        {{ char[0] }}
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <script src="js/vue2.min.js"></script>
+        <script>
+         const app = new Vue({
+           el: "#gwoyeutext",
+           
+           data: {
+
+             // PARA is the paragraph separator.
+             // An initial PARA is not needed
+             // Each line should be: GR Char
+             
+             raw: `
+liow 六
+suey 歲
+shyr 時
+yeou 有
+yi 一
+tsyh 次
+, ，
+woo 我
+tzay 在
+i 一
+been 本
+shiuh 敘
+shuh 述
+yeou 有
+guan 關
+yuan 原
+shyy 始
+sen 森
+lin 林
+, ，
+ming 名
+jiaw 叫
+" [
+dah 大 
+tzyh 自
+ran 然 
+.de 的
+jen 真
+shianq 相
+" ]
+.de 的
+shu 書
+jong 中
+, ，
+kann 看
+daw 到
+i 一
+fwu 幅
+chyi 奇
+teh 特
+.de 的
+huah 畫
+. 。
+PARA
+huah 畫
+jong 中
+yih 一
+tyau 條
+dah 大
+maang 蟒
+sher 蛇
+jenq 正
+tzay 在
+tuen 吞
+shyh 噬
+yih 一
+jy 隻
+yee 野
+show 獸
+, ，
+jeh 這
+jiow 就
+shyh 是
+nah 那
+jang 張
+huah 畫
+.de 的
+yiing 影
+yinn 印
+been 本
+. 。
+
+             `,
+
+           },
+
+           computed: {
+             fmt() {
+               const rawtrim = this.raw.trim();
+               const rawparagraphs = rawtrim.split('PARA');
+               let result = [];
+               for (para of rawparagraphs) {
+                 let words = para.trim().split('\n');
+                 let curpara = [];
+                 for (word of words) {
+                   curpara.push(word.trim().split(" "));
+                 }                
+                 result.push(curpara);
+               }
+               return result;
+             }
+           },
+           
+           methods: {
+
+           },
+
+         });
+        </script>
+    </body>
+</html>

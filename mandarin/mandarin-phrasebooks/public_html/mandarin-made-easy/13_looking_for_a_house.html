@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+        <title>Mandarin Phrasebooks</title>
+        <style>
+         @font-face {
+             font-family: "SourceSansPro";
+             src: url('../css/SourceSansPro-Regular.ttf') format('truetype');
+             font-style: normal;
+         }
+         
+         body {
+             font-family: "SourceSansPro", sans-serif;
+         }
+         
+         .para {
+             margin-bottom: 1.5em;
+         }
+         
+         .char {
+             font-size: 1.4em;
+             margin: 0.2em;
+         }
+
+         .indenter {
+             width: 2.4em;
+         }
+
+         .english {
+             background-color: #DDF;
+             padding: 0.3em 0.6em;
+             margin-bottom: 0.2em;
+             font-size: 1.4em;
+         }
+
+         .mandarin {
+             padding: 0 0.7em;
+         }
+         
+         .gr {
+             background-color: #FFC;
+             padding: 0.1em 0.3em;
+             font-size: 1.2em;
+         }
+
+         .totalchar {
+             display: inline-block;
+             text-align: center;
+             margin-bottom: 1.7em;
+         }
+
+         [v-cloak] > * {
+             display: none;
+         }
+
+         [v-cloak]::before {
+             content: "Loading...";
+         }
+
+         a {
+             margin-right: 1.2em;
+             text-decoration: none;
+             font-weight: bold;
+             font-size: 1.2em;
+         }
+        </style>
+    </head>
+    <body>
+        <div id="gwoyeutext" v-cloak>
+            <a href="12_business_card.html">&lt; Previous</a>
+            <a href="index.html">Contents</a>
+            <a href="14_household_chores.html">Next &gt;</a>
+            
+            <h3>Looking for a house
+</h3>
+            <div v-for="phrase in fmt" class="para">
+                <div class="english">
+                    {{ phrase[0] }}
+                </div>
+
+                <div class="mandarin">
+                    <div v-for="char in phrase[1]" class="totalchar">
+                        <div class="char">
+                            {{ char[1] }}
+                        </div>
+                        <div class="gr">
+                            {{ PinyinConverter.convert(char[0]) }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <a href="12_business_card.html">&lt; Previous</a>
+            <a href="index.html">Contents</a>
+            <a href="14_household_chores.html">Next &gt;</a>
+
+            <br><br><br><br><br><br>
+        </div>
+        
+        <script src="../js/vue2.min.js"></script>
+        <script>
+         const raw = [
+[`looking for a house`, `
+jao 找
+farng 房
+tzyy 子
+`],
+[`suite`, `
+taw 套
+farng 房
+`],
+[`room`, `
+yea 雅
+farng 房
+`],
+[`apartment`, `
+gong 公
+yuh 寓
+`],
+[`townhouse`, `
+tow 透
+tian 天
+`],
+[`store`, `
+shang 商
+diann 店
+`],
+[`elevator`, `
+diann 電
+ti 梯
+`],
+[`security guard`, `
+jiing 警
+wey 衛
+`],
+[`for sale`, `
+show 售
+`],
+[`for rent`, `
+chu 出
+tzu 租
+`],
+[`take over a business`, `
+diing 頂
+ranq 讓
+`],
+[`suite for rent`, `
+taw 套
+farng 房
+chu 出
+tzu 租
+`],
+[`one bedroom`, `
+yih 一
+farng 房
+`],
+[`one living room`, `
+yih 一
+ting 廳
+`],
+[`one bathroom`, `
+yi 一
+wey 衛
+`],
+[`quiet in a noisy area`, `
+naw 鬧
+jong 中
+cheu 取
+jinq 靜
+`],
+[`bright`, `
+tsae 採
+guang 光
+jia 佳
+`],
+[`close to MRT`, `
+li 離
+jye 捷
+yunn 運
+jinn 近
+`],
+[`furniture included`, `
+fuh 附
+jia 家
+jiuh 具
+`],
+[`NT$ 10,000 per month`, `
+yueh 月
+tzu 租
+yi 一
+wann 萬
+`],
+[`for information`, `
+yih 意
+jee 者
+chiing 請
+chiah 洽
+`],
+[`telephone`, `
+diann 電
+huah 話
+`],
+[`for sale`, `
+chu 出
+show 售
+`],
+[`three large rooms`, `
+dah 大
+san 三
+farng 房
+`],
+[`square layout`, `
+ger 格
+jyu 局
+fang 方
+jenq 正
+`],
+[`good (wide) view`, `
+shyh 視
+yee 野
+kuan 寬
+kuoh 闊
+`],
+[`million-dollar decor`, `
+bae 百
+wann 萬
+juang 裝
+hwang 潢
+`],
+[`close to school`, `
+jinn 近
+shyue 學
+chiu 區
+`],
+[`parking space included`, `
+fuh 附
+che 車
+wey 位
+`],
+[`Excuse me, do you have a suite for rent?`, `
+chiing 請
+wenn 問
+, ，
+nii 你
+yeou 有
+taw 套
+farng 房
+yaw 要
+chu 出
+tzu 租
+.ma 嗎
+? ?
+`],
+[`Yes, how many of you are renting?`, `
+shyh 是
+.a 啊
+, ，
+nii 你
+yeou 有
+jii 幾
+.ge 個
+ren 人
+yaw 要
+juh 住
+.ne 呢
+? ?
+`],
+[`Just me`, `
+woo 我
+yih 一
+.ge 個
+ren 人
+juh 住
+`],
+[`Can I take a look at the place?`, `
+woo 我
+kee 可
+yii 以
+kann 看
+.kan 看
+farng 房
+jian 間
+.ma 嗎
+? ?
+`],
+[`Of course`, `
+dang 當
+ran 然
+kee 可
+yii 以
+. 。
+`],
+[`How much is the rent per month?`, `
+yih 一
+.ge 個
+yueh 月
+farng 房
+tzu 租
+shyh 是
+duo 多
+shao 少
+? ?
+`],
+[`NT$ 10,000 per month, not including utilities.`, `
+yih 一
+.ge 個
+yueh 月
+yi 一
+wann 萬
+kuay 塊
+chyan 錢
+, ，
+shoei 水
+diann 電
+fey 費
+buh 不
+bau 包
+harn 含
+`],
+[`How much is the deposit?`, `
+nii 你
+shiu 需
+yaw 要
+jii 幾
+.ge 個
+yueh 月
+.de 的
+ia 押
+jin 金
+? ?
+`],
+[`Two months' rent`, `
+leang 兩
+.ge 個
+yueh 月
+.de 的
+farng 房
+tzu 租
+`],
+[`I am a student, can you rent it a little cheaper?`, `
+woo 我
+shyh 是
+shyue 學
+sheng 生
+, ，
+chiing 請
+suann 算
+woo 我
+pyan 便
+.i 宜
+yih 一
+dean 點
+`],
+[`Sorry, I can't lower the price.`, `
+duey 對
+buh 不
+chii 起
+, ，
+woo 我
+mei 沒
+yeou 有
+bann 辦
+faa 法
+tzay 再
+jianq 降
+jiah 價
+.le 了
+`],
+[`It's the best price.`, `
+jeh 這
+shyh 是
+tzuey 最
+pyan 便
+.i 宜
+.le 了
+`],
+[`The place next door is cheaper.`, `
+ger 隔
+bih 壁
+nah 那
+yih 一
+jian 間
+bii 比
+jiaw 較
+pyan 便
+.i 宜
+`],
+[`Do you want to take a look?`, `
+nii 你
+yaw 要
+tsan 參
+kao 考
+yi 一
+shiah 下
+.ma 嗎
+? ?
+`],
+[`Yes, I do.`, `
+hao 好
+, ，
+woo 我
+yaw 要
+kann 看
+.kan 看
+`],
+[`This one is good, too`, `
+jeh 這
+yih 一
+jian 間
+yee 也
+bwu 不
+tsuoh 錯
+`],
+[`I'll take it`, `
+woo 我
+jyue 決
+dinq 定
+tzu 租
+.le 了
+`],
+[`Okay. I'll charge you NT$ 9,000 per month for the rent.`, `
+hao 好
+.ba 吧
+. 。
+woo 我
+suann 算
+nii 你
+jeou 九
+chian 千
+hao 好
+.le 了
+`],
+[`Okay. Let's sign a contract, then`, `
+hao 好
+, 。
+nah 那
+woo 我
+.men 們
+chian 簽
+iue 約
+.ba 吧
+`],
+];
+
+         // PinyinConverter by David Chanin and Jen Liu @quizlet 2013
+
+         (function() {
+           var PinyinConverter;
+
+           PinyinConverter = {
+             pinyinRegex: /(shuang|chuang|zhuang|xiang|qiong|shuai|niang|guang|sheng|kuang|shang|jiong|huang|jiang|shuan|xiong|zhang|zheng|zhong|zhuai|zhuan|qiang|chang|liang|chuan|cheng|chong|chuai|hang|peng|chuo|piao|pian|chua|ping|yang|pang|chui|chun|chen|chan|chou|chao|chai|zhun|mang|meng|weng|shai|shei|miao|zhui|mian|yong|ming|wang|zhuo|zhua|shao|yuan|bing|zhen|fang|feng|zhan|zhou|zhao|zhei|zhai|rang|suan|reng|song|seng|dang|deng|dong|xuan|sang|rong|duan|cuan|cong|ceng|cang|diao|ruan|dian|ding|shou|xing|zuan|jiao|zong|zeng|zang|jian|tang|teng|tong|bian|biao|shan|tuan|huan|xian|huai|tiao|tian|hong|xiao|heng|ying|jing|shen|beng|kuan|kuai|nang|neng|nong|juan|kong|nuan|keng|kang|shua|niao|guan|nian|ting|shuo|guai|ning|quan|qiao|shui|gong|geng|gang|qian|bang|lang|leng|long|qing|ling|luan|shun|lian|liao|zhi|lia|liu|qin|lun|lin|luo|lan|lou|qiu|gai|gei|gao|gou|gan|gen|lao|lei|lai|que|gua|guo|nin|gui|niu|nie|gun|qie|qia|jun|kai|kei|kao|kou|kan|ken|qun|nun|nuo|xia|kua|kuo|nen|kui|nan|nou|kun|jue|nao|nei|hai|hei|hao|hou|han|hen|nai|rou|xiu|jin|hua|huo|tie|hui|tun|tui|hun|tuo|tan|jiu|zai|zei|zao|zou|zan|zen|eng|tou|tao|tei|tai|zuo|zui|xin|zun|jie|jia|run|diu|cai|cao|cou|can|cen|die|dia|xue|rui|cuo|cui|dun|cun|cin|ruo|rua|dui|sai|sao|sou|san|sen|duo|den|dan|dou|suo|sui|dao|sun|dei|zha|zhe|dai|xun|ang|ong|wai|fen|fan|fou|fei|zhu|wei|wan|min|miu|mie|wen|men|lie|chi|cha|che|man|mou|mao|mei|mai|yao|you|yan|chu|pin|pie|yin|pen|pan|pou|pao|shi|sha|she|pei|pai|yue|bin|bie|yun|nüe|lve|shu|ben|ban|bao|bei|bai|lüe|nve|ren|ran|rao|xie|re|ri|si|su|se|ru|sa|cu|ce|ca|ji|ci|zi|zu|ze|za|hu|he|ha|ju|ku|ke|qi|ka|gu|ge|ga|li|lu|le|qu|la|ni|xi|nu|ne|na|ti|tu|te|ta|xu|di|du|de|bo|lv|ba|ai|ei|ao|ou|an|en|er|da|wu|wa|wo|fu|fo|fa|nv|mi|mu|yi|ya|ye|me|mo|ma|pi|pu|po|yu|pa|bi|nü|bu|lü|e|o|a)r?[1-5]/gi,
+             vowels: {
+               'a*': '0',
+               'e*': '1',
+               'i*': '2',
+               'o*': '3',
+               'u*': '4',
+               'ü*': '5',
+               'A*': '6',
+               'E*': '7',
+               'I*': '8',
+               'O*': '9',
+               'U*': '10',
+               'Ü*': '11'
+             },
+             pinyin: {
+               1: ['ā', 'ē', 'ī', 'ō', 'ū', 'ǖ', 'Ā', 'Ē', 'Ī', 'Ō', 'Ū', 'Ǖ'],
+               2: ['á', 'é', 'í', 'ó', 'ú', 'ǘ', 'Á', 'É', 'Í', 'Ó', 'Ú', 'Ǘ'],
+               3: ['ǎ', 'ě', 'ǐ', 'ǒ', 'ǔ', 'ǚ', 'Ǎ', 'Ě', 'Ǐ', 'Ǒ', 'Ǔ', 'Ǚ'],
+               4: ['à', 'è', 'ì', 'ò', 'ù', 'ǜ', 'À', 'È', 'Ì', 'Ò', 'Ù', 'Ǜ'],
+               5: ['a', 'e', 'i', 'o', 'u', 'ü', 'A', 'E', 'I', 'O', 'U', 'Ü']
+             },
+             convert: function(string) {
+               var j, len, match, matches, replacement;
+               matches = string.match(this.pinyinRegex);
+               if (!matches) {
+                 return string;
+               }
+               for (j = 0, len = matches.length; j < len; j++) {
+                 match = matches[j];
+                 replacement = this.getReplacement(match);
+                 string = string.replace(match, replacement);
+               }
+               return string;
+             },
+             getReplacement: function(match) {
+               var accentMap, accentedVowelChar, base, replacedWord, tone, vowel, vowelChar, vowelNum, word;
+               accentMap = this.getAccentMap();
+               tone = match.slice(-1);
+               word = match.slice(0, -1).replace('v', 'ü').replace('V', 'Ü');
+               for (base in accentMap) {
+                 vowel = accentMap[base];
+                 if (word.indexOf(base) >= 0) {
+                   vowelChar = vowel.match(/.\*/)[0];
+                   vowelNum = this.vowels[vowelChar];
+                   accentedVowelChar = this.pinyin[tone.toString()][vowelNum];
+                   replacedWord = word.replace(base, vowel).replace(vowelChar, accentedVowelChar);
+                   return replacedWord;
+                 }
+               }
+               return match;
+             },
+             getAccentMap: function() {
+               var base, i, j, len, nostars, ref, stars, starsArray;
+               if (!this.accentMap) {
+                 stars = 'a*i a*o e*i ia* ia*o ie* io* iu* ' + 'A*I A*O E*I IA* IA*O IE* IO* IU* ' + 'o*u ua* ua*i ue* ui* uo* üe* ' + 'O*U UA* UA*I UE* UI* UO* ÜE* ' + 'A* E* I* O* U* Ü* ' + 'a* e* i* o* u* ü*';
+                 nostars = stars.replace(/\*/g, '');
+                 starsArray = stars.split(' ');
+                 this.accentMap = {};
+                 ref = nostars.split(' ');
+                 for (i = j = 0, len = ref.length; j < len; i = ++j) {
+                   base = ref[i];
+                   this.accentMap[base] = starsArray[i];
+                 }
+               }
+               return this.accentMap;
+             }
+           };
+
+           (function(root, factory) {
+             if (typeof define === 'function' && define.amd) {
+               return define(factory);
+             } else if (typeof exports === 'object') {
+               return module.exports = factory();
+             } else {
+               return root.PinyinConverter = factory();
+             }
+           })(this, function() {
+             return PinyinConverter;
+           });
+
+         }).call(this);
+
+         
+         function convertPara(para) {
+           let result = [];
+           for (word of para.trim().split("\n")) {
+             result.push(word.trim().split(" "));
+           }
+           return result;
+         }
+         
+         const app = new Vue({
+           el: "#gwoyeutext",
+           
+           data: {
+             raw: raw,
+           },
+
+           computed: {
+             fmt() {
+               let result = [];
+               for (phrase of this.raw) {
+                 let curphr = [];
+                 curphr.push(phrase[0]);
+                 curphr.push(convertPara(phrase[1]));
+                 result.push(curphr);
+               }             
+               return result;
+             }
+           },
+         });
+        </script>
+    </body>
+</html>
+

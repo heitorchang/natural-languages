@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+        <title>Mandarin Phrasebooks</title>
+        <style>
+         @font-face {
+             font-family: "SourceSansPro";
+             src: url('../css/SourceSansPro-Regular.ttf') format('truetype');
+             font-style: normal;
+         }
+         
+         body {
+             font-family: "SourceSansPro", sans-serif;
+         }
+         
+         .dispchoice {
+             display: inline-block;
+             text-align: center;
+             margin-right: 0.6em;
+             margin-bottom: 1.2em;
+             padding: 0.5em;
+             border: 1px solid #30E;
+             border-radius: 8px;
+             box-shadow: 0 5px 7px #9AF;
+         }
+
+         a {
+             text-decoration: none;
+         }
+
+         .booklink {
+             display: inline-block;
+             margin-right: 1em;
+             margin-bottom: 1.2em;
+             padding: 1.2em;
+             border: 1px solid #AAA;
+             box-shadow: 0 8px 10px #621;
+             border-radius: 8px;
+             font-size: 1.2em;
+         }
+         
+        </style>
+    </head>
+    <body>
+        <h1>Mandarin Phrasebooks</h1>
+        
+        <h3>Available Books</h3>
+        %(book_links)s
+
+        <h3>Current display settings: %(version)s</h3>
+        <h3>Switch display settings to:</h3>
+        <a href="index_py_s.html">
+            <div class="dispchoice">
+                Pinyin, Simplified characters<br>
+                中国<br>zhōng guó
+            </div>
+        </a>
+        <br>        
+
+        <a href="index_py.html">
+            <div class="dispchoice">
+                Pinyin, Traditional characters<br>
+                中國<br>
+                zhōng guó
+            </div>
+        </a>
+        <br>
+
+        <a href="index.html">
+            <div class="dispchoice">
+                Gwoyeu Romatzyh, Traditional characters<br>
+                中國<br>jong gwo
+            </div>
+        </a>
+        
+        <br><br><br><br><br><br>
+    </body>
+</html>

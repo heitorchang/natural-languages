@@ -1,0 +1,23 @@
+女生用品;neu sheng yonq piin;women's beauty products
+化妝品;huah juang piin;cosmetics
+眼霜;yean shuang;eye cream
+粉底;feen dii;foundation
+口紅;koou horng;lipstick
+晚霜;woan shuang;night cream
+化妝水;huah juang shoei;toner
+防曬乳液;farng shay ruu yih;sunscreen lotion
+睫毛夾;jye mau jya;eyelash curler
+梳子;shu .tzy;comb
+髮夾;faa jya;hair clip
+指甲油;jyy jea you;nail polish
+耳環;eel hwan;earrings
+戒指;jieh jyy;ring
+手鐲;shoou jwo;bracelet
+項鍊;shianq liann;necklace
+衛生棉;wey sheng mian;sanitary pad
+我要買口紅;woo yaw mae koou horng;I want to buy some lipstick
+你們的口紅有幾種顏色?;nii .men .de koou horng yeou jii joong yan seh?;How many colors of lipstick do you have?
+有五種顏色;yeou wuu joong yan seh;Five colors
+這個顏色比較適合妳;jeh .ge yan seh bii jiaw shyh her nii;This color suits you
+很好，我也喜歡這個顏色。;heen hao, woo yee shii huan jeh .ge yan seh;Great, I like this color as well
+我就買這個;woo jiow mae jeh .ge;I'll take this one

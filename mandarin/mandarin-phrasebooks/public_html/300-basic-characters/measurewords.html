@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+        <title>Mandarin Phrasebooks</title>
+        <style>
+         @font-face {
+             font-family: "SourceSansPro";
+             src: url('../css/SourceSansPro-Regular.ttf') format('truetype');
+             font-style: normal;
+         }
+         
+         body {
+             font-family: "SourceSansPro", sans-serif;
+         }
+         
+         .para {
+             margin-bottom: 1.5em;
+         }
+         
+         .char {
+             font-size: 1.4em;
+             margin: 0.2em;
+         }
+
+         .indenter {
+             width: 2.4em;
+         }
+
+         .english {
+             background-color: #DDF;
+             padding: 0.3em 0.6em;
+             margin-bottom: 0.2em;
+             font-size: 1.4em;
+         }
+
+         .mandarin {
+             padding: 0 0.7em;
+         }
+         
+         .gr {
+             background-color: #FFC;
+             padding: 0.1em 0.3em;
+             font-size: 1.2em;
+         }
+
+         .totalchar {
+             display: inline-block;
+             text-align: center;
+             margin-bottom: 1.7em;
+         }
+
+         [v-cloak] > * {
+             display: none;
+         }
+
+         [v-cloak]::before {
+             content: "Loading...";
+         }
+
+         a {
+             margin-right: 1.2em;
+             text-decoration: none;
+             font-weight: bold;
+             font-size: 1.2em;
+         }
+        </style>
+    </head>
+    <body>
+        <div id="gwoyeutext" v-cloak>
+            <a href="opposites.html">&lt; Previous</a>
+            <a href="index.html">Contents</a>
+            <a href="thematic.html">Next &gt;</a>
+            
+            <h3>Measure Words
+</h3>
+            <div v-for="phrase in fmt" class="para">
+                <div class="english">
+                    {{ phrase[0] }}
+                </div>
+
+                <div class="mandarin">
+                    <div v-for="char in phrase[1]" class="totalchar">
+                        <div class="char">
+                            {{ char[1] }}
+                        </div>
+                        <div class="gr">
+                            {{ PinyinConverter.convert(char[0]) }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <a href="opposites.html">&lt; Previous</a>
+            <a href="index.html">Contents</a>
+            <a href="thematic.html">Next &gt;</a>
+
+            <br><br><br><br><br><br>
+        </div>
+        
+        <script src="../js/vue2.min.js"></script>
+        <script>
+         const raw = [
+[`classifier for slices`, `
+piann 片
+`],
+[`classifier for horses`, `
+pii 匹
+`],
+[`classifier for books`, `
+been 本
+`],
+[`platform, stage`, `
+tair 臺
+`],
+[`classifier for flowers`, `
+duoo 朵
+`],
+[`classifier for rows or strings`, `
+chuann 串
+`],
+[`cup`, `
+bei 杯
+`],
+[`classifier for sticks, rods`, `
+jy 枝
+`],
+[`classifier for planes and large vehicles`, `
+jiah 架
+`],
+[`classifier for long, slender objects`, `
+gen 根
+`],
+[`generic classifier`, `
+geh 個
+`],
+[`classifier for birds; one of a pair`, `
+jy 隻
+`],
+[`bucket`, `
+toong 桶
+`],
+[`top, roof`, `
+diing 頂
+`],
+[`box`, `
+her 盒
+`],
+[`classifier for flat objects, sheets`, `
+jang 張
+`],
+[`classifier for long, thin things`, `
+tyau 條
+`],
+[`classifier for small round things`, `
+lih 粒
+`],
+[`classifier for houses and buildings`, `
+donq 棟
+`],
+[`classifier for pieces of cloth, cake, soap, currency`, `
+kuay 塊
+`],
+[`classifier for trees, cabbages, and plants`, `
+ke 棵
+`],
+[`classifier for vehicles`, `
+lianq 輛
+`],
+[`pair`, `
+shuang 雙
+`],
+];
+
+         // PinyinConverter by David Chanin and Jen Liu @quizlet 2013
+
+         (function() {
+           var PinyinConverter;
+
+           PinyinConverter = {
+             pinyinRegex: /(shuang|chuang|zhuang|xiang|qiong|shuai|niang|guang|sheng|kuang|shang|jiong|huang|jiang|shuan|xiong|zhang|zheng|zhong|zhuai|zhuan|qiang|chang|liang|chuan|cheng|chong|chuai|hang|peng|chuo|piao|pian|chua|ping|yang|pang|chui|chun|chen|chan|chou|chao|chai|zhun|mang|meng|weng|shai|shei|miao|zhui|mian|yong|ming|wang|zhuo|zhua|shao|yuan|bing|zhen|fang|feng|zhan|zhou|zhao|zhei|zhai|rang|suan|reng|song|seng|dang|deng|dong|xuan|sang|rong|duan|cuan|cong|ceng|cang|diao|ruan|dian|ding|shou|xing|zuan|jiao|zong|zeng|zang|jian|tang|teng|tong|bian|biao|shan|tuan|huan|xian|huai|tiao|tian|hong|xiao|heng|ying|jing|shen|beng|kuan|kuai|nang|neng|nong|juan|kong|nuan|keng|kang|shua|niao|guan|nian|ting|shuo|guai|ning|quan|qiao|shui|gong|geng|gang|qian|bang|lang|leng|long|qing|ling|luan|shun|lian|liao|zhi|lia|liu|qin|lun|lin|luo|lan|lou|qiu|gai|gei|gao|gou|gan|gen|lao|lei|lai|que|gua|guo|nin|gui|niu|nie|gun|qie|qia|jun|kai|kei|kao|kou|kan|ken|qun|nun|nuo|xia|kua|kuo|nen|kui|nan|nou|kun|jue|nao|nei|hai|hei|hao|hou|han|hen|nai|rou|xiu|jin|hua|huo|tie|hui|tun|tui|hun|tuo|tan|jiu|zai|zei|zao|zou|zan|zen|eng|tou|tao|tei|tai|zuo|zui|xin|zun|jie|jia|run|diu|cai|cao|cou|can|cen|die|dia|xue|rui|cuo|cui|dun|cun|cin|ruo|rua|dui|sai|sao|sou|san|sen|duo|den|dan|dou|suo|sui|dao|sun|dei|zha|zhe|dai|xun|ang|ong|wai|fen|fan|fou|fei|zhu|wei|wan|min|miu|mie|wen|men|lie|chi|cha|che|man|mou|mao|mei|mai|yao|you|yan|chu|pin|pie|yin|pen|pan|pou|pao|shi|sha|she|pei|pai|yue|bin|bie|yun|nüe|lve|shu|ben|ban|bao|bei|bai|lüe|nve|ren|ran|rao|xie|re|ri|si|su|se|ru|sa|cu|ce|ca|ji|ci|zi|zu|ze|za|hu|he|ha|ju|ku|ke|qi|ka|gu|ge|ga|li|lu|le|qu|la|ni|xi|nu|ne|na|ti|tu|te|ta|xu|di|du|de|bo|lv|ba|ai|ei|ao|ou|an|en|er|da|wu|wa|wo|fu|fo|fa|nv|mi|mu|yi|ya|ye|me|mo|ma|pi|pu|po|yu|pa|bi|nü|bu|lü|e|o|a)r?[1-5]/gi,
+             vowels: {
+               'a*': '0',
+               'e*': '1',
+               'i*': '2',
+               'o*': '3',
+               'u*': '4',
+               'ü*': '5',
+               'A*': '6',
+               'E*': '7',
+               'I*': '8',
+               'O*': '9',
+               'U*': '10',
+               'Ü*': '11'
+             },
+             pinyin: {
+               1: ['ā', 'ē', 'ī', 'ō', 'ū', 'ǖ', 'Ā', 'Ē', 'Ī', 'Ō', 'Ū', 'Ǖ'],
+               2: ['á', 'é', 'í', 'ó', 'ú', 'ǘ', 'Á', 'É', 'Í', 'Ó', 'Ú', 'Ǘ'],
+               3: ['ǎ', 'ě', 'ǐ', 'ǒ', 'ǔ', 'ǚ', 'Ǎ', 'Ě', 'Ǐ', 'Ǒ', 'Ǔ', 'Ǚ'],
+               4: ['à', 'è', 'ì', 'ò', 'ù', 'ǜ', 'À', 'È', 'Ì', 'Ò', 'Ù', 'Ǜ'],
+               5: ['a', 'e', 'i', 'o', 'u', 'ü', 'A', 'E', 'I', 'O', 'U', 'Ü']
+             },
+             convert: function(string) {
+               var j, len, match, matches, replacement;
+               matches = string.match(this.pinyinRegex);
+               if (!matches) {
+                 return string;
+               }
+               for (j = 0, len = matches.length; j < len; j++) {
+                 match = matches[j];
+                 replacement = this.getReplacement(match);
+                 string = string.replace(match, replacement);
+               }
+               return string;
+             },
+             getReplacement: function(match) {
+               var accentMap, accentedVowelChar, base, replacedWord, tone, vowel, vowelChar, vowelNum, word;
+               accentMap = this.getAccentMap();
+               tone = match.slice(-1);
+               word = match.slice(0, -1).replace('v', 'ü').replace('V', 'Ü');
+               for (base in accentMap) {
+                 vowel = accentMap[base];
+                 if (word.indexOf(base) >= 0) {
+                   vowelChar = vowel.match(/.\*/)[0];
+                   vowelNum = this.vowels[vowelChar];
+                   accentedVowelChar = this.pinyin[tone.toString()][vowelNum];
+                   replacedWord = word.replace(base, vowel).replace(vowelChar, accentedVowelChar);
+                   return replacedWord;
+                 }
+               }
+               return match;
+             },
+             getAccentMap: function() {
+               var base, i, j, len, nostars, ref, stars, starsArray;
+               if (!this.accentMap) {
+                 stars = 'a*i a*o e*i ia* ia*o ie* io* iu* ' + 'A*I A*O E*I IA* IA*O IE* IO* IU* ' + 'o*u ua* ua*i ue* ui* uo* üe* ' + 'O*U UA* UA*I UE* UI* UO* ÜE* ' + 'A* E* I* O* U* Ü* ' + 'a* e* i* o* u* ü*';
+                 nostars = stars.replace(/\*/g, '');
+                 starsArray = stars.split(' ');
+                 this.accentMap = {};
+                 ref = nostars.split(' ');
+                 for (i = j = 0, len = ref.length; j < len; i = ++j) {
+                   base = ref[i];
+                   this.accentMap[base] = starsArray[i];
+                 }
+               }
+               return this.accentMap;
+             }
+           };
+
+           (function(root, factory) {
+             if (typeof define === 'function' && define.amd) {
+               return define(factory);
+             } else if (typeof exports === 'object') {
+               return module.exports = factory();
+             } else {
+               return root.PinyinConverter = factory();
+             }
+           })(this, function() {
+             return PinyinConverter;
+           });
+
+         }).call(this);
+
+         
+         function convertPara(para) {
+           let result = [];
+           for (word of para.trim().split("\n")) {
+             result.push(word.trim().split(" "));
+           }
+           return result;
+         }
+         
+         const app = new Vue({
+           el: "#gwoyeutext",
+           
+           data: {
+             raw: raw,
+           },
+
+           computed: {
+             fmt() {
+               let result = [];
+               for (phrase of this.raw) {
+                 let curphr = [];
+                 curphr.push(phrase[0]);
+                 curphr.push(convertPara(phrase[1]));
+                 result.push(curphr);
+               }             
+               return result;
+             }
+           },
+         });
+        </script>
+    </body>
+</html>
+

@@ -1,0 +1,136 @@
+Typical Taiwanese Food
+tair 台
+uan 灣
+sheau 小
+chy 吃
+--
+stinky tofu
+chow 臭
+dow 豆
+fuu 腐
+--
+duck tongue
+ia 鴨
+sher 舌
+--
+oyster rice noodle soup
+ke 蚵
+tzae 仔
+miann 麵
+shiann 線
+--
+oyster pancake
+ke 蚵
+tzae 仔
+jian 煎
+--
+potstickers
+guo 鍋
+tie 貼
+--
+sweet and sour soup
+suan 酸
+lah 辣
+tang 湯
+--
+dumplings
+shoei 水
+jeau 餃
+--
+fried buns
+jian 煎
+bau 包
+--
+Have you tried the local food in Taiwan?
+nii 你
+yeou 有
+mei 沒
+yeou 有
+chy 吃
+guoh 過
+tair 台
+uan 灣
+sheau 小
+chy 吃
+? ?
+--
+Of course I have
+dang 當
+ran 然
+yeou 有
+--
+What is your favorite?
+nii 你
+tzuey 最
+shii 喜
+huan 歡
+chy 吃
+naa 哪
+.ge 個
+? ?
+--
+I like stinky tofu the best.
+woo 我
+tzuey 最
+shii 喜
+huan 歡
+chy 吃
+chow 臭
+dow 豆
+fuu 腐
+--
+Really?
+jen 真
+.de 的
+? ?
+--
+You are really brave
+nii 你
+jen 真
+yeou 有
+yeong 勇
+chih 氣
+--
+I don't dare to try it
+woo 我
+dou 都
+hair 還
+buh 不
+gaan 敢
+charng 嚐
+shyh 試
+--
+You like stinky tofu. That makes you half Taiwanese.
+nii 你
+gaan 敢
+chy 吃
+chow 臭
+dow 豆
+fuu 腐
+, ，
+nah 那
+nii 你
+kee 可
+yii 以
+suann 算
+shyh 是
+tair 台
+uan 灣
+ren 人
+.le 了
+--
+Please tell me where I can get famous local food in Taiwan.
+chiing 請
+shuo 說
+shuo 說
+kann 看
+tzay 在
+tair 台
+uan 灣
+yeou 有
+ming 名
+.de 的
+sheau 小
+chy 吃
+? ?
+--

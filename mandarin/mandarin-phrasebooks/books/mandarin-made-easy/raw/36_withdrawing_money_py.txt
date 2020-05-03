@@ -1,0 +1,258 @@
+withdrawing money from a bank
+dao4 到
+yin2 銀
+hang2 行
+ti2 提
+kuan3 款
+--
+formal way of expressing numbers
+da4 大
+xie3 寫
+--
+zero
+ling2 零
+--
+one
+yi1 壹
+--
+two
+er4 貳
+--
+three
+san1 參
+--
+four
+si4 肆
+--
+five
+wu3 伍
+--
+six
+liu4 陸
+--
+seven
+qi1 柒
+--
+eight
+ba1 捌
+--
+nine
+jiu3 玖
+--
+ten
+shi2 拾
+--
+hundred
+bai3 百
+--
+thousand
+qian1 千
+--
+ten thousand
+wan4 萬
+--
+deposit book
+cun2 存
+zhe2 摺
+--
+deposit slip
+cun2 存
+ru4 入
+ping2 憑
+tiao2 條
+--
+withdrawal slip
+qu3 取
+kuan3 款
+ping2 憑
+tiao2 條
+--
+account number
+zhang4 帳
+hao4 號
+--
+access code
+qu3 取
+kuan3 款
+mi4 密
+ma3 碼
+--
+seal
+yin4 印
+zhang1 章
+--
+date
+ri4 日
+qi2 期
+--
+name on the account
+hu4 戶
+ming2 名
+--
+amount
+jin1 金
+e2 額
+--
+a dollar
+yuan2 元
+--
+a dollar
+kuai4 塊
+--
+only, exactly
+zheng3 整
+--
+Which counter should I go to to exchange US Dollars for NT Dollars?
+qing3 請
+wen4 問
+mei3 美
+jin1 金
+dui4 兌
+huan4 換
+cheng2 成
+tai2 台
+bi4 幣
+zai4 在
+na3 哪
+ge5 個
+gui4 櫃
+tai2 台
+? ?
+--
+Please take a number first and wait for your number to be called
+qing3 請
+xian1 先
+chou1 抽
+hao4 號
+ma3 碼
+pai2 牌
+, ，
+deng3 等
+hou4 候
+jiao4 叫
+hao4 號
+. 。
+--
+I would like to exchange these 500 US Dollars for NT Dollars
+wo3 我
+yao4 要
+jiang1 將
+zhe4 這
+wu3 五
+bai3 百
+mei3 美
+yuan2 元
+dui4 兌
+huan4 換
+cheng2 成
+tai2 台
+bi4 幣
+--
+Please give me some bills and coins
+qing3 請
+gei3 給
+wo3 我
+yi4 一
+xie1 些
+xiao3 小
+chao1 鈔
+he2 和
+ying4 硬
+bi4 幣
+--
+I want to make a withdrawal
+wo3 我
+yao4 要
+qu3 取
+kuan3 款
+--
+Please fill out this withdrawal slip first.
+qing3 請
+xian1 先
+tian2 填
+xie3 寫
+zhe4 這
+zhang1 張
+qu3 取
+kuan3 款
+ping2 憑
+tiao2 條
+--
+I can't read Chinese, can you help me?
+wo3 我
+kan4 看
+bu4 不
+dong3 懂
+, ，
+ni3 你
+neng2 能
+bang1 幫
+wo3 我
+ma5 嗎
+? ?
+--
+OK
+hao3 好
+de5 的
+--
+Write your account number here
+zhe4 這
+li3 裡
+xie3 寫
+cun2 存
+zhe2 摺
+zhang4 帳
+hao4 號
+--
+This is your withdrawal password
+zhe4 這
+li3 裡
+xie3 寫
+qu3 取
+kuan3 款
+mi4 密
+ma3 碼
+--
+This is for the amount of money you want to withdraw.
+zhe4 這
+li3 裡
+xie3 寫
+qu3 取
+kuan3 款
+jin1 金
+e2 額
+--
+Write your name here
+zhe4 這
+li3 裡
+xie3 寫
+ni3 你
+de5 的
+ming2 名
+zi5 字
+--
+Put your seal here
+zai4 在
+zhe4 這
+li3 裡
+gai4 蓋
+zhang1 章
+--
+That's it
+zhe4 這
+yang5 樣
+jiu4 就
+xing2 行
+le5 了
+--
+Thanks
+xie4 謝
+xie5 謝
+ni3 你
+--
+You're welcome
+bu2 不
+ke4 客
+qi4 氣
+--
+

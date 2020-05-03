@@ -1,0 +1,26 @@
+Fruit*shoei guoo
+apple*pyng guoo
+pear*li .tzy
+grapes*pwu taur
+watermelon*shi gua
+peach*taur .tzy
+strawberry*tsao mei
+persimmon*shyh .tzy
+banana*shiang jiau
+pineapple*fenq li
+melon*shiang gua
+orange*jyu .tzy
+tomato*fan chye
+lemon*ning meng
+mango*mang guoo
+avocado*luoh li
+papaya*muh gua
+kiwi*chyi yih guoo
+coconut*ye .tzy
+What fruit do you like?*nii shii huan chy sherm shoei guoo?
+The fruit in Taiwan is all very sweet*tair uan .de shoei guoo dou heen tyan
+I like all of them a lot.*woo dou heen shii huan
+Pineapple and watermelon are my favorite fruits*woo tzuey shii huan chy .de shyh fenq li her shi gua
+And you?*nah nii .ne?
+Pears are my favorite fruit.*woo tzuey shii huan chy li .tzy
+Bananas are good, too*shiang jiau yee bwu tsuoh

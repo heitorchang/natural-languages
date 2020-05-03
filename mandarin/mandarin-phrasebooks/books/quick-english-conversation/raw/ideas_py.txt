@@ -1,0 +1,408 @@
+What do you think of him?
+ni3 你
+dui4 對
+ta1 他
+you3 有
+shen2 什
+me5 麼
+kan4 看
+fa3 法
+? ﹖
+--
+What do you think about our trip plan?
+ni3 你
+dui4 對
+yu2 於
+wo3 我
+men5 們
+yao4 要
+chu1 出
+qu4 去
+wan2 玩
+de5 的
+shi4 事
+you3 有
+shen2 什
+me5 麼
+kan4 看
+fa3 法
+? ﹖
+--
+Do you like to sing?
+ni3 你
+xi3 喜
+huan5 歡
+chang4 唱
+ge1 歌
+ma5 嗎
+? ﹖
+--
+Do you like him?
+ni3 你
+xi3 喜
+huan5 歡
+ta1 他
+ma5 嗎
+? ﹖
+--
+Yes, I do
+shi4 是
+a5 啊
+, ，
+wo3 我
+xi3 喜
+huan5 歡
+--
+No, I don't
+bu4 不
+, ，
+wo3 我
+bu4 不
+xi3 喜
+huan5 歡
+--
+I like to read
+wo3 我
+xi3 喜
+huan5 歡
+yue4 閱
+du2 讀
+--
+I don't like her
+wo3 我
+bu4 不
+xi3 喜
+huan5 歡
+ta1 她
+--
+Are you interested in studying abroad?
+ni3 你
+dui4 對
+chu1 出
+guo2 國
+liu2 留
+xue2 學
+you3 有
+xing4 興
+qu4 趣
+ma5 嗎
+? ﹖
+--
+Are you interested in the Olympic Games?
+ni3 你
+dui4 對
+ao4 奧
+yun4 運
+you3 有
+xing4 興
+qu4 趣
+ma5 嗎
+? ﹖
+--
+No, I'm not
+bu4 不
+, ，
+wo3 我
+mei2 沒
+you3 有
+xing4 興
+qu4 趣
+--
+Yes, I am
+shi4 是
+, ，
+wo3 我
+you3 有
+xing4 興
+qu4 趣
+--
+What are you interested in?
+ni3 你
+dui4 對
+shen2 什
+me5 麼
+you3 有
+xing4 興
+qu4 趣
+? ﹖
+--
+I'm bored with ~
+wo3 我
+jue2 覺
+de5 得
+~ ~
+hao3 好
+wu2 無
+liao2 聊
+--
+I'm fed up with ~
+wo3 我
+dui4 對
+~ ~
+ren3 忍
+wu2 無
+ke3 可
+ren3 忍
+--
+I'm sick of junk food
+wo3 我
+yi3 已
+jing1 經
+shou4 受
+gou4 夠
+le4 垃
+se4 圾
+shi2 食
+wu4 物
+le5 了
+--
+I'm so tired of my boyfriend
+wo3 我
+jue2 覺
+de5 得
+wo3 我
+nan2 男
+peng2 朋
+you3 友
+zhen1 真
+shi4 是
+gou4 夠
+le5 了
+--
+I'm so bored with politics
+wo3 我
+dui4 對
+zheng4 政
+zhi4 治
+gan3 感
+dao4 到
+yan4 厭
+fan2 煩
+--
+I'm fed up with traffic jams
+wo3 我
+dui4 對
+sai4 塞
+che1 車
+de5 的
+shi4 事
+ren3 忍
+wu2 無
+ke3 可
+ren3 忍
+le5 了
+--
+I'm stressed out with the kids
+wo3 我
+zai4 在
+fan2 煩
+nao3 腦
+hai2 孩
+zi5 子
+men5 們
+de5 的
+shi4 事
+qing2 情
+--
+I'm concerned about my health
+wo3 我
+zai4 在
+dan1 擔
+xin1 心
+wo3 我
+de5 的
+jian4 健
+kang1 康
+--
+I'm worried about his grades
+wo3 我
+zai4 在
+dan1 擔
+xin1 心
+ta1 他
+de5 的
+cheng2 成
+ji1 績
+--
+I'm hopeless at ~
+wo3 我
+dui4 對
+~ ~
+gan3 感
+dao4 到
+shi1 失
+wang4 望
+--
+I'm too hopeless to ~
+wo3 我
+dui4 對
+~ ~
+che4 徹
+di3 底
+shi1 失
+wang4 望
+--
+I'm discouraged from finding a job
+wo3 我
+dui4 對
+zhao3 找
+gong1 工
+zuo4 作
+de5 的
+shi4 事
+gan3 感
+dao4 到
+qi4 氣
+nei3 餒
+--
+I'm too hopeless to get the operation
+wo3 我
+dui4 對
+kai1 開
+dao1 刀
+zhi4 治
+liao2 療
+yi3 已
+bu2 不
+bao4 抱
+ren4 任
+he2 何
+xi1 希
+wang4 望
+--
+I'm afraid of the dark
+wo3 我
+pa4 怕
+hei1 黑
+--
+I'm scared of driving
+wo3 我
+hai4 害
+pa4 怕
+kai1 開
+che1 車
+--
+I feel sorry for Tony
+wo3 我
+jue2 覺
+de5 得
+dong1 東
+ni2 尼
+hao3 好
+ke3 可
+lian2 憐
+--
+She feels sorry for me
+ta1 她
+tong2 同
+qing2 情
+wo3 我
+--
+I feel sorry for Jenny because she failed the test
+wo3 我
+jue2 覺
+de5 得
+zhen1 珍
+ni2 妮
+hao3 好
+ke3 可
+lian2 憐
+, ，
+yin1 因
+wei4 為
+ta1 她
+kao3 考
+shi4 試
+bu2 不
+ji2 及
+ge2 格
+--
+It serves you right
+ni3 你
+huo2 活
+gai1 該
+--
+It serves you right if you are dumped
+ni3 你
+hui4 會
+bei4 被
+pao1 拋
+qi4 棄
+ye3 也
+shi4 是
+huo2 活
+gai1 該
+--
+Tony passed the exams with good grades
+dong1 東
+ni2 尼
+yi3 已
+jing1 經
+gao1 高
+fen1 分
+tong1 通
+guo4 過
+kao3 考
+shi4 試
+le5 了
+--
+He deserves it
+ta1 他
+zhe4 這
+yang4 樣
+shi4 是
+ying1 應
+gai1 該
+de5 的
+--
+Tony deserves to get good grades
+dong1 東
+ni2 尼
+na2 拿
+dao4 到
+gao1 高
+fen1 分
+shi4 是
+ying1 應
+gai1 該
+de5 的
+--
+They say love is blind
+you3 有
+ren2 人
+shuo1 說
+ai4 愛
+qing2 情
+shi4 是
+mang2 盲
+mu4 目
+de5 的
+--
+I've heard that Tony is cheating on Jenny
+wo3 我
+ting1 聽
+shuo1 說
+dong1 東
+ni2 尼
+bei4 背
+zhe5 著
+zhen1 珍
+ni2 妮
+gao3 搞
+wai4 外
+yu4 遇
+--
+Did you hear that Jenny got married?
+ni3 你
+zhi1 知
+dao4 道
+zhen1 珍
+ni2 妮
+jie2 結
+hun1 婚
+de5 的
+shi4 事
+ma5 嗎
+? ﹖
+--
+

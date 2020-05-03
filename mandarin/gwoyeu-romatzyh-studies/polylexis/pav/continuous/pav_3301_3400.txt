@@ -1,0 +1,104 @@
+Words 3301 to 3400
+===
+Words 3301 to 3400. Write in GR.
+===
+VO: to write out a ticket for a violation*kai far dan
+N: cash*shiann jin
+N: ticket for a violation, fine (M: 張)*far dan
+N, V: punishment, penalty; to punish, penalize*chuu far
+V: to punish, to penalize, to fine*far
+RC: not worthwhile, not worth it*huah buh lai
+VO: to row a boat*hwa chwan
+V: to violate, to be against*wei faan
+VO: to go through a red light*choang horng deng
+V: to rush, to break through, to intrude*choang
+N: motorcycle, motor scooter (M: 輛, 部) (m…)*mo tuo che
+N: motorcycle, motor scooter (M: 輛, 部) (j…)*ji che
+V: to pierce, to penetrate, to worm into, to bore*tzuan
+N: sidewalk, pedestrian path*ren shyng daw
+N: one-way street*dan shyng daw
+N: fast lane*kuay che daw
+N: slow lane*mann che daw
+N: underpass, subway*dih shiah daw
+N: driver's licence (short name)*jiah jaw
+N: driver's licence (full name)*jiah shyy jyr jaw
+N: licence*jyr jaw
+N: rapid transit*jye yunn
+V: to take, to travel by*da
+N: sign, mark, symbol*biau jyh
+A: by all means, definitely (for imperative sentences)*chian wann
+V: to bind, to tie (also pronounced xì)*jih
+VO: to fasten the seat belt, to buckle up*shih an chyuan day
+N, M: class; measure for a group , measure word for regularly scheduled means of transport*ban
+N: uncle, father's elder brother, polite title for elderly gentleman (…b…)*bor .bo
+N: aunt, wife of father's elder brother*bor muu
+RE: used up, exhausted ; A: merely, only, solely*guang
+N: Hong Kong*shiang gaang
+N: lipstick*koou horng
+VO: to visit one's relatives*tann chin
+N: relatives by birth or marriage*chin chi
+N: relatives by birth*chin ren
+N: family members*jia ren
+N: family's place of origin, ancestral home*lao jia
+SV: to be surprised, to be amazed, to be astonished, to be astounded*jing yah
+N: pleasant surprise*jing shii
+SV: to be excited, to be stirred, to be aroused, to be stimulated, to be agitated*ji donq
+N: maternal grandmother*way por
+N: maternal grandfather*way gong
+N: husband's mother, a a term of respect for an elderly woman*por .po
+N: husband's father, a term of respect for an elderly man*gong gong
+N: husband (colloquially)*lao gong
+N: wife (colloquially)*lao por
+VO: to perform rites in honor of one's ancestors*jih tzuu
+N: sanitary facilities, sanitary equipment*wey sheng sheh bey
+SV: to be sanitary, to be hygienic*wey sheng
+N: equipment, facilities, installations*sheh bey
+N: toilet paper, bathroom tissue (M: 包, 張)*wey sheng jyy
+N: facial tissue (M: 包, 張)*miann jyy
+V: to improve*gae shann
+N: finger ring*jieh jyy
+N: finger*shoou jyy tour
+N: portable music player, 'walkman'*swei shen ting
+N: calculator*jih suann ji
+N: to calculate*jih suann
+N: science and technology*ke jih
+N: customs, immigration services*hae guan
+N, V: check-up, examination; to check, examine, inspect*jean char
+VO: to pay taxes*jeau shuey
+V: to pay taxes, to pay fees, to hand over, to hand in*jeau
+N: tax, levy, duty*shuey
+N: house duty*farng u shuey
+N: land tax*dih jiah shuey
+N: income tax*suoo der shuey
+N: customs duties, tariff duties*guan shuey
+VO: to pay taxes, to pay duties (s…)*shanq shuey
+VO: to pay taxes, to pay duties (d…)*daa shuey
+N: duty-free shop (M: 家)*mean shuey shang diann
+IE: (no one finds fault in) extra courtesy (～不怪)*lii duo ren
+P: that's all; nothing more*erl yii
+N, SV: a standard, a criterion; to meet a standard*biau joen
+N: shoulder*jian baang
+SV, A: to be attentive, make a concentrated effort; whole-heartedly*juan shin
+V-NU-M: to be startled for a moment, to cause someone to jump with surprise*shiah yi tiaw
+V, SV: to frighten, startle, scare, intimidate; to be frightened*shiah
+V: to pick up, to collect, to gather, to find*jean
+N: uncle, father's eldest brother*dah bor
+N: uncle, father's elder brother, polite title for elderly gentleman (…f…)*bor fuh
+N, V: group photo; to take a group photograph*her jaw
+A: ever since, from*tzyh tsorng
+N: Taiwanese businessman*tair shang
+V: to be open to navigation or air traffic*tong harng
+V, RC: to interrupt, to cut short, to break*daa duann
+V, RE: to break, to snap*duann
+N: scheduled flight*ban ji
+V: to board a plane*deng ji
+SV: to be late, to be overdue, to be behind schedule*wuh dean
+N: airline company (M: 家)*harng kong gong sy
+SV: to be indifferent, to be cold, to be apathetic*leeng dann
+SV: to be bland, to be pale, to be insipid, to be weak*dann
+SV: to be strong, to be thick, to be concentrated*nong
+V: to cancel, to abolish*cheu shiau
+N: passenger*leu keh
+N: client, customer*guh keh
+N, V: explanation, exposition, caption; to explain, to clarify, to expound*shuo ming
+N: written instructions or directions, explanatory document*shuo ming shu

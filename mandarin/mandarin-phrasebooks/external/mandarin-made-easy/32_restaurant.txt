@@ -1,0 +1,30 @@
+餐廳;tsan ting;restaurant
+桌子;juo .tzy;table
+圓桌;yuan juo;round table
+菜單;tsay dan;menu
+廚師;chwu shy;cook
+洗碗工;shii woan gong;dishwasher
+男服務生;nan fwu wuh sheng;waiter
+女服務生;neu fwu wuh sheng;waitress
+收銀員;shou yn yuan;cashier
+湯匙;tang chyr;spoon
+筷子;kuay .tzy;chopsticks
+飯碗;fann woan;rice bowl
+湯碗;tang woan;soup bowl
+我姓林，我要訂位。;woo shinq lin, woo yaw dinq wey;My last name is Lin, and I would like to make a reservation
+你要訂星期幾，幾點呢?;nii yaw dinq shing chyi jii, jii dean .ne?;What day and what time would you like to reserve?
+我要訂這個星期六，晚上七點。;woo yaw dinq jeh .ge shing chyi liow, woan shanq chi dean;I would like to make a reservation for this Saturday at 7 PM
+有幾位呢?;yeou jii wey .ne?;how many people?
+共五位;gonq wuu wey;Five
+對不起，晚上七點已經客滿了;duey buh chii, woan shanq chi dean yii jing keh maan .le;I'm sorry, we are full at 7 PM
+可以改晚上六點嗎?;kee yii gae woan shanq liow dean .ma?;Could you change the time to 6 PM?
+好的;hao .de;OK
+你好，我姓林;nii hao, woo shinq lin;Hi, my last name is Lin
+我有訂位;woo yeou dinq wey;I have a reservation
+好的，請跟我來;hao .de, chiing gen woo lai;OK, please follow me
+請看一下菜單;chiing kann yi shiah tsay dan;Here is the menu
+這是我們的招牌菜;jeh shyh woo .men .de jau pair tsay;This is our specialty
+我要點這幾道菜;woo yaw dean jeh jii daw tsay;I would like to order these dishes
+請再給我一副碗筷;chiing tzay geei woo yi fuh woan kuay;Please give me one more bowl and chopsticks
+我要買單;woo yaw mae dan;Check, please
+請到收銀員那買單;chiing daw shou yn yuan nah mae dan;Please go to the cashier to pay your bill

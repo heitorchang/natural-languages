@@ -1,0 +1,912 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+        <title>Mandarin Phrasebooks</title>
+        <style>
+         @font-face {
+             font-family: "SourceSansPro";
+             src: url('../css/SourceSansPro-Regular.ttf') format('truetype');
+             font-style: normal;
+         }
+         
+         body {
+             font-family: "SourceSansPro", sans-serif;
+         }
+         
+         .para {
+             margin-bottom: 1.5em;
+         }
+         
+         .char {
+             font-size: 1.4em;
+             margin: 0.2em;
+         }
+
+         .indenter {
+             width: 2.4em;
+         }
+
+         .english {
+             background-color: #DDF;
+             padding: 0.3em 0.6em;
+             margin-bottom: 0.2em;
+             font-size: 1.4em;
+         }
+
+         .mandarin {
+             padding: 0 0.7em;
+         }
+         
+         .gr {
+             background-color: #FFC;
+             padding: 0.1em 0.3em;
+             font-size: 1.2em;
+         }
+
+         .totalchar {
+             display: inline-block;
+             text-align: center;
+             margin-bottom: 1.7em;
+         }
+
+         [v-cloak] > * {
+             display: none;
+         }
+
+         [v-cloak]::before {
+             content: "Loading...";
+         }
+
+         a {
+             margin-right: 1.2em;
+             text-decoration: none;
+             font-weight: bold;
+             font-size: 1.2em;
+         }
+        </style>
+    </head>
+    <body>
+        <div id="gwoyeutext" v-cloak>
+            <a href="airplane.html">&lt; Previous</a>
+            <a href="index.html">Contents</a>
+            <a href="appointments.html">Next &gt;</a>
+            
+            <h3>Directions
+</h3>
+            <div v-for="phrase in fmt" class="para">
+                <div class="english">
+                    {{ phrase[0] }}
+                </div>
+
+                <div class="mandarin">
+                    <div v-for="char in phrase[1]" class="totalchar">
+                        <div class="char">
+                            {{ char[1] }}
+                        </div>
+                        <div class="gr">
+                            {{ PinyinConverter.convert(char[0]) }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <a href="airplane.html">&lt; Previous</a>
+            <a href="index.html">Contents</a>
+            <a href="appointments.html">Next &gt;</a>
+
+            <br><br><br><br><br><br>
+        </div>
+        
+        <script src="../js/vue2.min.js"></script>
+        <script>
+         const raw = [
+[`I'm lost`, `
+mi 迷
+luh 路
+.le 了
+`],
+[`Could you please help me?`, `
+chiing 請
+wenn 問
+nii 你
+kee 可
+yii 以
+bang 幫
+juh 助
+woo 我
+.ma 嗎
+? ﹖
+`],
+[`Can I ask you a question?`, `
+woo 我
+kee 可
+yii 以
+wenn 問
+nii 你
+yih 一
+.ge 個
+wenn 問
+tyi 題
+.ma 嗎
+? ﹖
+`],
+[`I think I'm lost. Can I ask you a question?`, `
+woo 我
+sheang 想
+woo 我
+mi 迷
+luh 路
+.le 了
+, ，
+kee 可
+yii 以
+jieh 借
+wenn 問
+yi 一
+shiah 下
+luh 路
+.ma 嗎
+? ﹖
+`],
+[`May I help you?`, `
+shiu 需
+yaw 要
+bang 幫
+mang 忙
+.ma 嗎
+? ﹖
+`],
+[`What is this place?`, `
+jeh 這
+lii 裡
+shyh 是
+shern 什
+.me 麼
+dih 地
+.fang 方
+? ﹖
+`],
+[`Where am I?`, `
+woo 我
+shiann 現
+tzay 在
+tzay 在
+naa 哪
+lii 裡
+? ﹖
+`],
+[`Excuse me. Could you please tell me where I am?`, `
+buh 不
+hao 好
+yih 意
+.sy 思
+, ，
+kee 可
+yii 以
+chiing 請
+nii 你
+gaw 告
+.su 訴
+woo 我
+, ，
+woo 我
+shiann 現
+tzay 在
+tzay 在
+naa 哪
+lii 裡
+.ma 嗎
+? ﹖
+`],
+[`Excuse me. Could you tell me what this place is?`, `
+buh 不
+hao 好
+yih 意
+.sy 思
+, ，
+kee 可
+yii 以
+gaw 告
+.su 訴
+woo 我
+, ，
+jeh 這
+lii 裡
+shyh 是
+naa 哪
+lii 裡
+.ma 嗎
+? ﹖
+`],
+[`Excuse me. Please tell me, where is the bus stop?`, `
+buh 不
+hao 好
+yih 意
+.sy 思
+, ，
+kee 可
+yii 以
+gaw 告
+.su 訴
+woo 我
+, ，
+gong 公
+che 車
+jann 站
+pair 牌
+tzay 在
+naa 哪
+lii 裡
+.ma 嗎
+? ﹖
+`],
+[`Could you please tell me how to get to Zhongshan Road?`, `
+kee 可
+yii 以
+chiing 請
+nii 你
+gaw 告
+.su 訴
+woo 我
+, ，
+yaw 要
+ru 如
+her 何
+chiuh 去
+jong 中
+shan 山
+luh 路
+.ma 嗎
+? ﹖
+`],
+[`I don't know how to get to Zhongshan Road`, `
+woo 我
+buh 不
+jy 知
+daw 道
+gai 該
+tzeen 怎
+.me 麼
+chiuh 去
+jong 中
+shan 山
+luh 路
+`],
+[`How can I get to Zhongshan Road?`, `
+chiing 請
+wenn 問
+woo 我
+yaw 要
+tzeen 怎
+.me 麼
+chiuh 去
+jong 中
+shan 山
+luh 路
+.ne 呢
+? ﹖
+`],
+[`How far is it from here?`, `
+ta 它
+li 離
+jeh 這
+lii 裡
+duo 多
+yeuan 遠
+? ﹖
+`],
+[`How long does it take?`, `
+shiu 需
+yaw 要
+duo 多
+jeou 久
+kee 可
+yii 以
+daw 到
+dar 達
+? ﹖
+`],
+[`How far is the hospital from here?`, `
+i 醫
+yuann 院
+li 離
+jeh 這
+lii 裡
+duo 多
+yeuan 遠
+? ﹖
+`],
+[`10 minutes away on foot`, `
+tzoou 走
+luh 路
+guoh 過
+chiuh 去
+dah 大
+iue 約
+shyr 十
+fen 分
+jong 鐘
+`],
+[`Go straight`, `
+jyr 直
+tzoou 走
+`],
+[`Go straight along`, `
+yan 沿
+.je 著
+luh 路
+jyr 直
+tzoou 走
+`],
+[`turn left`, `
+tzuoo 左
+joan 轉
+`],
+[`turn right`, `
+yow 右
+joan 轉
+`],
+[`make another left`, `
+tzay 再
+tzuoo 左
+joan 轉
+`],
+[`make another right`, `
+tzay 再
+yow 右
+joan 轉
+`],
+[`on your left`, `
+tzay 在
+nii 你
+.de 的
+tzuoo 左
+shoou 手
+bian 邊
+`],
+[`on your right`, `
+tzay 在
+nii 你
+.de 的
+yow 右
+shoou 手
+bian 邊
+`],
+[`Do you know where the police station is?`, `
+chiing 請
+wenn 問
+nii 你
+jy 知
+daw 道
+jiing 警
+char 察
+jyu 局
+tzay 在
+naa 哪
+lii 裡
+.ma 嗎
+? ﹖
+`],
+[`Yes. It is on the opposite side of the road`, `
+shyh 是
+, ，
+ta 它
+jiow 就
+tzay 在
+jeh 這
+tyau 條
+luh 路
+.de 的
+duey 對
+miann 面
+`],
+[`make a U-turn`, `
+hwei 迴
+joan 轉
+`],
+[`Could you please tell me how to get to the party?`, `
+neng 能
+chiing 請
+nii 你
+gaw 告
+.su 訴
+woo 我
+tzeen 怎
+.me 麼
+chiuh 去
+pay 派
+duey 對
+.ma 嗎
+? ﹖
+`],
+[`Go straight and make a U-turn at the traffic lights`, `
+jyr 直
+jyr 直
+tzoou 走
+, ，
+ran 然
+how 後
+tzay 在
+horng 紅
+liuh 綠
+deng 燈
+nah 那
+lii 裡
+hwei 迴
+joan 轉
+`],
+[`when you hit ~`, `
+dang 當
+nii 你
+yuh 遇
+daw 到
+~ ~
+`],
+[`when you reach ~`, `
+dang 當
+nii 你
+daw 到
+.le 了
+~ ~
+`],
+[`Could you please tell me where the post office is?`, `
+nii 你
+kee 可
+yii 以
+gaw 告
+.su 訴
+woo 我
+tzeen 怎
+.me 麼
+chiuh 去
+you 郵
+jyu 局
+.ma 嗎
+? ﹖
+`],
+[`Yes. Go straight until you hit the intersection. Then turn left`, `
+hao 好
+.a 啊
+, ，
+nii 你
+jyr 直
+jyr 直
+tzoou 走
+, ，
+jyr 直
+daw 到
+yuh 遇
+daw 到
+shyr 十
+tzyh 字
+luh 路
+koou 口
+, ，
+ran 然
+how 後
+jiow 就
+tzuoo 左
+joan 轉
+`],
+[`You will hit the bus stop`, `
+nii 你
+jiang 將
+huey 會
+yuh 遇
+daw 到
+gong 公
+che 車
+jann 站
+pair 牌
+`],
+[`You will reach the parking lot`, `
+nii 你
+jiang 將
+huey 會
+daw 到
+dar 達
+tyng 停
+che 車
+chaang 場
+`],
+[`The drugstore is over there`, `
+yaw 藥
+farng 房
+jiow 就
+tzay 在
+nah 那
+lii 裡
+`],
+[`Excuse me. Where is the badminton court?`, `
+buh 不
+hao 好
+yih 意
+.sy 思
+, ，
+chiing 請
+wenn 問
+yeu 羽
+chyou 球
+chaang 場
+tzay 在
+naa 哪
+lii 裡
+? ﹖
+`],
+[`Make a left and make another left`, `
+nii 你
+tzuoo 左
+joan 轉
+, ，
+ran 然
+how 後
+tzay 在
+tzuoo 左
+joan 轉
+`],
+[`You will hit the badminton court`, `
+nii 你
+jiow 就
+huey 會
+kann 看
+daw 到
+yeu 羽
+chyou 球
+chaang 場
+.le 了
+`],
+[`Could you please tell me how to get to the meeting room, Miss?`, `
+sheau 小
+jiee 姐
+, ，
+kee 可
+yii 以
+ma 麻
+.fan 煩
+nii 你
+gaw 告
+.su 訴
+woo 我
+, ，
+huey 會
+yih 議
+shyh 室
+yaw 要
+tzeen 怎
+.me 麼
+tzoou 走
+.ma 嗎
+? ﹖
+`],
+[`Take a right and go straight along the hall. The meeting room is right there`, `
+yow 右
+joan 轉
+, ，
+ran 然
+how 後
+yan 沿
+.je 著
+dah 大
+ting 廳
+jyr 直
+jyr 直
+tzoou 走
+, ，
+huey 會
+yih 議
+shyh 室
+jiow 就
+tzay 在
+nah 那
+lii 裡
+`],
+[`traffic lights`, `
+horng 紅
+liuh 綠
+deng 燈
+`],
+[`intersection`, `
+shyr 十
+tzyh 字
+luh 路
+kou 口
+`],
+[`overpass`, `
+luh 陸
+chyau 橋
+`],
+[`the entrance to the alley`, `
+shianq 巷
+.tzy 子
+koou 口
+`],
+[`in the alley`, `
+shianq 巷
+.tzy 子
+ney 內
+`],
+[`footbridge`, `
+tian 天
+chyau 橋
+`],
+[`crosswalk`, `
+ban 斑
+maa 馬
+shiann 線
+`],
+[`the corner`, `
+joan 轉
+uan 彎
+chuu 處
+`],
+[`junction`, `
+cha 叉
+luh 路
+koou 口
+`],
+[`railway`, `
+tiee 鐵
+daw 道
+`],
+[`sign`, `
+jiau 交
+tong 通
+biau 標
+shyh 示
+`],
+[`lamppost`, `
+luh 路
+deng 燈
+`],
+[`postbox`, `
+you 郵
+toong 筒
+`],
+[`police booth`, `
+jiing 警
+char 察
+gaang 崗
+shaw 哨
+`],
+[`dead end`, `
+syy 死
+luh 路
+`],
+[`sidewalk`, `
+ren 人
+shyng 行
+daw 道
+`],
+[`take ~ line`, `
+da 搭
+shanq 上
+jye 捷
+yunn 運
+~ ~
+shiann 線
+`],
+[`Take the blue line`, `
+da 搭
+cherng 乘
+lan 籃
+shiann 線
+`],
+[`Get off at Taipei Main Station`, `
+tzay 在
+tair 台
+beei 北
+che 車
+jann 站
+shiah 下
+che 車
+`],
+[`Go out through exit no. 2`, `
+tsorng 從
+ell 二
+haw 號
+chu 出
+koou 口
+chu 出
+chiuh 去
+`],
+[`Take exit no. 5`, `
+woang 往
+wuu 五
+haw 號
+chu 出
+koou 口
+tzoou 走
+`],
+[`Take the Sukhumvit line, get off at Ekamai Station and take exit no. 2`, `
+da 搭
+cherng 乘
+jye 捷
+yunn 運
+su 蘇
+kuen 坤
+uei 威
+shiann 線
+, ，
+daw 到
+i 伊
+kaa 卡
+may 邁
+jann 站
+jy 之
+how 後
+jiow 就
+shiah 下
+che 車
+, ，
+ran 然
+how 後
+woang 往
+ell 二
+haw 號
+chu 出
+koou 口
+tzoou 走
+`],
+[`Then turn around to the opposite side`, `
+ran 然
+how 後
+joan 轉
+tour 頭
+tzoou 走
+daw 到
+duey 對
+miann 面
+`],
+[`Then go straight along the road until you hit the Bangkok Planetarium on your left`, `
+tzay 再
+yan 沿
+.je 著
+luh 路
+jyr 直
+jyr 直
+tzoou 走
+, ，
+nin 你
+jiou 就
+huey 會
+kann 看
+daw 到
+mann 曼
+guu 谷
+tian 天
+wen 文
+goan 館
+jiow 就
+tzay 在
+nii 你
+.de 的
+tzuoo 左
+shoou 手
+bian 邊
+`],
+];
+
+         // PinyinConverter by David Chanin and Jen Liu @quizlet 2013
+
+         (function() {
+           var PinyinConverter;
+
+           PinyinConverter = {
+             pinyinRegex: /(shuang|chuang|zhuang|xiang|qiong|shuai|niang|guang|sheng|kuang|shang|jiong|huang|jiang|shuan|xiong|zhang|zheng|zhong|zhuai|zhuan|qiang|chang|liang|chuan|cheng|chong|chuai|hang|peng|chuo|piao|pian|chua|ping|yang|pang|chui|chun|chen|chan|chou|chao|chai|zhun|mang|meng|weng|shai|shei|miao|zhui|mian|yong|ming|wang|zhuo|zhua|shao|yuan|bing|zhen|fang|feng|zhan|zhou|zhao|zhei|zhai|rang|suan|reng|song|seng|dang|deng|dong|xuan|sang|rong|duan|cuan|cong|ceng|cang|diao|ruan|dian|ding|shou|xing|zuan|jiao|zong|zeng|zang|jian|tang|teng|tong|bian|biao|shan|tuan|huan|xian|huai|tiao|tian|hong|xiao|heng|ying|jing|shen|beng|kuan|kuai|nang|neng|nong|juan|kong|nuan|keng|kang|shua|niao|guan|nian|ting|shuo|guai|ning|quan|qiao|shui|gong|geng|gang|qian|bang|lang|leng|long|qing|ling|luan|shun|lian|liao|zhi|lia|liu|qin|lun|lin|luo|lan|lou|qiu|gai|gei|gao|gou|gan|gen|lao|lei|lai|que|gua|guo|nin|gui|niu|nie|gun|qie|qia|jun|kai|kei|kao|kou|kan|ken|qun|nun|nuo|xia|kua|kuo|nen|kui|nan|nou|kun|jue|nao|nei|hai|hei|hao|hou|han|hen|nai|rou|xiu|jin|hua|huo|tie|hui|tun|tui|hun|tuo|tan|jiu|zai|zei|zao|zou|zan|zen|eng|tou|tao|tei|tai|zuo|zui|xin|zun|jie|jia|run|diu|cai|cao|cou|can|cen|die|dia|xue|rui|cuo|cui|dun|cun|cin|ruo|rua|dui|sai|sao|sou|san|sen|duo|den|dan|dou|suo|sui|dao|sun|dei|zha|zhe|dai|xun|ang|ong|wai|fen|fan|fou|fei|zhu|wei|wan|min|miu|mie|wen|men|lie|chi|cha|che|man|mou|mao|mei|mai|yao|you|yan|chu|pin|pie|yin|pen|pan|pou|pao|shi|sha|she|pei|pai|yue|bin|bie|yun|nüe|lve|shu|ben|ban|bao|bei|bai|lüe|nve|ren|ran|rao|xie|re|ri|si|su|se|ru|sa|cu|ce|ca|ji|ci|zi|zu|ze|za|hu|he|ha|ju|ku|ke|qi|ka|gu|ge|ga|li|lu|le|qu|la|ni|xi|nu|ne|na|ti|tu|te|ta|xu|di|du|de|bo|lv|ba|ai|ei|ao|ou|an|en|er|da|wu|wa|wo|fu|fo|fa|nv|mi|mu|yi|ya|ye|me|mo|ma|pi|pu|po|yu|pa|bi|nü|bu|lü|e|o|a)r?[1-5]/gi,
+             vowels: {
+               'a*': '0',
+               'e*': '1',
+               'i*': '2',
+               'o*': '3',
+               'u*': '4',
+               'ü*': '5',
+               'A*': '6',
+               'E*': '7',
+               'I*': '8',
+               'O*': '9',
+               'U*': '10',
+               'Ü*': '11'
+             },
+             pinyin: {
+               1: ['ā', 'ē', 'ī', 'ō', 'ū', 'ǖ', 'Ā', 'Ē', 'Ī', 'Ō', 'Ū', 'Ǖ'],
+               2: ['á', 'é', 'í', 'ó', 'ú', 'ǘ', 'Á', 'É', 'Í', 'Ó', 'Ú', 'Ǘ'],
+               3: ['ǎ', 'ě', 'ǐ', 'ǒ', 'ǔ', 'ǚ', 'Ǎ', 'Ě', 'Ǐ', 'Ǒ', 'Ǔ', 'Ǚ'],
+               4: ['à', 'è', 'ì', 'ò', 'ù', 'ǜ', 'À', 'È', 'Ì', 'Ò', 'Ù', 'Ǜ'],
+               5: ['a', 'e', 'i', 'o', 'u', 'ü', 'A', 'E', 'I', 'O', 'U', 'Ü']
+             },
+             convert: function(string) {
+               var j, len, match, matches, replacement;
+               matches = string.match(this.pinyinRegex);
+               if (!matches) {
+                 return string;
+               }
+               for (j = 0, len = matches.length; j < len; j++) {
+                 match = matches[j];
+                 replacement = this.getReplacement(match);
+                 string = string.replace(match, replacement);
+               }
+               return string;
+             },
+             getReplacement: function(match) {
+               var accentMap, accentedVowelChar, base, replacedWord, tone, vowel, vowelChar, vowelNum, word;
+               accentMap = this.getAccentMap();
+               tone = match.slice(-1);
+               word = match.slice(0, -1).replace('v', 'ü').replace('V', 'Ü');
+               for (base in accentMap) {
+                 vowel = accentMap[base];
+                 if (word.indexOf(base) >= 0) {
+                   vowelChar = vowel.match(/.\*/)[0];
+                   vowelNum = this.vowels[vowelChar];
+                   accentedVowelChar = this.pinyin[tone.toString()][vowelNum];
+                   replacedWord = word.replace(base, vowel).replace(vowelChar, accentedVowelChar);
+                   return replacedWord;
+                 }
+               }
+               return match;
+             },
+             getAccentMap: function() {
+               var base, i, j, len, nostars, ref, stars, starsArray;
+               if (!this.accentMap) {
+                 stars = 'a*i a*o e*i ia* ia*o ie* io* iu* ' + 'A*I A*O E*I IA* IA*O IE* IO* IU* ' + 'o*u ua* ua*i ue* ui* uo* üe* ' + 'O*U UA* UA*I UE* UI* UO* ÜE* ' + 'A* E* I* O* U* Ü* ' + 'a* e* i* o* u* ü*';
+                 nostars = stars.replace(/\*/g, '');
+                 starsArray = stars.split(' ');
+                 this.accentMap = {};
+                 ref = nostars.split(' ');
+                 for (i = j = 0, len = ref.length; j < len; i = ++j) {
+                   base = ref[i];
+                   this.accentMap[base] = starsArray[i];
+                 }
+               }
+               return this.accentMap;
+             }
+           };
+
+           (function(root, factory) {
+             if (typeof define === 'function' && define.amd) {
+               return define(factory);
+             } else if (typeof exports === 'object') {
+               return module.exports = factory();
+             } else {
+               return root.PinyinConverter = factory();
+             }
+           })(this, function() {
+             return PinyinConverter;
+           });
+
+         }).call(this);
+
+         
+         function convertPara(para) {
+           let result = [];
+           for (word of para.trim().split("\n")) {
+             result.push(word.trim().split(" "));
+           }
+           return result;
+         }
+         
+         const app = new Vue({
+           el: "#gwoyeutext",
+           
+           data: {
+             raw: raw,
+           },
+
+           computed: {
+             fmt() {
+               let result = [];
+               for (phrase of this.raw) {
+                 let curphr = [];
+                 curphr.push(phrase[0]);
+                 curphr.push(convertPara(phrase[1]));
+                 result.push(curphr);
+               }             
+               return result;
+             }
+           },
+         });
+        </script>
+    </body>
+</html>
+

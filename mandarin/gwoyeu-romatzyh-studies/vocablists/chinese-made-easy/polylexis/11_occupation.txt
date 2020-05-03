@@ -1,0 +1,43 @@
+occupation*jyr yeh
+teacher*lao shy
+beautician*meei rong shy
+engineer*gong cherng shy
+baker*hong peir shy
+painter*huah jia
+doctor*i sheng
+pharmacist*yaw jih shy
+nurse*huh shyh
+chef*chwu shy
+photographer*sheh yiing shy
+actor*yean yuan
+singer*ge shoou
+newscaster*shin wen bo baw yuan
+taxi driver*ji cherng che sy ji
+dancer*wuu daw jee
+waiter*nan fwu wuh sheng
+waitress*neu fwu wuh sheng
+veterinarian*show i
+housewife*jia tyng juu fuh
+police officer*jiing char
+student*shyue sheng
+public official*gong wuh yuan
+plumber/electrician*shoei diann gong
+cleaner*ching jye ren yuan
+carpenter*muh gong
+worker*gong ren
+writer*tzuoh jia
+cashier*diann yuan
+farmer*nong fu
+fisherman*yu fu
+politician*jenq jyh jia
+lawyer*liuh shy
+secretary*mih shu
+homeless person*wu yeh you min
+street vendor*luh bian tan fann
+Where do you work?*nii tzay naa gau jiow
+I am a junior high school teacher.*woo shyh gwo jong lao shy
+I teach English*woo jiau .de shyh ing wen
+You look like a policeman*nii kann chii lai hao shianq jiing char .o
+No!*bwu shyh .la
+What is your occupation?*nah nii .de jyr yeh shyh sherm?
+I am a reporter*woo shyh jih jee

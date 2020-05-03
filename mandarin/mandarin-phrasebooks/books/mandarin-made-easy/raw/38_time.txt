@@ -1,0 +1,108 @@
+time
+shyr 時
+jian 間
+--
+five past two
+leang 兩
+dean 點
+wuu 五
+fen 分
+--
+five to twelve
+shyr 十
+ell 二
+dean 點
+cha 差
+wuu 五
+fen 分
+--
+twelve o' clock sharp
+shyr 十
+ell 二
+dean 點
+jeeng 整
+--
+What time is it?
+shiann 現
+tzay 在
+jii 幾
+dean 點
+? ?
+--
+It's five to eight
+ba 八
+dean 點
+cha 差
+wuu 五
+fen 分
+--
+What time does the train for Taipei leave?
+kai 開
+woang 往
+tair 台
+beei 北
+.de 的
+huoo 火
+che 車
+jii 幾
+dean 點
+chu 出
+fa 發
+? ?
+--
+At eight o' clock sharp
+ba 八
+dean 點
+jeeng 整
+chu 出
+fa 發
+--
+What time does it get to Taipei?
+jii 幾
+dean 點
+daw 到
+dar 達
+tair 台
+beei 北
+? ?
+--
+At ten-thirty
+shyr 十
+dean 點
+san 三
+shyr 十
+fen 分
+daw 到
+dar 達
+tair 台
+beei 北
+--
+Please give me two round-trip tickets.
+chiing 請
+geei 給
+woo 我
+leang 兩
+jang 張
+lai 來
+hwei 回
+piaw 票
+--
+Excuse me, what number is the boarding platform?
+chiing 請
+wenn 問
+, ，
+tzay 在
+jii 幾
+haw 號
+yueh 月
+tair 台
+shanq 上
+che 車
+? ?
+--
+Platform 1.
+yi 一
+haw 號
+yueh 月
+tair 台
+--

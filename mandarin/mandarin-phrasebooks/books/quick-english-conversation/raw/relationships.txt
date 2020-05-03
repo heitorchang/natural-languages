@@ -1,0 +1,491 @@
+I have a crush on Jenny
+woo 我
+shii 喜
+.huan 歡
+shanq 上
+.le 了
+jen 珍
+ni 妮
+--
+I have a big crush on him
+woo 我
+hao 好
+shii 喜
+.huan 歡
+ta 他
+o 喔
+--
+He has a big crush on me
+ta 他
+jen 真
+.de 的
+heen 很
+mi 迷
+liann 戀
+woo 我
+--
+Tony has a big crush on Jenny
+dong 東
+ni 尼
+fei 非
+charng 常
+mi 迷
+liann 戀
+jen 珍
+ni 妮
+--
+Jenny is falling in love with Tony
+jen 珍
+ni 妮
+jenq 正
+tzay 在
+mi 迷
+liann 戀
+.je 著
+dong 東
+ni 尼
+--
+I'm falling in love with him
+woo 我
+jenq 正
+mi 迷
+liann 戀
+.je 著
+ta 他
+--
+~ is in love with ~
+~ ~
+duey 對
+~ ~
+juey 墜
+ruh 入
+ay 愛
+her 河
+--
+I am in love with Jenny
+woo 我
+ay 愛
+shanq 上
+jen 珍
+ni 妮
+--
+~ are in love with each other
+~ ~
+shiang 相
+ay 愛
+.je 著
+--
+Tony and Jenny have a crush on each other
+dong 東
+ni 尼
+hann 和
+jen 珍
+ni 妮
+bii 彼
+tsyy 此
+shii 喜
+.huan 歡
+.je 著
+duey 對
+fang 方
+--
+I have a secret crush on my teacher
+woo 我
+jenq 正
+tzay 在
+ann 暗
+liann 戀
+woo 我
+.de 的
+lao 老
+shy 師
+--
+Jenny is secretly in love with Tony
+jen 珍
+ni 妮
+jenq 正
+tzay 在
+tou 偷
+tou 偷
+.de 地
+ann 暗
+liann 戀
+dong 東
+ni 尼
+--
+I have a date with Jenny
+woo 我
+jenq 正
+tzay 在
+hann 和
+jen 珍
+ni 妮
+iue 約
+huey 會
+--
+I have a date. You won't believe with who
+woo 我
+yeou 有
+tzay 在
+iue 約
+huey 會
+. 。
+nii 妳
+yi 一
+dinq 定
+buh 不
+shiang 相
+shinn 信
+shyh 是
+hann 和
+sheir 誰
+--
+Who with?
+duey 對
+fang 方
+shyh 是
+sheir 誰
+? ﹖
+--
+The hottest guy from the second year
+ell 二
+nian 年
+jyi 級
+muh 目
+chyan 前
+tzuey 最
+hang 夯
+.de 的
+nan 男
+sheng 生
+--
+Tony? Are you kidding me?
+shyh 是
+dong 東
+ni 尼
+.ma 嗎
+? ﹖
+nii 妳
+tzay 在
+kai 開
+wan 玩
+shiaw 笑
+.ma 嗎
+? ﹖
+--
+What a lucky girl you are!
+nii 妳
+jen 真
+.de 的
+hao 好
+shinq 幸
+yunn 運
+o 喔
+! ﹗
+--
+I asked Tony out on a date
+woo 我
+iue 約
+.le 了
+dong 東
+ni 尼
+chu 出
+chiuh 去
+iue 約
+huey 會
+--
+I think Tony has a crush on Jenny
+woo 我
+renn 認
+wei 為
+dong 東
+ni 尼
+shii 喜
+.huan 歡
+jen 珍
+ni 妮
+--
+I love you
+woo 我
+ay 愛
+nii 你
+--
+I do love you
+woo 我
+shyh 是
+jen 真
+.de 的
+ay 愛
+nii 你
+--
+I love you so much
+woo 我
+fei 非
+charng 常
+ay 愛
+nii 你
+--
+I really love you
+woo 我
+jen 真
+.de 的
+heen 很
+ay 愛
+nii 你
+--
+I can't live without you
+woo 我
+buh 不
+neng 能
+mei 沒
+yeou 有
+nii 你
+--
+I wish you were here by my side forever
+woo 我
+shi 希
+wanq 望
+nii 你
+yeong 永
+yeuan 遠
+dou 都
+tzay 在
+woo 我
+.de 的
+shen 身
+bian 邊
+--
+All I want is you
+woo 我
+yaw 要
+.de 的
+i 一
+chie 切
+wei 唯
+yeou 有
+nii 你
+--
+I miss you
+woo 我
+sheang 想
+nii 你
+--
+I think of you too
+woo 我
+yee 也
+sheang 想
+nii 你
+--
+I am marrying Jenny
+woo 我
+jyi 即
+jiang 將
+hann 和
+jen 珍
+ni 妮
+jye 結
+huen 婚
+--
+wedding ceremony
+jye 結
+huen 婚
+dean 典
+lii 禮
+--
+wedding party
+jye 結
+huen 婚
+pay 派
+duey 對
+--
+wedding reception
+huen 婚
+yann 宴
+--
+I love him as a brother
+woo 我
+jyy 只
+shianq 像
+ge 哥
+.ge 哥
+yi 一
+yanq 樣
+ay 愛
+ta 他
+--
+She loves me as a brother
+ta 她
+jyy 只
+shianq 像
+ge 哥
+.ge 哥
+nah 那
+yanq 樣
+ay 愛
+woo 我
+--
+I think of Jenny as just a sister
+woo 我
+jyy 只
+shyh 是
+baa 把
+jen 珍
+ni 妮
+danq 當
+tzuoh 作
+mey 妹
+.mei 妹
+erl 而
+yii 已
+--
+I can't get along with you
+woo 我
+hann 和
+nii 你
+buh 不
+her 合
+--
+Jenny and Tony can't get along with each other
+jen 珍
+ni 妮
+hann 和
+dong 東
+ni 尼
+bii 彼
+tsyy 此
+buh 不
+her 合
+--
+We can't get along well
+woo 我
+.men 們
+bii 彼
+tsyy 此
+buh 不
+tay 太
+her 合
+--
+I have changed
+woo 我
+biann 變
+.le 了
+--
+Tony cheated on Jenny
+dong 東
+ni 尼
+duey 對
+jen 珍
+ni 妮
+buh 不
+jong 忠
+--
+We should take a break
+woo 我
+.men 們
+ing 應
+gai 該
+fen 分
+kai 開
+yi 一
+duann 段
+shyr 時
+jian 間
+--
+They took a break
+ta 他
+.men 們
+fen 分
+kai 開
+yi 一
+duann 段
+shyr 時
+jian 間
+.le 了
+--
+I dumped Tony
+woo 我
+shoai 甩
+.le 了
+dong 東
+ni 尼
+--
+Jenny dumped Tony
+jen 珍
+ni 妮
+baa 把
+dong 東
+ni 尼
+geei 給
+shoai 甩
+.le 了
+--
+She dumped me
+ta 她
+pau 拋
+chih 棄
+woo 我
+.le 了
+--
+Tony and Jenny broke up
+dong 東
+ni 尼
+hann 和
+jen 珍
+ni 妮
+fen 分
+shoou 手
+.le 了
+--
+We are finished
+woo 我
+.men 們
+jy 之
+jian 間
+yii 已
+jing 經
+jye 結
+shuh 束
+.le 了
+--
+It's over between us
+woo 我
+.men 們
+jy 之
+jian 間
+.de 的
+shyh 事
+yii 已
+jing 經
+shyh 是
+guoh 過
+.chiu 去
+shyh 式
+.le 了
+--
+Tony is getting a divorce
+dong 東
+ni 尼
+jyi 即
+jiang 將
+li 離
+huen 婚
+--
+Tony is getting divorced from Jenny
+dong 東
+ni 尼
+jyi 即
+jiang 將
+yaw 要
+hann 和
+jen 珍
+ni 妮
+li 離
+huen 婚
+--
+They got divorced
+ta 他
+.men 們
+li 離
+huen 婚
+.le 了
+--

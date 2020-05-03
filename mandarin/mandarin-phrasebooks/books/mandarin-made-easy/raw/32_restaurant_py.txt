@@ -1,0 +1,217 @@
+restaurant
+can1 餐
+ting1 廳
+--
+table
+zhuo1 桌
+zi5 子
+--
+round table
+yuan2 圓
+zhuo1 桌
+--
+menu
+cai4 菜
+dan1 單
+--
+cook
+chu2 廚
+shi1 師
+--
+dishwasher
+xi3 洗
+wan3 碗
+gong1 工
+--
+waiter
+nan2 男
+fu2 服
+wu4 務
+sheng1 生
+--
+waitress
+nü3 女
+fu2 服
+wu4 務
+sheng1 生
+--
+cashier
+shou1 收
+yin2 銀
+yuan2 員
+--
+spoon
+tang1 湯
+chi2 匙
+--
+chopsticks
+kuai4 筷
+zi5 子
+--
+rice bowl
+fan4 飯
+wan3 碗
+--
+soup bowl
+tang1 湯
+wan3 碗
+--
+My last name is Lin, and I would like to make a reservation
+wo3 我
+xing4 姓
+lin2 林
+, ，
+wo3 我
+yao4 要
+ding4 訂
+wei4 位
+. 。
+--
+What day and what time would you like to reserve?
+ni3 你
+yao4 要
+ding4 訂
+xing1 星
+qi2 期
+ji3 幾
+, ，
+ji3 幾
+dian3 點
+ne5 呢
+? ?
+--
+I would like to make a reservation for this Saturday at 7 PM
+wo3 我
+yao4 要
+ding4 訂
+zhe4 這
+ge5 個
+xing1 星
+qi2 期
+liu4 六
+, ，
+wan3 晚
+shang4 上
+qi1 七
+dian3 點
+. 。
+--
+how many people?
+you3 有
+ji3 幾
+wei4 位
+ne5 呢
+? ?
+--
+Five
+gong4 共
+wu3 五
+wei4 位
+--
+I'm sorry, we are full at 7 PM
+dui4 對
+bu4 不
+qi3 起
+, ，
+wan3 晚
+shang4 上
+qi1 七
+dian3 點
+yi3 已
+jing1 經
+ke4 客
+man3 滿
+le5 了
+--
+Could you change the time to 6 PM?
+ke3 可
+yi3 以
+gai3 改
+wan3 晚
+shang4 上
+liu4 六
+dian3 點
+ma5 嗎
+? ?
+--
+OK
+hao3 好
+de5 的
+--
+Hi, my last name is Lin
+ni3 你
+hao3 好
+, ，
+wo3 我
+xing4 姓
+lin2 林
+--
+I have a reservation
+wo3 我
+you3 有
+ding4 訂
+wei4 位
+--
+OK, please follow me
+hao3 好
+de5 的
+, ，
+qing3 請
+gen1 跟
+wo3 我
+lai2 來
+--
+Here is the menu
+qing3 請
+kan4 看
+yi2 一
+xia4 下
+cai4 菜
+dan1 單
+--
+This is our specialty
+zhe4 這
+shi4 是
+wo3 我
+men5 們
+de5 的
+zhao1 招
+pai2 牌
+cai4 菜
+--
+I would like to order these dishes
+wo3 我
+yao4 要
+dian3 點
+zhe4 這
+ji3 幾
+dao4 道
+cai4 菜
+--
+Please give me one more bowl and chopsticks
+qing3 請
+zai4 再
+gei3 給
+wo3 我
+yi2 一
+fu4 副
+wan3 碗
+kuai4 筷
+--
+Check, please
+wo3 我
+yao4 要
+mai3 買
+dan1 單
+--
+Please go to the cashier to pay your bill
+qing3 請
+dao4 到
+shou1 收
+yin2 銀
+yuan2 員
+na4 那
+mai3 買
+dan1 單
+--
+

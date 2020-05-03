@@ -1,0 +1,104 @@
+Words 6101 to 6200
+===
+Words 6101 to 6200. Write in GR.
+===
+PRON: two, both [TOP-S]*leang
+N: warehouse, granary, vault [TOP-S]*tsang kuh
+M: times, -fold [TOP-S]*bey
+SV: to be tired, to be sleepy [TOP-S]*pyi jiuann
+N: master worker, tutor of a king or emperor, general term of address for service workers (outmoded) [TOP-S]*shy fuh
+N: dusk, nightfall [TOP-S]*bang woan
+N, SV: tendency, trend, inclination; to be inclined to, to side with, to prefer [TOP-S]*ching shianq
+A, CONJ: always, unhesitatingly; even though, despite [TOP-S]*jiin goan
+A: to the best of one's ability [TOP-S]*jiin lianq
+V: to permit, to allow [TOP-S]*yeun sheu
+N: rabbit, hare [TOP-S]*tuh .tzy
+A, V: concurrently, both; to do concurrently [TOP-S]*jian
+N: champion [TOP-S]*guann jiun
+N: stool, bench [TOP-S]*denq .tzy
+V: to cut down, to reduce [TOP-S]*shiueh jean
+SV: to be of very poor quality, to be vile, to be nasty [TOP-S]*eh lieh
+SV: to be industrious, to be hardworking [TOP-S]*chyn lau
+A: do not! [TOP-S]*wuh
+V: to constitute, to make up, to account for, to occupy, to take (also written without the 亻 radical) [TOP-S]*jann
+V: to own, to have, to occupy, to hold (also written without the 亻 radical) [TOP-S]*jann yeou
+V: to call, to appeal for supporters [TOP-S]*haw jaw
+V: to convene, to convoke [TOP-S]*jaw kai
+V: to hang, to lift up or let down with rope, to mourn, to put in a fur lining, to revoke, to withdraw [TOP-S]*diaw
+V: to swallow, to gulp down [TOP-S]*tuen
+V: to tell, to bid, to order, to instruct, to enjoin, to say [TOP-S]*fen fuh
+V: to present, to appear, to emerge [TOP-S]*cherng shiann
+N: all around, on all sides, on every side (also written with the 辶 radical) [TOP-S]*syh jou
+M: measure word for the number of circular courses around an object (also written with the 辶 radical) [TOP-S]*jou
+SV: to be attentive, to be considerate, to be thoughtful [TOP-S]*jou daw
+N: vicinity, surrounding, all around [TOP-S]*jou wei
+N: we, you and I [TOP-S]*tzarn .men
+N: philosophy [TOP-S]*jer shyue
+V: to offer for sale, to sell [TOP-S]*chu show
+V: to sell in retail, to sell by the piece or in small quantitites [TOP-S]*ling show
+V: to sell, to get a plan accepted [TOP-S]*show
+V: to sell, to market [TOP-S]*shiau show
+V: to cry out, to yell [TOP-S]*haan
+V: to shout, to howl, to scream [TOP-S]*jiaw haan
+INT: hey! [TOP-S]*hei
+M: tonne (a unit of weight equal to 1000 kg) [TOP-S]*duenn
+M, N: collective measure word for people or things in a circle; measure word for revolving actions; circle [TOP-S]*chiuan
+V: to collapse, to sink, to droop, to settle down [TOP-S]*ta
+V: to place something under something else, to fill up, to advance money [TOP-S]*diann
+N: baby, child, doll [TOP-S]*wa .ua
+V: to dislike, to mind [TOP-S]*shyan
+N: banquet, dinner party [TOP-S]*yann huey
+V: to examine, to investigate [TOP-S]*sheen char
+N: temple [TOP-S]*syh miaw
+SV: to worship, to adore [TOP-S]*chorng bay
+SV: to be lofty, to be sublime [TOP-S]*chorng gau
+M: measure word for buildings [TOP-S]*chwang
+A: slightly, a bit [TOP-S]*shau wei
+V: to smile [TOP-S]*wei shiaw
+SV: to be complete, to be thorough [TOP-S]*cheh dii
+SV: to be indignant, to be angry [TOP-S]*fenn nuh
+V: to resume, to renew, to recover, to regain, to restore, to reinstate, to rehabilitate [TOP-S]*huei fuh
+A: quietly, stealthily [TOP-S]*cheau cheau
+V: to cause something bad to happen, to provoke [TOP-S]*ree
+A, SV, V: frightfully; flurried, frantic; to lose self-possession, to panic [TOP-S]*huang
+SV: to be ashamed [TOP-S]*tsarn kuey
+N: wisdom, intelligence [TOP-S]*jyh huey
+SV: to be sincere [TOP-S]*cherng keen
+SV, V: to be unresolved, to be outstanding, to hang, to suspend [TOP-S]*shyuan
+V: to end, to close, to cut off [TOP-S]*jye jyy
+SV: to be flat, to be crushed, to be underestimated [TOP-S]*bean
+N: electric fan [TOP-S]*diann shann
+V: to pull, to tear [TOP-S]*chee
+V: to support with the hand, to help [TOP-S]*fwu
+V: to copy, to transcribe, to plagiarize, to lift, to search and confiscate, go off with, to take a shortcut, to fold one's arms, to grab, to take up [TOP-S]*chau
+V: to copy, to transcribe [TOP-S]*chau shiee
+VO: to shiver, to shake, to quiver, to tremble [TOP-S]*fa doou
+V: to brush or wipe off, to exclude, to put on, to apply, to smear, to plaster [TOP-S]*moo
+N: cash pledge, deposit [TOP-S]*ia jin
+V: to tear open, to take apart, to dismantle [TOP-S]*chai
+V: to open up, to develop, to enlarge or expand a territory [TOP-S]*kai tuoh
+V: to uproot, to pull out, to draw, to lift [TOP-S]*bar
+V: to dig, to excavate [TOP-S]*ua
+N: frustration, setback [TOP-S]*tsuoh jer
+A, SV, V: very, rather, quite; to be erect, to be firm; to stick, to bulge out, to endure, to stand up against, to sustain [TOP-S]*tiing
+V: to catch, to seize, to arrest [TOP-S]*buu
+RC: to hate to use or part with, to begrudge doing something [TOP-S]*shee buh der
+RC: to be willing to give up something, to do or bear with something [TOP-S]*shee der
+V: to select, to pick out, to pick up, to collect, to gather [TOP-S]*jean
+V: to rub with hands, to twist [TOP-S]*tsuo
+V: to do, to work, to manage [TOP-S]*gao
+V: to dredge for, to fish for, to get something by improper means [TOP-S]*lhau
+V: to prop up, to brace, to push or move with a pole, to maintain, to keep up [TOP-S]*cheng
+V: to turn, to stir, to poke, to move with a hand, foot or stick [TOP-S]*bo
+V: to fling oneself at [TOP-S]*pu
+V: to stamp out, to extinguish, to eradicate [TOP-S]*pu mieh
+V: to bear, to stand, to endure [TOP-S]*ge
+V: to throw, to cast, to fling, to hurl [TOP-S]*jyr
+SV: to be oblique, to be inclined, to be tilted [TOP-S]*shye
+SV: to be distinct, to be clear (of sound or view) [TOP-S]*ching shi
+SV: to be dark, to be dim, to be dull, to be hidden, to be secret, to be unclear [TOP-S]*ann
+A: in secret, surreptitiously, in the dark [TOP-S]*ann jong
+SV: to be dark [TOP-S]*hei ann
+SV, V: to be open and clear, to clear up (of weather) [TOP-S]*kai laang
+N, V: analysis; to analyze [TOP-S]*fen shi
+N: pillow [TOP-S]*jeen tour

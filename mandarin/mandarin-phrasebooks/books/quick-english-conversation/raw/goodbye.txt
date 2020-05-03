@@ -1,0 +1,119 @@
+I've got to go.
+woo 我
+yaw 要
+shian 先
+tzoou 走
+.le 了
+--
+I must go.
+woo 我
+gai 該
+tzoou 走
+.le 了
+--
+See you again.
+shiah 下
+tsyh 次
+jiann 見
+--
+See you on Friday.
+shing 星
+chyi 期
+wuu 五
+jiann 見
+--
+See you next Monday.
+shiah 下
+shing 星
+chyi 期
+i 一
+jiann 見
+--
+I'll be thinking of you
+woo 我
+huey 會
+sheang 想
+nii 你
+.de 的
+--
+I miss you already
+woo 我
+yii 已
+jing 經
+kai 開
+shyy 始
+sheang 想
+nii 你
+.le 了
+--
+Please don't forget about me
+bwu 不
+yaw 要
+wanq 忘
+jih 記
+woo 我
+--
+Would you think of me?
+nii 你
+huey 會
+sheang 想
+niann 念
+woo 我
+.ma 嗎
+? ?
+--
+Keep in touch
+bao 保
+chyr 持
+lian 聯
+luoh 絡
+--
+Don't forget to call me
+bye 別
+wanq 忘
+.le 了
+daa 打
+diann 電
+huah 話
+geei 給 
+woo 我
+--
+Don't forget to email me
+bye 別
+wanq 忘
+.le 了
+shiee 寫
+diann 電
+tzyy 子
+you 郵
+jiann 件
+geei 給
+woo 我
+--
+Good luck
+juh 祝
+nii 你
+hao 好
+yunn 運
+--
+Take care
+jaw 照
+.gu 顧
+tzyh 自
+jii 己
+--
+Have a safe trip
+luh 路
+shanq 上
+sheau 小
+shin 心 
+--
+Drive carefully
+kai 開
+che 車
+sheau 小
+shin 心 
+--
+Bye.
+tzay 再
+jiann 見

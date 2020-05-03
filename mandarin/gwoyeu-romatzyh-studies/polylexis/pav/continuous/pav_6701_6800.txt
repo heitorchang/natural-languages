@@ -1,0 +1,104 @@
+Words 6701 to 6800
+===
+Words 6701 to 6800. Write in GR.
+===
+N: hedge, fence, line of defence, barrier [TOP-M]*farn li
+V: to maltreat, to tyrannize, to abuse [TOP-M]*niueh day
+SV: to be pious, to be devout [TOP-M]*chyan cherng
+N: butterfly [TOP-M]*hwu dye
+N: snail [TOP-M]*gua niou
+N: cicada [TOP-M]*charn
+SV: to be overbearing, to be arbitrary [TOP-M]*man henq
+A: quite, very [TOP-M]*man
+N, V: derivation; to derive [TOP-M]*yean sheng
+N: neighbors, neighborhood [TOP-M]*jie fang
+SV: to fail, to decline [TOP-M]*shuai tuey
+A: heartily, wholeheartedly, cordially [TOP-M]*jong shin
+V: to mount, to decorate, to paste, to glue [TOP-M]*juang hwang
+V: to make a surprise attack on … [TOP-M]*shyi jyi
+V: to dissect [TOP-M]*jiee poou
+V: to tempt, to seduce, to lure [TOP-M]*yow huoh
+SV: to be sincere, to be cordial [TOP-M]*cherng jyh
+V: to tell a lie [TOP-M]*shuo hoang
+N: negotiable securities [TOP-M]*jenq chiuann
+V: to be on guard against …, to be extra cautious, to be alert [TOP-M]*jiing tih
+SV: to be open-minded [TOP-M]*huoh dar
+N: clamshell [TOP-M]*bey ker
+V: to bribe [TOP-M]*huey luh
+SV: to be cheap, to be inexpensive, to be worthless, to be lowly, to be humble, to be despicable [TOP-M]*jiann
+V: to endow, to entrust [TOP-M]*fuh yeu
+N: booty, spoiles, bribes, pilfered or stolen goods [TOP-M]*tzang wuh
+N: corridor, passage, passageway [TOP-M]*tzoou lang
+V: to rise and fall, to undulate [TOP-M]*chii fwu
+V: to lie prone, to lean over, to bend over with face down [TOP-M]*pa
+SV: to be eager, to be enthusiastical [TOP-M]*yeong yueh
+VO: to avoid attending classes  [TOP-M]*chiaw keh
+N: track, orbit, trajectory, course, path, proper course [TOP-M]*goei daw
+N: warship, naval vessel [TOP-M]*jiun jiann
+N: warlord, military clique [TOP-M]*jiun far
+AT, V: pejorative; to slight [TOP-M]*ching mieh
+SV: to be brilliant, to be glorious [TOP-M]*huei hwang
+N, V: radiation; to radiate [TOP-M]*fwu sheh
+N: public opinion [TOP-M]*yu luenn
+N: bus, car, coach, sedan, limousine [TOP-M]*jiaw che
+V: to let down, to disappoint, to fail to live up to …, to be unworthy of … [TOP-M]*gu fuh
+V: to identify, to recognize (…r…) [TOP-M]*biann renn
+V: to identify (…s…) [TOP-M]*biann shyh
+SV: to be free and unfettered [TOP-M]*shiau yau
+V: to promulgate an order for the arrest of a criminal at large [TOP-M]*tong chih
+VO: to pass away, to die [TOP-M]*shyh shyh
+V: to make an arrest [TOP-M]*day buu
+V: to attack, to assault (j…) [TOP-M]*jinn gong
+V: to exceed, to go beyond, to become even more … [TOP-M]*yu
+SV: to be distant, to be remote [TOP-M]*yau yeuan
+V: to hide from view, to obstruct, to block, military defilade [TOP-M]*je bih
+SV: to be slow in thoughts and actions, to be stupid [TOP-M]*chyr duenn
+SV: to be vast, to be extensive [TOP-M]*liau kuoh
+V: to stride forward, to forge ahead [TOP-M]*may jinn
+V: to step, to stride, to move forward [TOP-M]*may
+N: logic [TOP-M]*luo jyi
+A: to consider, to deliberate [TOP-M]*jwo lianq
+VO: to drink excessively [TOP-M]*shiuh jeou
+V: to make preparations, to get ready [TOP-M]*yunn nianq
+N, V: medical treatment; to treat, to cure (y…) [TOP-M]*i liau
+N, V: nail; to nail, to follow closely [TOP-M]*dinq
+V: acupuncture and moxibustion [TOP-M]*jen jeou
+N: uranium [TOP-M]*you
+N: aluminium [TOP-M]*leu
+N: hoe [TOP-M]*chwu tour
+N: tin [TOP-M]*shyi
+V: to inlay, to edge, to set, to mount [TOP-M]*shiang
+N: gong [TOP-M]*luo
+V: to twinkle, to flicker, to glisten [TOP-M]*shaan shuoh
+V: to open [TOP-M]*kai chii
+V: to open or set up, to start, to build a road [TOP-M]*kai pih
+N, V: defense; to defend, to guard [TOP-M]*farng yuh
+V: to obstruct, to thwart, to prevent [TOP-M]*tzuu nau
+SV: to be steep, to be precipitous [TOP-M]*doou
+V: to sink, to fall into, to get bogged down in [TOP-M]*shiann ruh
+N: estrangement, misunderstanding, barrier, gap [TOP-M]*ger her
+N: tunnel [TOP-M]*suey daw
+SV: to be duplicate, to be echoing others, to be identical [TOP-M]*lei torng
+N: radar [TOP-M]*lei dar
+N: thunder, landmine [TOP-M]*lei
+N: frost, frost-like powder [TOP-M]*shuang
+SV: to be verdant, to be fresh and green [TOP-M]*ching tsuey
+N: frog [TOP-M]*ching ua
+N: boots [TOP-M]*shiue .tzy
+SV: to consolidate, to strengthen, to solidify [TOP-M]*goong guh
+SV: to be indominatble, to be tenacious, to be stubborn [TOP-M]*wan chyang
+V: to overturn, to subvert [TOP-M]*dian fuh
+V: to shake, to quiver, to shiver [TOP-M]*jann doou
+V: to have mercy, to spare from harsh treatment, to give something extra [TOP-M]*rau
+SV: to be greedy; to be gluttonous, to be fond of food [TOP-M]*charn
+V: to halt, to stay, to be stationed at … [TOP-M]*juh
+N: camel [TOP-M]*luoh .tuo
+N: donkey, ass [TOP-M]*liu
+N: boldness, audacity, daring resolution [TOP-M]*poh lih
+SV: to be bright-colored, to be gaily-colored (second character version with 色) [TOP-M]*shian yann
+SV: to be bright-colored, to be gaily-colored (second character version with 盍) [TOP-M]*shian yann
+V: cry of birds, insects and other animals [TOP-M]*ming
+N: opium [TOP-M]*ia piann
+N: pigeon, dove [TOP-M]*ge .tzy
+N: hawk, eagle, falcon [TOP-M]*ing
+N: nasal mucus, snivel [TOP-M]*byi tih

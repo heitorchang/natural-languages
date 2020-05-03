@@ -1,0 +1,135 @@
+It's OK (no problem)
+mei 沒
+guan 關
+.shi 係
+--
+Can I bother you for a second?
+daa 打
+rao 擾
+yi 一
+shiah 下
+--
+Excuse me (may I ask?)
+chiing 請
+wenn 問
+--
+Where's the restroom?
+shii 洗
+shoou 手
+jian 間
+tzay 在
+naa 哪
+? ?
+--
+I don't understand you
+woo 我
+ting 聽
+buh 不
+doong 懂
+--
+Please speak slowly
+chiing 請
+shuo 說
+mann 慢
+yih 一
+dean 點
+--
+Please say it again
+chiing 請
+tzay 再
+shuo 說
+yi 一
+biann 遍
+--
+Think about a solution
+sheang 想
+.sheang 想
+bann 辦
+faa 法
+--
+Please give me a hand
+chiing 請
+nii 你
+bang 幫
+mang 忙
+yi 一
+shiah 下
+--
+Please let me know if there is anything I need to improve
+chiing 請
+duo 多
+duo 多
+jyy 指
+jiaw 教
+--
+We are good friends
+woo 我
+.men 們
+shyh 是
+hao 好
+perng 朋
+.iou 友
+--
+How do you say this in Chinese?
+jeh 這
+.ge 個
+yonq 用
+jong 中
+wen 文
+tzeen 怎
+.me 麼
+shuo 說
+? ?
+--
+Do you speak English?
+nii 你
+huey 會
+shuo 說
+ing 英
+wen 文
+.ma 嗎
+? ?
+--
+Are you full?
+chy 吃
+bao 飽
+.le 了
+.ma 嗎
+? ?
+--
+Have you eaten?
+chy 吃
+fann 飯
+.le 了
+mei 沒
+? ?
+--
+It's beyond my imagination
+woo 我
+tzuoh 作
+menq 夢
+yee 也
+mei 沒
+sheang 想
+daw 到
+--
+Sorry I'm late
+duey 對
+buh 不
+chii 起
+chyr 遲
+daw 到
+.le 了
+--
+Have a nice day, everyone!
+juh 祝
+nii 你
+geh 各
+wey 位
+yeou 有
+yu 愉
+kuay 快
+.de 的
+yih 一
+tian 天
+--

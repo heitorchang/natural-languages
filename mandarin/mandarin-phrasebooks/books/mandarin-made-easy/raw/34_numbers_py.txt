@@ -1,0 +1,51 @@
+numbers
+shu4 數
+zi4 字
+--
+zero
+ling2 零
+--
+one
+yi1 一
+--
+two
+er4 二
+--
+three
+san1 三
+--
+four
+si4 四
+--
+five
+wu3 五
+--
+six
+liu4 六
+--
+seven
+qi1 七
+--
+eight
+ba1 八
+--
+nine
+jiu3 九
+--
+ten
+shi2 十
+--
+twenty
+er4 二
+shi2 十
+--
+hundred
+bai3 百
+--
+thousand
+qian1 千
+--
+ten thousand
+wan4 萬
+--
+

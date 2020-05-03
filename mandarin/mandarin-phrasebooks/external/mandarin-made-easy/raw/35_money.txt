@@ -1,0 +1,31 @@
+money
+huoh 貨
+bih 幣
+--
+NT Dollar
+tair 台
+bih 幣
+--
+one NT
+i 一
+yuan 元
+--
+100 NT
+i 一
+bae 百
+yuan 元
+--
+2000 NT
+leang 兩
+chian 千
+yuan 元
+--
+Renminbi Yuan
+ren 人
+min 民
+bih 幣
+--
+0.5 RMB
+wuu 五
+jeau 角
+--

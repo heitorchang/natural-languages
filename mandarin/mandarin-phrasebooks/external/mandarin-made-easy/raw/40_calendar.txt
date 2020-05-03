@@ -1,0 +1,105 @@
+calendar
+yueh 月
+lih 曆
+--
+week
+shing 星
+chyi 期
+--
+Sunday
+shing 星
+chyi 期
+ryh 日
+--
+Monday
+shing 星
+chyi 期
+i 一
+--
+Saturday
+shing 星
+chyi 期
+liow 六
+--
+What day of the week is it?
+jin 今
+tian 天
+( (
+shyh 是
+) )
+shing 星
+chyi 期
+jii 幾
+? ?
+--
+It's Saturday
+jin 今
+tian 天
+( (
+shyh 是
+) )
+shing 星
+chyi 期
+liow 六
+--
+month
+yueh 月
+fenn 份
+--
+January
+yi 一
+yueh 月
+--
+December
+shyr 十
+ell 二
+yueh 月
+--
+date
+ryh 日
+chyi 期
+--
+1st
+yi 一
+ryh 日
+--
+20th
+ell 二
+shyr 十
+ryh 日
+--
+31st
+san 三
+shyr 十
+i 一
+ryh 日
+--
+What's the date today?
+jin 今
+tian 天
+( (
+shyh 是
+) )
+jii 幾
+yueh 月
+jii 幾
+haw 號
+? ?
+--
+It's January 1st
+jin 今
+tian 天
+( (
+shyh 是
+) )
+yi 一
+yueh 月
+yi 一
+ryh 日
+--
+Today is the 5th
+jin 今
+tian 天
+wuu 五
+haw 號
+--

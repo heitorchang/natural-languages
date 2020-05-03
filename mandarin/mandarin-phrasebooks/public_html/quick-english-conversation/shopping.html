@@ -1,0 +1,741 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+        <title>Mandarin Phrasebooks</title>
+        <style>
+         @font-face {
+             font-family: "SourceSansPro";
+             src: url('../css/SourceSansPro-Regular.ttf') format('truetype');
+             font-style: normal;
+         }
+         
+         body {
+             font-family: "SourceSansPro", sans-serif;
+         }
+         
+         .para {
+             margin-bottom: 1.5em;
+         }
+         
+         .char {
+             font-size: 1.4em;
+             margin: 0.2em;
+         }
+
+         .indenter {
+             width: 2.4em;
+         }
+
+         .english {
+             background-color: #DDF;
+             padding: 0.3em 0.6em;
+             margin-bottom: 0.2em;
+             font-size: 1.4em;
+         }
+
+         .mandarin {
+             padding: 0 0.7em;
+         }
+         
+         .gr {
+             background-color: #FFC;
+             padding: 0.1em 0.3em;
+             font-size: 1.2em;
+         }
+
+         .totalchar {
+             display: inline-block;
+             text-align: center;
+             margin-bottom: 1.7em;
+         }
+
+         [v-cloak] > * {
+             display: none;
+         }
+
+         [v-cloak]::before {
+             content: "Loading...";
+         }
+
+         a {
+             margin-right: 1.2em;
+             text-decoration: none;
+             font-weight: bold;
+             font-size: 1.2em;
+         }
+        </style>
+    </head>
+    <body>
+        <div id="gwoyeutext" v-cloak>
+            <a href="daystime.html">&lt; Previous</a>
+            <a href="index.html">Contents</a>
+            <a href="orderingfood.html">Next &gt;</a>
+            
+            <h3>Shopping
+</h3>
+            <div v-for="phrase in fmt" class="para">
+                <div class="english">
+                    {{ phrase[0] }}
+                </div>
+
+                <div class="mandarin">
+                    <div v-for="char in phrase[1]" class="totalchar">
+                        <div class="char">
+                            {{ char[1] }}
+                        </div>
+                        <div class="gr">
+                            {{ PinyinConverter.convert(char[0]) }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <a href="daystime.html">&lt; Previous</a>
+            <a href="index.html">Contents</a>
+            <a href="orderingfood.html">Next &gt;</a>
+
+            <br><br><br><br><br><br>
+        </div>
+        
+        <script src="../js/vue2.min.js"></script>
+        <script>
+         const raw = [
+[`What can I do for you?`, `
+yeou 有
+shern 什
+.me 麼
+shiu 需
+yaw 要
+bang 幫
+mang 忙
+.ma 嗎
+? ﹖
+`],
+[`What are you looking for?`, `
+nii 你
+tzay 在
+jao 找
+shern 什
+.me 麼
+.ma 嗎
+? ﹖
+`],
+[`Can I help you?`, `
+shiu 需
+yaw 要
+woo 我
+bang 幫
+mang 忙
+.ma 嗎
+? ﹖
+`],
+[`Just looking first`, `
+woo 我
+shian 先
+kann 看
+kann 看
+`],
+[`Can I see the pink shirt, please?`, `
+kee 可
+yii 以
+ranq 讓
+woo 我
+kann 看
+kann 看
+nah 那
+jiann 件
+feen 粉
+horng 紅
+seh 色
+.de 的
+chenn 襯
+shan 衫
+.ma 嗎
+? ﹖
+`],
+[`Can I try it on?`, `
+woo 我
+kee 可
+yii 以
+shyh 試
+jeh 這
+jiann 件
+.ma 嗎
+? ﹖
+`],
+[`Sure, ma'am`, `
+hao 好
+.de 的
+, ，
+neu 女
+shyh 士
+`],
+[`It's too small`, `
+tay 太
+sheau 小
+.le 了
+`],
+[`It's too big`, `
+tay 太
+dah 大
+.le 了
+`],
+[`It's too long`, `
+tay 太
+charng 長
+.le 了
+`],
+[`It's too short`, `
+tay 太
+doan 短
+.le 了
+`],
+[`It's too loose`, `
+tay 太
+song 鬆
+.le 了
+`],
+[`It's too tight`, `
+tay 太
+jiin 緊
+.le 了
+`],
+[`It fits me`, `
+duey 對
+woo 我
+lai 來
+shuo 說
+gang 剛
+.gang 剛
+hao 好
+`],
+[`It doesn't fit me`, `
+duey 對
+woo 我
+lai 來
+shuo 說
+bwu 不
+shyh 適
+her 合
+`],
+[`Do you have this in a larger size?`, `
+yeou 有
+mei 沒
+yeou 有
+jeh 這
+joong 種
+.de 的
+, ，
+dann 但
+chyy 尺
+.tsuen 寸
+tzay 再
+dah 大
+i 一
+dean 點
+.de 的
+? ﹖
+`],
+[`Do you have any other colors?`, `
+chiing 請
+wenn 問
+nii 你
+.men 們
+hair 還
+yeou 有
+chyi 其
+ta 他
+yan 顏
+seh 色
+.ma 嗎
+? ﹖
+`],
+[`What size do you normally wear?`, `
+chiing 請
+wenn 問
+nii 你
+pyng 平
+charng 常
+chuan 穿
+shern 什
+.me 麼
+chyy 尺
+.tsuen 寸
+.de 的
+.ne 呢
+? ﹖
+`],
+[`Do you have this in ~ size?`, `
+jeh 這
+jiann 件
+yeou 有
+~ ~
+haw 號
+.de 的
+.ma 嗎
+? ﹖
+`],
+[`What do you think?`, `
+nii 你
+jyue 覺
+.de 得
+ru 如
+her 何
+? ﹖
+`],
+[`How do I look?`, `
+woo 我
+kann 看
+chii 起
+lai 來
+tzeen 怎
+.me 麼
+yanq 樣
+? ﹖
+`],
+[`Does it suit me?`, `
+shyh 適
+her 合
+woo 我
+.ma 嗎
+? ﹖
+`],
+[`It's not bad`, `
+bwu 不
+tsuoh 錯
+o 喔
+`],
+[`You look great`, `
+nii 你
+kann 看
+chii 起
+lai 來
+heen 很
+banq 棒
+`],
+[`Of course, it's so you`, `
+dang 當
+ran 然
+, ，
+ta 它
+heen 很
+fwu 符
+her 合
+nii 你
+.de 的
+feng 風
+ger 格
+`],
+[`I'll think about it`, `
+woo 我
+tzay 再
+sheang 想
+yi 一
+shiah 下
+`],
+[`How much does it cost?`, `
+duo 多
+shao 少
+chyan 錢
+? ﹖
+`],
+[`Clearance sale`, `
+ching 清
+tsang 倉
+dah 大
+pai 拍
+may 賣
+`],
+[`Closing down sale`, `
+jye 結
+shuh 束
+yng 營
+yeh 業
+dah 大
+pai 拍
+may 賣
+`],
+[`Annual sale`, `
+jou 周
+nian 年
+chinq 慶
+teh 特
+may 賣
+`],
+[`Knockout sale`, `
+tiaw 跳
+lou 樓
+dah 大
+pai 拍
+may 賣
+`],
+[`Buy one, get one free`, `
+mae 買
+i 一
+sonq 送
+i 一
+`],
+[`~% off sale`, `
+jiah 價
+jianq 降
+~ ~
+% %
+`],
+[`Can you lower the price?`, `
+kee 可
+yii 以
+suann 算
+pyan 便
+.i 宜
+i 一
+dean 點
+.ma 嗎
+? ﹖
+`],
+[`Do you have any free giveaways?`, `
+chiing 請
+wenn 問
+yeou 有
+tzenq 贈
+piin 品
+.ma 嗎
+? ﹖
+`],
+[`Could you give me some extra sauce, please?`, `
+kee 可
+yii 以
+duo 多
+geei 給
+woo 我
+i 一
+shie 些
+jianq 醬
+liaw 料
+.ma 嗎
+? ﹖
+`],
+[`Could you give me some extra notepads, please?`, `
+woo 我
+kee 可
+yii 以
+duo 多
+yaw 要
+jii 幾
+been 本
+bii 筆
+jih 記
+been 本
+.ma 嗎
+? ﹖
+`],
+[`Could you give me some extra testers, please?`, `
+kee 可
+yii 以
+sonq 送
+woo 我
+i 一
+shie 些
+shyh 試
+yonq 用
+piin 品
+.ma 嗎
+? ﹖
+`],
+[`I'll take it`, `
+woo 我
+yaw 要
+mae 買
+.le 了
+`],
+[`I'll take this one`, `
+woo 我
+yaw 要
+mae 買
+jeh 這
+.ge 個
+`],
+[`I'll take that one`, `
+woo 我
+yaw 要
+mae 買
+nah 那
+yi 一
+jiann 件
+`],
+[`I'll take the left one`, `
+woo 我
+yaw 要
+mae 買
+tzuoo 左
+bian 邊
+nah 那
+.ge 個
+`],
+[`I'll take the right one`, `
+woo 我
+sheang 要
+mae 買
+yow 右
+bian 邊
+nah 那
+.ge 個
+`],
+[`I'll take this color`, `
+woo 我
+yaw 要
+mae 買
+jeh 這
+.ge 個
+yan 顏
+seh 色
+`],
+[`I'll take the big one`, `
+woo 我
+sheang 想
+mae 買
+dah 大
+.de 的
+nah 那
+.ge 個
+`],
+[`Do you take credit cards?`, `
+chiing 請
+wenn 問
+nii 你
+.men 們
+jie 接
+show 受
+shinn 信
+yonq 用
+kaa 卡
+.ma 嗎
+? ﹖
+`],
+[`Can I pay with a credit card?`, `
+woo 我
+kee 可
+yii 以
+yonq 用
+shinn 信
+yonq 用
+kaa 卡
+fuh 付
+koan 款
+.ma 嗎
+? ﹖
+`],
+[`Sorry, sir. We don't accept credit cards`, `
+shian 先
+sheng 生
+, ，
+buh 不
+hao 好
+yih 意
+.sy 思
+, ，
+woo 我
+.men 們
+buh 不
+jie 接
+show 受
+shinn 信
+yonq 用
+kaa 卡
+`],
+[`Sorry, ma'am, we only accept cash`, `
+sheau 小
+jiee 姐
+, ，
+buh 不
+hao 好
+yih 意
+.sy 思
+, ，
+woo 我
+.men 們
+jyy 只
+shou 受
+shiann 現
+jin 金
+`],
+[`Can I return it?`, `
+woo 我
+kee 可
+yii 以
+tuey 退
+huoh 貨
+.ma 嗎
+? ﹖
+`],
+[`Can I exchange it?`, `
+woo 我
+kee 可
+yii 以
+huann 換
+huoh 貨
+.ma 嗎
+? ﹖
+`],
+[`Please wrap it for me`, `
+chiing 請
+bang 幫
+woo 我
+bau 包
+juang 裝
+`],
+[`I'll take the big one. Could you please wrap it for me?`, `
+woo 我
+jyue 決
+dinq 定
+yaw 要
+nah 那
+.ge 個
+dah 大
+.de 的
+. 。
+ma 麻
+.fan 煩
+nii 你
+bang 幫
+woo 我
+bau 包
+chii 起
+lai 來
+hao 好
+.ma 嗎
+? ﹖
+`],
+[`I don't need a bag`, `
+woo 我
+buh 不
+shiu 需
+yaw 要
+day 袋
+.tzy 子
+`],
+];
+
+         // PinyinConverter by David Chanin and Jen Liu @quizlet 2013
+
+         (function() {
+           var PinyinConverter;
+
+           PinyinConverter = {
+             pinyinRegex: /(shuang|chuang|zhuang|xiang|qiong|shuai|niang|guang|sheng|kuang|shang|jiong|huang|jiang|shuan|xiong|zhang|zheng|zhong|zhuai|zhuan|qiang|chang|liang|chuan|cheng|chong|chuai|hang|peng|chuo|piao|pian|chua|ping|yang|pang|chui|chun|chen|chan|chou|chao|chai|zhun|mang|meng|weng|shai|shei|miao|zhui|mian|yong|ming|wang|zhuo|zhua|shao|yuan|bing|zhen|fang|feng|zhan|zhou|zhao|zhei|zhai|rang|suan|reng|song|seng|dang|deng|dong|xuan|sang|rong|duan|cuan|cong|ceng|cang|diao|ruan|dian|ding|shou|xing|zuan|jiao|zong|zeng|zang|jian|tang|teng|tong|bian|biao|shan|tuan|huan|xian|huai|tiao|tian|hong|xiao|heng|ying|jing|shen|beng|kuan|kuai|nang|neng|nong|juan|kong|nuan|keng|kang|shua|niao|guan|nian|ting|shuo|guai|ning|quan|qiao|shui|gong|geng|gang|qian|bang|lang|leng|long|qing|ling|luan|shun|lian|liao|zhi|lia|liu|qin|lun|lin|luo|lan|lou|qiu|gai|gei|gao|gou|gan|gen|lao|lei|lai|que|gua|guo|nin|gui|niu|nie|gun|qie|qia|jun|kai|kei|kao|kou|kan|ken|qun|nun|nuo|xia|kua|kuo|nen|kui|nan|nou|kun|jue|nao|nei|hai|hei|hao|hou|han|hen|nai|rou|xiu|jin|hua|huo|tie|hui|tun|tui|hun|tuo|tan|jiu|zai|zei|zao|zou|zan|zen|eng|tou|tao|tei|tai|zuo|zui|xin|zun|jie|jia|run|diu|cai|cao|cou|can|cen|die|dia|xue|rui|cuo|cui|dun|cun|cin|ruo|rua|dui|sai|sao|sou|san|sen|duo|den|dan|dou|suo|sui|dao|sun|dei|zha|zhe|dai|xun|ang|ong|wai|fen|fan|fou|fei|zhu|wei|wan|min|miu|mie|wen|men|lie|chi|cha|che|man|mou|mao|mei|mai|yao|you|yan|chu|pin|pie|yin|pen|pan|pou|pao|shi|sha|she|pei|pai|yue|bin|bie|yun|nüe|lve|shu|ben|ban|bao|bei|bai|lüe|nve|ren|ran|rao|xie|re|ri|si|su|se|ru|sa|cu|ce|ca|ji|ci|zi|zu|ze|za|hu|he|ha|ju|ku|ke|qi|ka|gu|ge|ga|li|lu|le|qu|la|ni|xi|nu|ne|na|ti|tu|te|ta|xu|di|du|de|bo|lv|ba|ai|ei|ao|ou|an|en|er|da|wu|wa|wo|fu|fo|fa|nv|mi|mu|yi|ya|ye|me|mo|ma|pi|pu|po|yu|pa|bi|nü|bu|lü|e|o|a)r?[1-5]/gi,
+             vowels: {
+               'a*': '0',
+               'e*': '1',
+               'i*': '2',
+               'o*': '3',
+               'u*': '4',
+               'ü*': '5',
+               'A*': '6',
+               'E*': '7',
+               'I*': '8',
+               'O*': '9',
+               'U*': '10',
+               'Ü*': '11'
+             },
+             pinyin: {
+               1: ['ā', 'ē', 'ī', 'ō', 'ū', 'ǖ', 'Ā', 'Ē', 'Ī', 'Ō', 'Ū', 'Ǖ'],
+               2: ['á', 'é', 'í', 'ó', 'ú', 'ǘ', 'Á', 'É', 'Í', 'Ó', 'Ú', 'Ǘ'],
+               3: ['ǎ', 'ě', 'ǐ', 'ǒ', 'ǔ', 'ǚ', 'Ǎ', 'Ě', 'Ǐ', 'Ǒ', 'Ǔ', 'Ǚ'],
+               4: ['à', 'è', 'ì', 'ò', 'ù', 'ǜ', 'À', 'È', 'Ì', 'Ò', 'Ù', 'Ǜ'],
+               5: ['a', 'e', 'i', 'o', 'u', 'ü', 'A', 'E', 'I', 'O', 'U', 'Ü']
+             },
+             convert: function(string) {
+               var j, len, match, matches, replacement;
+               matches = string.match(this.pinyinRegex);
+               if (!matches) {
+                 return string;
+               }
+               for (j = 0, len = matches.length; j < len; j++) {
+                 match = matches[j];
+                 replacement = this.getReplacement(match);
+                 string = string.replace(match, replacement);
+               }
+               return string;
+             },
+             getReplacement: function(match) {
+               var accentMap, accentedVowelChar, base, replacedWord, tone, vowel, vowelChar, vowelNum, word;
+               accentMap = this.getAccentMap();
+               tone = match.slice(-1);
+               word = match.slice(0, -1).replace('v', 'ü').replace('V', 'Ü');
+               for (base in accentMap) {
+                 vowel = accentMap[base];
+                 if (word.indexOf(base) >= 0) {
+                   vowelChar = vowel.match(/.\*/)[0];
+                   vowelNum = this.vowels[vowelChar];
+                   accentedVowelChar = this.pinyin[tone.toString()][vowelNum];
+                   replacedWord = word.replace(base, vowel).replace(vowelChar, accentedVowelChar);
+                   return replacedWord;
+                 }
+               }
+               return match;
+             },
+             getAccentMap: function() {
+               var base, i, j, len, nostars, ref, stars, starsArray;
+               if (!this.accentMap) {
+                 stars = 'a*i a*o e*i ia* ia*o ie* io* iu* ' + 'A*I A*O E*I IA* IA*O IE* IO* IU* ' + 'o*u ua* ua*i ue* ui* uo* üe* ' + 'O*U UA* UA*I UE* UI* UO* ÜE* ' + 'A* E* I* O* U* Ü* ' + 'a* e* i* o* u* ü*';
+                 nostars = stars.replace(/\*/g, '');
+                 starsArray = stars.split(' ');
+                 this.accentMap = {};
+                 ref = nostars.split(' ');
+                 for (i = j = 0, len = ref.length; j < len; i = ++j) {
+                   base = ref[i];
+                   this.accentMap[base] = starsArray[i];
+                 }
+               }
+               return this.accentMap;
+             }
+           };
+
+           (function(root, factory) {
+             if (typeof define === 'function' && define.amd) {
+               return define(factory);
+             } else if (typeof exports === 'object') {
+               return module.exports = factory();
+             } else {
+               return root.PinyinConverter = factory();
+             }
+           })(this, function() {
+             return PinyinConverter;
+           });
+
+         }).call(this);
+
+         
+         function convertPara(para) {
+           let result = [];
+           for (word of para.trim().split("\n")) {
+             result.push(word.trim().split(" "));
+           }
+           return result;
+         }
+         
+         const app = new Vue({
+           el: "#gwoyeutext",
+           
+           data: {
+             raw: raw,
+           },
+
+           computed: {
+             fmt() {
+               let result = [];
+               for (phrase of this.raw) {
+                 let curphr = [];
+                 curphr.push(phrase[0]);
+                 curphr.push(convertPara(phrase[1]));
+                 result.push(curphr);
+               }             
+               return result;
+             }
+           },
+         });
+        </script>
+    </body>
+</html>
+

@@ -1,0 +1,95 @@
+ox, cow
+niou 牛
+--
+sheep
+yang 羊
+--
+dog
+goou 狗
+--
+cat
+mhau 貓
+--
+rabbit
+tuh 兔
+--
+tiger
+lao 老
+huu 虎
+--
+leopard
+baw 豹
+--
+horse
+maa 馬
+--
+deer
+luh 鹿
+--
+snake
+sher 蛇
+--
+monkey
+hour 猴
+--
+elephant
+shianq 象
+--
+rat, mouse
+lao 老
+shuu 鼠
+--
+bear
+shyong 熊
+--
+pig
+ju 豬
+--
+chicken
+ji 雞
+--
+duck
+ia 鴨
+--
+goose
+er 鵝
+--
+bird
+neau 鳥
+--
+swallow (bird)
+yann 燕
+--
+mosquito
+wen 蚊
+.tzy 子
+--
+butterfly
+hwu 蝴
+dye 蝶
+--
+bee
+feng 蜂
+--
+insect
+chorng 蟲
+--
+spider
+jy 蜘
+ju 蛛
+--
+fish
+yu 魚
+--
+shellfish
+bey 貝
+--
+whale
+jing 鯨
+yu 魚
+--
+frog
+ua 蛙
+--
+turtle
+guei 龜

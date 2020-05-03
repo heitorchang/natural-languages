@@ -1,0 +1,263 @@
+public venues
+gong 公
+gonq 共
+chaang 場
+suoo 所
+--
+restaurant
+tsan 餐
+ting 廳
+--
+department store
+bae 百
+huoh 貨
+gong 公
+sy 司
+--
+supermarket
+chau 超
+shyh 市
+--
+flower shop
+hua 花
+diann 店
+--
+coffee shop
+ka 咖
+fei 啡
+ting 廳
+--
+bank
+yn 銀
+harng 行
+--
+hospital
+i 醫
+yuann 院
+--
+bookstore
+shu 書
+diann 店
+--
+library
+twu 圖
+shu 書
+goan 館
+--
+post office
+you 郵
+jyu 局
+--
+police station
+jiing 警
+char 察
+jyu 局
+--
+church
+jiaw 教
+tarng 堂
+--
+park
+gong 公
+yuan 園
+--
+pharmacy
+yaw 藥
+jyu 局
+--
+museum
+bor 博
+wuh 物
+goan 館
+--
+movie theater
+diann 電
+yiing 影
+yuann 院
+--
+cyber cafe
+woang 網
+ka 咖
+--
+night market
+yeh 夜
+shyh 市
+--
+Are you available this coming Saturday?
+shing 星
+chyi 期
+liow 六
+nii 妳
+yeou 有
+konq 空
+.ma 嗎
+? ?
+--
+Yes, I am available
+woo 我
+yeou 有
+konq 空
+.a 啊
+--
+Why do you ask?
+nii 你
+yeou 有
+sher 什
+.me 麼
+shyh 事
+.ma 嗎
+? ?
+--
+I heard there's a good movie
+yeou 有
+yi 一
+buh 部
+diann 電
+yiing 影
+ting 聽
+shuo 說
+heen 很
+hao 好
+kann 看
+. 。
+--
+Would you like to go to a movie with me?
+woo 我
+sheang 想
+iue 約
+nii 妳
+yih 一
+chii 起
+chiuh 去
+kann 看
+diann 電
+yiing 影
+. 。
+--
+Great
+tay 太
+hao 好
+.le 了
+--
+I would like to see that movie, too
+woo 我
+yee 也
+heen 很
+sheang 想
+chiuh 去
+kann 看
+jeh 這
+buh 部
+diann 電
+yiing 影
+. 。
+--
+Which movie theater are you going to?
+nii 你
+yaw 要
+chiuh 去
+naa 哪
+yih 一
+jia 家
+diann 電
+yiing 影
+yuann 院
+.ne 呢
+? ?
+--
+I would like to go to Vieshow.
+woo 我
+sheang 想
+chiuh 去
+uei 威
+shiow 秀
+yiing 影
+cherng 城
+--
+After that, we'll go shopping in the department store and have dinner in the restaurant nearby.
+jy 之
+how 後
+, ，
+woo 我
+.men 們
+tzay 再
+chiuh 去
+guanq 逛
+bae 百
+huoh 貨
+gong 公
+sy 司
+. 。
+tzay 再
+daw 到
+fuh 附
+jinn 近
+.de 的
+tsan 餐
+ting 廳
+yonq 用
+tsan 餐
+--
+OK?
+hao 好
+.ma 嗎
+? ?
+--
+But I want to go shopping in a night market in Taiwan
+kee 可
+shyh 是
+woo 我
+hao 好
+sheang 想
+guanq 逛
+guanq 逛
+tair 台
+uan 灣
+.de 的
+yeh 夜
+shyh 市
+--
+No problem. I'll take you to Shilin night market.
+mei 沒
+wenn 問
+tyi 題
+, ，
+woo 我
+day 帶
+nii 你
+chiuh 去
+shyh 士
+lin 林
+yeh 夜
+shyh 市
+--
+It's the biggest night market in Taipei.
+jeh 這
+shyh 是
+tair 台
+beei 北
+shyh 市
+tzuey 最
+dah 大
+.de 的
+yeh 夜
+shyh 市
+. 。
+--
+You will like it
+nii 你
+yi 一
+dinq 定
+huey 會
+shii 喜
+huan 歡
+--
+Mmm, I'm really looking forward to it.
+en 嗯
+, ，
+jen 真
+linq 令
+ren 人
+chyi 期
+day 待
+--

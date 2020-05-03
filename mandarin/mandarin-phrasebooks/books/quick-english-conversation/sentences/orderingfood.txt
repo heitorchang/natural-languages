@@ -1,0 +1,64 @@
+I'd like to make a reservation, please;ma .fan nii , woo sheang yaw dinq wey;麻煩你，我想要訂位。
+For what time?;chiing wenn yaw dinq jii dean?;請問要訂幾點﹖
+For how many people?;jii wey?;幾位﹖
+I'd like to make a breakfast reservation, please;woo sheang dinq tzao tsan .de wey .jy;我想訂早餐的位置
+I'd like to make a lunch reservation, please;woo sheang dinq wuu tsan .de wey .jy;我想訂午餐的位置
+I'd like to make a dinner reservation, please;woo sheang dinq woan tsan .de wey .jy;我想訂晚餐的位置
+I'd like to make a dinner reservation for two people at 7 o'clock, please;woo sheang dinq woan tsan shyr duann .de wey .jy, leang wey, chi dean;我想訂晚餐時段的位置，兩位，七點
+Can I see the menu, please?;woo kee yii kann yi shiah tsay dan .ma?;我可以看一下菜單嗎﹖
+Can I have the menu, please?;woo kee yii yaw tsay dan .ma?;我可以要菜單嗎﹖
+Are you ready to order?;joen bey hao dean tsan .le .ma?;準備好點餐了嗎﹖
+What would you like to order?;chiing wenn sheang dean shern .me?;請問想點什麼﹖
+Here you go;tzay jeh lii;在這裡
+There you go;tzay nah lii;在那裡
+Here we go;lai .ba;來吧
+Your dumbbell is too heavy. I can't lift it;nii .de yea ling tay jonq .le, woo gen been jeu buh chii lai;你的啞鈴太重了，我根本舉不起來
+Come on, Tony. Here we go, you can do it!;jia you, dong ni, lai .ba, nii bann .de daw .de!;加油，東尼，來吧，你辦得到得﹗
+There you go!;nii kann .ba!;你看吧﹗
+I'd like a chicken salad, please;woo sheang yaw ji row sha lha, shieh .shie;我想要雞肉沙拉，謝謝
+Can I have a seafood spaghetti, please?;woo kee yii dean yih parn hae shian yih dah lih miann .ma?;我可以點一盤海鮮義大利麵嗎﹖
+Can I get extra salad dressing, please?;kee yii duo geei woo i shie sha lha jianq .ma?;可以多給我一些沙拉醬嗎﹖
+May I get it with extra rice, please?;kee yii bang woo duo jia i shie bair fann .ma?;可以幫我多加一些白飯嗎﹖
+May I get an omelet with extra rice, please?;kee yii geei woo dann bau fann binq duo jia i dean bair fann .ma?;可以給我蛋包飯並多加一點白飯嗎﹖
+Could you add 2 eggs to it, please?;kee yii bang woo jia leang ke dann .ma?;可以幫我加兩棵蛋嗎﹖
+I'd like it not spicy at all;woo wan chyuan bwu yaw lah;我完全不要辣
+I'd like it a little spicy;woo sheang yaw sheau lah;我想要小辣
+I'd like it medium spicy;woo sheang yaw jong lah;我想要中辣
+I'd like it very spicy;woo sheang yaw dah lah;我想要大辣
+It's very delicious;fei charng meei wey;非常美味
+That's so nice;jen shyh hao chy;真是好吃
+It's excellent;chau hao chy;超好吃
+Awesome!;tzann;讚
+That's tasty;wey daw heen banq;味道很棒
+That's terrible;buh hao chy;不好吃
+It's too sour;ta tay suan .le;它太酸了
+That's a bit salty;yeou dean shyan;有點鹹
+It's quite sweet;jen .de hao tyan o;真的好甜喔
+That's so bitter;tay kuu .le;太苦了
+Please hold the onion;bwu yaw jia yang tsong;不要加洋蔥
+No garlic, please;chiing bwu yaw jia suann .tou;請不要加蒜頭
+Could you hold the bean sprouts, please?;kee yii buh jia dow ya tsay .ma?;可以不加豆芽菜嗎﹖
+I can't eat spicy food;woo buh neng chy lah;我不能吃辣
+I can't eat carbs;woo buh neng chy diann feen ley .de shyr wuh;我不能吃澱粉類的食物
+I don't eat vegetables;woo bwu chy ching tsay;我不吃青菜
+I don't eat meat;woo bwu chy row;我不吃肉
+I'm allergic to shrimp;woo duey shia .tzy guoh miin;我對蝦子過敏
+I'm on a diet;woo jenq tzay konq jyh yiin shyr;我正在控制飲食
+I'm a vegetarian;woo shyh suh shyr juu yih jee;我是素食主義者
+I'm still waiting for my food;woo hair tzay deeng woo .de tsan dean;我還在等我的餐點
+My order hasn't come yet;woo dean .de tsan hair mei lai;我點的餐還沒來
+How long will it take?;chiing wenn hair yaw duo jeou;請問還要多久﹖
+Can you check it for me?;kee yii bang woo chiueh renn yi shiah .ma?;可以幫我確認一下嗎﹖
+This is not what I ordered;jeh bwu shyh woo dean .de;這不是我點的
+I didn't order this;woo bwu shyh dean jeh .ge;我不是點這個
+Let me pay for the meal;jeh yih tsan ranq woo chiing keh;這一餐讓我請客
+I'll treat you;woo chiing nii;我請你
+It's my treat;jeh tsyh woo chiing keh;這次我請客
+It's on me;suann woo .de;算我的
+Let's share the bill;woo .men yih ren fuh yi bann;我們一人付一半
+Let's split the bill;woo .men fen kai fuh janq .ba;我們分開付帳吧
+Let me pay for the meal;woo lai mae dan;我來買單
+Can I have the bill, please?;kee yii jye janq .ma?;可以結帳嗎﹖
+Can I have the check, please?;kee yii geei woo janq dan .ma?;可以給我帳單嗎﹖
+Check, please;jye janq;結帳
+That will be 750 dollars, Ma'am;sheau jiee, tzoong gonq chi bae wuu shyr yuan;小姐，總共七百五十元

@@ -1,0 +1,266 @@
+May I get you something to drink?
+chiing 請
+wenn 問
+nii 你
+yaw 要
+he 喝
+shern 什
+.me 麼
+? ﹖
+--
+No, thanks
+bwu 不
+yong 用
+.le 了
+, ，
+shieh 謝
+.shie 謝
+--
+I'd like a hot coffee, please
+woo 我
+sheang 想
+he 喝
+reh 熱
+ka 咖
+fei 啡
+, ，
+shieh 謝
+.shie 謝
+--
+Water, please
+bair 白
+kai 開
+shoei 水
+, ，
+shieh 謝
+.shie 謝
+--
+What kind of drinks do you have?
+chiing 請
+wenn 問
+yeou 有
+shern 什
+.me 麼
+yiin 飲
+liaw 料
+? ﹖
+--
+Would you like chicken or pork?
+chiing 請
+wenn 問
+nin 您
+yaw 要
+ji 雞
+row 肉
+huoh 或
+ju 豬
+row 肉
+? ﹖
+--
+May I help you?
+yeou 有
+shern 什
+.me 麼
+shiu 需
+yaw 要
+bang 幫
+mang 忙
+.ma 嗎
+? ﹖
+--
+Would you like anything else?
+nin 您
+hair 還
+shiu 需
+yaw 要
+shern 什
+.me 麼
+.ma 嗎
+? ﹖
+--
+spoon
+tang 湯
+chyr 匙
+--
+fork
+cha 叉
+.tzy 子
+--
+blanket
+mau 毛
+taan 毯
+--
+earphones
+eel 耳
+ji 機
+--
+pillow
+jeen 枕
+.tou 頭
+--
+neck cushion
+jiing 頸
+jeen 枕
+--
+magazine
+tzar 雜
+jyh 誌
+--
+newspaper
+baw 報
+jyy 紙
+--
+Could you please give me a blanket?
+kee 可
+yii 以
+chiing 請
+nii 你
+geei 給
+woo 我
+yi 一
+jiann 件
+mau 毛
+taan 毯
+.ma 嗎
+? ﹖
+--
+Can I have some more fish sauce, please?
+woo 我
+kee 可
+yii 以
+tzay 再
+duo 多
+yaw 要
+shie 些
+yu 魚
+luh 露
+.ma 嗎
+? ﹖
+--
+Can I have another pillow, please?
+woo 我
+kee 可
+yii 以
+tzay 再
+duo 多
+yaw 要
+yih 一
+.ge 個
+jeen 枕
+.tou 頭
+.ma 嗎
+? ﹖
+--
+Do you have any magazines?
+chiing 請
+wenn 問
+yeou 有
+tzar 雜
+jyh 誌
+.ma 嗎
+? ﹖
+--
+What is the departure time?
+chiing 請
+wenn 問
+fei 飛
+ji 機
+jii 幾
+dean 點
+chii 起
+fei 飛
+? ﹖
+--
+What is the arrival time?
+chiing 請
+wenn 問
+fei 飛
+ji 機
+jii 幾
+dean 點
+daw 到
+dar 達
+? ﹖
+--
+How long does it take until landing?
+chiing 請
+wenn 問
+hair 還
+yeou 有
+duo 多
+jeou 久
+fei 飛
+ji 機
+tsair 才
+huey 會
+jianq 降
+luoh 落
+.ne 呢
+? ﹖
+--
+When will you serve the meal?
+chiing 請
+wenn 問
+jii 幾
+dean 點
+huey 會
+sonq 送
+tsan 餐
+? ﹖
+--
+What is the local time in ~?
+shiann 現
+tzay 在
+~ ~
+.de 的
+shyr 時
+jian 間
+jii 幾
+dean 點
+.le 了
+? ﹖
+--
+What is the temperature in ~?
+shiann 現
+tzay 在
+~ ~
+jii 幾
+duh 度
+? ﹖
+--
+Where is the lavatory?
+chiing 請
+wenn 問
+tseh 廁
+suoo 所
+tzay 在
+naa 哪
+lii 裡
+? ﹖
+--
+It is 7 hours ahead of Taiwan
+shyr 時
+jian 間
+bii 比
+tair 台
+uan 灣
+kuay 快
+.le 了
+chi 七
+.ge 個
+sheau 小
+shyr 時
+--
+It is 5 hours behind Taiwan
+shyr 時
+jian 間
+bii 比
+tair 台
+uan 灣
+mann 慢
+.le 了
+wuu 五
+.ge 個
+sheau 小
+shyr 時
+--

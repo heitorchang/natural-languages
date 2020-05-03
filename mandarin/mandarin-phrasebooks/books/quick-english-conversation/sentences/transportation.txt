@@ -1,0 +1,33 @@
+How do you get to ~ ?;nii tzeen .me chiuh ~ .de;你怎麼去~的﹖
+How do you get here?;nii tzeen .me guoh lai .de?;你怎麼過來的﹖
+How do you get there?;nii tzeen .me chiuh nah lii .de?;你怎麼去那裡的﹖
+I drive;woo kai che;我開車
+I ride a bike;woo chyi jeau tah che;我騎腳踏車
+I ride a motorcycle;woo chyi ji che;我騎機車
+I walk to the market;woo tzoou luh chiuh tsay shyh chaang;我走路去菜市場
+I go to school on foot;woo yonq tzoou .de daw shyue shiaw;我用走的到學校
+I walk barefoot on the grass;woo daa chyh jeau tzay tsao dih shanq tzoou;我打赤腳在草地上走
+I go to school by car;woo da chih che chiuh shyue shiaw;我搭汽車去學校
+I go to the countryside by train;woo da huoo che chiuh shiang .shia;我搭火車去鄉下
+I went to the hospital by bus;woo da gong che chiuh i yuann;我搭公車去醫院
+I caught a cab to the party;woo da jih cherng che daw ji chaang;我搭計程車到機場
+I will catch a train to the city center;woo jiang da huoo che daw shyh jong shin;我將搭火車到市中心
+I will take the MRT to the concert;woo jiang da jye yunn daw yean chanq huey huey chaang;我將搭捷運到演唱會會場
+Could you please take me to Central Park?;kee yii sonq woo daw jong iang gong yuan .ma?;可以送我到中央公園嗎﹖
+How far is the university?;dah shyue hair yeou duo yeuan .ne?;大學還有多遠呢﹖
+How far is the airport from here?;ji chaang li jeh lii yeou duo yeuan?;機場離這裡有多遠﹖
+How far is it from here?;ta li jeh lii duo yeuan?;它離這裡多遠﹖
+How far is it?;hair yeou duo yeuan?;還有多遠﹖
+How long does it take?;yaw hua duo shao shyr jian tsair huey daw .ne?;要花多少時間才會到呢﹖
+Let me get off at the bus stop, please;chiing ranq woo tzay gong che jann pair shiah che;請讓我在公車站牌下車
+Let me get off at the corner of the street, please;chiing ranq woo tzay jie jeau nah lii shiah che;請讓我在街角那裡下車
+Pull over here, please;chiing tyng tzay jeh lii;請停在這裡
+Pull over there, please;chiing tyng tzay nah lii;請停在那裡
+How much is the fare?;chiing wenn che tzy duo shao chyan?;請問車資多少錢﹖
+How much do I owe you?;woo yaw fuh nii duo shao chyan?;我要付你多少錢﹖
+need a ride;shiu yaw ren sonq i cherng;需要人送一程
+Do you need a ride?;nii yaw da shuenn feng che .ma?;你要搭順風車嗎﹖
+Tony always walks Jenny home;dong ni tzoong shyh tzoou luh sonq jen ni hwei jia;東尼總是走路送珍妮回家
+Tony always escorts Jenny home;dong ni tzoong shyh huh sonq jen ni hwei jia;東尼總是護送珍妮回家
+Jenny asks Tony to walk her home;jen ni chiing dong ni tzoou luh peir ta hwei jia;珍妮請東尼走路培她回家
+Jenny asks Tony to escort her home;jen ni chiing dong ni huh sonq ta hwei jia;珍妮請東尼護送她回家

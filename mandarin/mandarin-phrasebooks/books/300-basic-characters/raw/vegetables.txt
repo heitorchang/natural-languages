@@ -1,0 +1,59 @@
+rice
+mii 米
+--
+wheat
+may 麥
+--
+bean
+dow 豆
+--
+melon, gourd
+gua 瓜
+--
+taro
+yuh 芋
+--
+vegetable
+tsay 菜
+--
+chestnut
+lih 栗
+--
+lotus root
+oou 藕
+--
+tea
+char 茶
+--
+sprout
+miau 苗
+--
+grass
+tsao 草
+--
+flower
+hua 花
+--
+fruit
+guoo 果
+--
+bamboo
+jwu 竹
+--
+bamboo shoot
+soen 筍
+--
+pine
+song 松
+--
+lotus
+her 荷
+--
+chrysanthemum
+jyu 菊
+--
+leaf
+yeh 葉
+--
+tree
+shuh 樹

@@ -1,0 +1,106 @@
+calendar
+yue4 月
+li4 曆
+--
+week
+xing1 星
+qi2 期
+--
+Sunday
+xing1 星
+qi2 期
+ri4 日
+--
+Monday
+xing1 星
+qi2 期
+yi1 一
+--
+Saturday
+xing1 星
+qi2 期
+liu4 六
+--
+What day of the week is it?
+jin1 今
+tian1 天
+( (
+shi4 是
+) )
+xing1 星
+qi2 期
+ji3 幾
+? ?
+--
+It's Saturday
+jin1 今
+tian1 天
+( (
+shi4 是
+) )
+xing1 星
+qi2 期
+liu4 六
+--
+month
+yue4 月
+fen4 份
+--
+January
+yi2 一
+yue4 月
+--
+December
+shi2 十
+er4 二
+yue4 月
+--
+date
+ri4 日
+qi2 期
+--
+1st
+yi2 一
+ri4 日
+--
+20th
+er4 二
+shi2 十
+ri4 日
+--
+31st
+san1 三
+shi2 十
+yi1 一
+ri4 日
+--
+What's the date today?
+jin1 今
+tian1 天
+( (
+shi4 是
+) )
+ji3 幾
+yue4 月
+ji3 幾
+hao4 號
+? ?
+--
+It's January 1st
+jin1 今
+tian1 天
+( (
+shi4 是
+) )
+yi2 一
+yue4 月
+yi2 一
+ri4 日
+--
+Today is the 5th
+jin1 今
+tian1 天
+wu3 五
+hao4 號
+--
+

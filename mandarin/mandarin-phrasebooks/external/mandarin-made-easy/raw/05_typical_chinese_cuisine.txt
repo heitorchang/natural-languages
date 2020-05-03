@@ -1,0 +1,243 @@
+typical Chinese cuisine
+piin 品
+charng 嚐
+jong 中
+gwo 國
+tsay 菜
+--
+house special
+jau 招
+pair 牌
+fann 飯
+--
+stewed pork with rice
+konq 控
+row 肉
+fann 飯
+--
+shrimp rolls with rice
+shia 蝦
+jeuan 捲
+fann 飯
+--
+pork chops with rice
+pair 排
+guu 骨
+fann 飯
+--
+fried chicken leg with rice
+ji 雞
+toei 腿
+fann 飯
+--
+cod with rice
+sheue 鱈
+yu 魚
+fann 飯
+--
+beef with rice
+niou 牛
+nan 腩
+fann 飯
+--
+fried rice
+chao 炒
+fann 飯
+--
+beef noodle soup
+niou 牛
+row 肉
+miann 麵
+--
+fried noodles
+chao 炒
+miann 麵
+--
+congee
+jou 粥
+--
+rice porridge
+shi 稀
+fann 飯
+--
+soup
+tang 湯
+--
+Have you eaten?
+nii 你
+chy 吃
+fann 飯
+.le 了
+mei 沒
+? ?
+--
+Not yet. I'm starving!
+hair 還
+mei 沒
+. 。
+woo 我
+kuay 快
+eh 餓
+bean 扁
+.le 了
+--
+My treat today.
+jin 今
+tian 天
+woo 我
+chiing 請
+keh 客
+--
+What do you feel like eating?
+nii 你
+sheang 想
+chy 吃
+shern 什
+.me 麼
+? ?
+--
+I heard that their beef noodles are good.
+ting 聽
+shuo 說
+jeh 這
+yih 一
+jia 家
+niou 牛
+row 肉
+miann 麵
+heen 很
+hao 好
+chy 吃
+. 。
+--
+Let's give them a try
+woo 我
+.men 們
+chiuh 去
+charng 嚐
+.chang 嚐
+.ba 吧
+! !
+--
+I want two beef noodles, sir
+lao 老
+baan 闆
+, ，
+woo 我
+yaw 要
+leang 兩
+woan 碗
+niou 牛
+row 肉
+miann 麵
+--
+Both spicy?
+leang 兩
+woan 碗
+dou 都
+yaw 要
+jia 加
+lah 辣
+.ma 嗎
+? ?
+--
+One spicy, and the other not.
+yih 一
+woan 碗
+jia 加
+lah 辣
+, ，
+yih 一
+woan 碗
+bwu 不
+yaw 要
+jia 加
+lah 辣
+. 。
+--
+Do you want any side dishes?
+nii 你
+.men 們
+shiu 需
+yaw 要
+sheau 小
+tsay 菜
+.ma 嗎
+? ?
+--
+I want to have dried tofu, seaweed, braised egg, and vegetables
+woo 我
+yaw 要
+dow 豆
+gan 干
+, ，
+hae 海
+day 帶
+, ，
+luu 滷
+dann 蛋
+her 和
+tanq 燙
+ching 青
+tsay 菜
+--
+Check please.
+lao 老
+baan 闆
+, ，
+woo 我
+yaw 要
+mae 買
+dan 單
+--
+That'll be two hundred and ten dollars
+tzoong 總
+gonq 共
+leang 兩
+bae 百
+yih 一
+shyr 十
+yuan 元
+--
+Thanks for coming.
+shieh 謝
+shieh 謝
+guang 光
+lin 臨
+--
+What do you feel like eating?
+nii 你
+sheang 想
+chy 吃
+shern 什
+.me 麼
+? ?
+--
+feel like seeing
+sheang 想
+kann 看
+--
+feel like listening
+sheang 想
+ting 聽
+--
+feel like drinking
+sheang 想
+he 喝
+--
+Let's give it a try
+woo 我
+.men 們
+chiuh 去
+charng 嚐
+.chang 嚐
+.ba 吧
+--
+Let's check it out
+kann 看
+.kan 看
+--
+Let's have a listen
+ting 聽
+.ting 聽
+--

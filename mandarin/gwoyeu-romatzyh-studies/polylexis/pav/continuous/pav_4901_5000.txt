@@ -1,0 +1,104 @@
+Words 4901 to 5000
+===
+Words 4901 to 5000. Write in GR.
+===
+N: mushrooms grown on logs, shiitake*shiang gu
+N: sea moss*hae tair
+SV: for a long time, permanently*charng jeou
+N: some, certain, a few*moou shie
+N: new lease on life, vitality, chance of survival; (～飲食) LOHAS ('Lifestyle of Health and Sustainability', pseudo-anglicism used in Taiwan)*sheng ji
+CONJ: what is meant by …? what is the meaning of …?*her wey
+A: probably, most likely*duo bann
+AT: organic; (～食品) organic food*yeou ji
+N: grain and corn, cereals*guu ley
+SV: to give first place to …*wei juu
+N: vegetables and fruits*shu guoo
+AT, N: generalized; broad sense, generalization*goang yih
+N: abyssal fish (fish that live below the depth of 2000 m)*shen hae yu
+N: energy, vigor*jing lih
+SV: to be plentiful, to be abundant, to be full of*chong pey
+RC: to get rid of, to remove, to eliminate*pair chwu
+V: to gather, to assemble, to collect*jiuh jyi
+N: toxin, poison*dwu suh
+N: chronic disease*mann shinq binq
+N: fatty liver*jy farng gan
+N: diabetes*tarng niaw binq
+N, V: digestion, absorbtion; to digest, to absorb*shiau huah
+SV: to be good, to be well, to be desirable*liang hao
+N: intestinal cancer*charng air
+CONJ: and (formal)*yii jyi
+SV: to be enough, to be sufficient*tzwu gow
+AT: to be noted, to be famous*jy ming
+N: antonym*faan yih tzyh
+N, VO: pinyin, the Chinese romanization system; to spell, to phoneticize*pin in
+VO: to record events*jih shyh
+N: name card, visiting or calling card*ming piann
+N: lunisolar calendar*in yang lih
+V: to exceed*guoh yu
+N, V: simplification; to simplify*jean huah
+N: initial stage, early days*chu chyi
+CONJ: therefore, consequently*in tsyy
+SV: to be easy to …, to be convenient for …*biann yu
+AT: infinite, limitless*wu shiann
+IE: a single machine that serves several purposes*yih ji duo yonq
+PN: self, oneself*tzyh woo
+N: lessons, schoolwork*keh yeh
+N: dictionary, lexicon*tsyr dean
+V: to inquire into or about*char shyun
+V: to note down so as not to forget*bey wanq
+N: three-shift system*san ban jyh
+N: original appearance*yuan maw
+N: model (also ～兒)*mo teh
+N: list of celebrities, Who's Who*ming ren luh
+N: various items, all items, each and every item*geh shianq
+N: one's studies or schoolwork*shyue yeh
+N: electrical equipment or appliances*diann chih
+N: crops, agricultural products*nong tzuoh wuh
+V: to harm, to damage, to injure*soen hay
+V: to still require*reng shiu
+RC: to cure, to heal*jyh hao
+N: books, works, literature*shu jyi
+SV: to be light, thin, short and small*ching bor doan sheau
+N: inventor*fa ming jia
+N, SV: superman; to be exceptional*chau ren
+N: intelligence, intellect*jyh lih
+V: to cherish, to harbor, to yearn for, to embrace*hwai yeou
+N: property, function, natural capacity*shinq neng
+N: engineer*gong cherng shy
+N: ability, talent*tsair neng
+N, V: interference, jam; to disturb, to interfere*gan rao
+N, V: din, hubbub; to wrangle, to kick up a row*chao naw
+V: to ponder over …, to reflect on …*sy kao
+V: to talk and laugh*tarn shiaw
+N: advantages and disadvantages*iou chiue dean
+RC: to enumerate, to itemize, to cite as an example*jeu chu
+N, V: contest, competition; to compete*jinq say
+V: to coerce, to force*shye poh
+SV: to be limited to …*jiin shiann yu
+N: long distance*charng twu
+V: to shift or switch to …*joan ruh
+V: to arrange, to lay out*bian pair
+N: Mandarin phonetic symbols used in Taiwan (often referred to as Bopomofo)*juh in fwu haw
+N, V: reading pronuciation of characters, to pronounce*dwu in
+A: every, any, all, whatever*farn shyh
+V: to attach*fuh yeou
+N: radicals according to which Chinese characters are arranged in dictionaries*buh shoou
+N: strokes of a Chinese character*bii huah
+N: character-lookup list, index of Chinese characters*jean tzyh beau
+V: to leaf through*fan char
+V: to deduct*kow chwu
+N: number, amount*shuh muh
+N: individual Chinese character*dan tzyh
+N: words and expressions, terms*tsyr yeu
+N: the great majority*dah duo shuh
+N: context*shanq shiah wen
+V: to choose, to select, to pick*tiau sheuan
+SV: to be special, to be specialized*juan men
+N: name of a person*ren ming
+N: place name, toponym*dih ming
+N: geology*dih jyr
+N: mineral*kuanq wuh
+N: introductory remarks, notes on the use of a book*lih yan
+N: this text, this article*been wen
+N: celebrated dictum or remark*ming yan
+N: brain, mind*nao hae

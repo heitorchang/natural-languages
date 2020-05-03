@@ -1,0 +1,96 @@
+How are you?
+nii 你
+hao 好
+--
+Good morning!
+tzao 早
+--
+Long time no see!
+hao 好
+jeou 久
+bwu 不
+jiann 見
+--
+Go! Go!
+jia 加
+you 油
+--
+Thank you!
+shieh 謝
+.shie 謝
+--
+Goodbye
+tzay 再
+jiann 見
+--
+Yes
+shyh 是
+--
+No
+bwu 不
+shyh 是
+--
+Right
+duey 對
+--
+Wrong
+bwu 不
+duey 對
+--
+Yes, I do (I have)
+yeou 有
+--
+No, I don't (I don't have)
+mei 沒
+yeou 有
+--
+Exactly
+mei 沒
+tsuoh 錯
+--
+Thank you for the hard work
+shin 辛
+kuu 苦
+.le 了
+--
+Thank you for caring.
+shieh 謝
+.shie 謝
+nii 你
+.de 的
+guan 關
+shin 心
+--
+Don't worry
+nii 你
+fanq 放
+shin 心
+--
+I can do it by myself
+woo 我
+tzyh 自
+jii 己
+lai 來
+--
+Sorry
+duey 對
+buh 不
+chii 起
+--
+Please wait a second
+chiing 請
+shau 稍
+deeng 等
+--
+Sorry to keep you waiting
+buh 不
+hao 好
+yih 意
+.sy 思
+, ﹐
+ranq 讓
+nii 你
+jeou 久
+deeng 等
+.le 了
+--

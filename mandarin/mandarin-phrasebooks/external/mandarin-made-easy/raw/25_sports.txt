@@ -1,0 +1,186 @@
+sports
+yunn 運
+donq 動
+--
+baseball
+banq 棒
+chyou 球
+--
+basketball
+lan 籃
+chyou 球
+--
+tennis
+woang 網
+chyou 球
+--
+badminton
+yeu 羽
+mau 毛
+chyou 球
+--
+golf
+gau 高
+eel 爾
+fu 夫
+chyou 球
+--
+table tennis
+juo 桌
+chyou 球
+--
+bowling
+bao 保
+ling 齡
+chyou 球
+--
+skiing
+hwa 滑
+sheue 雪
+--
+swimming
+you 游
+yeong 泳
+--
+run a marathon
+maa 馬
+lha 拉
+song 松
+--
+jogging
+mann 慢
+pao 跑
+--
+water ballet
+shoei 水
+shanq 上
+ba 芭
+leei 蕾
+--
+soccer
+tzwu 足
+chyou 球
+--
+skating
+lhiou 溜
+bing 冰
+--
+pole vaulting
+cheng 撐
+gan 竿
+tiaw 跳
+--
+taekwondo
+tair 跆
+chyuan 拳
+daw 道
+--
+archery
+yang 洋
+gong 弓
+--
+boxing
+chyuan 拳
+jyi 擊
+--
+gymnastics
+tii 體
+tsau 操
+--
+Do you like sports?
+nii 你
+shii 喜
+huan 歡
+yunn 運
+donq 動
+.ma 嗎
+? ?
+--
+I like sports very much
+woo 我
+shii 喜
+huan 歡
+yunn 運
+donq 動
+--
+But I am to busy to work out
+dann 但
+shyh 是
+, ，
+woo 我
+heen 很
+mang 忙
+, ，
+mei 沒
+yeou 有
+shyr 時
+jian 間
+yunn 運
+donq 動
+--
+I swim when I have time.
+jyy 只
+yaw 要
+woo 我
+yeou 有
+konq 空
+, ，
+woo 我
+huey 會
+chiuh 去
+you 游
+yeong 泳
+. 。
+--
+What else do you like besides swimming?
+chwu 除
+.le 了
+you 游
+yeong 泳
+, ，
+nii 你
+hair 還
+shii 喜
+huan 歡
+sher 什
+.me 麼
+yunn 運
+donq 動
+? ?
+--
+I like jogging in the morning
+woo 我
+shii 喜
+huan 歡
+tzao 早
+shanq 上
+chii 起
+lai 來
+mann 慢
+pao 跑
+--
+Let's go jogging in the morning one day, shall we?
+gae 改
+tian 天
+woo 我
+.men 們
+tzao 早
+shanq 上
+yih 一
+chii 起
+chiuh 去
+pao 跑
+buh 步
+hao 好
+.ma 嗎
+? ?
+--
+That would be great
+nah 那
+jen 真
+shyh 是
+tay 太
+hao 好
+.le 了
+! !
+--

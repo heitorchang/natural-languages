@@ -1,0 +1,17 @@
+Complete
+
+family.txt Family 8/8 thematic
+body.txt Human Body
+nature.txt Nature
+animals.txt Animals
+vegetables.txt Vegetables 4/8
+utensils.txt Utensils 5/8
+
+To-do
+
+verbs.txt Verbs 6/8
+misc.txt Miscellaneous 7/8
+opposites.txt Opposites 
+measurewords.txt Measure Words
+thematic.txt Thematic
+colors.txt Colors

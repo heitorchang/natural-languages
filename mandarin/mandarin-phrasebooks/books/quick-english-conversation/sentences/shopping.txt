@@ -1,0 +1,54 @@
+What can I do for you?;yeou shern .me shiu yaw bang mang .ma;有什麼需要幫忙嗎﹖
+What are you looking for?;nii tzay jao shern .me .ma?;你在找什麼嗎﹖
+Can I help you?;shiu yaw woo bang mang .ma?;需要我幫忙嗎﹖
+Just looking first;woo shian kann kann;我先看看
+Can I see the pink shirt, please?;kee yii ranq woo kann kann nah jiann feen horng seh .de chenn shan .ma?;可以讓我看看那件粉紅色的襯衫嗎﹖
+Can I try it on?;woo kee yii shyh jeh jiann .ma?;我可以試這件嗎﹖
+Sure, ma'am;hao .de, neu shyh;好的，女士
+It's too small;tay sheau .le;太小了
+It's too big;tay dah .le;太大了
+It's too long;tay charng .le;太長了
+It's too short;tay doan .le;太短了
+It's too loose;tay song .le;太鬆了
+It's too tight;tay jiin .le;太緊了
+It fits me;duey woo lai shuo gang .gang hao;對我來說剛剛好
+It doesn't fit me;duey woo lai shuo bwu shyh her;對我來說不適合
+Do you have this in a larger size?;yeou mei yeou jeh joong .de, dann chyy .tsuen tzay dah i dean .de?;有沒有這種的，但尺寸再大一點的﹖
+Do you have any other colors?;chiing wenn nii .men hair yeou chyi ta yan seh .ma?;請問你們還有其他顏色嗎﹖
+What size do you normally wear?;chiing wenn nii pyng charng chuan shern .me chyy .tsuen .de .ne?;請問你平常穿什麼尺寸的呢﹖
+Do you have this in ~ size?;jeh jiann yeou ~ haw .de .ma?;這件有~號的嗎﹖
+What do you think?;nii jyue .de ru her?;你覺得如何﹖
+How do I look?;woo kann chii lai tzeen .me yanq?;我看起來怎麼樣﹖
+Does it suit me?;shyh her woo .ma?;適合我嗎﹖
+It's not bad;bwu tsuoh o;不錯喔
+You look great;nii kann chii lai heen banq;你看起來很棒
+Of course, it's so you;dang ran, ta heen fwu her nii .de feng ger;當然，它很符合你的風格
+I'll think about it;woo tzay sheang yi shiah;我再想一下
+How much does it cost?;duo shao chyan?;多少錢﹖
+Clearance sale;ching tsang dah pai may;清倉大拍賣
+Closing down sale;jye shuh yng yeh dah pai may;結束營業大拍賣
+Annual sale;jou nian chinq teh may;周年慶特賣
+Knockout sale;tiaw lou dah pai may;跳樓大拍賣
+Buy one, get one free;mae i sonq i;買一送一
+~% off sale;jiah jianq ~ %;價降~%
+Can you lower the price?;kee yii suann pyan .i i dean .ma?;可以算便宜一點嗎﹖
+Do you have any free giveaways?;chiing wenn yeou tzenq piin .ma?;請問有贈品嗎﹖
+Could you give me some extra sauce, please?;kee yii duo geei woo i shie jianq liaw .ma?;可以多給我一些醬料嗎﹖
+Could you give me some extra notepads, please?;woo kee yii duo yaw jii been bii jih been .ma?;我可以多要幾本筆記本嗎﹖
+Could you give me some extra testers, please?;kee yii sonq woo i shie shyh yonq piin .ma?;可以送我一些試用品嗎﹖
+I'll take it;woo yaw mae .le;我要買了
+I'll take this one;woo yaw mae jeh .ge;我要買這個
+I'll take that one;woo yaw mae nah yi jiann;我要買那一件
+I'll take the left one;woo yaw mae tzuoo bian nah .ge;我要買左邊那個
+I'll take the right one;woo sheang mae yow bian nah .ge;我要買右邊那個
+I'll take this color;woo yaw mae jeh .ge yan seh;我要買這個顏色
+I'll take the big one;woo sheang mae dah .de nah .ge;我想買大的那個
+Do you take credit cards?;chiing wenn nii .men jie show shinn yonq kaa .ma?;請問你們接受信用卡嗎﹖
+Can I pay with a credit card?;woo kee yii yonq shinn yonq kaa fuh koan .ma?;我可以用信用卡付款嗎﹖
+Sorry, sir. We don't accept credit cards;shian sheng, buh hao yih .sy, woo .men buh jie show shinn yonq kaa;先生，不好意思，我們不接受信用卡
+Sorry, ma'am, we only accept cash;sheau jiee, buh hao yih .sy, woo .men jyy shou shiann jin;小姐，不好意思，我們只受現金
+Can I return it?;woo kee yii tuey huoh .ma?;我可以退貨嗎﹖
+Can I exchange it?;woo kee yii huann huoh .ma?;我可以換貨嗎﹖
+Please wrap it for me;chiing bang woo bau juang;請幫我包裝
+I'll take the big one. Could you please wrap it for me?;woo jyue dinq yaw nah .ge dah .de. ma .fan nii bang woo bau chii lai hao .ma?;我決定要那個大的。麻煩你幫我包起來好嗎﹖
+I don't need a bag;woo buh shiu yaw day .tzy;我不需要袋子

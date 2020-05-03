@@ -1,0 +1,64 @@
+seasonings
+tyau 調
+wey 味
+liaw 料
+--
+soy sauce
+jianq 醬
+you 油
+--
+salt
+yan 鹽
+ba 巴
+--
+MSG
+wey 味
+jing 精
+--
+miso
+wey 味
+cheng 噌
+jianq 醬
+--
+vinegar
+tsuh 醋
+--
+chili pepper
+lah 辣
+jiau 椒
+--
+chili paste
+lah 辣
+jiau 椒
+jianq 醬
+--
+chili powder
+lah 辣
+jiau 椒
+feen 粉
+--
+ketchup
+fan 蕃
+chye 茄
+jianq 醬
+--
+sugar
+tarng 糖
+--
+black pepper
+hwu 胡
+jiau 椒
+--
+sesame oil
+ma 麻
+you 油
+--
+salad oil
+sha 沙
+lha 拉
+you 油
+--
+butter
+nae 奶
+you 油
+--

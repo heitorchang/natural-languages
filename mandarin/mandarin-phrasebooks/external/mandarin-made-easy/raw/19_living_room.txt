@@ -1,0 +1,144 @@
+living room
+keh 客
+ting 廳
+--
+sofa
+sha 沙
+fa 發
+--
+side table
+char 茶
+ji 几
+--
+teamaking set
+char 茶
+jiuh 具
+--
+stereo system
+in 音
+sheang 響
+--
+lamp
+tair 檯
+deng 燈
+--
+window
+chuang 窗
+huh 戶
+--
+curtain
+chuang 窗
+lian 簾
+--
+throw pillow
+kaw 靠
+diann 墊
+--
+flooring
+dih 地
+baan 板
+--
+television
+diann 電
+shyh 視
+--
+Welcome
+huan 歡
+yng 迎
+guang 光
+lin 臨
+--
+please come in
+chiing 請
+jinn 進
+--
+Have a seat, please
+chiing 請
+swei 隨
+biann 便
+tzuoh 坐
+--
+There's a cushion beside you, help yourself
+parng 旁
+bian 邊
+yeou 有
+kaw 靠
+diann 墊
+, ，
+chiing 請
+tzyh 自
+jii 己
+na 拿
+--
+You have a tea set!
+nii 你
+.men 們
+jia 家
+yeou 有
+char 茶
+jiuh 具
+.ie 耶
+! !
+--
+I like tea a lot
+woo 我
+heen 很
+shii 喜
+huan 歡
+he 喝
+char 茶
+. 。
+--
+Let's make some tea and have a chat
+woo 我
+.men 們
+lai 來
+paw 泡
+char 茶
+liau 聊
+tian 天
+hao 好
+.le 了
+--
+I'll open the window to let some fresh air in
+daa 打
+kai 開
+chuang 窗
+, ，
+ranq 讓
+kong 空
+chih 氣
+liou 流
+tong 通
+. 。
+--
+Do you have a stereo?
+nii 你
+.men 們
+jia 家
+yeou 有
+in 音
+sheang 響
+.ma 嗎
+? ?
+--
+Yes!
+yeou 有
+.a 啊
+--
+Let's play some music
+lai 來
+yih 一
+dean 點
+in 音
+yueh 樂
+.ba 吧
+--
+Sure, no problem.
+hao 好
+.de 的
+, ，
+mei 沒
+wenn 問
+tyi 題
+--

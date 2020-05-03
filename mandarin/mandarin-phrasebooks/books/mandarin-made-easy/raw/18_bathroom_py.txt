@@ -1,0 +1,159 @@
+bathroom
+yu4 浴
+shi4 室
+--
+mirror
+jing4 鏡
+zi5 子
+--
+sink
+xi3 洗
+lian3 臉
+tai2 台
+--
+faucet
+shui3 水
+long2 龍
+tou2 頭
+--
+toothbrush
+ya2 牙
+shua1 刷
+--
+toothpaste
+ya2 牙
+gao1 膏
+--
+soap
+xiang1 香
+zao4 皂
+--
+shampoo
+xi3 洗
+fa3 髮
+jing1 精
+--
+towel rack
+mao2 毛
+jin1 巾
+jia4 架
+--
+towel
+mao2 毛
+jin1 巾
+--
+toilet
+ma3 馬
+tong3 桶
+--
+plunger
+ma3 馬
+tong3 桶
+xi1 吸
+pan2 盤
+--
+trash can
+le4 垃
+se4 圾
+tong3 桶
+--
+toilet paper
+wei4 衛
+sheng1 生
+zhi3 紙
+--
+hair dryer
+chui1 吹
+feng1 風
+ji1 機
+--
+bathtub
+yu4 浴
+gang1 缸
+--
+shower
+lian2 蓮
+peng2 蓬
+tou2 頭
+--
+I have run out of toothpaste
+ya2 牙
+gao1 膏
+kuai4 快
+mei2 沒
+le5 了
+--
+Remember to buy some tomorrow
+ming2 明
+tian1 天
+ji4 記
+de2 得
+mai3 買
+hui2 回
+lai2 來
+. 。
+--
+In passing, buy some toilet paper too
+wei4 衛
+sheng1 生
+zhi3 紙
+ye3 也
+shun4 順
+bian4 便
+mai3 買
+hao3 好
+le5 了
+--
+The shampoo you bought last time smells good.
+shang4 上
+yi2 一
+ci4 次
+mai3 買
+de5 的
+xi3 洗
+fa3 髮
+jing1 精
+hen3 很
+xiang1 香
+--
+And it makes my hair feel nice
+xi3 洗
+qi3 起
+lai2 來
+hen3 很
+shu1 舒
+fu2 服
+. 。
+--
+Let's go shopping together tomorrow.
+wo3 我
+men5 們
+ming2 明
+tian1 天
+yi4 一
+qi3 起
+qu4 去
+mai3 買
+hao3 好
+le5 了
+--
+I want to buy some other stuff as well
+wo3 我
+xiang3 想
+zai4 再
+mai3 買
+qi2 其
+ta1 它
+de5 的
+sheng1 生
+huo2 活
+yong4 用
+pin3 品
+. 。
+--
+Sure!
+hao3 好
+a5 啊
+! !
+--
+

@@ -1,0 +1,104 @@
+Words 1201 to 1300
+===
+Words 1201 to 1300. Write in GR.
+===
+N: freeway (M: 條)*gau suh gong luh
+N: high-speed railway*gau suh tiee luh
+N: Kaohsiung*gau shyong
+N: plateau*gau yuan
+N: highway (M: 條)*gong luh
+N: National Palace Museum in Taipei (～博物院)*guh gong
+VO: to register*guah haw
+N: national park*gwo jia gong yuan
+N: seashore, beach*hae tan
+V: to suit, agree with*her
+N: The Netherlands*her lan
+N: river (collective)*her liou
+SV: to be suitable, appropriate*her shyh
+Cross-Island Highway (eg. Central: 中部～)*herng guann gong luh
+N: text message (SMS) (M: 通, 封)*jean shiunn
+VO: to open up a new road*kai luh
+N: Kending*keen ding
+N, M: mouth; measure word for family members, wells; a mouthful of*koou
+SV, N: to be toilsome, hard, sad, bitter; toil, hardship*kuu
+N: expressway*kuay suh daw luh
+DEM, A: another, the other; in addition, additionally*linq way
+V: to flow*liou
+N: oasis*liuh jou
+N: road, street, avenue (M: 條)*maa luh
+SV: to be young*nian ching
+N: young person, young people*nian ching ren
+N: peasant, peasantry*nong min
+N: farmer*nong ren
+N: agriculture, farming*nong yeh
+N: plains, flatlands*pyng yuan
+SV: to be light (in weight)*ching
+N: population*ren koou
+N: desert (M: 片)*sha moh
+N: beach*sha tan
+V, SV: to be suited to, suitable for …*shyh her
+V: to collect, gather, receive*shou
+RC: to receive, to get, obtain*shou daw
+RC: to put away*shou chii lai
+A: though, although*suei ran
+N: typhoon*tair feng
+Taroko Gorge (～峽谷)*tay luu ger
+N: railway, railroad (M: 條)*tiee luh
+I, P: used to indicate surprise, approval (replaces 啊 if the final word in a sentence ends with '-u', '-ao', or '-ou')*.ua
+N: canyon, gorge*shya guu
+SV, N: to be the opposite, to be contrary; the opposite*shiang faan
+SV: to be difficult, hard, painful, exhausting; to experience difficulty, hardship, pain, exhaustion*shin kuu
+V: to appreciate, to admire*shin shaang
+N: Asia*yea jou
+PT: besides, except for (除了 … ～)*yii way
+V: to think, assume (incorrectly)*yii wei
+N: postage stamp (M: 張, 套)*you piaw
+A: originally, formerly, at first; (indicating the discovery of the truth) it turns out that …*yuan lai
+N: government*jenq fuu
+V: to be worth (time, money, effort)*jyr
+SV, A: to be worthwhile; worth (doing something)*jyr der
+SV, VO: to be valuable, costly*jyr chyan
+V: to point at, to point to, to point out*jyy
+V: to change, become different, to transform*biann
+N: change, transformation*biann huah
+A: used before a negative for emphasis*binq
+CONJ: and, besides, moreover, furthermore (b…)*binq chiee
+V: to produce, yield*chaan
+N: product, produce*chaan piin
+N, V: natural product, product; to produce*chu chaan
+V, AT: to export; exported*chu koou
+N: everywhere*daw chuh
+M: degrees (unit of measure for angles, temperature, etc.)*duh
+CONJ: moreover, in addition, furthermore ; and, besides, moreover, furthermore (e…)*erl chiee
+VO: to have a fever*fa shau
+VO: to classify*fen ley
+N: pineapple*fenq li
+VO: the wind is blowing*gua feng
+N: seafood*hae shian
+V: to cause trouble to, to impair*hay
+SV, V: to be slippery, smooth; to slip, skate, slide, glide*hwa
+N: Keelung*ji long
+V, AT: to import; imported*jinn koou
+V, N: to cough; a cough*ker sow
+N: minerals, mineral products*kuanq chaan
+M: kind, type, class, category*ley
+N: air conditioning, cold air*leeng chih
+N: below zero*ling shiah
+N: orange*leou cherng
+N: coal*mei
+N: coal mine*mei kuanq
+N: uncooked rice*mii
+N: agricultural product*nong chaan piin
+SV: to be warm*noan .huo
+N: heating, warm air*noan chih
+N: grapefruit*pwu taur yow
+N: climate*chih how
+N: air temperature*chih uen
+N: gasoline, petrol*chih you
+SV: sunny*chyng
+N: clear day, sunny day*chyng tian
+V: to melt, to draw*rong huah
+SV: to be damp, moist, humid, wet (the more common version, with 灬)*shy
+SV: to be damp, moist, humid, wet (the less common version, with 土)*shy
+N: humidity (the more common version, with 灬)*shy duh
+SV: to be hot and humid*shy reh

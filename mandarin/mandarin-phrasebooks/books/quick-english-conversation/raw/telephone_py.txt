@@ -1,0 +1,383 @@
+I'd like to speak to Tony, please
+qing3 請
+zhao3 找
+dong1 東
+ni2 尼
+, ，
+xie4 謝
+xie5 謝
+--
+Speaking
+zheng4 正
+zai4 在
+shuo1 說
+hua4 話
+--
+I'm speaking
+wo3 我
+jiu4 就
+shi4 是
+--
+It's me, Tony
+wo3 我
+shi4 是
+dong1 東
+ni2 尼
+--
+Who's calling, please?
+qing3 請
+wen4 問
+na3 哪
+wei4 位
+da3 打
+lai2 來
+? ﹖
+--
+May I know who's on the line?
+bu4 不
+hao3 好
+yi4 意
+si5 思
+qing3 請
+wen4 問
+shi4 是
+na3 哪
+yi2 一
+wei4 位
+da3 打
+lai2 來
+? ﹖
+--
+May I speak to Tony, please?
+wo3 我
+xiang3 想
+zhao3 找
+dong1 東
+ni2 尼
+, ，
+xie4 謝
+xie5 謝
+--
+Who's calling, please?
+qing3 請
+wen4 問
+na3 哪
+wei4 位
+? ﹖
+--
+Hold on a second, please
+qing3 請
+deng3 等
+yi2 一
+xia4 下
+--
+He's not in at the moment
+ta1 他
+xian4 現
+zai4 在
+bu2 不
+zai4 在
+--
+Tony is not available right now
+dong1 東
+ni2 尼
+xian4 現
+zai4 在
+bu4 不
+fang1 方
+bian4 便
+jie1 接
+dian4 電
+hua4 話
+--
+He is not available right now
+ta1 他
+xian4 現
+zai4 在
+mei2 沒
+you3 有
+kong4 空
+jie1 接
+dian4 電
+hua4 話
+--
+Tony is in a meeting right now
+xian4 現
+zai4 在
+dong1 東
+ni2 尼
+zheng4 正
+zai4 在
+kai1 開
+hui4 會
+zhong1 中
+--
+He is in a meeting
+ta1 他
+zheng4 正
+zai4 在
+kai1 開
+hui4 會
+--
+Tony is on another call at the moment
+dong1 東
+ni2 尼
+xian4 現
+zai4 在
+zheng4 正
+zai4 在
+jiang3 講
+dian4 電
+hua4 話
+zhong1 中
+--
+He's on another call
+ta1 他
+zheng4 正
+zai4 在
+jiang3 講
+dian4 電
+hua4 話
+zhong1 中
+--
+Tony is away from his desk
+dong1 東
+ni2 尼
+xian4 現
+zai4 在
+bu2 不
+zai4 在
+wei4 位
+zhi5 置
+shang4 上
+--
+May I leave a message?
+wo3 我
+ke3 可
+yi3 以
+liu2 留
+hua4 話
+ma5 嗎
+? ﹖
+--
+Sure
+ke3 可
+yi3 以
+--
+Why not?
+you3 有
+he2 何
+bu4 不
+ke3 可
+? ﹖
+--
+Go ahead!
+lai2 來
+ba5 吧
+! ﹗
+--
+I'd like to speak to Tony, please
+wo3 我
+zhao3 找
+dong1 東
+ni2 尼
+, ，
+xie4 謝
+xie5 謝
+--
+He's away from his desk
+ta1 他
+gang1 剛
+hao3 好
+bu2 不
+zai4 在
+wei4 位
+zhi5 置
+shang4 上
+--
+Can I leave a message?
+na4 那
+wo3 我
+ke3 可
+yi3 以
+liu2 留
+hua4 話
+ma5 嗎
+? ﹖
+--
+Yes, go ahead!
+hao3 好
+, ，
+qing3 請
+shuo1 說
+ba5 吧
+! ﹗
+--
+Can I take a message?
+wo3 我
+neng2 能
+liu2 留
+ge5 個
+zi4 字
+tiao2 條
+ma5 嗎
+? ﹖
+--
+Please tell him to call me back
+qing3 請
+zhuan3 轉
+gao4 告
+ta1 他
+hui2 回
+dian4 電
+hua4 話
+gei3 給
+wo3 我
+--
+Would you please tell her to call me back?
+ma2 麻
+fan5 煩
+ni3 你
+qing3 請
+ta1 她
+hui2 回
+dian4 電
+hua4 話
+gei3 給
+wo3 我
+hao3 好
+ma5 嗎
+? ﹖
+--
+Would you please tell Jenny to call me back?
+ma2 麻
+fan5 煩
+ni3 你
+gen1 跟
+zhen1 珍
+ni2 妮
+shuo1 說
+hui2 回
+dian4 電
+hua4 話
+gei3 給
+wo3 我
+hao3 好
+ma5 嗎
+? ﹖
+--
+Please tell him to call me back as soon as possible
+ma2 麻
+fan5 煩
+ni3 你
+zhuan3 轉
+gao4 告
+ta1 他
+jin3 盡
+kuai4 快
+hui2 回
+dian4 電
+hua4 話
+gei3 給
+wo3 我
+--
+Would you please tell her to call me back immediately?
+ma2 麻
+fan5 煩
+ni3 你
+qing3 請
+ta1 她
+li4 立
+ke4 刻
+hui2 回
+dian4 電
+hua4 話
+gei3 給
+wo3 我
+hao3 好
+ma5 嗎
+? ﹖
+--
+Would you please tell him that I've called?
+ma2 麻
+fan5 煩
+ni3 你
+zhuan3 轉
+gao4 告
+ta1 他
+shuo1 說
+wo3 我
+you3 有
+da3 打
+lai2 來
+hao3 好
+ma5 嗎
+? ﹖
+--
+Please tell her that I've called
+qing3 請
+zhuan3 轉
+gao4 告
+ta1 她
+shuo1 說
+wo3 我
+you3 有
+da3 打
+lai2 來
+--
+May I have your name, please?
+qing3 請
+jiao1 教
+ni3 你
+de5 的
+da4 大
+ming2 名
+? ﹖
+--
+May I ask who's calling, please?
+qing3 請
+wen4 問
+na3 哪
+yi2 一
+wei4 位
+da3 打
+lai2 來
+de5 的
+ne5 呢
+? ﹖
+--
+Who's calling, please?
+qing3 請
+wen4 問
+ni3 你
+shi4 是
+shei2 誰
+? ﹖
+--
+May I have your telephone number, please?
+wo3 我
+ke3 可
+yi3 以
+yao4 要
+ni3 你
+de5 的
+dian4 電
+hua4 話
+hao4 號
+ma3 碼
+ma5 嗎
+? ﹖
+--
+Please let me know your telephone number
+qing3 請
+gao4 告
+su5 訴
+wo3 我
+ni3 你
+de5 的
+dian4 電
+hua4 話
+hao4 號
+ma3 碼
+--
+

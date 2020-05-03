@@ -1,0 +1,20 @@
+greetings.txt Greetings
+questions.txt Common questions
+goodbye.txt Goodbye
+gettingtoknow.txt Getting to know each other
+introducingpeople.txt Introducing people to each other
+welcoming.txt Welcoming
+thankyou.txt Thank you
+sorry.txt Sorry
+daystime.txt Days and time
+shopping.txt Shopping
+orderingfood.txt Ordering food
+transportation.txt Transportation
+airplane.txt Airplane
+directions.txt Directions
+appointments.txt Appointments
+telephone.txt Telephone
+congratulations.txt Congratulations, wishes, sympathy, regret
+relationships.txt Relationships
+ideas.txt Ideas, comments, chitchatting
+gettingsick.txt Getting sick

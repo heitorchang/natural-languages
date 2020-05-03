@@ -1,0 +1,104 @@
+Words 6301 to 6400
+===
+Words 6301 to 6400. Write in GR.
+===
+N: honeybee, bee [TOP-S]*mih feng
+N: ant [TOP-S]*maa yii
+N: silkworm [TOP-S]*tsarn
+N: leader [TOP-S]*liing shiow
+V: to split, to crack, to divide up profits, to rend, to rip open, to sever a relationship [TOP-S]*lieh
+V: to burst, to split, to rupture [TOP-S]*poh lieh
+SV: to be plentiful, to be abundant, to be rich [TOP-S]*fuh yuh
+N: clothing, clothes [TOP-S]*i .shang
+V: to request somebody to do something, please! [TOP-S]*bay tuo
+V: to authorize, to commend, to consign [TOP-S]*woei tuo
+SV: to be detailed, to be minute [TOP-S]*shyang shih
+N: friendship [TOP-S]*yeou yi
+N: giveaway, gift [TOP-S]*tzenq piin
+V: to present as a gift [TOP-S]*tzenq sonq
+V: to go to, to attend [TOP-S]*fuh
+SV, V: to fall, to tumble [TOP-S]*dye
+RC: to fall, to tumble [TOP-S]*dye dao
+V: to stride, to bestride, to straddle, to cut across, to go beyond [TOP-S]*kua
+V: to kneel on both knees [TOP-S]*guey
+V: to step on, to trample [TOP-S]*tsae
+V: to squat on heels, to stay [TOP-S]*duen
+SV: to be petulant, to be irascible, to be explosive [TOP-S]*baw tzaw
+VO: take a leave [TOP-S]*gaw tsyr
+SV: to be rapid, to be speedy, to be prompt [TOP-S]*shiunn suh
+V: to tease, to play with, to amuse [TOP-S]*dow
+N: bridegroom [TOP-S]*shin lang
+V: to give an injection, to have an injection [TOP-S]*daa jen
+N: needle, pin, stitch [TOP-S]*jen
+CV: in the light of, in connection with [TOP-S]*jen duey
+N: bank note, paper money, bill [TOP-S]*chau piaw
+SV: to be sharp-pointed [TOP-S]*jian ruey
+V: engage in physical exercise, temper, steel, toughen [TOP-S]*duann liann
+N: key, crux [TOP-S]*guan jiann
+N: keyboard [TOP-S]*jiann parn
+N, V: reading; to read [TOP-S]*yueh dwu
+SV: to be strange, to be unfamiliar [TOP-S]*moh sheng
+N: a burst, a fit, a peal (also ～子) [TOP-S]*yi jenn
+N: these days, lately, recently (also ～子) [TOP-S]*jeh jenn
+M: verbal measure word for a period of time an action lasts, especially for actions that happen suddenly [TOP-S]*jenn
+N: period of time [TOP-S]*jenn .tzy
+N: sparrow [TOP-S]*ma chiueh
+N: mist [TOP-S]*wuh
+A: quite, very, considerably [TOP-S]*poo
+N: steamed bun with no filling [TOP-S]*man tour
+SV: to be dirty [TOP-S]*ang tzang
+N: soul, spirit [TOP-S]*ling hwen
+SV, V: to be sticky, to be glutinous; to glue, to stick, to paste [TOP-S]*nian
+N: first ten days of the month [TOP-M]*shanq shyun
+N: last ten days of the month [TOP-M]*shiah shyun
+SV: to persevere, to be untiring [TOP-M]*bwu shieh
+N: hills, mounds, craggy terrain [TOP-M]*chiou ling
+N, SV: the golden mean of Confucianism; to be moderate, to be not extreme, to be not too much of anything [TOP-M]*jong iong
+N: middle ten days of the month [TOP-M]*jong shyun
+N: master, leading character in a novel, protagonist [TOP-M]*juu ren ueng
+V: to dominate, to dictate, to decide [TOP-M]*juu tzae
+N: main shaft, spindle [TOP-M]*juu jour
+N: beggar [TOP-M]*chii gay
+SV: to be dry, to be arid, to be uninteresting, to be dull [TOP-M]*gan tzaw
+CV: in, at, to, from, out of, by, then (usage overlaps with 於) [TOP-M]*yu
+N: well [TOP-M]*jiing
+V: to negotiate, to make representations [TOP-M]*jiau sheh
+N: palace maid, painting of beautiful women [TOP-M]*shyh neu
+V: to wait upon, to serve [TOP-M]*tsyh how
+V: to stand still for long while [TOP-M]*juh lih
+V: to occupy, to hold (also written without the 亻 radical) [TOP-M]*jann jiuh
+V: to capture, to occupy (also written without the 亻 radical)  [TOP-M]*jann liing
+V: to admire (p…) [TOP-M]*pey fwu
+AT, V: concomitant; to begin at the same time; to erupt at the same time [TOP-M]*binq fa
+VO: to exert all one's strength, to muscle into [TOP-M]*shyy jinn
+V: to corrode, to erode (q…) [TOP-M]*chin shyr
+V: to make a sneak attack on … [TOP-M]*chin shyi
+SV: to be pretty, to be handsome, to be smart [TOP-M]*chiaw
+N, V: captive, prisoner; to capture or take a prisoner [TOP-M]*fwu luu
+N, V: blessing; to bless and protect [TOP-M]*bao yow
+CONJ: if, supposing, in case [TOP-M]*taang ruoh
+V: lean on, rest against, rely on [TOP-M]*yii
+V: to stagnate, to cease moving or making progress [TOP-M]*tyng jyh
+N: guy, fellow, chap [TOP-M]*jia .huo
+V: to charter, to engage, to hire, to rent, to retain, to lease, to employ [TOP-M]*guh yonq
+N: Confucian school [TOP-M]*ru jia
+N: pioneer, forerunner, harbinger, predecessor [TOP-M]*shian chiu
+N, SV: radiance, brilliance, glory; to be brilliant, to be magnificent [TOP-M]*guang huei
+V: to cash a check, to honor a commitment, to fulfill, to make good [TOP-M]*duey shiann
+N, SV: immunity; to be immune [TOP-M]*mean yih
+N: Eight Trigrams (of 易經, the Book of Changes) [TOP-M]*ba guah
+N: resonance, sympathetic response [TOP-M]*gonq ming
+N, V: deep thought, meditation; to contemplate, to meditate, to muse [TOP-M]*ming sheang
+SV: to wither, fall, and scatter about; to decline, to be on the wane [TOP-M]*diau ling
+RC: to solidify [TOP-M]*ning guh
+V: to coagulate, to congeal, to condense [TOP-M]*ning jye
+V: to condense (of vapor), to coalesce, to concentrate [TOP-M]*ning jiuh
+V: to gaze fixedly, to stare [TOP-M]*ning shyh
+N, V: secretion; to secrete [TOP-M]*fen mih
+V: to distinguish, to differentiate [TOP-M]*fen biann
+V: to learn from group discussion [TOP-M]*chie tsuo
+N, VO: brakes, to apply brakes (version with 刂) [TOP-M]*sha che
+V: to exploit [TOP-M]*bo shiueh
+V: to peel, to shell, to flay [TOP-M]*bo
+N: physical strength, force, spirit, energy, effort (also written with 兒) [TOP-M]*jinn
+N: artery [TOP-M]*donq may

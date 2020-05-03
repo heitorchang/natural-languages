@@ -1,0 +1,188 @@
+ask for directions
+wenn 問
+luh 路
+--
+left
+tzuoo 左
+bian 邊
+--
+right
+yow 右
+bian 邊
+--
+turn left
+tzuoo 左
+joan 轉
+--
+turn right
+yow 右
+joan 轉
+--
+go straight
+jyr 直
+tzoou 走
+--
+ahead
+chyan 前
+miann 面
+--
+behind
+how 後
+miann 面
+--
+inside
+lii 裡
+miann 面
+--
+across from
+duey 對
+miann 面
+--
+bus stop
+gong 公
+che 車
+jann 站
+--
+MRT station
+jye 捷
+yunn 運
+jann 站
+--
+airport
+ji 機
+chaang 場
+--
+intersection
+shyr 十
+tzyh 字
+luh 路
+koou 口
+--
+major road
+dah 大
+maa 馬
+luh 路
+--
+sidewalk
+ren 人
+shyng 行
+daw 道
+--
+pedestrian crossing
+ban 斑
+maa 馬
+shiann 線
+--
+road sign
+luh 路
+biau 標
+--
+Is there a supermarket nearby?
+jeh 這
+fuh 附
+jinn 近
+yeou 有
+chau 超
+jyi 級
+shyh 市
+chaang 場
+.ma 嗎
+? ?
+--
+Yes, go past the traffic light, turn left, and there it is.
+yeou 有
+, ，
+guoh 過
+horng 紅
+liuh 綠
+deng 燈
+how 後
+woang 往
+tzuoo 左
+joan 轉
+tzoou 走
+jiow 就
+daw 到
+.le 了
+--
+Is it far from here?
+li 離
+jeh 這
+.el 兒
+heen 很
+yeuan 遠
+.ma 嗎
+? ?
+--
+No, it takes only 5 minutes on foot.
+buh 不
+yeuan 遠
+, ，
+tzoou 走
+luh 路
+wuu 五
+fen 分
+jong 鐘
+jiow 就
+daw 到
+.le 了
+--
+Which bus should I take to the National Palace Museum?
+chiuh 去
+guh 故
+gong 宮
+bor 博
+wuh 物
+yuann 院
+yaw 要
+da 搭
+jii 幾
+luh 路
+gong 公
+che 車
+? ?
+--
+Please take Bus 304
+chiing 請
+da 搭
+san 三
+ling 零
+syh 四
+luh 路
+gong 公
+che 車
+--
+Driver, please let me know when we get there
+sy 司
+ji 機
+shian 先
+sheng 生
+, ，
+daw 到
+.le 了
+chiing 請
+gaw 告
+suh 訴
+woo 我
+. 。
+--
+All right
+hao 好
+.de 的
+--
+This is the National Palace Museum, you should get off here.
+guh 故
+gong 宮
+bor 博
+wuh 物
+yuann 院
+daw 到
+.le 了
+, ，
+nii 你
+gai 該
+shiah 下
+che 車
+.le 了
+. 。
+--

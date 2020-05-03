@@ -1,0 +1,35 @@
+spring
+chuen 春
+--
+summer
+shiah 夏
+--
+autumn
+chiou 秋
+--
+winter
+dong 冬
+--
+east
+dong 東
+--
+west
+shi 西
+--
+south 
+nan 南
+--
+north
+beei 北
+--
+happiness
+shii 喜
+--
+anger
+nuh 怒
+--
+sorrow
+ai 哀
+--
+cheerful
+leh 樂

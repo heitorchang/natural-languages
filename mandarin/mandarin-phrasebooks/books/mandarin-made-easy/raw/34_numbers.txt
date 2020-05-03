@@ -1,0 +1,50 @@
+numbers
+shuh 數
+tzyh 字
+--
+zero
+ling 零
+--
+one
+i 一
+--
+two
+ell 二
+--
+three
+san 三
+--
+four
+syh 四
+--
+five
+wuu 五
+--
+six
+liow 六
+--
+seven
+chi 七
+--
+eight
+ba 八
+--
+nine
+jeou 九
+--
+ten
+shyr 十
+--
+twenty
+ell 二
+shyr 十
+--
+hundred
+bae 百
+--
+thousand
+chian 千
+--
+ten thousand
+wann 萬
+--

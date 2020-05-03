@@ -1,0 +1,85 @@
+Chinese horoscope
+shyr 十
+ell 二
+sheng 生
+shiaw 肖
+--
+2008
+ell 二
+ling 零
+ling 零
+ba 八
+nian 年
+--
+rat
+lao 老
+shuu 鼠
+--
+ox
+niou 牛
+--
+tiger
+lao 老
+huu 虎
+--
+rabbit
+tuh 兔
+.tzy 子
+--
+dragon
+long 龍
+--
+snake
+sher 蛇
+--
+horse
+maa 馬
+--
+sheep
+yang 羊
+--
+monkey
+hour 猴
+.tzy 子
+--
+rooster
+ji 雞
+--
+dog
+goou 狗
+--
+pig
+ju 豬
+--
+What is your Chinese horoscope sign?
+nii 你
+shyh 是
+shuu 屬
+sher 什
+.me 麼
+.de 的
+? ?
+--
+I am a horse
+woo 我
+shuu 屬
+maa 馬
+--
+Which year were you born in?
+nii 你
+shyh 是
+naa 哪
+yih 一
+nian 年
+sheng 生
+.de 的
+? ?
+--
+I was born in the year of the monkey
+woo 我
+shyh 是
+hour 猴
+nian 年
+sheng 生
+.de 的
+--

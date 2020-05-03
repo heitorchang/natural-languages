@@ -1,0 +1,80 @@
+star signs
+shing 星
+tzuoh 座
+--
+Capricorn
+mo 魔
+jye 羯
+tzuoh 座
+--
+Aquarius
+shoei 水
+pyng 瓶
+tzuoh 座
+--
+Pisces
+shuang 雙
+yu 魚
+tzuoh 座
+--
+Aries
+muu 牡
+yang 羊
+tzuoh 座
+--
+Taurus
+jin 金
+niou 牛
+tzuoh 座
+--
+Gemini
+shuang 雙
+tzyy 子
+tzuoh 座
+--
+Cancer
+jiuh 巨
+shieh 蟹
+tzuoh 座
+--
+Leo
+shy 獅
+.tzy 子
+tzuoh 座
+--
+Virgo
+chuh 處
+neu 女
+tzuoh 座
+--
+Libra
+tian 天
+chenq 秤
+tzuoh 座
+--
+Scorpio
+tian 天
+shieh 蟹
+tzuoh 座
+--
+Sagittarius
+sheh 射
+shoou 手
+tzuoh 座
+--
+What is your star sign?
+nii 你
+shyh 是
+sher 什
+.me 麼
+shing 星
+tzuoh 座
+? ?
+--
+I am a Taurus
+woo 我
+shyh 是
+jin 金
+niou 牛
+tzuoh 座
+--

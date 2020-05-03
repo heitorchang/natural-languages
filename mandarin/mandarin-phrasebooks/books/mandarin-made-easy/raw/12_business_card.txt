@@ -1,0 +1,213 @@
+Shemay Creativity Studio
+shii 喜
+meei 美
+chuanq 創
+yih 意
+gong 工
+tzuoh 作
+farng 房
+--
+general manager
+tzoong 總
+jing 經
+lii 理
+--
+Lin Zhiru
+lin 林
+jyh 志
+ru 儒
+--
+address
+dih 地
+jyy 址
+--
+Taipei City, Xinyi Rd., 168
+tair 台
+beei 北
+shyh 市
+shinn 信
+yih 義
+chiu 區
+shinn 信
+yih 義
+luh 路
+yih 一
+liow 六
+ba 八
+haw 號
+--
+telephone
+diann 電
+huah 話
+--
+fax
+chwan 傳
+jen 真
+--
+website
+woang 網
+jyy 址
+--
+email
+diann 電
+tzyy 子
+you 郵
+jiann 件
+--
+company ID number
+toong 統
+i 一
+bian 編
+haw 號
+--
+company
+gong 公
+sy 司
+harng 行
+haw 號
+--
+job title
+jyr 職
+cheng 稱
+--
+chairman
+doong 董
+shyh 事
+jaang 長
+--
+general manager
+tzoong 總
+jing 經
+lii 理
+--
+assistant general manager
+fuh 副
+tzoong 總
+jing 經
+lii 理
+--
+associate manager
+shiang 襄
+lii 理
+--
+deputy manager
+fuh 副
+lii 理
+--
+manager
+jing 經
+lii 理
+--
+director
+keh 課
+jaang 長
+--
+director
+juu 主
+renn 任
+--
+Let me introduce you
+woo 我
+lai 來
+jieh 介
+shaw 紹
+yi 一
+shiah 下
+--
+This is my colleague, Mr. Song
+ta 他
+shyh 是
+woo 我
+gong 公
+sy 司
+.de 的
+torng 同
+shyh 事
+, ，
+sonq 宋
+shian 先
+sheng 生
+. 。
+--
+Hello, Song is my last name
+nii 你
+hao 好
+, ，
+bih 敝
+shinq 姓
+sonq 宋
+--
+Here is my business card
+jeh 這
+shyh 是
+woo 我
+.de 的
+ming 名
+piann 片
+--
+Please let me know if there is anything I need to improve
+chiing 請
+duo 多
+duo 多
+jyy 指
+jiaw 教
+--
+May I have your business card?
+woo 我
+kee 可
+yii 以
+yaw 要
+nii 你
+.de 的
+ming 名
+piann 片
+.ma 嗎
+? ?
+--
+Of course, it's very nice to meet you.
+dang 當
+ran 然
+kee 可
+yii 以
+, ，
+heen 很
+gau 高
+shinq 興
+renn 認
+shyh 識
+nii 你
+. 。
+--
+I hope we can work together over the long term.
+woo 我
+shi 希
+wanq 望
+woo 我
+.men 們
+kee 可
+yii 以
+charng 長
+chyi 期
+her 合
+tzuoh 作
+. 。
+--
+I hope we can work well together.
+juh 祝
+woo 我
+.men 們
+her 合
+tzuoh 作
+yu 愉
+kuay 快
+--
+Let's keep in touch.
+woo 我
+.men 們
+bao 保
+chyr 持
+lian 聯
+luoh 絡
+.ba 吧
+. 。
+--

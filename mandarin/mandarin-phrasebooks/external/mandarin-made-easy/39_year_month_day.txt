@@ -1,0 +1,19 @@
+年，月，日;nian, yueh, ryh;Year, month, day
+早上;tzao shanq;morning
+白天;bair tian;daytime
+晚上;woan shanq;night
+上午;shanq wuu;morning
+下午;shiah wuu;afternoon
+凌晨;ling chern;early in the morning
+傍晚;bang woan;evening
+每天;meei tian;every day
+前天;chyan tian;the day before yesterday
+昨天;tzwo tian;yesterday
+今天;jin tian;today
+明天;ming tian;tomorrow
+後天;how tian;the day after tomorrow
+每週;meei jou;every week
+週末;jou moh;weekend
+去年;chiuh nian;last year
+今年;jin nian;this year
+明年;ming nian;next year

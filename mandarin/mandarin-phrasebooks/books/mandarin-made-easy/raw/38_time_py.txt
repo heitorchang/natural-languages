@@ -1,0 +1,109 @@
+time
+shi2 時
+jian1 間
+--
+five past two
+liang3 兩
+dian3 點
+wu3 五
+fen1 分
+--
+five to twelve
+shi2 十
+er4 二
+dian3 點
+cha1 差
+wu3 五
+fen1 分
+--
+twelve o' clock sharp
+shi2 十
+er4 二
+dian3 點
+zheng3 整
+--
+What time is it?
+xian4 現
+zai4 在
+ji3 幾
+dian3 點
+? ?
+--
+It's five to eight
+ba1 八
+dian3 點
+cha1 差
+wu3 五
+fen1 分
+--
+What time does the train for Taipei leave?
+kai1 開
+wang3 往
+tai2 台
+bei3 北
+de5 的
+huo3 火
+che1 車
+ji3 幾
+dian3 點
+chu1 出
+fa1 發
+? ?
+--
+At eight o' clock sharp
+ba1 八
+dian3 點
+zheng3 整
+chu1 出
+fa1 發
+--
+What time does it get to Taipei?
+ji3 幾
+dian3 點
+dao4 到
+da2 達
+tai2 台
+bei3 北
+? ?
+--
+At ten-thirty
+shi2 十
+dian3 點
+san1 三
+shi2 十
+fen1 分
+dao4 到
+da2 達
+tai2 台
+bei3 北
+--
+Please give me two round-trip tickets.
+qing3 請
+gei3 給
+wo3 我
+liang3 兩
+zhang1 張
+lai2 來
+hui2 回
+piao4 票
+--
+Excuse me, what number is the boarding platform?
+qing3 請
+wen4 問
+, ，
+zai4 在
+ji3 幾
+hao4 號
+yue4 月
+tai2 台
+shang4 上
+che1 車
+? ?
+--
+Platform 1.
+yi2 一
+hao4 號
+yue4 月
+tai2 台
+--
+

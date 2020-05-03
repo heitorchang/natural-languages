@@ -1,0 +1,821 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+        <title>Mandarin Phrasebooks</title>
+        <style>
+         @font-face {
+             font-family: "SourceSansPro";
+             src: url('../css/SourceSansPro-Regular.ttf') format('truetype');
+             font-style: normal;
+         }
+         
+         body {
+             font-family: "SourceSansPro", sans-serif;
+         }
+         
+         .para {
+             margin-bottom: 1.5em;
+         }
+         
+         .char {
+             font-size: 1.4em;
+             margin: 0.2em;
+         }
+
+         .indenter {
+             width: 2.4em;
+         }
+
+         .english {
+             background-color: #DDF;
+             padding: 0.3em 0.6em;
+             margin-bottom: 0.2em;
+             font-size: 1.4em;
+         }
+
+         .mandarin {
+             padding: 0 0.7em;
+         }
+         
+         .gr {
+             background-color: #FFC;
+             padding: 0.1em 0.3em;
+             font-size: 1.2em;
+         }
+
+         .totalchar {
+             display: inline-block;
+             text-align: center;
+             margin-bottom: 1.7em;
+         }
+
+         [v-cloak] > * {
+             display: none;
+         }
+
+         [v-cloak]::before {
+             content: "Loading...";
+         }
+
+         a {
+             margin-right: 1.2em;
+             text-decoration: none;
+             font-weight: bold;
+             font-size: 1.2em;
+         }
+        </style>
+    </head>
+    <body>
+        <div id="gwoyeutext" v-cloak>
+            <a href="telephone_py.html">&lt; Previous</a>
+            <a href="index_py.html">Contents</a>
+            <a href="relationships_py.html">Next &gt;</a>
+            
+            <h3>Congratulations, wishes, sympathy, regret
+</h3>
+            <div v-for="phrase in fmt" class="para">
+                <div class="english">
+                    {{ phrase[0] }}
+                </div>
+
+                <div class="mandarin">
+                    <div v-for="char in phrase[1]" class="totalchar">
+                        <div class="char">
+                            {{ char[1] }}
+                        </div>
+                        <div class="gr">
+                            {{ PinyinConverter.convert(char[0]) }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <a href="telephone_py.html">&lt; Previous</a>
+            <a href="index_py.html">Contents</a>
+            <a href="relationships_py.html">Next &gt;</a>
+
+            <br><br><br><br><br><br>
+        </div>
+        
+        <script src="../js/vue2.min.js"></script>
+        <script>
+         const raw = [
+[`Congratulations on your graduation`, `
+gong1 恭
+xi3 喜
+ni3 你
+bi4 畢
+ye4 業
+le5 了
+`],
+[`Congratulations on your promotion`, `
+gong1 恭
+xi3 喜
+ni3 你
+sheng1 升
+guan1 官
+le5 了
+`],
+[`Congratulations on the birth of your first child`, `
+gong1 恭
+xi3 喜
+ni3 你
+sheng1 生
+le5 了
+di4 第
+yi4 一
+tai1 胎
+`],
+[`Happy Birthday`, `
+sheng1 生
+ri4 日
+kuai4 快
+le4 樂
+`],
+[`Happy Holidays`, `
+jia3 假
+qi2 期
+yu2 愉
+kuai4 快
+`],
+[`Happy Working Day`, `
+gong1 工
+zuo4 作
+ri4 日
+yu2 愉
+kuai4 快
+`],
+[`Happy First Day of Work`, `
+di4 第
+yi4 一
+tian1 天
+shang4 上
+ban1 班
+yu2 愉
+kuai4 快
+／ /
+kai1 開
+gong1 工
+da4 大
+ji2 吉
+`],
+[`Happy First Day of School`, `
+kai1 開
+xue2 學
+ri4 日
+kuai4 快
+le4 樂
+`],
+[`Happy Opening Day!`, `
+kai1 開
+dian4 店
+shou3 首
+mai4 賣
+ri4 日
+kuai4 快
+le4 樂
+／ /
+kai1 開
+zhang1 張
+da4 大
+ji2 吉
+`],
+[`Happy Anniversary`, `
+zhou1 週
+nian2 年
+ji4 紀
+nian4 念
+ri4 日
+kuai4 快
+le4 樂
+`],
+[`Happy Wedding Anniversary`, `
+jie2 結
+hun1 婚
+ji4 紀
+nian4 念
+ri4 日
+kuai4 快
+le4 樂
+`],
+[`Happy Foundation Anniversary`, `
+cheng2 成
+li4 立
+ji4 紀
+nian4 念
+ri4 日
+kuai4 快
+le4 樂
+`],
+[`Happy 1st Wedding Anniversary`, `
+jie2 結
+hun1 婚
+di4 第
+yi4 一
+ge5 個
+zhou1 周
+nian2 年
+ji4 紀
+nian4 念
+ri4 日
+kuai4 快
+le4 樂
+`],
+[`Happy 5th Anniversary`, `
+wu3 五
+zhou1 週
+nian2 年
+ji4 紀
+nian4 念
+ri4 日
+kuai4 快
+le4 樂
+`],
+[`I hope you have a good trip`, `
+wo3 我
+xi1 希
+wang4 望
+ni3 你
+yi2 一
+lu4 路
+shun4 順
+feng1 風
+`],
+[`I hope you have a nice dinner`, `
+wo3 我
+xi1 希
+wang4 望
+ni3 你
+you3 有
+ge5 個
+mei3 美
+hao3 好
+de5 的
+wan3 晚
+can1 餐
+`],
+[`I hope you have lots of fun`, `
+wo3 我
+xi1 希
+wang4 望
+ni3 你
+wan2 玩
+de5 得
+kai1 開
+xin1 心
+`],
+[`I hope you have a great time`, `
+wo3 我
+xi1 希
+wang4 望
+ni3 你
+du4 度
+guo4 過
+mei3 美
+hao3 好
+de5 得
+shi2 時
+guang1 光
+`],
+[`Have a good trip`, `
+yi2 一
+lu4 路
+shun4 順
+feng1 風
+`],
+[`Have lots of fun`, `
+wan2 玩
+de5 得
+yu2 愉
+kuai4 快
+`],
+[`Have a nice dinner`, `
+yong4 用
+can1 餐
+yu2 愉
+kuai4 快
+`],
+[`Have a great time`, `
+zhu4 祝
+ni3 你
+kuai4 快
+le4 樂
+`],
+[`I wish you a happy marriage`, `
+wo3 我
+xi1 希
+wang4 望
+ni3 你
+jie2 結
+hun1 婚
+yu2 愉
+kuai4 快
+`],
+[`I wish you the best of luck`, `
+wo3 我
+xi1 希
+wang4 望
+ni3 你
+chao1 超
+ji2 級
+xing4 幸
+yun4 運
+`],
+[`Wish you all the best`, `
+xi1 希
+wang4 望
+ni3 你
+yu4 遇
+dao4 到
+de5 的
+dou1 都
+shi4 是
+zui4 最
+bang4 棒
+de5 的
+shi4 事
+qing5 情
+`],
+[`Wishing you a safe journey`, `
+xi1 希
+wang4 望
+ni3 你
+lü3 旅
+tu2 途
+ping2 平
+an1 安
+`],
+[`Wishing you happiness`, `
+xi1 希
+wang4 望
+ni3 你
+kuai4 快
+le4 樂
+`],
+[`May success be with you`, `
+xi1 希
+wang4 望
+ni3 你
+cheng2 成
+gong1 功
+shun4 順
+li4 利
+`],
+[`May all your dreams come true`, `
+xi1 希
+wang4 望
+ni3 你
+suo3 所
+you3 有
+de5 的
+meng4 夢
+xiang3 想
+dou1 都
+cheng2 成
+zhen1 真
+`],
+[`May all love surround you`, `
+xi1 希
+wang4 望
+ai4 愛
+dou1 都
+wei2 圍
+rao4 繞
+zhe5 著
+ni3 你
+`],
+[`May God bless you`, `
+xi1 希
+wang4 望
+shang4 上
+di4 帝
+bao3 保
+you4 佑
+ni3 你
+`],
+[`May the strength be with you`, `
+xi1 希
+wang4 望
+ni3 你
+geng4 更
+jian1 堅
+qiang2 強
+`],
+[`Have a good time`, `
+zhu4 祝
+ni3 你
+kuai4 快
+le4 樂
+`],
+[`Wishing you good health`, `
+zhu4 祝
+ni3 你
+shen1 身
+ti3 體
+jian4 健
+kang1 康
+`],
+[`I wish you wealth`, `
+zhu4 祝
+ni3 你
+fa1 發
+cai2 財
+`],
+[`May success be with you`, `
+zhu4 祝
+ni3 你
+ma3 馬
+dao4 到
+cheng2 成
+gong1 功
+`],
+[`Belated congratulations`, `
+song4 送
+shang4 上
+chi2 遲
+lai2 來
+de5 的
+gong1 恭
+xi3 喜
+`],
+[`Happy belated birthday`, `
+chi2 遲
+lai2 來
+de5 的
+sheng1 生
+ri4 日
+kuai4 快
+le4 樂
+`],
+[`Happy belated Valentine's day`, `
+chi2 遲
+lai2 來
+de5 的
+qing2 情
+ren2 人
+jie2 節
+kuai4 快
+le4 樂
+`],
+[`I'm sorry to hear that you broke up with him`, `
+wo3 我
+hen3 很
+yi2 遺
+han4 憾
+ting1 聽
+shuo1 說
+ni3 妳
+han4 和
+ta1 他
+fen1 分
+shou3 手
+le5 了
+`],
+[`I'm sorry to hear about your grandmother's sickness`, `
+wo3 我
+hen3 很
+yi2 遺
+han4 憾
+de5 地
+ting1 聽
+dao4 到
+ni3 你
+nai3 奶
+nai5 奶
+sheng1 生
+bing4 病
+de5 的
+xiao1 消
+xi5 息
+`],
+[`I'm sorry to hear about the accident`, `
+wo3 我
+hen3 很
+yi2 遺
+han4 憾
+de5 地
+ting1 聽
+dao4 到
+fa1 發
+sheng1 生
+yi4 意
+wai4 外
+de5 的
+xiao1 消
+xi5 息
+`],
+[`I'm sorry to hear that`, `
+ting1 聽
+shuo1 說
+na4 那
+jian4 件
+shi4 事
+le5 了
+, ，
+wo3 我
+gan3 感
+dao4 到
+yi2 遺
+han4 憾
+`],
+[`I'm sorry about that`, `
+dui4 對
+yu2 於
+na4 那
+jian4 件
+shi4 事
+wo3 我
+gan3 感
+dao4 到
+yi2 遺
+han4 憾
+`],
+[`I'm so sorry about the bad news`, `
+wo3 我
+hen3 很
+yi2 遺
+han4 憾
+fa1 發
+sheng1 生
+na4 那
+ge5 個
+huai4 壞
+xiao1 消
+xi5 息
+`],
+[`I'm really sorry to hear that he is gone`, `
+ting1 聽
+shuo1 說
+ta1 他
+li2 離
+kai1 開
+le5 了
+, ，
+wo3 我
+zhen1 真
+de5 的
+gan3 感
+dao4 到
+hen3 很
+yi2 遺
+han4 憾
+`],
+[`I'm deeply sorry for his death`, `
+dui4 對
+yu2 於
+ta1 他
+de5 的
+si3 死
+xun4 訊
+, ，
+wo3 我
+shen1 深
+biao3 表
+yi2 遺
+han4 憾
+`],
+[`death`, `
+si3 死
+wang2 亡
+`],
+[`passed away`, `
+yong3 永
+bie2 別
+`],
+[`loss`, `
+shi1 失
+qu4 去
+`],
+[`I'm sorry for your loss (of someone)`, `
+wo3 我
+dui4 對
+yu2 於
+ni3 你
+shi1 失
+qu4 去
+( (
+mou3 某
+ren2 人
+) )
+biao3 表
+shi4 示
+ai1 哀
+dao4 悼
+zhi1 之
+yi4 意
+`],
+[`I'm sorry that your grandmother has passed away`, `
+wo3 我
+dui4 對
+yu2 於
+ni3 你
+nai3 奶
+nai5 奶
+guo4 過
+shi4 世
+gan3 感
+dao4 到
+nan2 難
+guo4 過
+`],
+[`Please accept my sympathy on your teacher's death`, `
+wo3 我
+dui4 對
+yu2 於
+ni3 你
+de5 的
+lao3 老
+shi1 師
+de5 的
+li2 離
+kai1 開
+shen1 深
+biao3 表
+tong2 同
+qing2 情
+`],
+[`Calm down`, `
+leng3 冷
+jing4 靜
+yi1 一
+dian3 點
+`],
+[`It's okay`, `
+mei2 沒
+shi4 事
+la5 啦
+`],
+[`It's going to be better`, `
+yi1 一
+qie4 切
+hui4 會
+geng4 更
+hao3 好
+de5 的
+`],
+[`It's going to be okay`, `
+bu2 不
+hui4 會
+you3 有
+shi4 事
+de5 的
+`],
+[`Don't worry`, `
+bu2 不
+yao4 要
+dan1 擔
+xin1 心
+`],
+[`Keep going!`, `
+jia1 加
+you2 油
+! ﹗
+`],
+[`You can do it!`, `
+ni3 你
+ke3 可
+yi3 以
+de5 的
+! ﹗
+`],
+[`This too, shall pass`, `
+yi1 一
+qie4 切
+dou1 都
+hui4 會
+guo4 過
+qu4 去
+de5 的
+`],
+[`Let it be`, `
+shun4 順
+qi2 其
+zi4 自
+ran2 然
+`],
+];
+
+         // PinyinConverter by David Chanin and Jen Liu @quizlet 2013
+
+         (function() {
+           var PinyinConverter;
+
+           PinyinConverter = {
+             pinyinRegex: /(shuang|chuang|zhuang|xiang|qiong|shuai|niang|guang|sheng|kuang|shang|jiong|huang|jiang|shuan|xiong|zhang|zheng|zhong|zhuai|zhuan|qiang|chang|liang|chuan|cheng|chong|chuai|hang|peng|chuo|piao|pian|chua|ping|yang|pang|chui|chun|chen|chan|chou|chao|chai|zhun|mang|meng|weng|shai|shei|miao|zhui|mian|yong|ming|wang|zhuo|zhua|shao|yuan|bing|zhen|fang|feng|zhan|zhou|zhao|zhei|zhai|rang|suan|reng|song|seng|dang|deng|dong|xuan|sang|rong|duan|cuan|cong|ceng|cang|diao|ruan|dian|ding|shou|xing|zuan|jiao|zong|zeng|zang|jian|tang|teng|tong|bian|biao|shan|tuan|huan|xian|huai|tiao|tian|hong|xiao|heng|ying|jing|shen|beng|kuan|kuai|nang|neng|nong|juan|kong|nuan|keng|kang|shua|niao|guan|nian|ting|shuo|guai|ning|quan|qiao|shui|gong|geng|gang|qian|bang|lang|leng|long|qing|ling|luan|shun|lian|liao|zhi|lia|liu|qin|lun|lin|luo|lan|lou|qiu|gai|gei|gao|gou|gan|gen|lao|lei|lai|que|gua|guo|nin|gui|niu|nie|gun|qie|qia|jun|kai|kei|kao|kou|kan|ken|qun|nun|nuo|xia|kua|kuo|nen|kui|nan|nou|kun|jue|nao|nei|hai|hei|hao|hou|han|hen|nai|rou|xiu|jin|hua|huo|tie|hui|tun|tui|hun|tuo|tan|jiu|zai|zei|zao|zou|zan|zen|eng|tou|tao|tei|tai|zuo|zui|xin|zun|jie|jia|run|diu|cai|cao|cou|can|cen|die|dia|xue|rui|cuo|cui|dun|cun|cin|ruo|rua|dui|sai|sao|sou|san|sen|duo|den|dan|dou|suo|sui|dao|sun|dei|zha|zhe|dai|xun|ang|ong|wai|fen|fan|fou|fei|zhu|wei|wan|min|miu|mie|wen|men|lie|chi|cha|che|man|mou|mao|mei|mai|yao|you|yan|chu|pin|pie|yin|pen|pan|pou|pao|shi|sha|she|pei|pai|yue|bin|bie|yun|nüe|lve|shu|ben|ban|bao|bei|bai|lüe|nve|ren|ran|rao|xie|re|ri|si|su|se|ru|sa|cu|ce|ca|ji|ci|zi|zu|ze|za|hu|he|ha|ju|ku|ke|qi|ka|gu|ge|ga|li|lu|le|qu|la|ni|xi|nu|ne|na|ti|tu|te|ta|xu|di|du|de|bo|lv|ba|ai|ei|ao|ou|an|en|er|da|wu|wa|wo|fu|fo|fa|nv|mi|mu|yi|ya|ye|me|mo|ma|pi|pu|po|yu|pa|bi|nü|bu|lü|e|o|a)r?[1-5]/gi,
+             vowels: {
+               'a*': '0',
+               'e*': '1',
+               'i*': '2',
+               'o*': '3',
+               'u*': '4',
+               'ü*': '5',
+               'A*': '6',
+               'E*': '7',
+               'I*': '8',
+               'O*': '9',
+               'U*': '10',
+               'Ü*': '11'
+             },
+             pinyin: {
+               1: ['ā', 'ē', 'ī', 'ō', 'ū', 'ǖ', 'Ā', 'Ē', 'Ī', 'Ō', 'Ū', 'Ǖ'],
+               2: ['á', 'é', 'í', 'ó', 'ú', 'ǘ', 'Á', 'É', 'Í', 'Ó', 'Ú', 'Ǘ'],
+               3: ['ǎ', 'ě', 'ǐ', 'ǒ', 'ǔ', 'ǚ', 'Ǎ', 'Ě', 'Ǐ', 'Ǒ', 'Ǔ', 'Ǚ'],
+               4: ['à', 'è', 'ì', 'ò', 'ù', 'ǜ', 'À', 'È', 'Ì', 'Ò', 'Ù', 'Ǜ'],
+               5: ['a', 'e', 'i', 'o', 'u', 'ü', 'A', 'E', 'I', 'O', 'U', 'Ü']
+             },
+             convert: function(string) {
+               var j, len, match, matches, replacement;
+               matches = string.match(this.pinyinRegex);
+               if (!matches) {
+                 return string;
+               }
+               for (j = 0, len = matches.length; j < len; j++) {
+                 match = matches[j];
+                 replacement = this.getReplacement(match);
+                 string = string.replace(match, replacement);
+               }
+               return string;
+             },
+             getReplacement: function(match) {
+               var accentMap, accentedVowelChar, base, replacedWord, tone, vowel, vowelChar, vowelNum, word;
+               accentMap = this.getAccentMap();
+               tone = match.slice(-1);
+               word = match.slice(0, -1).replace('v', 'ü').replace('V', 'Ü');
+               for (base in accentMap) {
+                 vowel = accentMap[base];
+                 if (word.indexOf(base) >= 0) {
+                   vowelChar = vowel.match(/.\*/)[0];
+                   vowelNum = this.vowels[vowelChar];
+                   accentedVowelChar = this.pinyin[tone.toString()][vowelNum];
+                   replacedWord = word.replace(base, vowel).replace(vowelChar, accentedVowelChar);
+                   return replacedWord;
+                 }
+               }
+               return match;
+             },
+             getAccentMap: function() {
+               var base, i, j, len, nostars, ref, stars, starsArray;
+               if (!this.accentMap) {
+                 stars = 'a*i a*o e*i ia* ia*o ie* io* iu* ' + 'A*I A*O E*I IA* IA*O IE* IO* IU* ' + 'o*u ua* ua*i ue* ui* uo* üe* ' + 'O*U UA* UA*I UE* UI* UO* ÜE* ' + 'A* E* I* O* U* Ü* ' + 'a* e* i* o* u* ü*';
+                 nostars = stars.replace(/\*/g, '');
+                 starsArray = stars.split(' ');
+                 this.accentMap = {};
+                 ref = nostars.split(' ');
+                 for (i = j = 0, len = ref.length; j < len; i = ++j) {
+                   base = ref[i];
+                   this.accentMap[base] = starsArray[i];
+                 }
+               }
+               return this.accentMap;
+             }
+           };
+
+           (function(root, factory) {
+             if (typeof define === 'function' && define.amd) {
+               return define(factory);
+             } else if (typeof exports === 'object') {
+               return module.exports = factory();
+             } else {
+               return root.PinyinConverter = factory();
+             }
+           })(this, function() {
+             return PinyinConverter;
+           });
+
+         }).call(this);
+
+         
+         function convertPara(para) {
+           let result = [];
+           for (word of para.trim().split("\n")) {
+             result.push(word.trim().split(" "));
+           }
+           return result;
+         }
+         
+         const app = new Vue({
+           el: "#gwoyeutext",
+           
+           data: {
+             raw: raw,
+           },
+
+           computed: {
+             fmt() {
+               let result = [];
+               for (phrase of this.raw) {
+                 let curphr = [];
+                 curphr.push(phrase[0]);
+                 curphr.push(convertPara(phrase[1]));
+                 result.push(curphr);
+               }             
+               return result;
+             }
+           },
+         });
+        </script>
+    </body>
+</html>
+

@@ -1,0 +1,44 @@
+到銀行提款;daw yn harng tyi koan;withdrawing money from a bank
+大寫;dah shiee;formal way of expressing numbers
+零;ling;zero
+壹;i;one
+貳;ell;two
+參;san;three
+肆;syh;four
+伍;wuu;five
+陸;liow;six
+柒;chi;seven
+捌;ba;eight
+玖;jeou;nine
+拾;shyr;ten
+百;bae;hundred
+千;chian;thousand
+萬;wann;ten thousand
+存摺;tswen jer;deposit book
+存入憑條;tswen ruh pyng tyau;deposit slip
+取款憑條;cheu koan pyng tyau;withdrawal slip
+帳號;janq haw;account number
+取款密碼;cheu koan mih maa;access code
+印章;yinn jang;seal
+日期;ryh chyi;date
+戶名;huh ming;name on the account
+金額;jin er;amount
+元;yuan;a dollar
+塊;kuay;a dollar
+整;jeeng;only, exactly
+請問美金兌換成台幣在哪個櫃台?;chiing wenn meei jin duey huann cherng tair bih tzay naa .ge guey tair?;Which counter should I go to to exchange US Dollars for NT Dollars?
+請先抽號碼牌，等候叫號。;chiing shian chou haw maa pair, deeng how jiaw haw;Please take a number first and wait for your number to be called
+我要將這五百美元兌換成台幣;woo yaw jiang jeh wuu bae meei yuan duey huann cherng tair bih;I would like to exchange these 500 US Dollars for NT Dollars
+請給我一些小鈔和硬幣;chiing geei woo yih shie sheau chau her yinq bih;Please give me some bills and coins
+我要取款;woo yaw cheu koan;I want to make a withdrawal
+請先填寫這張取款憑條;chiing shian tyan shiee jeh jang cheu koan pyng tyau;Please fill out this withdrawal slip first.
+我看不懂，你能幫我嗎?;woo kann buh doong, nii neng bang woo .ma?;I can't read Chinese, can you help me?
+好的;hao .de;OK
+這裡寫存摺帳號;jeh lii shiee tswen jer janq haw;Write your account number here
+這裡寫取款密碼;jeh lii shiee cheu koan mih maa;This is your withdrawal password
+這裡寫取款金額;jeh lii shiee cheu koan jin er;This is for the amount of money you want to withdraw.
+這裡寫你的名字;jeh lii shiee nii .de ming .tzy;Write your name here
+在這裡蓋章;tzay jeh lii gay jang;Put your seal here
+這樣就行了;jeh .iang jiow shyng .le;That's it
+謝謝你;shieh .shie nii;Thanks
+不客氣;bwu keh chih;You're welcome

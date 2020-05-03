@@ -1,0 +1,82 @@
+classroom
+jiao4 教
+shi4 室
+--
+teacher
+lao3 老
+shi1 師
+--
+teacher's desk
+jiang3 講
+zhuo1 桌
+--
+student
+xue2 學
+sheng1 生
+--
+desk
+shu1 書
+zhuo1 桌
+--
+chair
+yi3 椅
+zi5 子
+--
+textbook
+ke4 課
+ben3 本
+--
+pencil
+qian1 鉛
+bi3 筆
+--
+eraser
+xiang4 橡
+pi2 皮
+ca1 擦
+--
+correction tape
+xiu1 修
+zheng4 正
+dai4 帶
+--
+calculator
+ji4 計
+suan4 算
+ji1 機
+--
+blackboard
+hei1 黑
+ban3 板
+--
+chalk
+fen3 粉
+bi3 筆
+--
+eraser
+ban3 板
+ca1 擦
+--
+bulletin board
+bu4 佈
+gao4 告
+lan2 欄
+--
+map
+di4 地
+tu2 圖
+--
+globe
+di4 地
+qiu2 球
+yi2 儀
+--
+television
+dian4 電
+shi4 視
+--
+clock
+shi2 時
+zhong1 鐘
+--
+

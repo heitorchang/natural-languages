@@ -1,0 +1,56 @@
+身體;shen tii;body
+頭;tour;head
+頭髮;tour faa;hair
+眉毛;mei mau;eyebrows
+眼睛;yean jing;eyes
+鼻子;byi .tzy;nose
+嘴巴;tzoei ba;mouth
+嘴唇;tzoei chwen;lips
+鬍子;hwu .tzy;beard
+耳朵;eel .duo;ear
+舌頭;sher .tou;tongue
+牙齒;ya chyy;teeth
+臉;lean;face
+皮膚;pyi fu;skin
+脖子;bor .tzy;neck
+喉嚨;hour long;throat
+肩膀;jian baang;shoulder
+胸;shiong;chest
+肋骨;leh guu;ribs
+乳房;ruu farng;breast
+胃;wey;stomach
+肚子;duh .tzy;belly
+背;bey;back
+骨頭;guu .tou;bone
+屁股;pih guu;buttocks
+生殖器;sheng jyr chih;genitals
+肛門;gang men;anus
+手臂;shoou bey;arm
+手肘;shoou joou;elbow
+手;shoou;hand
+手指頭;shoou jyy tour;finger
+拇指;muu jyy;thumb
+食指;shyr jyy;index finger
+中指;jong jyy;middle finger
+無名指;wu ming jyy;ring finger
+小指;sheau jyy;little finger
+手指甲;shoou jyy jea;nail
+大腿;dah toei;thigh
+膝蓋;shi gay;knee
+腿;toei;leg
+小腿;sheau toei;lower leg
+腳;jeau;foot
+腳踝;jeau hwai;ankle
+腳趾;jeau jyy;toe
+腳底;jeau dii;sole
+妳的頭髮好長喔!;nii .de tour faa hao charng .o;Your hair is so long!
+妳的眼睛很大;nii .de yean jing heen dah;Your eyes are big
+妳的鼻子很挺;nii .de byi .tzy heen tiing;You have a pretty nose
+妳的皮膚很嫩;nii .de pyi fu heen nenn;Your skin is so soft
+妳的小腿很細;nii .de sheau toei heen shih;Your calf is skinny
+妳好瘦;nii hao show;You are so skinny
+你好胖;nii hao panq;You are chubby
+你的鬍子很有個性;nii .de hwu .tzy heen yeou geh shinq;You have a stylish beard
+你的牙齒很整齊;nii .de ya chyy heen jeeng chyi;You have very neat teeth
+我的喉嚨很乾;woo .de hour long heen gan;My throat is dry
+我的手臂很粗;woo .de shoou bey heen tsu;My arms are thickset
