@@ -118,7 +118,7 @@ function ResponsiveDrawer(props) {
             <MenuIcon />
           </IconButton>
 
-          <TextField size="medium" id="searchField" label="Search English or Italian" variant="filled" onChange={handleSearchChange} />
+          <TextField size="medium" id="searchField" label="Search" variant="filled" onChange={handleSearchChange} />
         </Toolbar>
       </AppBar>
       
@@ -163,7 +163,7 @@ function ResponsiveDrawer(props) {
         <E category="Conversation" eng="Hello" ita="Ciao" searchTerm={searchTerm} selectedCategory={selectedCategory} />
         <E category="Conversation" eng="Why?" ita="Perché" searchTerm={searchTerm} selectedCategory={selectedCategory} />
         <E category="Conversation" eng="I'll call you" ita="La chiamo" searchTerm={searchTerm} selectedCategory={selectedCategory} />
-        <E category="Conversation" eng="Do you have anything from the ... period?" ita="Avete qualcosa del periodo ...?" searchTerm={searchTerm} selectedCategory={selectedCategory} />
+        <E category="Conversation" eng="Do you have any clothing, silverware, paintings, or statues from the ... period?" ita="Avete qualcosa del periodo ...?" searchTerm={searchTerm} selectedCategory={selectedCategory} />
         <E category="Conversation" eng="Why?" ita="Perché" searchTerm={searchTerm} selectedCategory={selectedCategory} />
         <E category="Conversation" eng="I'll call you" ita="La chiamo" searchTerm={searchTerm} selectedCategory={selectedCategory} />
         <E category="Conversation" eng="Hello" ita="Ciao" searchTerm={searchTerm} selectedCategory={selectedCategory} />
