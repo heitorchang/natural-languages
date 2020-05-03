@@ -30,9 +30,9 @@ export default function E(props) {
   if (visible) {
     return (
       <div className="entry">
+        <div className="spacer">&nbsp;</div>
         <div className="line eng">{props.eng}</div>
         <div className="line ita">{props.ita}</div>
-        <div className="spacer">&nbsp;</div>
       </div>
     );
   } else {

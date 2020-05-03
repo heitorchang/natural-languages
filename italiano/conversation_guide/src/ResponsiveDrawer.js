@@ -155,7 +155,6 @@ function ResponsiveDrawer(props) {
       </nav>
       <main className={classes.content} ref={mainRef}>
         <div className={classes.toolbar} />
-        <br />
         <Typography variant="h6">
           <PhrasesLabel selectedCategory={selectedCategory} searchTerm={searchTerm} />
         </Typography>
@@ -183,6 +182,12 @@ function ResponsiveDrawer(props) {
         <E category="Numbers" eng="Eight" ita="otto" searchTerm={searchTerm} selectedCategory={selectedCategory} />
         <E category="Numbers" eng="nine" ita="nove" searchTerm={searchTerm} selectedCategory={selectedCategory} />
         <E category="Numbers" eng="ten" ita="Dieci" searchTerm={searchTerm} selectedCategory={selectedCategory} />
+
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
       </main>
     </div>
   );

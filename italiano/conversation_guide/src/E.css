@@ -1,8 +1,8 @@
 .line {
-    font-family: "Roboto";
+    font-family: "Roboto Condensed";
     font-size: 1.2em;
     margin: 0;
-    padding: 0.4em;
+    padding: 0.2em;
 }
 
 .eng {
@@ -15,5 +15,5 @@
 }
 
 .spacer {
-    padding: 0.5em;
+    margin-top: 0.9em;
 }
