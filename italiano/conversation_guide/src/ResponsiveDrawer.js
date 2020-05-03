@@ -15,7 +15,6 @@ import MailIcon from '@material-ui/icons/Mail';
 import MenuIcon from '@material-ui/icons/Menu';
 import Toolbar from '@material-ui/core/Toolbar';
 import Typography from '@material-ui/core/Typography';
-import Grid from '@material-ui/core/Grid';
 import TextField from '@material-ui/core/TextField';
 
 import E from './E';
@@ -69,6 +68,8 @@ function ResponsiveDrawer(props) {
   const [mobileOpen, setMobileOpen] = React.useState(false);
   const [searchTerm, setSearchTerm] = React.useState("");
   const [selectedCategory, setSelectedCategory] = React.useState("Conversation");
+
+  const mainRef = React.useRef();
   
   const menuItems = ['Conversation', 'Numbers', 'Time', 'Money', 'Getting around', 'Places to stay', 'Communications', 'Sightseeing', 'Shopping', 'Sports and leisure', 'Traveling with children', 'Emergencies', 'Police', 'Health', 'Pharmacy', 'Disabled travelers', 'Eating out', 'Meals and cooking', 'Drinks', 'On the menu', 'Going out', 'Romance'];
   
@@ -81,6 +82,7 @@ function ResponsiveDrawer(props) {
     if (mobileOpen) {
       setMobileOpen(false);
     }
+    mainRef.current.scrollIntoView({ block: 'start' });
   };
 
   const handleSearchChange = (e) => {
@@ -115,17 +117,8 @@ function ResponsiveDrawer(props) {
           >
             <MenuIcon />
           </IconButton>
-          <Grid container justify="space-between">
-            <Grid item>
-              <TextField id="searchField" label="Search" variant="filled" onChange={handleSearchChange} />
-            </Grid>
 
-            <Grid item>
-              <Typography variant="h6" noWrap>
-                Italian Phrasebook
-              </Typography>
-            </Grid>
-          </Grid>
+          <TextField size="medium" id="searchField" label="Search English or Italian" variant="filled" onChange={handleSearchChange} />
         </Toolbar>
       </AppBar>
       
@@ -160,7 +153,7 @@ function ResponsiveDrawer(props) {
           </Drawer>
         </Hidden>
       </nav>
-      <main className={classes.content}>
+      <main className={classes.content} ref={mainRef}>
         <div className={classes.toolbar} />
         <br />
         <Typography variant="h6">
@@ -170,7 +163,7 @@ function ResponsiveDrawer(props) {
         <E category="Conversation" eng="Hello" ita="Ciao" searchTerm={searchTerm} selectedCategory={selectedCategory} />
         <E category="Conversation" eng="Why?" ita="Perché" searchTerm={searchTerm} selectedCategory={selectedCategory} />
         <E category="Conversation" eng="I'll call you" ita="La chiamo" searchTerm={searchTerm} selectedCategory={selectedCategory} />
-        <E category="Conversation" eng="Hello" ita="Ciao" searchTerm={searchTerm} selectedCategory={selectedCategory} />
+        <E category="Conversation" eng="Do you have anything from the ... period?" ita="Avete qualcosa del periodo ...?" searchTerm={searchTerm} selectedCategory={selectedCategory} />
         <E category="Conversation" eng="Why?" ita="Perché" searchTerm={searchTerm} selectedCategory={selectedCategory} />
         <E category="Conversation" eng="I'll call you" ita="La chiamo" searchTerm={searchTerm} selectedCategory={selectedCategory} />
         <E category="Conversation" eng="Hello" ita="Ciao" searchTerm={searchTerm} selectedCategory={selectedCategory} />

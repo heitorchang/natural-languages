@@ -1,5 +1,4 @@
-[  ] scroll back to top on category change
-
+[OK] scroll back to top on category change
 [OK] hide menu on click (mobile, small screen)
 [OK] search opens all categories and shows only what matches
 [OK] fuzzy search (convert to lowercase and remove accents)
