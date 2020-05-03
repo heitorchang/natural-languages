@@ -37,7 +37,7 @@ export default function E(props) {
 
         <div className="line eng">
           <Typography variant="body1">
-            {props.eng}
+            <b>{props.eng}</b>
           </Typography>
         </div>
         <div className="line ita">
