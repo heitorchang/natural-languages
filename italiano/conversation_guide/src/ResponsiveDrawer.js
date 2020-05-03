@@ -170,6 +170,16 @@ function ResponsiveDrawer(props) {
         <E category="Conversation" eng="Hello" ita="Ciao" searchTerm={searchTerm} selectedCategory={selectedCategory} />
         <E category="Conversation" eng="Why?" ita="Perché" searchTerm={searchTerm} selectedCategory={selectedCategory} />
         <E category="Conversation" eng="I'll call you" ita="La chiamo" searchTerm={searchTerm} selectedCategory={selectedCategory} />
+        <E category="Conversation" eng="Hello" ita="Ciao" searchTerm={searchTerm} selectedCategory={selectedCategory} />
+        <E category="Conversation" eng="Why?" ita="Perché" searchTerm={searchTerm} selectedCategory={selectedCategory} />
+        <E category="Conversation" eng="I'll call you" ita="La chiamo" searchTerm={searchTerm} selectedCategory={selectedCategory} />
+        <E category="Conversation" eng="Hello" ita="Ciao" searchTerm={searchTerm} selectedCategory={selectedCategory} />
+        <E category="Conversation" eng="Why?" ita="Perché" searchTerm={searchTerm} selectedCategory={selectedCategory} />
+        <E category="Conversation" eng="I'll call you" ita="La chiamo" searchTerm={searchTerm} selectedCategory={selectedCategory} />
+        <E category="Conversation" eng="Hello" ita="Ciao" searchTerm={searchTerm} selectedCategory={selectedCategory} />
+        <E category="Conversation" eng="Why?" ita="Perché" searchTerm={searchTerm} selectedCategory={selectedCategory} />
+        <E category="Conversation" eng="I'll call you" ita="La chiamo" searchTerm={searchTerm} selectedCategory={selectedCategory} />
+
         <E category="Numbers" eng="one" ita="uno" searchTerm={searchTerm} selectedCategory={selectedCategory} />
         <E category="Numbers" eng="Two" ita="Due" searchTerm={searchTerm} selectedCategory={selectedCategory} />
         <E category="Numbers" eng="Three" ita="Tre" searchTerm={searchTerm} selectedCategory={selectedCategory} />
