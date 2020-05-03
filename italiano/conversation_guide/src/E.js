@@ -1,6 +1,8 @@
 // Dictionary Entry
 
 import React from 'react';
+import Typography from '@material-ui/core/Typography';
+
 import './E.css';
 
 export default function E(props) {
@@ -26,13 +28,24 @@ export default function E(props) {
       visible = false;
     }
   }
-    
+  
   if (visible) {
     return (
       <div className="entry">
+
         <div className="spacer">&nbsp;</div>
-        <div className="line eng">{props.eng}</div>
-        <div className="line ita">{props.ita}</div>
+
+        <div className="line eng">
+          <Typography variant="body1">
+            {props.eng}
+          </Typography>
+        </div>
+        <div className="line ita">
+          <Typography variant="body1">
+            {props.ita}
+          </Typography>
+        </div>
+
       </div>
     );
   } else {

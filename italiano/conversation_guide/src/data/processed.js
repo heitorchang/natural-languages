@@ -1,8 +1,3 @@
 const processedData = [
-  ['Need to know', 'Yes', 'Si'],
-  ['Need to know', 'No', 'No'],
-  ['Numbers', 'One', 'uno'],
-  ['Numbers', 'Two', 'due'],
-];
-
+["Need to know", "Hello", "Salve"],["Need to know", "Goodbye", "Arrivederla"],["Need to know", "Yes", "Sì"],["Need to know", "No", "No"],["Need to know", "OK", "OK"],["Need to know", "Excuse me! (to get attention)", "Scusi!"],["Need to know", "Excuse me (to get past)", "Permesso"],["Need to know", "I'm sorry", "Mi dispiace"],["Need to know", "I'd like ...", "Vorrei ..."],["Need to know", "How much?", "Quant'è?"],["Need to know", "Where is ...?", "Dov'è ...?"],["Need to know", "Please", "Per favore"],["Need to know", "Thank you", "Grazie"],["Need to know", "You're welcome", "Prego"],["Need to know", "Please speak slowly", "Parli lentamente per favore"],["Need to know", "Can you repeat that?", "Può ripetere?"],["Need to know", "I don't understand", "Non capisco"],["Need to know", "Do you speak English?", "Parla inglese?"],["Need to know", "I don't speak Italian", "Non parlo italiano"],["Need to know", "Where's the restroom (toilet)?", "Dov'è la toilette?"],["Need to know", "Help!", "Aiuto!"],["Numbers", "One", "Uno"],["Numbers", "Two", "Due"],["Numbers", "Three", "Tre"],];
 export { processedData };
