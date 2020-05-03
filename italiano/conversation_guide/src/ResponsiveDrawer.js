@@ -20,7 +20,8 @@ import TextField from '@material-ui/core/TextField';
 import E from './E';
 import PhrasesLabel from './PhrasesLabel';
 
-import phrases from './phrases';
+import { processedData } from './data/processed';
+import { categoryOrder } from './data/order';
 
 import { makeStyles, useTheme } from '@material-ui/core/styles';
 
@@ -67,11 +68,11 @@ function ResponsiveDrawer(props) {
   const theme = useTheme();
   const [mobileOpen, setMobileOpen] = React.useState(false);
   const [searchTerm, setSearchTerm] = React.useState("");
-  const [selectedCategory, setSelectedCategory] = React.useState("Conversation");
+  const [selectedCategory, setSelectedCategory] = React.useState("Need to know");
 
   const mainRef = React.useRef();
   
-  const menuItems = ['Conversation', 'Numbers', 'Time', 'Money', 'Getting around', 'Places to stay', 'Communications', 'Sightseeing', 'Shopping', 'Sports and leisure', 'Traveling with children', 'Emergencies', 'Police', 'Health', 'Pharmacy', 'Disabled travelers', 'Eating out', 'Meals and cooking', 'Drinks', 'On the menu', 'Going out', 'Romance'];
+  const menuItems = categoryOrder;
   
   const handleDrawerToggle = () => {
     setMobileOpen(!mobileOpen);
@@ -159,29 +160,9 @@ function ResponsiveDrawer(props) {
           <PhrasesLabel selectedCategory={selectedCategory} searchTerm={searchTerm} />
         </Typography>
 
-        <E category="Conversation" eng="Hello" ita="Ciao" searchTerm={searchTerm} selectedCategory={selectedCategory} />
-        <E category="Conversation" eng="Why?" ita="Perché" searchTerm={searchTerm} selectedCategory={selectedCategory} />
-        <E category="Conversation" eng="I'll call you" ita="La chiamo" searchTerm={searchTerm} selectedCategory={selectedCategory} />
-        <E category="Conversation" eng="Do you have any clothing, silverware, paintings, or statues from the ... period?" ita="Avete qualcosa del periodo ...?" searchTerm={searchTerm} selectedCategory={selectedCategory} />
-        <E category="Conversation" eng="Why?" ita="Perché" searchTerm={searchTerm} selectedCategory={selectedCategory} />
-        <E category="Conversation" eng="I'll call you" ita="La chiamo" searchTerm={searchTerm} selectedCategory={selectedCategory} />
-        <E category="Conversation" eng="Hello" ita="Ciao" searchTerm={searchTerm} selectedCategory={selectedCategory} />
-        <E category="Conversation" eng="Why?" ita="Perché" searchTerm={searchTerm} selectedCategory={selectedCategory} />
-        <E category="Conversation" eng="I'll call you" ita="La chiamo" searchTerm={searchTerm} selectedCategory={selectedCategory} />
-        <E category="Conversation" eng="Hello" ita="Ciao" searchTerm={searchTerm} selectedCategory={selectedCategory} />
-        <E category="Conversation" eng="Why?" ita="Perché" searchTerm={searchTerm} selectedCategory={selectedCategory} />
-        <E category="Conversation" eng="I'll call you" ita="La chiamo" searchTerm={searchTerm} selectedCategory={selectedCategory} />
-
-        <E category="Numbers" eng="one" ita="uno" searchTerm={searchTerm} selectedCategory={selectedCategory} />
-        <E category="Numbers" eng="Two" ita="Due" searchTerm={searchTerm} selectedCategory={selectedCategory} />
-        <E category="Numbers" eng="Three" ita="Tre" searchTerm={searchTerm} selectedCategory={selectedCategory} />
-        <E category="Numbers" eng="four" ita="Quattro" searchTerm={searchTerm} selectedCategory={selectedCategory} />
-        <E category="Numbers" eng="five" ita="Cinque" searchTerm={searchTerm} selectedCategory={selectedCategory} />
-        <E category="Numbers" eng="six" ita="Sei" searchTerm={searchTerm} selectedCategory={selectedCategory} />
-        <E category="Numbers" eng="Seven" ita="sette" searchTerm={searchTerm} selectedCategory={selectedCategory} />
-        <E category="Numbers" eng="Eight" ita="otto" searchTerm={searchTerm} selectedCategory={selectedCategory} />
-        <E category="Numbers" eng="nine" ita="nove" searchTerm={searchTerm} selectedCategory={selectedCategory} />
-        <E category="Numbers" eng="ten" ita="Dieci" searchTerm={searchTerm} selectedCategory={selectedCategory} />
+        { processedData.map(row => (
+          <E category={row[0]} eng={row[1]} ita={row[2]} searchTerm={searchTerm} selectedCategory={selectedCategory} />
+        ))}
 
         <br />
         <br />

@@ -1,0 +1,62 @@
+Hello
+Salve
+
+Goodbye
+Arrivederla
+
+Yes
+Sì
+
+No
+No
+
+OK
+OK
+
+Excuse me! (to get attention)
+Scusi!
+
+Excuse me (to get past)
+Permesso
+
+I'm sorry
+Mi dispiace
+
+I'd like ...
+Vorrei ...
+
+How much?
+Quant'è?
+
+Where is ...?
+Dov'è ...?
+
+Please
+Per favore
+
+Thank you
+Grazie
+
+You're welcome
+Prego
+
+Please speak slowly
+Parli lentamente per favore
+
+Can you repeat that?
+Può ripetere?
+
+I don't understand
+Non capisco
+
+Do you speak English?
+Parla inglese?
+
+I don't speak Italian
+Non parlo italiano
+
+Where's the restroom (toilet)?
+Dov'è la toilette?
+
+Help!
+Aiuto!
