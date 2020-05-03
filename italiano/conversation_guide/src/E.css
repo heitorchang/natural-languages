@@ -1,0 +1,19 @@
+.line {
+    font-family: "Roboto";
+    font-size: 1.2em;
+    margin: 0;
+    padding: 0.4em;
+}
+
+.eng {
+    background: linear-gradient(to right, #CCF 0%, #FFF 100%);
+    font-weight: bold;
+}
+
+.ita {
+    background-image: linear-gradient(to right, #CFC 0%, #FFF 100%);
+}
+
+.spacer {
+    padding: 0.5em;
+}
