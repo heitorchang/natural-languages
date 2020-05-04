@@ -1,0 +1,66 @@
+Where's ...?
+Dov'è ...?
+
+the ATM
+il bancomat
+
+the bank
+la banca
+
+the currency exchange office
+l'ufficio di cambio
+
+When does the bank open/close?
+A che ora apre/chiude la banca?
+
+I'd like to change dollars/pounds into euros
+Vorrei cambiare dei dollari/delle sterline in euro
+
+I'd like to cash traveler's checks
+Vorrei riscuotere dei travellers cheques
+
+I'd like to change money
+Vorrei cambiare del denaro
+
+How much is the fee?
+Quant'è la commissione?
+
+I lost my traveler's checks/credit card
+Ho perso i miei travellers cheques/la mia carta di credito
+
+My card was stolen/doesn't work
+La mia carta di credito è stata rubata/non funziona
+
+insert card here
+inserire la carta
+
+cancel
+annulla
+
+clear
+cancella
+
+enter
+conferma
+
+PIN
+codice segreto
+
+withdrawal
+prelievo
+
+deposit
+deposito
+
+from checking account
+da conto corrente
+
+from savings account
+da conto di risparmio
+
+receipt
+ricevuta
+
+cents
+centesimi
+

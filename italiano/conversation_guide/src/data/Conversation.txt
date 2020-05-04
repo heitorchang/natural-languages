@@ -1,0 +1,309 @@
+Hello!
+Salve!
+
+Hi!
+Ciao!
+
+How are you?
+Come sta?
+
+Fine, thanks
+Bene, grazie
+
+And you?
+E Lei?
+
+Excuse me! (formal)
+Scusi!
+
+Excuse me! (informal)
+Scusa!
+
+What's your name?
+Come si chiama?
+
+My name is ...
+Mi chiamo ...
+
+Nice to meet you
+Piacere
+
+I'd like to introduce you to ...
+Le presento ...
+
+Where are you from?
+Di dov'è?
+
+I'm American
+Sono americano/americana
+
+I'm English
+Sono inglese
+
+What do you do for a living?
+Cosa fa?
+
+I work for ...
+Lavoro per ...
+
+I'm a student
+Studio
+
+I'm retired
+Sono in pensione
+
+Do you like ...?
+Le piace ...?
+
+Goodbye
+Arrivederla
+
+See you later
+A dopo
+
+Do you speak English?
+Parla inglese?
+
+Does anyone here speak English?
+Qualcuno parla inglese?
+
+I don't speak (much) Italian
+Non parlo (molto bene) italiano
+
+Can you speak more slowly?
+Può parlare più lentamente?
+
+Can you repeat that?
+Può ripetere?
+
+Excuse me?
+Come?
+
+What was that?
+Cosa ha detto?
+
+Can you spell it?
+Come si scrive?
+
+Can you write it down?
+Me lo può scrivere?
+
+Can you translate this into English for me?
+Può tradurlo in inglese?
+
+What does ... mean?
+Che significa ...?
+
+I understand
+Capisco
+
+I don't understand
+Non capisco
+
+Do you understand?
+Capisce?
+
+Good day
+Buongiorno
+
+Hello (formal)
+Salve
+
+Hello (informal)
+Ciao
+
+Good afternoon
+Buon pomeriggio
+
+Good evening (used until late in the evening)
+Buonasera
+
+Good night (used late or at bedtime)
+Buonanotte
+
+Goodbye (formal)
+Arrivederla
+
+Goodbye (informal)
+Arrivederci
+
+I only speak a little English
+Parlo poco inglese
+
+I don't speak English
+Non parlo inglese
+
+Mr. (Mister)
+Signore
+
+Mrs. (Missus)
+Signora
+
+Miss
+Signorina
+
+Dr. (Doctor)
+Dottore
+
+Professor
+Professore
+
+I'm here ...
+Sono qui ...
+
+on business
+per lavoro
+
+on vacation
+in vacanza
+
+studying
+per studio
+
+I'm staying for ...
+Rimango ...
+
+I've been here ...
+Sono qui da ...
+
+a day
+un giorno
+
+a week
+una settimana
+
+a month
+un mese
+
+Where are you from?
+Di dove sei?
+
+I'm from ...
+Sono di ...
+
+Who are you with?
+Con chi è?
+
+I'm here alone
+Sono da solo/sola
+
+I'm with my ...
+Sono con ...
+
+husband/wife
+mio marito/mia moglie
+
+boyfriend/girlfriend
+il mio ragazzo/la mia ragazza
+
+a friend
+un amico/un'amica
+
+friends
+degli amici/delle amiche
+
+a colleague
+un/una collega
+
+colleagues
+dei colleghi/delle colleghe
+
+When's your birthday?
+Quando è il suo compleanno?
+
+How old are you?
+Quanti anni ha?
+
+I'm ... years old
+Ho ... anni
+
+Are you married?
+È sposato/sposata?
+
+I'm ...
+Sono ...
+
+single
+single
+
+engaged
+fidanzato/fidanzata
+
+married
+sposato/sposata
+
+divorced
+divorziato/divorziata
+
+separated
+separato/separata
+
+widowed
+vedovo/vedova
+
+I have a boyfriend/girlfriend
+Ho un ragazzo/una ragazza
+
+Do you have children/grandchildren?
+Ha figli/nipoti?
+
+What do you do for a living?
+Cosa fa?
+
+What are you studying?
+Cosa studia?
+
+I'm studying Italian
+Studio italiano
+
+I ...
+Io ...
+
+work full-time/part-time
+lavoro full-time/part-time
+
+am unemployed
+sono disoccupato/disoccupata
+
+work at home
+lavoro a casa
+
+Who do you work for?
+Per chi lavora?
+
+I work for ...
+Lavoro per ...
+
+Here's my business card
+Ecco il mio biglietto da visita
+
+What's the weather forecast?
+Come sono le previsioni?
+
+What beautiful/terrible weather!
+Che bel/brutto tempo!
+
+It's ...
+Fa ...
+
+cool/warm
+fresco/caldo
+
+cold/hot
+freddo/caldo
+
+It's rainy
+Piove
+
+It's sunny
+C'è il soe
+
+It's snowy
+Nevica
+
+It's icy
+Gela
+
+Do I need a jacket/an umbrella?
+Devo prendere una giacca/un ombrello?
+
