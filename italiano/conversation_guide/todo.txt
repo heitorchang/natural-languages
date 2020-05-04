@@ -1,3 +1,5 @@
+[  ] button to clear search text (might need a setTimeout)
+
 [  ] sort menu when done copying
 
 [OK] scroll back to top on category change
