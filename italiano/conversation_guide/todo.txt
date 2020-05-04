@@ -1,3 +1,5 @@
+[  ] sort menu when done copying
+
 [OK] scroll back to top on category change
 [OK] hide menu on click (mobile, small screen)
 [OK] search opens all categories and shows only what matches
