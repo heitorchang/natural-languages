@@ -1,21 +1,17 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import AppBar from '@material-ui/core/AppBar';
 import CssBaseline from '@material-ui/core/CssBaseline';
-import Divider from '@material-ui/core/Divider';
 import Drawer from '@material-ui/core/Drawer';
 import Hidden from '@material-ui/core/Hidden';
 import IconButton from '@material-ui/core/IconButton';
-import InboxIcon from '@material-ui/icons/MoveToInbox';
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
-import ListItemIcon from '@material-ui/core/ListItemIcon';
 import ListItemText from '@material-ui/core/ListItemText';
-import MailIcon from '@material-ui/icons/Mail';
 import MenuIcon from '@material-ui/icons/Menu';
 import Toolbar from '@material-ui/core/Toolbar';
 import Typography from '@material-ui/core/Typography';
 import TextField from '@material-ui/core/TextField';
+import Button from '@material-ui/core/Button';
 
 import E from './E';
 import PhrasesLabel from './PhrasesLabel';
@@ -71,6 +67,7 @@ function ResponsiveDrawer(props) {
   const [selectedCategory, setSelectedCategory] = React.useState("Need to know");
 
   const mainRef = React.useRef();
+  const searchFieldRef = React.useRef();
   
   const menuItems = categoryOrder;
   
@@ -88,6 +85,11 @@ function ResponsiveDrawer(props) {
 
   const handleSearchChange = (e) => {
     setSearchTerm(e.target.value);
+  };
+
+  const clearSearch = () => {
+    setSearchTerm("");
+    searchFieldRef.current.focus();
   };
   
   const drawer = (
@@ -119,7 +121,13 @@ function ResponsiveDrawer(props) {
             <MenuIcon />
           </IconButton>
 
-          <TextField size="medium" id="searchField" label="Search" variant="filled" onChange={handleSearchChange} />
+          <TextField value={searchTerm} size="medium" id="searchField" label="Search" variant="filled" onChange={handleSearchChange} inputRef={searchFieldRef} autoFocus />
+
+          &nbsp;&nbsp;&nbsp;
+          <Button variant="contained" color="primary" onClick={clearSearch}>
+            Clear
+          </Button>
+          
         </Toolbar>
       </AppBar>
       

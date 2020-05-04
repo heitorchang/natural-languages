@@ -1,8 +1,9 @@
-[  ] button to clear search text (might need a setTimeout)
+[  ]
 
-[  ] sort menu when done copying
-
+[OK] button to clear search text (might need a setTimeout)
 [OK] scroll back to top on category change
 [OK] hide menu on click (mobile, small screen)
 [OK] search opens all categories and shows only what matches
 [OK] fuzzy search (convert to lowercase and remove accents)
+
+[  ] sort menu when done copying
