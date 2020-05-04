@@ -1,8 +1,152 @@
-One
-Uno
+zero (0)
+zero
 
-Two
-Due
+one (1)
+uno
 
-Three
-Tre
+two (2)
+due
+
+three (3)
+tre
+
+four (4)
+quattro
+
+five (5)
+cinque
+
+six (6)
+sei
+
+seven (7)
+sette
+
+eight (8)
+otto
+
+nine (9)
+nove
+
+ten (10)
+dieci
+
+eleven (11)
+undici
+
+twelve (12)
+dodici
+
+thirteen (13)
+tredici
+
+fourteen (14)
+quattordici
+
+fifteen (15)
+quindici
+
+sixteen (16)
+sedici
+
+seventeen (17)
+diciassette
+
+eighteen (18)
+diciotto
+
+nineteen (19)
+diciannove
+
+twenty (20)
+venti
+
+twenty-one (21)
+ventuno
+
+twenty-two (22)
+ventidue
+
+thirty (30)
+trenta
+
+forty (40)
+quaranta
+
+fifty (50)
+cinquanta
+
+sixty (60)
+sessanta
+
+seventy (70)
+settanta
+
+eighty (80)
+ottanta
+
+ninety (90)
+novanta
+
+hundred (100)
+cento
+
+one hundred one (101)
+centuno
+
+two hundred (200)
+duecento
+
+five hundred (500)
+cinquecento
+
+thousand (1000)
+mille
+
+ten thousand (10,000)
+diecimila
+
+million (1,000,000)
+milione
+
+billion (1,000,000,000)
+miliardo
+
+first
+primo
+
+second
+secondo
+
+third
+terzo
+
+fourth
+quarto
+
+fifth
+quinto
+
+sixth
+sesto
+
+seventh
+settimo
+
+eighth
+ottavo
+
+ninth
+nono
+
+tenth
+decimo
+
+once
+una volta
+
+twice
+due volte
+
+three times
+tre volte
