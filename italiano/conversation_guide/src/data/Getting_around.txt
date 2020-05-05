@@ -427,3 +427,12 @@ Quante fermate mancano per arrivare a ...?
 Where are we?
 Dove siamo?
 
+newsstands
+edicole
+
+coffee bars
+caffè
+
+tobacconists
+tabacchi
+
