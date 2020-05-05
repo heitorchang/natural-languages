@@ -292,3 +292,177 @@ Vorrei un'altra camera
 When's check-out?
 A che ora devo lasciare la camera?
 
+Can I leave my bags here until ...?
+Posso lasciare le valigie fino alle ...?
+
+Can I have an itemized bill/receipt?
+Posso avere il conto dettagliato/la ricevuta?
+
+I think there's a mistake
+Credo che ci sia un errore
+
+I'll pay in cash/by credit card
+Pago in contanti/con carta di credito
+
+I reserved an apartment/a room
+Ho prenotato un appartamento/una camera
+
+Can I have the key/key card?
+Mi può dare la chiave/chiave elettronica?
+
+Are there ...?
+Ci sono ...?
+
+dishes
+i piatti
+
+pillows
+i cuscini
+
+sheets
+le lenzuola
+
+towels
+gli asciugamani
+
+kitchen utensils
+gli utensili
+
+When do I put out the bins/recycling?
+Quando si mette fuori il secchio della spazzatura/il riciclaggio?
+
+... is broken
+... non funziona
+
+How does ... work?
+Come funziona?
+
+the air conditioner
+il condizionatore
+
+the dishwasher
+la lavastoviglie
+
+the freezer
+il freezer
+
+the heater
+il riscaldamento
+
+the microwave
+il microonde
+
+the refrigerator
+il frigo
+
+the stove
+la cucina
+
+the washing machine
+la lavatrice
+
+I need ...
+Ho bisogno di ...
+
+an adapter
+un adattatore
+
+aluminum [kitchen] foil
+carta stagnola
+
+a bottle opener
+un apribottiglie
+
+a broom
+una scopa
+
+a can opener
+un apriscatole
+
+cleaning supplies
+prodotti per le pulizie
+
+a corkscrew
+un cavatappi
+
+detergent
+detersivo
+
+dishwashing liquid
+detersivo per i piatti
+
+bin bags
+sacchetti per i rifiuti
+
+a lightbulb
+una lampadina
+
+matches
+fiammiferi
+
+a mop
+un mocio
+
+napkins
+tovaglioli
+
+paper towels
+carta da cucina
+plastic wrap [cling film]
+pellicola per alimenti
+a plunger
+uno sturalavandini
+scissors
+un paio di forbici
+a vacuum cleaner
+un aspirapolvere
+Is there a bed available?
+C'è un letto disponibile?
+
+Can I have ...?
+Potrei avere ...?
+
+a single/double room
+una camera singola/doppia
+a blanket
+una coperta
+
+Do you have lockers?
+Avete gli armadietti col lucchetto?
+
+When do you lock up?
+A che ora chiudete?
+
+Do I need a membership card?
+Ci vuole la tessera di iscrizione?
+Here's my international student card
+Ecco la mia tessera studentesca internazionale
+
+drinking water
+acqua potabile
+no fires/barbecues
+divieto di falò/barbecue
+
+Can I camp here?
+Si può campeggiare?
+
+Where's the campsite?
+Dov'è il campeggio?
+What is the charge per day/week?
+Qual è la tariffa per un giorno/una settimana?
+
+Are there ...?
+Ci sono ...?
+cooking facilities
+le attrezzature per cucinare
+electric outlets
+le prese elettriche
+laundry facilities
+le lavanderie
+showers
+le docce
+tents for rent [hire]
+tende a noleggio
+
+Where can I empty the chemical toilet?
+Dove posso vuotare il water?
