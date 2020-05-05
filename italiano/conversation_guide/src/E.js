@@ -17,7 +17,7 @@ export default function E(props) {
       visible = false;
     }
   } else {
-    const searchLower = searchTermTrimmed.toLowerCase();
+    const searchLower = searchTermTrimmed.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
     const engLower = props.eng.toLowerCase();
     const itaLower = props.ita.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 

@@ -296,7 +296,7 @@ It's rainy
 Piove
 
 It's sunny
-C'è il soe
+C'è il sole
 
 It's snowy
 Nevica
