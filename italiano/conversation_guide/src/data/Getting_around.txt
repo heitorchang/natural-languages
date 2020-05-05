@@ -436,3 +436,281 @@ caffè
 tobacconists
 tabacchi
 
+When is the ferry to ...?
+Quando parte il traghetto per ...?
+
+Can I take my car?
+Posso portare l'auto?
+
+What time is the next sailing?
+A che ora è la prossima partenza?
+
+Can I book a seat/cabin?
+Posso prenotare un posto/una cabina?
+
+How long is the crossing?
+Quanto dura la traversata?
+
+Life boat
+Imbarcazione di salvataggio
+
+Life jacket
+Giubbotto di salvataggio
+
+Where can I get a taxi?
+Dove posso trovare un taxi?
+
+Can you send a taxi?
+Posso avere un taxi?
+
+Do you have the number for a taxi?
+Posso avere un numero per chiamare un taxi?
+
+I'd like a taxi now/for tomorrow at (time) ...
+Vorrei un taxi subito/domani alle ...
+
+Pick me up at (place) ...
+Venga a prendermi a ...
+
+I'm going to ...
+Vado ...
+
+this address
+a questo indirizzo
+
+the airport
+all'aeroporto
+
+the train (railway) station
+alla stazione ferroviaria
+
+I'm late
+Sono in ritardo
+
+Stop/Wait here
+Si fermi/Mi aspetti qui
+
+How much?
+Quant'è?
+
+You said it would cost ...
+Aveva detto che erano ...
+
+Keep the change
+Tenga il resto
+
+A receipt, please
+Una ricevuta, per favore
+
+I'd like to hire ...
+Vorrei noleggiare ...
+
+a bicycle
+una bici
+
+a moped
+uno scooter
+
+a motorcycle
+una moto
+
+How much per day/week?
+Qual è la tariffa per un giorno/una settimana?
+
+Can I have a helmet/lock?
+Mi può dare un casco/lucchetto?
+
+Where's the car rental [hire]?
+Dov'è un autonoleggio?
+
+I'd like ...
+Vorrei ...
+
+a cheap/small car
+un'auto economica/piccola
+
+an automatic/a manual
+un'auto con il cambio automatico/manuale
+
+air conditioning
+un'auto con l'aria condizionata
+
+a car seat
+un sedile
+
+How much ...?
+Qual è la tariffa ...?
+
+per day/week
+per un giorno/una settimana
+
+per kilometer
+a chilometro
+
+for unlimited mileage
+con chilometraggio illimitato
+
+with insurance
+con l'assicurazione
+
+Are there discounts?
+Fate sconti?
+
+Do you have an international driver's license?
+Ha la patente internazionale?
+
+Your passport, please
+Il passaporto, per favore
+
+Do you want extra insurance?
+Desidera un'assicurazione supplementare?
+
+I'll need a deposit
+Deve lasciare un deposito
+
+Initial/Sign here
+Metta le iniziali/Firmi qui
+
+Where's the fuel station?
+Dov'è un benzinaio?
+
+Fill it up
+Faccia il pieno, per favore
+
+... euros, please
+... euro, per favore
+
+I'll pay in cash/by credit card
+Pago in contanti/con carta di credito
+
+Is this the way to ...?
+Vado bene per ...?
+
+How far is it to ...?
+Quanto dista ...?
+
+Where's ...?
+Dov'è ...?
+
+... Street
+Via ...
+
+this address
+questo indirizzo
+
+the highway [motorway]
+l'autostrada
+
+Can you show me on the map?
+Può indicarmelo sulla cartina?
+
+I'm lost
+Mi sono perso/persa
+
+straight ahead
+sempre dritto
+
+left
+a sinistra
+
+right
+a destra
+
+all'angolo/dietro l'angolo
+on the corner/around the corner
+
+opposite
+di fronte
+
+behind
+dietro a
+
+next to
+accanto a
+
+after
+dopo
+
+north/south
+a nord/sud
+
+east/west
+a est/ovest
+
+at the traffic light
+al semaforo
+
+at the intersection
+all'incrocio
+
+Can I park here?
+Posso parcheggiare qui?
+
+Where's the parking lot [car park]/parking meter?
+Dov'è il parcheggio/parchimetro?
+
+How much ...?
+Quanto costa ...?
+
+per hour
+all'ora
+
+per day
+al giorno
+
+for overnight
+per tutta la notte
+
+No stopping except in an emergency
+Divieto di sosta
+
+No stopping at any time
+Divieto di fermata
+
+Do not block the passageway
+Passo carrabile
+
+stop
+stop
+
+yield
+dare la precedenza
+
+no parking
+divieto di sosta
+
+dangerous curve
+curva pericolosa
+
+one way
+senso unico
+
+road closed
+strada chiusa
+
+no passing
+divieto di sorpasso
+
+no u-turn
+divieto di inversione di marcia
+
+My car broke down/won't start
+La mia auto ha un'avaria al motore/non parte
+
+Can you fix it (today)?
+Può ripararla (oggi)?
+
+When will it be ready?
+Per quando è pronta?
+
+How much?
+Quanto mi costa?
+
+I have a puncture/flat tire
+Ho una ruota bucata/sgonfia
+
+There was an accident
+C'è stato un incidente
+
+Call an ambulance/the police
+Chiami un'ambulanza/la polizia

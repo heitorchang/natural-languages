@@ -20,9 +20,10 @@ export default function E(props) {
     const searchLower = searchTermTrimmed.toLowerCase();
     const engLower = props.eng.toLowerCase();
     const itaLower = props.ita.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+
+    const searchRegex = RegExp('\\b' + searchLower + '|^' + searchLower);
     
-    if (engLower.indexOf(searchLower) > -1 ||
-        itaLower.indexOf(searchLower) > -1) {
+    if (searchRegex.test(engLower) || searchRegex.test(itaLower)) {
       visible = true;
     } else {
       visible = false;

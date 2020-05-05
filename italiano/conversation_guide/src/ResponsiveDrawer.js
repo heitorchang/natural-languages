@@ -85,6 +85,7 @@ function ResponsiveDrawer(props) {
 
   const handleSearchChange = (e) => {
     setSearchTerm(e.target.value);
+    mainRef.current.scrollIntoView({ block: 'start' });
   };
 
   const clearSearch = () => {
