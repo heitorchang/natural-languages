@@ -1,0 +1,429 @@
+How do I get to town?
+Come si arriva in città?
+
+Where's ...?
+Dov'è ...?
+
+the airport
+l'aeroporto
+
+the train station
+la stazione ferroviaria
+
+the bus station
+la stazione degli autobus
+
+the metro (underground) station
+la stazione della metropolitana
+
+How far is it?
+Quanto dista?
+
+Where do I buy a ticket?
+Dove si comprano i biglietti?
+
+A one-way/return-trip ticket to ...
+Un biglietto di andata/di andata e ritorno per ...
+
+How much?
+Quant'è?
+
+Is there a discount?
+C'è uno sconto?
+
+Which ...?
+Quale ...?
+
+gate
+uscita
+
+line
+linea
+
+platform
+binario
+
+Where can I get a taxi?
+Dove posso trovare un taxi?
+
+Take me to this address
+Mi porti a questo indirizzo
+
+Where's the car rental?
+Dov'è un autonoleggio?
+
+Can I have a map?
+Può darmi una cartina?
+
+When's the ... to Milan?
+A che ora è il/l'... per Milano?
+
+(first) bus
+(primo) autobus
+
+(next) flight
+(prossimo) volo
+
+(last) train
+(ultimo) treno
+
+One/Two tickets, please
+Un biglietto/due biglietti, per favore
+
+For today/tomorrow
+Per oggi/domani
+
+A ... ticket
+Un biglietto ...
+
+first class
+di prima classe
+
+business class
+di business class
+
+second class
+di seconda classe
+
+economy class
+di classe economica
+
+Is there a ... discount?
+C'è un biglietto ridotto per ...?
+
+child
+bambini
+
+student
+studenti
+
+senior citizen
+anziani
+
+tourist
+turisti
+
+The express/local bus/train, please
+L'autobus/Il treno espresso/locale, per favore
+
+I have an e-ticket
+Ho un biglietto elettronico
+
+Can I buy a ticket on the bus/train?
+Posso comprare il biglietto sull'autobus/sul treno?
+
+Do I have to stamp the ticket before boarding?
+Devo obliterare/timbrare il biglietto prima di salire a bordo?
+
+How long is this ticket valid?
+Per quanto tempo è valido questo biglietto?
+
+Can I return on the same ticket?
+Posso fare il viaggio di ritorno con lo stesso biglietto?
+
+I'd like to ... my reservation
+Vorrei ... la prenotazione
+
+cancel
+annullare
+
+change
+cambiare
+
+confirm
+confermare
+
+How much is a taxi to the airport?
+Quant'è la tariffa del taxi fino all'aeroporto?
+
+To ... Airport, please
+All'aeroporto di ..., per favore
+
+My airline is ...
+Parto con la/l'...
+
+My flight leaves at ...
+Il volo è alle ...
+
+What airline are you flying?
+Con che compagnia aerea viaggia?
+
+Domestic or international?
+Nazionale o internazionale?
+
+What terminal?
+Quale terminal?
+
+I'm in a rush
+Ho fretta
+
+Can you take an alternate route?
+Può prendere un'altra strada?
+
+Can you drive faster/slower?
+Può andare più velocemente/lentamente?
+
+Arrivals
+Arrivi
+
+Departures
+Partenze
+
+Baggage claim
+Ritiro bagagli
+
+Security
+Sicurezza
+
+Domestic flights
+Voli nazionali
+
+International flights
+Voli internazionali
+
+E-ticket check-in
+Check-in con biglietto elettronico
+
+Exit
+Uscita
+
+Where's check-in?
+Dov'è il check-in?
+
+My name is ...
+Mi chiamo ...
+
+I'm going to ...
+Vado a ...
+
+I have ...
+Ho ...
+
+one suitcase
+una valigia
+
+two suitcases
+due valigie
+
+one piece of hand luggage
+un bagaglio a mano
+
+How much luggage is allowed?
+Quanti bagagli si possono portare?
+
+Is that pounds or kilos?
+È in libbre o in chili?
+
+Which terminal/gate?
+Quale terminal/uscita
+
+I'd like a window/an aisle seat
+Vorrei un posto vicino al finestrino/al corridoio
+
+When do we leave/arrive?
+Quando partiamo/arriviamo?
+
+Is the flight delayed?
+Il volo è in ritardo?
+
+How late?
+Di quanto è in ritardo?
+
+Next!
+Il prossimo!
+
+Your passport/ticket, please
+Il suo passaporto/biglietto, per favore
+
+How many bags are you checking?
+Quanti bagagli consegna?
+
+You have excess luggage
+Ha il bagaglio in eccesso
+
+That's too large for a carry-on [luggage]
+È troppo grande per portarlo a mano
+
+Did you pack these bags yourself?
+Ha fatto Lei le valigie?
+
+Did anyone give you anything to carry?
+Qualcuno le ha dato qualcosa da portare?
+
+Empty your pockets
+Vuoti le tasche
+
+Take off your shoes
+Tolga le scarpe
+
+Now boarding ...
+Imbarco immediato ...
+
+Where is/Where are ...
+Dov'è/Dove sono ...
+
+the luggage carts
+i carrelli per i bagagli
+
+the luggage lockers
+il deposito bagagli
+
+the baggage claim
+il ritiro bagagli
+
+My luggage has been lost/stolen
+Mi hanno perso/rubato i bagagli
+
+My suitcase has been damaged
+La mia valigia è danneggiata
+
+Where is/Where are ...
+Dov'è/Dove sono ...
+
+the currency exchange
+il cambio valuta
+
+the car rental
+l'autonoleggio
+
+the exit
+l'uscita
+
+the taxis
+i taxi
+
+Is there ... into town?
+C'è ... per andare in città?
+
+a bus
+un autobus
+
+a train
+un treno
+
+a subway (underground)
+una metropolitana
+
+Where's the train (railway) station?
+Dov'è la stazione ferroviaria?
+
+How far is it?
+Quanto dista?
+
+Where is/Where are ...?
+Dov'è/Dove sono ...
+
+the ticket office
+la biglietteria
+
+the information desk
+l'ufficio informazioni
+
+the luggage lockers
+il deposito bagagli
+
+the platforms
+i binari
+
+reservations
+prenotazioni
+
+waiting room
+sala d'attesa
+
+arrivals
+arrivi
+
+departures
+partenze
+
+Can I have a schedule?
+Mi può dare un orario?
+
+How long is the trip?
+Quanto dura il viaggio?
+
+Do I have to change trains?
+Devo cambiare?
+
+Which track [platform] to ...?
+Da che binario parte il treno per ...?
+
+Is this the track [platform]/train to ...?
+È il binario/treno per ...?
+
+Where is track [platform] ...?
+Dov'è il binario ...?
+
+Where do I change for ...?
+Dove devo cambiare per ...?
+
+Can I sit here/open the window?
+Posso sedermi qui/aprire il finestrino?
+
+That's my seat
+Questo posto è mio
+
+Here's my reservation
+Ecco la mia prenotazione
+
+Where's the bus station?
+Dov'è la stazione degli autobus?
+
+How do I get to ...?
+Come si arriva a ...?
+
+Is this the bus to ...?
+È l'autobus per ...?
+
+Can you tell me when to get off?
+Può dirmi quando scendere?
+
+Do I have to change buses?
+Devo cambiare autobus?
+
+Stop here, please!
+Si fermi qui, per favore!
+
+Tickets, please
+Biglietti, per favore
+
+You have to change at Parma
+Deve cambiare a Parma
+
+Next stop, Pisa
+Prossima fermata, Pisa
+
+Bus stop
+Fermata autobus
+
+Enter/exit
+Entrata/uscita
+
+Stamp your ticket
+Convalida biglietto
+
+Where's the metro (underground) station?
+Dov'è la stazione della metropolitana?
+
+A map, please
+Una cartina, per favore
+
+Which line for ...?
+Che linea devo prendere per ...?
+
+Which direction?
+In quale direzione?
+
+Do I have to transfer [change]?
+Devo cambiare?
+
+Is this the subway [train] to ...?
+È la metropolitana per ...?
+
+How many stops to ...?
+Quante fermate mancano per arrivare a ...?
+
+Where are we?
+Dove siamo?
+
