@@ -1,0 +1,294 @@
+Can you recommend a hotel?
+Può consigliarmi un hotel?
+
+I have a reservation
+Ho una prenotazione
+
+My name is ...
+Mi chiamo ...
+
+Do you have a room ...?
+Avete una camera ...?
+
+for one/two
+singola/doppia
+
+with a bathroom/shower
+con bagno/doccia
+
+with air conditioning
+con aria condizionata
+
+that's smoking/non-smoking
+per fumatori/non fumatori
+
+For ...
+Per ...
+
+tonight
+stanotte
+
+two nights
+due notti
+
+one week
+una settimana
+
+How much?
+Quanto costa?
+
+Is there anything cheaper?
+C'è qualcosa di più economico?
+
+When's check-out?
+A che ora devo lasciare la camera?
+
+Can I leave this in the safe?
+Posso lasciare questo nella cassaforte?
+
+Can I have my things from the safe?
+Posso prendere le mie cose dalla cassaforte?
+
+Can I leave my bags?
+Posso lasciare le valigie?
+
+I'd like the bill/receipt
+Vorrei il conto/la ricevuta
+
+I'll pay in cash/by credit card
+Pago in contanti/con carta di credito
+
+Can you recommend ...?
+Può consigliarmi ...?
+
+a hotel
+un hotel
+
+a hostel
+un ostello
+
+a campsite
+un campeggio
+
+a bed and breakfast
+una pensione
+
+What is it near?
+Vicino cosa c'è?
+
+How do I get there?
+Come ci si arriva?
+
+tourist information office
+ufficio informazioni turistiche
+
+farmstays (ecotourism)
+agriturismo
+
+I have a reservation
+Ho una prenotazione
+
+Do you have ...?
+C'è ...?
+
+a computer
+un computer
+
+an elevator (lift)
+l'ascensore
+
+(wireless) internet service
+il collegamento Internet (wireless)
+
+room service
+il servizio in camera
+
+a pool
+la piscina
+
+a gym
+la palestra
+
+I need ...
+Mi serve ...
+
+an extra bed
+un altro letto
+
+a cot
+un lettino
+
+a crib
+una culla
+
+How much per day/week?
+Quanto costa al giorno/alla settimana?
+
+Does that include breakfast/sales tax [VAT]?
+La prima colazione/L'IVA è inclusa?
+
+Are there any discounts?
+Fate sconti?
+
+Your passport/credit card, please
+Il suo passaporto/La sua carta de credito, per favore
+
+Fill out this form
+Compili questo modulo
+
+Sign here
+Firmi qui
+
+Can I see the room?
+Posso vedere la stanza?
+
+I'd like a ... room
+Vorrei una ... camera
+
+better
+migliore
+
+bigger
+più grande
+
+cheaper
+più economica
+
+quieter
+più silenziosa/tranquilla
+
+I'll take it
+La prendo
+
+No, I won't take it.
+Non la prendo
+
+Where's ...?
+Dov'è ...?
+
+the bar
+il bar
+
+the toilet
+la toilette
+
+the elevator [lift]
+l'ascensore
+
+Can I have ...?
+Può darmi ...?
+
+a blanket
+una coperta
+
+an iron
+un ferro da stiro
+
+a pillow
+un cuscino
+
+soap
+una saponetta
+
+the room key/key card
+la chiave/la chiave magnetica della camera
+
+toilet paper
+della carta igienica
+
+a towel
+un asciugamano
+
+Do you have an adapter for this?
+Avete un adattatore?
+
+How do I turn on the lights?
+Come si accendono le luci?
+
+Can you wake me at ...?
+Può svegliarmi alle ...?
+
+Is there mail [post]/a message for me?
+C'è posta/Ci sono messaggi per me?
+
+Do you have a laundry service?
+Fate servizio di lavanderia?
+
+push
+spingere
+
+pull
+tirare
+
+bathroom [toilet]
+toilette
+
+shower
+doccia
+
+stairs
+scale
+
+laundry
+lavanderia
+
+do not disturb
+non disturbare
+
+fire door
+porta antincendio
+
+(emergency) exit
+uscita (d'emergenza)
+
+wake-up call
+servizio sveglia
+
+There's a problem
+C'è un problema
+
+I lost my key/key card
+Ho perso la chiave/chiave elettronica
+
+I'm locked out of the room
+Sono rimasto chiuso/fuori
+
+There's no hot water/toilet paper
+Non c'è acqua calda/carta igienica
+
+The room is dirty
+La camera è sporca
+
+There are bugs in the room
+In camera ci sono degli insetti
+
+The ... doesn't work
+... non funziona
+
+Can you fix ...?
+Può riparare ...?
+
+the air conditioning
+l'aria condizionata
+
+the fan
+il ventilatore
+
+the heat [heating]
+il riscaldamento
+
+the light
+la luce
+
+the TV
+la TV
+
+the toilet
+il gabinetto
+
+I'd like another room
+Vorrei un'altra camera
+
+When's check-out?
+A che ora devo lasciare la camera?
+
