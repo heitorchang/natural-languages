@@ -80,6 +80,9 @@ function ResponsiveDrawer(props) {
     if (mobileOpen) {
       setMobileOpen(false);
     }
+    // clear search term
+    setSearchTerm("");
+    
     mainRef.current.scrollIntoView({ block: 'start' });
   };
 

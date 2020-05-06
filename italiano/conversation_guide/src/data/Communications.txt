@@ -86,3 +86,166 @@ La mia e-mail è ...
 Do you have a scanner?
 Avete uno scanner?
 
+Are you on Facebook?
+È su Facebook?
+What's your username?
+Qual è il suo nome utente?
+
+I'll add you as a friend (formal)
+La aggiungerò come amico
+I'll add you as a friend (informal)
+Ti aggiungerò come amico
+I'll follow your Twitter (formal)
+La seguirò su Twitter
+I'll follow your Twitter (informal)
+Ti seguirò su Twitter
+
+Are you following ...? (formal)
+Segue ...?
+
+Are you following ...? (informal)
+Seguite ...?
+
+I'll put the pictures on Facebook
+Metterò le foto su Facebook
+
+I'll tag you in the pictures (formal)
+La taggherò nelle foto
+
+I'll tag you in the pictures (informal)
+Ti taggherò nelle foto
+
+close
+chiudi
+delete
+elimina
+exit
+esci
+help
+aiuto
+instant messenger
+instant messenger
+login
+login
+new (message)
+nuovo (messaggio)
+on/off
+accesso/spento
+open
+apri
+print
+stampa
+save
+salva
+send
+invia
+username/password
+nome utente/password
+wireless internet
+wireless
+
+A phone card/prepaid phone please
+Una scheda telefonica/telefono prepagato, per favore
+
+How much?
+Quant'è?
+Where's the pay phone?
+Dove posso trovare un telefono pubblico/una cabina telefonica?
+What's the area code/country code for ...?
+Qual è il prefisso/prefisso internazionale per ...?
+What's the number for information?
+Che numero ha il servizio informazioni?
+I'd like the number for ...
+Vorrei il numero di/del ...
+I'd like to call collect [reverse the charges]
+Vorrei fare una telefonata a carico del destinatario
+
+My cell phone doesn't work here
+Il telefonino non prende
+What network are you on?
+Su quale rete siamo?
+Is it 3G?
+È una rete 3G?
+I have run out of credit/minutes
+Non ho più credito/minuti
+
+Can I buy some credit?
+Posso acquistare una ricarica?
+Do you have a phone charger?
+Avete un caricabatterie per il telefono?
+Can I have your number, please?
+Mi può dare il suo numero, per favore?
+
+Who's calling?
+Chi parla?
+Hold on
+Attenda
+I'll put you through
+Le passo il numero
+He/She's not here
+Non c'è
+He/She's on another line
+È al telefono
+Would you like to leave a message?
+Vuole lasciare un messaggio?
+Call back later/in 10 minutes
+Richiami più tardi/fra dieci minuti
+Can he/she call you back?
+Può richiamarla?
+What's your number?
+Mi lascia il suo numero?
+
+Here's my number
+Ecco il mio numero
+
+Call/Text me
+Mi chiami/mandi un SMS
+
+I'll call you
+La chiamo
+I'll text you
+Le mando un SMS
+Extension ...
+Interno ...
+Speak louder/more slowly, please
+Parli più forte/lentamente, per favore
+
+Can you repeat that?
+Può ripetere?
+I'll call back later
+Richiamo più tardi
+
+Bye
+Arrivederla
+
+Can I send/receive a fax here?
+Posso inviare/ricevere un fax?
+What's the fax number?
+Qual è il numero di fax?
+Please fax this to ...
+Invii questo fax a ..., per favore
+
+Where's the post office/mailbox [postbox]?
+Dov'è un ufficio postale/una buca delle lettere?
+
+registered mail
+posta raccomandata
+
+A stamp for this postcard/letter to ...
+Un francobollo per questa cartolina/lettera per ...
+
+Send this package by airmail/express
+Mandi questo pacco per posta aerea/espresso
+
+A receipt, please
+La ricevuta, per favore
+
+Fill out the customs declaration form
+Riempia il modulo per la dogana
+
+What's the value?
+Valore?
+
+What's inside?
+Cosa c'è dentro?
+
