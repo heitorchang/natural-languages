@@ -24,3 +24,65 @@ Mi chiami/mandi una e-mail
 
 Hello. This is ...
 Pronto. Sono ...
+
+Can I speak to ...?
+Posso parlare con ...?
+Can you repeat that?
+Può ripetere?
+
+I'll call back later
+Richiamo più tardi
+Bye
+Arrivederla
+
+Where's the post office?
+Dov'è un ufficio postale?
+
+I'd like to send this to ...
+Vorrei inviare questo a ...
+
+Does it have wireless internet?
+C'è il wireless?
+
+What's the Wi-Fi password?
+Qual è la password Wi-Fi?
+
+Is the Wi-Fi free?
+Il Wi-Fi è gratis?
+
+Do you have Bluetooth?
+Avete il Bluetooth?
+
+How do I turn the computer on/off?
+Come si accende/spegne il computer?
+
+Can I ...?
+Posso ...?
+access the internet
+collegarmi (a Internet)
+check e-mail
+controllare le e-mail
+print
+stampare
+plug in/charge my laptop/iPhone/iPad?
+collegare/ricaricare il mio portabile/iPhone/iPad?
+access Skype?
+usare Skype?
+How much per hour/half hour?
+Quanto costa per un'ora/mezz'ora?
+
+How do I ...?
+Come ...?
+connect/disconnect
+ci si collega/scollega
+log on/log off
+si fa il login/logout
+type this symbol
+digiti questo simbolo
+What's your e-mail?
+Qual è la sua e-mail?
+My e-mail is ...?
+La mia e-mail è ...
+Do you have a scanner?
+Avete uno scanner?
+
