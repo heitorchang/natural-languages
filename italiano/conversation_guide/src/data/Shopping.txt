@@ -28,6 +28,8 @@ Pago in contanti/con carta di credito
 A receipt, please
 Una ricevuta, per favore
 
+*At the shops
+*At the shops
 Where's ...?
 Dov'è ...?
 
@@ -79,6 +81,9 @@ un tabaccaio
 the toy store
 un negozio di giocattoli
 
+*Ask an assistant
+*Ask an assistant
+
 When do you open/close?
 Quando aprite/chiudete?
 
@@ -106,5 +111,223 @@ Quant'è?
 That's all
 Basta così
 
+*Personal preferences
+*Personal preferences
 I'd like something ...
 Vorrei qualcosa ...
+cheap/expensive
+di più economico/caro
+larger/smaller
+di più grande/piccolo
+from this region
+di tipico di questa zona
+Around ... euros
+Intorno ai .. euro
+Is it real?
+È vero?
+Can you show me ...?
+Mi fa vedere ...?
+
+open
+aperto
+closed
+chiuso
+entrance
+entrata
+fitting room
+camerino
+cashier
+cassa
+cash only
+solo contanti
+credit cards accepted
+si accettano carte di credito
+business hours
+orario d'apertura
+exit
+uscita
+
+That's not quite what I want
+Non è proprio quello che volevo
+No, I don't like it
+No, non mi piace
+It's too expensive
+È troppo caro
+I have to think about it
+Devo pensarci
+I'll take it
+Lo prendo
+
+Can I help you?
+Posso aiutarla?
+One moment
+Un momento
+What would you like?
+Che cosa desidera?
+Anything else?
+Altro?
+
+*Paying and bargaining
+*Paying and bargaining
+I'll pay ...
+Pago ...
+in cash
+in contanti
+by credit card
+con carta di credito
+by travelers check
+con un travel cheque
+Can I use ...?
+Posso usare ...?
+this ATM/debit card
+questo bancomat
+this credit card
+questa carta di credito
+this gift card
+questo buono
+this prepaid card
+questa carta prepagata
+How do I use this machine?
+Come si usa questa macchina?
+How much is left on the card?
+Quanto credito c'è sulla carta?
+A receipt, please
+Una ricevuta, per favore
+I'll give you ...
+Le posso dare ...
+I have only ... euros
+Ho solo ... euro
+Is that your best price?
+È il prezzo migliore che può farmi?
+
+That's too much
+È troppo
+Can you give me a discount?
+Mi fa un po' di sconto?
+
+How are you paying?
+Come preferisce pagare?
+Your credit card has been declined
+La sua carta di credito è stata rifiutata
+ID, please
+Un documento, per favore
+We don't accept credit cards
+Non accettiamo carte di credito
+Cash only, please
+Solo contanti, per favore
+Do you have change/small bills [notes]?
+Non ha spiccioli/banconote più piccole?
+Thank you
+Grazie
+Have a nice day!
+Buona giornata!
+
+*Making a complaint
+*Making a complaint
+This is broken
+È rotto/rotta
+I bought it yesterday
+L'ho comprato ieri
+
+I'd like ...
+Vorrei ...
+to exchange this
+cambiarlo
+a refund
+un rimborso
+to see the manager
+parlare con il responsabile
+
+*Services
+*Services
+Can you recommend ...?
+Può consigliarmi ...?
+a barber
+un barbiere
+a dry cleaner
+il lavasecco
+a hairstylist
+un parrucchiere
+a laundromat
+una lavanderia a gettone
+a nail salon
+un salone di bellezza
+a spa
+una stazione termale
+a travel agency
+un'agenzia di viaggi
+Can you ... this?
+Mi può ... questo?
+alter
+cambiare
+clean
+pulire
+fix [mend]
+riparare
+press
+stirare
+When will it be ready?
+Per quando è pronto?
+
+*Hair and beauty
+*Hair and beauty
+
+I'd like ...
+Vorrei ...
+an appointment for today/tomorrow
+un appuntamento per oggi/domani
+some color/highlights
+fare il colore/i colpi di sole
+my hair styled/blow-dried
+fare la piega/asciugare
+a haircut
+fare il taglio
+a bikini wax
+fare la ceretta all'inguine
+a facial
+fare la pulizia del viso
+a manicure/pedicure
+fare un manicure/pedicure
+a massage
+fare un massaggio
+a trim
+dare una spuntatina
+Not too short
+Non troppo corti
+Shorter here
+Più corti qui
+Do you offer ...?
+Fate ...?
+acupuncture
+l'agopuntura
+aromatherapy
+l'aromaterapia
+oxygen treatment
+l'ossigeno terapia
+Do you have a sauna?
+C'è la sauna?
+
+*Antiques
+*Antiques
+How old is it?
+Di quando è?
+Do you have anything from the ... period?
+Avete qualcosa del periodo ...?
+Do I have to fill out any forma?
+Devo riempire un modulo?
+Is there a certificate of authenticity?
+Ha il certificato di autenticità?
+
+*Clothing
+*Clothing
+I'd like ...
+Vorrei ...
+Can I try this on?
+Posso provarlo?
+It doesn't fit
+Non mi va bene
+
+It's too ...
+È troppo ...
+big/small
+grande/piccolo

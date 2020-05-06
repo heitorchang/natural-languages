@@ -21,7 +21,8 @@ Ecco il mio numero/la mia e-mail
 
 Call/E-mail me
 Mi chiami/mandi una e-mail
-
+*Telephone etiquette
+*Telephone etiquette
 Hello. This is ...
 Pronto. Sono ...
 
@@ -35,12 +36,8 @@ Richiamo più tardi
 Bye
 Arrivederla
 
-Where's the post office?
-Dov'è un ufficio postale?
-
-I'd like to send this to ...
-Vorrei inviare questo a ...
-
+*Online
+*Online
 Does it have wireless internet?
 C'è il wireless?
 
@@ -86,6 +83,8 @@ La mia e-mail è ...
 Do you have a scanner?
 Avete uno scanner?
 
+*Social media
+*Social media
 Are you on Facebook?
 È su Facebook?
 What's your username?
@@ -143,6 +142,9 @@ username/password
 nome utente/password
 wireless internet
 wireless
+
+*Phone
+*Phone
 
 A phone card/prepaid phone please
 Una scheda telefonica/telefono prepagato, per favore
@@ -218,6 +220,8 @@ Richiamo più tardi
 Bye
 Arrivederla
 
+*Fax
+*Fax
 Can I send/receive a fax here?
 Posso inviare/ricevere un fax?
 What's the fax number?
@@ -225,8 +229,14 @@ Qual è il numero di fax?
 Please fax this to ...
 Invii questo fax a ..., per favore
 
+*Post
+*Post
+
 Where's the post office/mailbox [postbox]?
 Dov'è un ufficio postale/una buca delle lettere?
+
+I'd like to send this to ...
+Vorrei inviare questo a ...
 
 registered mail
 posta raccomandata

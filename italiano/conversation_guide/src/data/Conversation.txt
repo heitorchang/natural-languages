@@ -61,6 +61,9 @@ Arrivederla
 See you later
 A dopo
 
+* Language difficulties
+* Language difficulties
+
 Do you speak English?
 Parla inglese?
 
@@ -102,6 +105,9 @@ Non capisco
 
 Do you understand?
 Capisce?
+
+* Making friends
+* Making friends
 
 Good day
 Buongiorno
@@ -148,6 +154,9 @@ Dottore
 Professor
 Professore
 
+* Travel talk
+* Travel talk
+
 I'm here ...
 Sono qui ...
 
@@ -180,6 +189,9 @@ Di dove sei?
 
 I'm from ...
 Sono di ...
+
+* Personal
+* Personal
 
 Who are you with?
 Con chi è?
@@ -247,6 +259,8 @@ Ho un ragazzo/una ragazza
 Do you have children/grandchildren?
 Ha figli/nipoti?
 
+* Work and school
+* Work and school
 What do you do for a living?
 Cosa fa?
 
@@ -276,6 +290,9 @@ Lavoro per ...
 
 Here's my business card
 Ecco il mio biglietto da visita
+
+* Weather
+* Weather
 
 What's the weather forecast?
 Come sono le previsioni?

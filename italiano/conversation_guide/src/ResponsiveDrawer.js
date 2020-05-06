@@ -14,6 +14,7 @@ import TextField from '@material-ui/core/TextField';
 import Button from '@material-ui/core/Button';
 
 import E from './E';
+import Subcategory from './Subcategory';
 import PhrasesLabel from './PhrasesLabel';
 
 import { processedData } from './data/processed';
@@ -172,9 +173,11 @@ function ResponsiveDrawer(props) {
           <PhrasesLabel selectedCategory={selectedCategory} searchTerm={searchTerm} />
         </Typography>
 
-        { processedData.map(row => (
-          <E category={row[0]} eng={row[1]} ita={row[2]} searchTerm={searchTerm} selectedCategory={selectedCategory} />
-        ))}
+        { processedData.map(row => {
+          return row[1][0] === "*" ?
+            <Subcategory category={row[0]} name={row[1].toUpperCase().replace("*", "")} searchTerm={searchTerm} selectedCategory={selectedCategory} /> :
+          <E category={row[0]} eng={row[1]} ita={row[2]} searchTerm={searchTerm} selectedCategory={selectedCategory} />;
+        })}
 
         <br />
         <br />

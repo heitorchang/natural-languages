@@ -58,6 +58,8 @@ Vorrei il conto/la ricevuta
 I'll pay in cash/by credit card
 Pago in contanti/con carta di credito
 
+*Somewhere to stay
+*Somewhere to stay
 Can you recommend ...?
 Può consigliarmi ...?
 
@@ -85,6 +87,8 @@ ufficio informazioni turistiche
 farmstays (ecotourism)
 agriturismo
 
+*At the hotel
+*At the hotel
 I have a reservation
 Ho una prenotazione
 
@@ -121,6 +125,9 @@ un lettino
 a crib
 una culla
 
+*Price
+*Price
+
 How much per day/week?
 Quanto costa al giorno/alla settimana?
 
@@ -139,6 +146,8 @@ Compili questo modulo
 Sign here
 Firmi qui
 
+*Preferences
+*Preferences
 Can I see the room?
 Posso vedere la stanza?
 
@@ -163,6 +172,8 @@ La prendo
 No, I won't take it.
 Non la prendo
 
+*Questions
+*Questions
 Where's ...?
 Dov'è ...?
 
@@ -244,6 +255,8 @@ uscita (d'emergenza)
 wake-up call
 servizio sveglia
 
+*Problems
+*Problems
 There's a problem
 C'è un problema
 
@@ -289,6 +302,8 @@ il gabinetto
 I'd like another room
 Vorrei un'altra camera
 
+*Checking out
+*Checking out
 When's check-out?
 A che ora devo lasciare la camera?
 
@@ -304,6 +319,8 @@ Credo che ci sia un errore
 I'll pay in cash/by credit card
 Pago in contanti/con carta di credito
 
+*Renting
+*Renting
 I reserved an apartment/a room
 Ho prenotato un appartamento/una camera
 
@@ -361,6 +378,8 @@ la cucina
 the washing machine
 la lavatrice
 
+*Domestic items
+*Domestic items
 I need ...
 Ho bisogno di ...
 
@@ -416,6 +435,9 @@ scissors
 un paio di forbici
 a vacuum cleaner
 un aspirapolvere
+
+*At the hostel
+*At the hostel
 Is there a bed available?
 C'è un letto disponibile?
 
@@ -443,6 +465,8 @@ acqua potabile
 no fires/barbecues
 divieto di falò/barbecue
 
+*Going camping
+*Going camping
 Can I camp here?
 Si può campeggiare?
 

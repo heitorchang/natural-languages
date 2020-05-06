@@ -55,6 +55,9 @@ Dov'è un autonoleggio?
 Can I have a map?
 Può darmi una cartina?
 
+* Tickets
+* Tickets
+
 When's the ... to Milan?
 A che ora è il/l'... per Milano?
 
@@ -133,6 +136,8 @@ cambiare
 confirm
 confermare
 
+* Airport transfer
+* Airport transfer
 How much is a taxi to the airport?
 Quant'è la tariffa del taxi fino all'aeroporto?
 
@@ -162,6 +167,9 @@ Può prendere un'altra strada?
 
 Can you drive faster/slower?
 Può andare più velocemente/lentamente?
+
+* Checking in
+* Checking in
 
 Arrivals
 Arrivi
@@ -259,6 +267,9 @@ Tolga le scarpe
 Now boarding ...
 Imbarco immediato ...
 
+*Luggage
+*Luggage
+
 Where is/Where are ...
 Dov'è/Dove sono ...
 
@@ -277,6 +288,8 @@ Mi hanno perso/rubato i bagagli
 My suitcase has been damaged
 La mia valigia è danneggiata
 
+*Finding your way
+*Finding your way
 Where is/Where are ...
 Dov'è/Dove sono ...
 
@@ -303,6 +316,9 @@ un treno
 
 a subway (underground)
 una metropolitana
+
+*Train
+*Train
 
 Where's the train (railway) station?
 Dov'è la stazione ferroviaria?
@@ -346,6 +362,8 @@ Quanto dura il viaggio?
 Do I have to change trains?
 Devo cambiare?
 
+*Departures
+*Departures
 Which track [platform] to ...?
 Da che binario parte il treno per ...?
 
@@ -358,6 +376,8 @@ Dov'è il binario ...?
 Where do I change for ...?
 Dove devo cambiare per ...?
 
+*On board
+*On board
 Can I sit here/open the window?
 Posso sedermi qui/aprire il finestrino?
 
@@ -366,6 +386,9 @@ Questo posto è mio
 
 Here's my reservation
 Ecco la mia prenotazione
+
+*Bus
+*Bus
 
 Where's the bus station?
 Dov'è la stazione degli autobus?
@@ -403,6 +426,9 @@ Entrata/uscita
 Stamp your ticket
 Convalida biglietto
 
+*Metro
+*Metro
+
 Where's the metro (underground) station?
 Dov'è la stazione della metropolitana?
 
@@ -436,6 +462,10 @@ caffè
 tobacconists
 tabacchi
 
+
+*Boat and ferry
+*Boat and ferry
+
 When is the ferry to ...?
 Quando parte il traghetto per ...?
 
@@ -457,6 +487,8 @@ Imbarcazione di salvataggio
 Life jacket
 Giubbotto di salvataggio
 
+*Taxi
+*Taxi
 Where can I get a taxi?
 Dove posso trovare un taxi?
 
@@ -502,6 +534,9 @@ Tenga il resto
 A receipt, please
 Una ricevuta, per favore
 
+*Bicycle and motorbike
+*Bicycle and motorbike
+
 I'd like to hire ...
 Vorrei noleggiare ...
 
@@ -519,6 +554,9 @@ Qual è la tariffa per un giorno/una settimana?
 
 Can I have a helmet/lock?
 Mi può dare un casco/lucchetto?
+
+*Car hire
+*Car hire
 
 Where's the car rental [hire]?
 Dov'è un autonoleggio?
@@ -571,6 +609,8 @@ Deve lasciare un deposito
 Initial/Sign here
 Metta le iniziali/Firmi qui
 
+*Fuel station
+*Fuel station
 Where's the fuel station?
 Dov'è un benzinaio?
 
@@ -583,6 +623,8 @@ Faccia il pieno, per favore
 I'll pay in cash/by credit card
 Pago in contanti/con carta di credito
 
+*Asking directions
+*Asking directions
 Is this the way to ...?
 Vado bene per ...?
 
@@ -643,6 +685,9 @@ al semaforo
 at the intersection
 all'incrocio
 
+*Parking
+*Parking
+
 Can I park here?
 Posso parcheggiare qui?
 
@@ -694,6 +739,9 @@ divieto di sorpasso
 no u-turn
 divieto di inversione di marcia
 
+*Breakdown and repair
+*Breakdown and repair
+
 My car broke down/won't start
 La mia auto ha un'avaria al motore/non parte
 
@@ -709,6 +757,8 @@ Quanto mi costa?
 I have a puncture/flat tire
 Ho una ruota bucata/sgonfia
 
+*Accidents
+*Accidents
 There was an accident
 C'è stato un incidente
 

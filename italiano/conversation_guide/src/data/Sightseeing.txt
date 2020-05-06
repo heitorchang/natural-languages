@@ -10,6 +10,9 @@ Ci sono visite guidate in inglese?
 Can I have a map/guide?
 Mi può dare una cartina/guida?
 
+*Tourist information
+*Tourist information
+
 Do you have information on ...?
 Avete informazioni su ...?
 Can you recommend ...?
@@ -22,6 +25,8 @@ un'escursione a ...
 a sightseeing tour
 una gita turistica
 
+*On tour
+*On tour
 I'd like to go on the excursion to ...
 Vorrei partecipare alla gita per ...
 When's the next tour?
@@ -52,6 +57,8 @@ per andare in bagno
 Is it disabled-accessible?
 È accessibile ai disabili?
 
+*Seeing the sights
+*Seeing the sights
 Where is/Where are ...?
 Dov'è/Dove sono ...?
 the battleground
@@ -115,6 +122,8 @@ brutto
 I (don't) like it
 (Non) mi piace
 
+*Religious sites
+*Religious sites
 the cathedral
 la cattedrale
 the Catholic/Protestant church

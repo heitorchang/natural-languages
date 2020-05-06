@@ -1,0 +1,16 @@
+.subcategory {
+    font-family: "Roboto Condensed";
+    font-size: 1.2em;
+    margin: 0;
+    padding: 0.2em;
+}
+
+.subcategorytext {
+    font-weight: bold;
+    background: linear-gradient(to right, #FF8 0%, #FFF 100%);
+    padding: 0.8em;
+}
+
+.spacer {
+    margin-top: 0.9em;
+}
