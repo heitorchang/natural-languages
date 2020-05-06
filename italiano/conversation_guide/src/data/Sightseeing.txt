@@ -21,3 +21,115 @@ an excursion to ...
 un'escursione a ...
 a sightseeing tour
 una gita turistica
+
+I'd like to go on the excursion to ...
+Vorrei partecipare alla gita per ...
+When's the next tour?
+Quando è la prossima gita?
+
+Are there tours in English?
+Ci sono visite guidate in inglese?
+
+Is there an English guide book/audio guide?
+C'è una guida/un'audio guida in inglese?
+
+What time do we leave/return?
+A che ora si parte/torna?
+
+We'd like to see ...
+Vorremmo vedere ...
+Can we stop here ...?
+Possiamo fermarci ...?
+
+to take photos
+per fare qualche foto
+for souvenirs
+per comprare qualche souvenir
+
+for the toilets
+per andare in bagno
+
+Is it disabled-accessible?
+È accessibile ai disabili?
+
+Where is/Where are ...?
+Dov'è/Dove sono ...?
+the battleground
+il campo di battaglia
+the botanical garden
+il giardino botanico
+the castle
+il castello
+the downtown area
+il centro
+the fountain
+la fontana
+the library
+la biblioteca
+the market
+il mercato
+the museum
+il museo
+the old town
+la città vecchia
+the opera house
+il teatro dell'opera
+
+the palace
+il palazzo
+the park
+il parco
+the ruins
+le rovine
+the shopping area
+i negozi
+the town hall
+il comune
+the town square
+la piazza principale
+Can you show me on the map?
+Può indicarmelo sulla cartina?
+It's ...
+È ...
+amazing
+meraviglioso
+beautiful
+bellissimo
+boring
+noioso
+interesting
+interessante
+magnificent
+magnifico
+
+romantic
+romantico
+strange
+strano
+stunning
+fenomenale
+terrible
+terribile
+ugly
+brutto
+I (don't) like it
+(Non) mi piace
+
+the cathedral
+la cattedrale
+the Catholic/Protestant church
+la chiesa cattolica/protestante
+
+the mosque
+la moschea
+the shrine
+il santuario
+the synagogue
+la sinagoga
+
+the temple
+il tempio
+What time is the mass/service?
+A che ora è la messa/il servizio?
+
+
