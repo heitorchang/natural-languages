@@ -7,7 +7,8 @@
 
 .subcategorytext {
     font-weight: bold;
-    background: linear-gradient(to right, #FF8 0%, #FFF 100%);
+    background: linear-gradient(to right, #FC8 0%, #FFF 100%);
+    border-radius: 1.5em;
     padding: 0.8em;
 }
 
