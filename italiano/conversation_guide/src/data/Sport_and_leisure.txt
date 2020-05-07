@@ -1,2 +1,244 @@
 When's the game?
 A che ora c'è la partita?
+Where's ...?
+Dov'è ...?
+the beach
+la spiaggia
+the park
+il parco
+the pool
+la piscina
+Is it safe to swim here?
+Si può nuotare?
+Can I hire golf clubs?
+Posso noleggiare delle mazze?
+How much per hour?
+Qual è la tariffa per un'ora?
+How far is it to ...?
+Quanto dista a ...?
+Can you show me on the map?
+Può indicarmelo sulla cartina?
+
+* Watching sport
+* Watching sport
+
+When's ...?
+A che ora c'è ...?
+the baseball game
+la partita di baseball
+the basketball game
+la partita di basket
+
+the boxing match
+l'incontro di boxe
+the cricket game
+la partita di cricket
+the cycling race
+la gara di ciclismo
+the golf game
+la partita di golf
+the soccer [football] game
+la partita di calcio
+the tennis match
+la partita di tennis
+the volleyball game
+la partita di pallavolo
+Who's playing?
+Chi gioca?
+Where's the racetrack/stadium?
+Dov'è il circuito/lo stadio?
+Where can I place a bet?
+Dove si fanno le scommesse?
+*Playing sport
+*Playing sport
+
+Where is/Where are ...?
+Dov'è/Dove sono ...?
+the golf course
+il campo da golf
+the gym
+la palestra
+the park
+il parco
+the tennis courts
+i campi da tennis
+How much ...?
+Quant'è la tariffa per ...?
+per day
+un giorno
+per hour
+un'ora
+per game
+una partita
+per round
+un turno/round
+Can I hire ...
+Posso noleggiare ...
+some golf clubs
+delle mazze
+some equipment
+l'attrezzatura
+a racket
+una racchetta
+*At the beach/pool
+*At the beach/pool
+Where's the beach/pool
+Dov'è la spiaggia/piscina?
+Is there ...?
+C'è ...?
+a kiddie pool
+una piscina per bambini
+an indoor/outdoor pool
+una piscina interna/esterna
+a lifeguard
+il bagnino
+Is it safe to swim/dive?
+Si può nuotare/tuffarsi
+Is it safe for children?
+È per bambini?
+I'd like to hire ...
+Vorrei noleggiare ...
+a deck chair
+una sedia a sdraio
+a jet ski
+un acquascooter
+diving equipment
+l'attrezzatura subacquea
+a motorboat
+un motoscafo
+a rowboat
+una barca a remi
+snorkeling equipment
+una maschera e il boccaglio
+a surfboard
+una tavola da surf
+a towel
+un asciugamano
+an umbrella
+un ombrellone
+water skis
+sci nautici
+a windsurfer
+un windsurf
+For ... hours
+Per ... ore
+*Winter sports
+*Winter sports
+A lift pass for the day/five days, please
+Un lift pass per un giorno/cinque giorni, per favore
+I'd like to hire ...
+Vorrei noleggiare ...
+boots
+un paio di stivali
+a helmet
+un casco
+skis
+un paio di sci
+poles
+un paio di racchette da sci
+a snowboard
+uno snowboard
+snowshoes
+le scarpe da neve
+These are too big/small
+Sono troppo grandi/piccoli
+Are there lessons?
+Si possono prendere lezioni?
+I'm a beginner
+Sono principiante
+I'm experienced
+Sono esperto/esperta
+A trail [piste] map, please
+Una cartina delle piste, per favore
+drag lift
+ski lift
+cable car
+funivia
+chair lift
+seggiovia
+novice
+principiante
+intermediate
+intermedio
+expert
+esperto
+trail [piste] closed
+pista chiusa
+*Out in the country
+*Out in the country
+
+A map ..., please
+Una cartina ..., per favore
+of this region
+della regione
+of the walking routes
+dei sentieri pedonali
+of the bike routes
+delle piste ciclabili
+of the trails
+dei sentieri
+Is it ...?
+È ...?
+easy
+facile
+difficult
+difficile
+far
+lontano
+steep
+ripido
+How far is it to ...?
+Quanto dista a ...?
+Can you show me on the map?
+Può indicarmelo sulla cartina?
+I'm lost
+Mi sono perso/persa
+Where's ...?
+Dov'è ...?
+the bridge
+il ponte
+the cave
+la grotta
+the desert
+il deserto
+the farm
+la fattoria
+the field
+il campo
+the forest
+la foresta
+the hill
+la collina
+the lake
+il lago
+the mountain
+la montagna
+the nature preserve
+la riserva naturale
+the viewpoint
+il belvedere
+the park
+il parco
+the path
+il sentiero
+the peak
+il picco
+the picnic area
+l'area picnic
+the pond
+lo stagno
+the river
+il fiume
+the sea
+il mare
+the (thermal) spring
+la sorgente (termale)
+the stream
+il ruscello
+the valley
+la valle
+the vineyard
+il vigneto
+the waterfall
+la cascata
+

@@ -28,7 +28,7 @@ export default function Subcategory(props) {
 
         <div className="subcategorytext">
           <Typography variant="body1">
-            <b>{props.name}</b>
+            <b>{props.name.trim()}</b>
           </Typography>
         </div>
 

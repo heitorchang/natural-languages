@@ -1,0 +1,32 @@
+Help!
+Aiuto!
+Go away!
+Se ne vada!
+Stop, thief!
+Fermi, al ladro!
+Get a doctor!
+Un medico!
+Fire!
+Al fuoco!
+I'm lost
+Mi sono perso/persa
+
+Can you help me?
+Può aiutarmi?
+
+Fill out this form
+Riempia questo modulo
+Your identification, please
+Un documento, per favore
+When/Where did it happen?
+Quando/Dove è successo?
+What does he/she look like?
+Che aspetto aveva?
+
+Police number
+112
+Fire brigade number
+115
+Ambulance number
+118
+
