@@ -331,3 +331,286 @@ It's too ...
 È troppo ...
 big/small
 grande/piccolo
+
+short/long
+corto/lungo
+tight/loose
+stretto/largo
+Do you have this in size ...?
+Non c'è la taglia ...?
+Do you have this in a bigger/smaller size?
+Non c'è in una taglia più grande/piccola
+I'd like something ...
+Vorrei qualcosa di ...
+beige
+beige
+black
+nero
+blue
+blu
+brown
+marrone
+green
+verde
+gray
+grigio
+orange
+arancione
+pink
+rosa
+purple
+viola
+red
+rosso
+white
+bianco
+yellow
+giallo
+
+*Clothes and accessories
+*Clothes and accessories
+a backpack
+lo zaino
+a belt
+la cintura
+a bikini
+il bikini
+a blouse
+la camicia
+a bra
+il reggiseno
+briefs [underpants]/panties
+lo slip
+a coat
+il cappotto
+a dress
+il vestito da donna
+a hat
+il cappello
+a jacket
+la giacca
+jeans
+i jeans
+pajamas
+il pigiama
+pants [trousers]
+i pantaloni
+pantyhose [tights]
+il collant
+a purse [handbag]
+la borsa
+a raincoat
+l'impermeabile
+a scarf
+la sciarpa
+a shirt
+la camicia
+shorts
+i pantaloncini
+a skirt
+la gonna
+socks
+i calzini
+a suit
+l'abito
+sunglasses
+gli occhiali da sole
+a sweater
+il maglione
+a sweatshirt
+la felpa
+a swimsuit
+il costume da bagno
+a T-shirt
+la maglietta
+a tie
+la cravatta
+underwear
+la biancheria intima
+men's
+uomo
+women's
+donna
+children's
+bambino
+
+* Fabric
+* Fabric
+
+I'd like ...
+Lo/La vorrei di ...
+cotton
+cotone
+denim
+jeans
+lace
+pizzo
+leather
+pelle
+linen
+lino
+silk
+seta
+wool
+lana
+Is it machine washable?
+Si può lavare in lavatrice?
+
+*Shoes
+*Shoes
+I'd like a pair of ...
+Vorrei un paio di ...
+high-heels/flats
+scarpe col tacco alto/scarpe basse
+boots
+stivali
+loafers
+mocassini
+sandals
+sandali
+shoes
+scarpe
+slippers
+le ciabatte
+sneakers
+scarpe da tennis
+In size ...
+Numero ...
+
+*Sizes
+*Sizes
+small (S)
+piccola
+medium (M)
+media
+large (L)
+grande
+extra large (XL)
+extra large
+petite
+piccola
+plus size
+taglia forte
+
+*Newsstand and tobacconist
+*Newsstand and tobacconist
+
+Do you sell English-language newspapers?
+Avete qualche giornale in inglese?
+
+I'd like ...
+Vorrei ...
+candy [sweets]
+delle caramelle
+chewing gum
+della gomma da masticare
+a chocolate bar
+del cioccolato
+a cigar
+un sigaro
+a pack/carton of cigarettes
+un pacchetto/una stecca di sigarette
+a lighter
+un accendino
+a magazine
+una rivista
+matches
+dei fiammiferi
+a newspaper
+un giornale
+a pen
+una penna
+a postcard
+una cartolina
+a (road)/town map of ...
+una cartina (stradale) di ...
+stamps
+dei francobolli
+*Photography
+*Photography
+
+I'd like a/an ... camera
+Vorrei uma macchina fotografica ...
+automatic
+automatica
+digital
+digitale
+disposable
+usa e getta
+I'd like ...
+Vorrei ...
+digital prints
+far stampare delle foto digitali
+a battery
+una batteria
+a memory card
+una scheda memoria
+Can I print digital photos here?
+Posso stampare foto digitali?
+*Souvenirs
+*Souvenirs
+blown glass
+il vetro soffiato
+bottle of wine
+la bottiglia di vino
+box of chocolates
+la scatola di cioccolatini
+wood carvings
+il legno intagliato
+crystal
+il cristallo
+doll
+la bambola
+
+key ring
+il portachiavi
+lace
+il pizzo
+pottery
+la ceramica
+T-shirt
+la maglietta
+toy
+il giocattolo
+Can I see ...?
+Posso vedere ...
+Is this real?
+È vero?
+It's in the window/display case
+È in vetrina/nella vetrinetta
+a battery
+una batteria
+a bracelet
+un braccialetto
+a brooch
+una spilla
+a clock
+un orologio
+a watch
+un orologio
+earrings
+un paio di orecchini
+a necklace
+una collana
+a ring
+un anello
+copper
+di rame
+crystal
+in cristallo
+
+diamonds
+di diamanti
+white/yellow gold
+d'oro bianco/giallo
+pearls
+di perle
+pewter
+di peltro
+
+platinum
+di platino
+sterling silver
+d'argento
+Can you engrave it?
+Potete fare un'incisione?
