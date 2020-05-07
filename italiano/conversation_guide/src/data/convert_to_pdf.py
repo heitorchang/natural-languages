@@ -20,9 +20,10 @@ with open("index_pdf.html", "w", encoding="utf-8") as html:
     }
     
     .sectionlink {
+    font-size: 130%;
     display: block;
     text-decoration: none;
-    margin: 0.3em;
+    margin: 0.6em;
     }
 
     .sect {
