@@ -1,2 +1,55 @@
 I'm sick [ill]
 Sto male
+I need an English-speaking doctor
+Ho bisogno di un medico che parli inglese
+It hurts here
+Mi fa male qui
+I have a stomachache
+Ho mal di stomaco
+*Finding a doctor
+*Finding a doctor
+Can you recommend a doctor/dentist?
+Mi può consigliare un medico/dentista?
+Can the doctor come here?
+Il medico può venire?
+What are the office hours?
+Che orari fate?
+I'd like an appointment for ...
+Vorrei un appuntamento ...
+today
+per oggi
+tomorrow
+per domani
+as soon as possible
+al più presto possibile
+It's urgent
+È urgente
+*Symptoms
+*Symptoms
+I'm bleeding
+Perdo sangue
+I'm constipated
+Sono costipato
+I'm dizzy
+Mi gira la testa
+I'm nauseous
+Ho la nausea
+I'm vomiting
+Vomito
+It hurts here
+Mi fa male qui
+I have ...
+Ho ...
+an allergic reaction
+una reazione allergica
+chest pain
+un dolore al petto
+cramps
+crampi
+diarrhea
+la diarrea
+an earache
+mal d'orecchio
+a fever
+la febbre
+
