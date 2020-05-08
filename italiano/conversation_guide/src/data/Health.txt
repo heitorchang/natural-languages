@@ -53,3 +53,136 @@ mal d'orecchio
 a fever
 la febbre
 
+pain
+un dolore
+a rash
+un rossore
+a sting
+una puntura
+a sprain
+una storta
+some swelling
+un gonfiore
+a sore throat
+il mal di gola
+sunstroke
+l'insolazione
+I've been sick [ill] for ... days
+Sto male da ... giorni
+*Conditions
+*Conditions
+I'm ...
+Sono ...
+anemic
+anemico
+asthmatic
+asmatico
+diabetic
+diabetico
+epileptic
+epilettico
+I'm allergic to antibiotics/penicillin
+Sono allergico agli antibiotici/alla penicillina
+I have ...
+Soffro di ...
+arthritis
+artirte
+a heart condition
+cuore
+high/low blood pressure
+alta/bassa pressione
+I'm on ...
+Prendo ...
+
+*Treatment
+*Treatment
+Do I need a prescription/medicine?
+Ci vuole la ricetta?
+Can you prescribe a generic drug [unbranded medication]?
+Mi può prescrivere un medicinale generico?
+Where can I get it?
+Dove lo posso trovare?
+*Hospital
+*Hospital
+Notify my family, please
+Avvisi la mia famiglia, per favore
+I'm in pain
+Sto male
+I need a doctor/nurse
+Ho bisogno di un medico/un'infermiera
+When are visiting hours?
+Qual è l'orario delle visite?
+I'm visiting ...
+Sto visitando ...
+What's wrong?
+Cosa c'è che non va?
+Dove le fa male?
+Where does it hurt?
+Does it hurt here?
+Fa male qui?
+Are you on medication?
+Prende farmaci?
+Are you allergic to anything?
+Ha allergie?
+Open your mouth
+Apra la bocca
+Breathe deeply
+Respiri profondamente
+Go to the hospital
+Vada in ospedale
+It's ...
+È ...
+broken
+rotto
+contagious
+contagioso
+infected
+infetto
+It's sprained
+È una storta
+It's nothing serious
+Niente di grave
+*Dentist
+*Dentist
+I have a broken tooth
+Ho un dente rotto
+I have lost a filling
+Ho perso un'otturazione
+I have a toothache
+Ho mal di denti
+Can you fix this denture?
+Può aggiustare la dentiera?
+
+*Gynecologist
+*Gynecologist
+I have cramps/a vaginal infection
+Ho i crampi/un'infezione vaginale
+I missed my period
+Non ho avuto il ciclo
+I'm on the pill
+Prendo la pillola
+I'm (not) pregnant
+(Non) Sono incinta
+My last period was ...
+Ho avuto l'ultimo ciclo ...
+*Optician
+*Optician
+I've lost ...
+Ho perso ...
+a contact lens
+una lente a contatto
+my glasses
+gli occhiali
+a lens
+una lente
+*Payment and insurance
+*Payment and insurance
+How much?
+Quanto costa?
+Can I pay by credit card?
+Posso pagare con carta di credito?
+I have insurance
+Ho l'assicurazione
+I need a receipt for my insurance
+Mi serve una ricevuta per l'assicurazione
+

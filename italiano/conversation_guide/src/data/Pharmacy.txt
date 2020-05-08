@@ -1,2 +1,89 @@
 Where's the pharmacy?
 Dov'è una farmacia?
+What time does it open/close?
+A che ora apre/chiude?
+What would you recommend for ...?
+Cosa consiglierebbe per ...?
+How much do I take?
+Quanto ne prendo?
+Can you fill [make up] this prescription?
+Può darmi questo farmaco?
+I'm allergic to ...
+Sono allergico a ...
+*What to take
+*What to take
+How much do I take?
+Quanto ne prendo?
+How often?
+Con che frequenza?
+Is it safe for children?
+È per bambini?
+I'm taking ...
+Prendo ...
+once/three times a day
+una/tre volte al giorno
+tablet
+compressa
+drop
+goccia
+teaspoon
+cucchiaino
+after/before/with meals
+dopo i/prima dei/con i pasti
+on an empty stomach
+a stomaco vuoto
+swallow whole
+da inghiottire intera
+may cause drowsiness
+può provocare sonnolenza
+for external use only
+solo per uso esterno
+Are there side effects?
+Ha effetti collaterali?
+I need something for ...
+Ho bisogno di qualcosa per ...
+a cold
+il raffreddore
+a cough
+la tosse
+diarrhea
+la diarrea
+a headache
+il mal di testa
+insect bites
+una puntura d'insetto
+car/sea/air motion [travel] sickness
+il mal d'auto/di mare/d'aria
+a sore throat
+il mal di gola
+sunburn
+una scottatura
+toothache
+il mal di denti
+an upset stomach
+lo stomaco in disordine
+
+Pharmacy with extended hours
+farmacia di turno
+*Basic supplies
+*Basic supplies
+I'd like ...
+Vorrei ...
+acetaminophen [paracetamol]
+del paracetamolo
+antiseptic cream
+una crema antisettica
+aspirin
+dell'aspirina
+bandages
+delle fasce
+a comb
+un pettine
+condoms
+dei preservativi
+contact lens solution
+una soluzione per le lenti a contatto
+deodorant
+un deodorante
+a hairbrush
+una spazzola
