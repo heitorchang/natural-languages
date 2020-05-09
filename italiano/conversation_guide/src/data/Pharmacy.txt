@@ -87,3 +87,43 @@ deodorant
 un deodorante
 a hairbrush
 una spazzola
+hairspray
+una lacca
+ibuprofen
+dell'ibuprofene
+insect repellent
+un repellente per gli insetti
+lotion
+una lozione
+a nail file
+una limetta per le unghie
+soap
+una saponetta
+a (disposable) razor
+una lametta (usa e getta)
+razor blades
+delle lamette per rasoio
+sanitary napkins [towels]
+un pacco di assorbenti
+shampoo/conditioner
+uno shampoo/un balsamo
+sunscreen
+un filtro solare
+tampons
+una scatola di tamponi
+tissues
+dei fazzoletti di carta
+toilet paper
+della carta igienica
+toothpaste
+un dentrificio
+*Child health and emergency
+*Child health and emergency
+Can you recommend a pediatrician?
+Può consigliarmi un pediatra?
+My son/daughter is allergic to ...
+Il mio bambino/La mia bambina è allergico/allergica a ...
+My son is missing
+Il mio bambino è scomparso
+Have you seen a boy?
+Ha visto un bambino?
