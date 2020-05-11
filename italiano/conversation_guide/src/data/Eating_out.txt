@@ -49,3 +49,56 @@ a cafe
 un caffè
 a fast-food place
 un fast food
+a pizzeria
+una pizzeria
+a cheap restaurant
+un ristorante economico
+an expensive restaurant
+un ristorante costoso/caro
+a restaurant with a good view
+un ristorante con una bella vista/un bel panorama
+an authentic/non-touristy restaurant
+un ristorante tradizionale/non turistico
+*Reservations and preferences
+*Reservations and preferences
+We have a reservation
+Abbiamo prenotato
+My name is ...
+Mi chiamo ...
+I'd like to reserve a table ...
+Vorrei prenotare un tavolo ...
+for two
+per due
+for this evening
+per questa sera
+for tomorrow at ...
+per domani alle ...
+A table for two, please
+Un tavolo per due, per favore
+Can we sit ...?
+Possiamo sederci ...
+here/there
+qui/là
+outside
+fuori
+in a (non-) smoking area
+in una sala per (non) fumatori
+by the window
+vicino alla finestra
+in the shade
+all'ombra
+in the sun
+al sole
+Where are the toilets?
+Dov'è la toilette?
+breakfast
+la prima colazione
+lunch
+il pranzo
+dinner
+la cena
+snacks
+le merende
+Do you have a reservation?
+Ha prenotato?
+
