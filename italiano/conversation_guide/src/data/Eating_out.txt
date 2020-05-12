@@ -102,3 +102,81 @@ le merende
 Do you have a reservation?
 Ha prenotato?
 
+How many?
+Per quante persone?
+Are you ready to order?
+Volete ordinare?
+What would you like?
+Che cosa desidera?
+I recommend ...
+Le consiglio ...
+Enjoy your meal!
+Buon appetito!
+
+*How to order
+*How to order
+Excuse me!
+Scusi!
+
+We're ready to order
+Vorremmo ordinare
+May I see the wine list?
+La carta dei vini, per favore
+I'd like ...
+Vorrei ...
+a bottle of ...
+una bottiglia di ...
+a carafe of ...
+una caraffa di ...
+a glass of
+un bicchiere di ...
+Can I have a menu?
+Il menù, per favore
+Do you have ...?
+Avete ...?
+a menu in English
+un menù in inglese
+a fixed-price menu
+un menù a prezzo fisso
+a children's menu
+un menù per bambini
+What do you recommend?
+Cosa mi consiglia?
+What's this?
+Questo che cos'è?
+What's in it?
+Cosa c'è dentro?
+Is it spicy?
+È piccante?
+I'd like ...
+Vorrei ...
+More ...
+Dell'altro ...
+With/Without
+Con/Senza
+I can't eat ...
+Non posso mangiare ...
+rare
+al sangue
+medium
+mediamente cotta
+well-done
+ben cotta
+It's to go [take away]
+È da portare via
+cover charge
+coperto
+fixed-price
+prezzo fisso
+menu of the day
+menù del giorno
+service (not) included
+servizio (non) compreso
+daily specials
+specialità del giorno
+
+*Cooking methods
+*Cooking methods
+
+baked
+al forno
