@@ -1,5 +1,9 @@
 # Book order
-files = ['Need to know', 'Numbers', 'Time and date', 'Arrival and departure', 'Money', 'Conversation', 'Getting around', 'Places to stay', 'Communications', 'Sightseeing', 'Shopping', 'Sport and leisure', 'Traveling with children', 'Emergencies', 'Police', 'Health', 'Pharmacy', 'Disabled travelers', 'Eating out', 'Meals and cooking', 'Drinks', 'On the menu', 'Going out', 'Romance'];
+# files = ['Need to know', 'Numbers', 'Time and date', 'Arrival and departure', 'Money', 'Conversation', 'Getting around', 'Places to stay', 'Communications', 'Sightseeing', 'Shopping', 'Sport and leisure', 'Traveling with children', 'Emergencies', 'Police', 'Health', 'Pharmacy', 'Disabled travelers', 'Eating out', 'Meals and cooking', 'Drinks', 'On the menu', 'Going out', 'Romance'];
+
+# Alphabetical order
+files = ['Arrival and departure', 'Communications', 'Conversation', 'Disabled travelers', 'Drinks', 'Eating out', 'Emergencies', 'Getting around', 'Going out', 'Health', 'Meals and cooking', 'Money', 'Need to know', 'Numbers', 'Pharmacy', 'Places to stay', 'Police', 'Romance', 'Shopping', 'Sightseeing', 'Sport and leisure', 'Time and date', 'Traveling with children'];
+
 
 with open("index_pdf.html", "w", encoding="utf-8") as html:
     print("""<!DOCTYPE html>
@@ -16,7 +20,7 @@ with open("index_pdf.html", "w", encoding="utf-8") as html:
     body {
     font-family: 'NotoSans';
     margin: 1.2em;
-    font-size: 250%;
+    font-size: 200%;
     }
     
     .sectionlink {
@@ -30,8 +34,7 @@ with open("index_pdf.html", "w", encoding="utf-8") as html:
     font-size: 125%;
     margin: 1em 0;
     padding: 1em 0 1em 0.5em;
-    background: linear-gradient(to right, #9BF 0%, #FFF 100%);
-    border-radius: 1.5em;
+    background: #9BF;
     font-weight: bold;
     }
 
@@ -42,22 +45,19 @@ with open("index_pdf.html", "w", encoding="utf-8") as html:
     .subsect {
     margin: 1em 0;
     padding: 1em 0 1em 0.5em;
-    background: linear-gradient(to right, #FC8 0%, #FFF 100%);
-    border-radius: 1.5em;
+    background: #FC8;
     font-weight: bold;
     }
 
     .eng {
-    background: linear-gradient(to right, #DEF 0%, #FFF 100%);
+    background: #DEF;
     padding: 0.3em 0.5em;
-    border-radius: 0.8em;
     font-weight: bold;
     }
 
     .ita {
     background-color: white;
     padding: 0.3em 0.5em;
-    border-radius: 0.8em;
     }
     
     .blk {
@@ -90,8 +90,10 @@ with open("index_pdf.html", "w", encoding="utf-8") as html:
                 subsect = eng.replace("*", "").strip()
                 print(f'<div class="subsect">{subsect}</div>', file=html)
             else:
+                print(f'<div class="blk">', file=html)
                 print(f'<div class="eng">{eng}</div>', file=html)
                 print(f'<div class="ita">{ita}</div>', file=html)
                 print('<div class="spacer">&nbsp;</div>', file=html)
+                print('</div>', file=html)
 
     print("""</body></html>""", file=html)
