@@ -180,3 +180,128 @@ specialità del giorno
 
 baked
 al forno
+boiled
+lesso
+braised
+brasato
+breaded
+impanato
+creamed
+passato
+diced
+a cubetti
+filleted
+filetto
+fried
+fritto
+grilled
+grigliato
+poached
+in bianco
+roasted
+arrosto
+sauteed
+saltato
+smoked
+affumicato
+steamed
+al vapore
+stewed
+stufato
+stuffed
+ripieno
+*Dietary requirements
+*Dietary requirements
+I'm ...
+Sono ...
+diabetic
+diabetico
+lactose intolerant
+intollerante al lattosio
+vegetarian
+vegetariano
+vegan
+vegano
+I'm allergic to ...
+Sono allergico a ...
+I can't eat ...
+Non posso mangiare ...
+dairy products
+i latticini
+gluten
+il glutine
+nuts
+le noci
+pork
+il maiale
+shellfish
+i frutti di mare
+spicy foods
+i cibi piccanti
+wheat
+il grano
+Is it kosher?
+È kosher?
+Do you have ...?
+Avete ...?
+skimmed milk
+latte scremato
+whole milk
+latte intero
+soya milk
+latte di soia
+*Dining with children
+*Dining with children
+Do you have children's portions?
+Ci sono porzioni per bambini?
+Can I have a highchair/child's seat?
+Un seggiolone/seggiolino da bambino, per favore
+Where can I feed/change the baby?
+Dove posso dare da mangiare al/cambiare il bambino?
+Can you warm this?
+Me lo può scaldare?
+
+*How to complain
+*How to complain
+When will our food be ready?
+C'è ancora molto da aspettare?
+We can't wait any longer
+Non possiamo più aspettare
+We're leaving
+Ce ne andiamo
+I didn't order this
+Non è quello che ho ordinato
+I ordered ...
+Ho ordinato ...
+I can't eat this
+Non lo posso mangiare
+This is too ...
+È troppo ...
+cold/hot
+freddo/caldo
+salty/spicy
+salato/piccante
+tough/bland
+duro/insipido
+This isn't clean/fresh
+Non è pulito/fresco
+*Paying
+*Paying
+The check [bill], please
+Il conto, per favore
+Separate checks [bills], please
+Conti separati, per favore
+It's all together
+Conto unico
+Is service included?
+Il servizio è compreso?
+What's this amount for?
+Per cos'è questo importo?
+I didn't have that. I had ...
+Questo non è mio. Io ho mangiato ...
+Can I have a receipt/an itemized bill?
+Posso avere la fattura/il conto dettagliato?
+That was delicious!
+Era squisito!
+I've already paid
+L'ho già pagato

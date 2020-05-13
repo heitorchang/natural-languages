@@ -1,4 +1,100 @@
 * Breakfast
 * Breakfast
-water
 l'acqua
+water
+gli affettati
+cold cuts [charcuterie]
+il burro
+butter
+il caffè/tè ...
+coffee/tea ...
+con il dolcificante
+with artificial sweetener
+al latte
+with milk
+con lo zucchero
+with sugar
+decaffeinato
+decaf
+nero
+black
+i cereali
+cereal
+la farina d'avena
+oatmeal
+il formaggio
+cheese
+la frittata
+omelet
+il latte
+milk
+la marmellata
+jam
+il muesli
+granola
+il muffin
+muffin
+la pancetta
+bacon
+il pane
+bread
+il pane tostato
+toast
+il panino
+roll
+la salsiccia
+sausage
+il succo ...
+... juice
+d'arancia
+orange
+di mela
+apple
+di pompelmo
+grapefruit
+l'uovo ...
+... egg
+fritto
+fried
+sodo/alla coque
+hard-/soft-boiled
+strapazzato
+scrambled
+lo yogurt
+yogurt
+
+*Appetizers
+*Appetizers
+l'acciuga
+anchovy
+l'affettato
+platter of cold cuts
+le alici a scapece
+fresh fried anchovies
+l'antipasto misto
+assorted appetizers
+la bresaola
+cured raw beef
+i carciofini sott'olio
+artichoke hearts in olive oil
+la coppa
+cured pork shoulder
+i crostini
+toast topped with a variety of ingredients
+la caprese
+sliced tomatoes, mozzarella and basil dressed with olive oil
+l'insalata di frutti di mare
+seafood salad
+la mortadella
+Bologna sausage
+la peperonata
+mixed sweet peppers stewed with tomatoes
+il prosciutto crudo di Parma
+cured ham from Parma
+i sottaceti
+pickled vegetables
+
+*Soup
+*Soup
+
+
