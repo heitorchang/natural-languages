@@ -97,4 +97,300 @@ pickled vegetables
 *Soup
 *Soup
 
+l'acquacotta
+Tuscan vegetable soup with poached egg
+il brodo di manzo
+beef broth
+il brodo di pollo
+chicken broth
+la buridda
+fish stew
+il cacciucco
+spicy seafood chowder
+il cacciucco alla livornese
+tomato seafood chowder
+la crema di legumi
+vegetable cream soup
+il minestrone
+mixed vegetable and bean soup
+la ribollita
+Tuscan bean, vegetable and bread soup
+lo spezzatino
+meat stew
+la zuppa di fagioli
+bean soup
+la zuppa alla pavese
+consomme with poached egg, croutons and grated cheese
+la zuppa di pollo
+chicken soup
+la zuppa di pomodoro
+tomato soup
+la zuppa di verdure
+vegetable soup
+la zuppa di vongole
+clam and white wine soup
+*Fish and seafood
+*Fish and seafood
+l'acciuga
+anchovy
+l'anguilla
+eel
+l'anguilla alla veneziana
+eel cooked in tomato sauch
+l'aragosta
+lobster
+l'aringa
+herring
+il baccalà
+salted, dried cod
+il branzino
+sea bass
+i calamari
+squid
+le cozze
+mussels
+le cozze ripiene
+stuffed mussels
+il fritto misto
+mixed fried fish with shellfish
+i gamberi
+shrimp
+i gamberi grigliati
+grilled shrimp with garlic
+il granchio
+crab
+le lumache
+snails
+le lumache alla milanese
+snails with anchovy, fennel and wine sauce
+il merluzzo
+cod
+la moleca
+soft shell crab
+l'orata
+sea bream
+le ostriche
+oysters
+il pesce spada
+swordfish
+il polpo
+octopus
+il salmone
+salmon
+la sardina
+sardine
+lo scorfano
+hog fish
+la sogliola
+sole
+lo stoccafisso
+dried cod cooked with tomatoes, olives and artichoke
+il tonno
+tuna
+la trota
+trout
+le vongole
+clams
+
+*Meat and poultry
+*Meat and poultry
+l'abbacchio alla romana
+roasted spring lamb
+l'agnello
+lamb
+l'anatra
+duck
+la bistecca
+steak
+la bistecca alla fiorentina
+la braciola
+grilled pork chop
+il capretto
+goat
+la cima alla genovese
+flank steak stuffed with eggs and vegetables
+il cinghiale
+wild boar
+il coniglio
+rabbit
+la cotoletta alla milanese
+breaded veal cutlet flavored with cheese
+la cotoletta di vitello con fontina
+breaded veal cutlet stuffed with fontina cheese
+il fagiano
+pheasant
+il fegato
+liver
+il fegato alla veneziana
+thin slices of calf's liver fried with onions
+il filetto al pepe verde
+filet steak in a creamy sauce with green peppercorns
+gli involtini
+thin slices of meat rolled and stuffed
+la luganega
+type of pork sausage
+il maiale
+pork
+il manzo
+beef
+il montone
+mutton
+l'oca
+goose
+l'osso buco
+braised veal shank
+la pancetta
+bacon
+la piccata al Marsala
+thin cutlets cooked in Marsala sauce
+il pollo
+chicken
+il pollo alla cacciatora
+chicken braised with mushrooms in tomato sauce
+il pollo alla diavola
+chicken grilled with lemon and hot pepper
+il pollo al mattone
+chicken cooked with herbs in a brick oven
+il pollo alla romana
+diced chicken with tomato sauce and sweet peppers
+la polpetta
+meatball
+la porchetta
+suckling pig
+il prosciutto
+ham
+la quaglia
+quail
+la salsiccia
+sausage
+il saltimbocca
+veal and ham roll
+il tacchino
+turkey
+il vitello
+veal
+*Vegetables and staples
+*Vegetables and staples
+l'aceto
+vinegar
+l'aglio
+garlic
+l'asparago
+asparagus
+l'avocado
+avocado
+la barbabietola
+beet
+la bietola
+swiss chard
+i broccoli
+broccoli
+il carciofo
+artichoke
+i carciofi alla guidea
+crispy deep-fried artichokes
+i carciofi alla romana
+whole lightly stewed artichokes stuffed with garlic and herbs
+la carota
+carrot
+il cavolfiore
+cauliflower
+il cavolo
+cabbage
+i ceci
+chickpeas
+il cetriolo
+cucumber
+la cipolla
+onion
+i fagioli
+beans
+i fagioli alla toscana
+Tuscan-style beans seasoned with salt, pepper and olive oil
+i fagioli in umido
+beans cooked in tomato sauce and spices
+i fagiolini
+green beans
+le fave
+broad beans
+i funghi
+mushrooms
+i funghi porcini arrostiti
+porcini mushrooms roasted or grilled with garlic and parsley
+la lattuga
+lettuce
+il mais
+corn
+la melanzana
+eggplant [aubergine]
+l'oliva
+olive
+l'ortaggio
+vegetable
+la pasta
+pasta
+la patata
+potato
+il pepe bianco/nero
+white/black pepper
+il pepe rosso
+paprika
+il peperone rosso/verde
+red/green pepper
+i piselli
+peas
+i piselli al prosciutto
+peas with ham
+la polenta
+cornmeal
+la polenta al nero di seppia
+polenta with baby squid and ink
+il pomodoro
+tomato
+i porri con le patate
+leek and potato casserole
+la pizza
+pizza
+il riso
+rice
+il risotto
+arborio rice cooked slowly in broth
+il sedano
+celery
+gli spinaci
+spinach
+lo zucchero
+sugar
+la zucchina
+zucchini [courgette]
+pizza sottile/alta
+thin/thick pizza
+*Fruit
+*Fruit
+l'ananas
+pineapple
+l'anguria
+watermelon (northern Italy)
+l'albicocca
+apricot
+l'arancia
+orange
+la banana
+banana
+il cedro
+lime
+la ciliegia
+cherry
+il cocomero
+watermelon (Rome and southern Italy)
+la fragola
+strawberry
+la frutta
+fruit
+il lampone
+raspberry
+il limone
+lemon
+la mela
+apple
 
