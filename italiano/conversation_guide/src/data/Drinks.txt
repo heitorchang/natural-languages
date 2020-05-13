@@ -1,2 +1,97 @@
 Can I have the wine/drink menu, please
 La carta dei vini/lista delle bevande, per favore
+What do you recommend?
+Cosa mi consiglia?
+I'd like a bottle/glass of red/white wine
+Vorrei una bottiglia/un bicchiere di vino rosso/bianco
+The house wine, please
+Il vino della casa, per favore
+Another bottle/glass, please
+Un'altra bottiglia/Un altro bicchiere, per favore
+I'd like a local beer
+Vorrei una birra locale
+Cheers!
+Salute!
+Can I buy you a drink?
+Posso offrirle qualcosa?
+A coffee/tea, please
+Un caffè/tè, per favore
+Black
+Nero
+With ...
+Con ...
+with milk
+un po' di latte
+sugar
+lo zucchero
+artificial sweetener
+il dolcificante
+a juice
+un succo
+a soda
+una bibita
+a sparkling/still water
+Un bicchiere d'acqua frizzante/naturale
+
+lemon soda
+la limonata
+iced tea
+il tè freddo
+fresh-squeezed fruit juice
+la spremuta
+
+doppio
+double serving of caffè
+ristretto
+very strong coffee
+americano
+weak coffee
+macchiato
+coffee served with steamed milk
+cappuccino
+equal parts coffee, steamed milk and milk foam
+
+*Aperitifs, cocktails and liqueurs
+*Aperitifs, cocktails and liqueurs
+l'amaretto
+almond liqueur
+l'amaro
+bitter
+il brandy
+brandy
+il digestivo
+after-dinner drink
+la sambuca
+aniseed-flavored liqueur
+la strega
+sweet herb liqueur
+*Beer
+*Beer
+la birra ...
+... beer
+in bottiglia
+bottled
+alla spina
+draft
+scura/chiara
+dark/light
+nazionale/importata
+local/imported
+analcolica
+non-alcoholic
+
+*Wine
+*Wine
+il vino ...
+... wine
+rosso/bianco
+red/white
+della casa/da tavola
+house/table
+secco/dolce
+dry/sweet
+frizzante
+sparkling
+da dessert
+dessert
+

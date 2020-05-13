@@ -203,6 +203,7 @@ duck
 la bistecca
 steak
 la bistecca alla fiorentina
+grilled T-bone steak
 la braciola
 grilled pork chop
 il capretto
@@ -394,3 +395,224 @@ lemon
 la mela
 apple
 
+il melone
+melon
+il mirtillo
+blueberry
+la pera
+pear
+la pesca
+peach
+il pompelmo
+grapefruit
+la prugna
+plum
+l'uva
+grape
+
+*Cheese
+*Cheese
+il formaggio ...
+... cheese
+asiago
+nutty-flavored
+Bel Paese
+smooth and delicate
+bocconcini
+small balls of fresh mozzarella
+caciocavallo
+firm, slightly sweet
+caciotta
+firm, usually mild
+caprino
+made from goat's milk
+crescenza
+rich and creamy
+dolce
+mild
+dolcelatte
+mild, creamy, blue-veined
+duro
+hard
+fontina
+full-fat and semi-hard
+gorgonzola
+strong and blue-veined
+grana
+similar to parmesan
+gruviera
+sweet, nutlike flavor
+mascarpone
+used like whipped cream
+molle
+soft
+mozzarella
+full-fat and mild
+parmigiano
+parmesan
+pecorino
+strong, made with sheep's milk
+picccante
+sharp
+provolone
+firm and flavorful
+ricotta
+soft and mild
+
+*Dessert
+*Dessert
+gli amaretti
+almond cookies
+il biscotto
+crunchy cookie
+il budino
+pudding
+i cannoli
+crispy pastry tubes filled with ricotta
+la cassata siciliana
+cake with ricotta, chocolate and candied fruit
+il castagnaccio
+deep-fried chestnut cake
+la crema
+custard
+la crostata
+pie
+i dolci
+sweets
+il gelato
+ice cream
+i gianduiotti
+chocolate drops
+la granita
+frozen fruit juice slush
+il pandolce
+yeast cake with grapes and raisins
+il panettone
+Christmas sweet bread with raisins and candied fruit
+il panforte
+dense cake made of almond and candied citrus
+la panna cotta
+molded chilled cream pudding
+il tartufo
+chocolate truffle desserd
+il tiramisù
+coffee- and rum-flavored layered dessert
+la torta
+cake
+lo zabaglione
+warm custard with Marsala wine
+lo zuccotto
+sponge cake filled with fresh cream, chocolate, candied fruit and liqueur
+
+cioccolato
+chocolate
+frutti di bosco
+mixed berries
+gianduia
+chocolate hazelnut
+nocciola
+hazelnut
+pistacchio
+pistachio
+vaniglia
+vanilla
+
+*Sauces and condiments
+*Sauces and condiments
+salt
+sale
+pepper
+pepe
+mustard
+senape
+ketchup
+ketchup
+
+*At the market
+*At the market
+Where are the carts [trolleys]/baskets?
+Dove sono i carrelli/cestini?
+
+Where is/Where are ...?
+Dov'è/Dove sono ...?
+I'd like some of this/that
+Vorrei un po' di questo/quello
+
+Can I taste it?
+Posso assaggiarlo?
+I'd like ...
+Vorrei ...
+a kilo/half-kilo of
+un chilo/mezzo chilo di
+a liter of
+un litro di
+a piece of
+un pezzo di
+a slice of
+una fetta di
+More/Less
+Di più/Di meno
+How much?
+Quant'è?
+Where do I pay?
+Dove si paga?
+A bag, please
+Una busta, per favore
+I'm being helped
+Mi stanno servendo
+bakery
+panetteria
+delicatessen
+gastronomia
+pastry shop
+pasticceria
+supermarket
+supermercato
+Can I help you?
+Posso aiutarla?
+What would you like?
+Desidera?
+Anything else?
+Altro?
+That's ... euros
+Sono ... euro
+
+*In the kitchen
+*In the kitchen
+
+blender
+il frullatore
+bottle opener
+l'apribottiglie
+bowl
+la coppa
+can opener
+l'apriscatole
+chopsticks
+i bastoncini cinesi
+colander
+lo scolapasta
+corkscrew
+il cavatappi
+cup
+la tazza
+fork
+la forchetta
+frying pan
+la padella
+glass (cup)
+il bicchiere
+knife
+il coltello
+measuring cup/spoon
+la tazza di misurazione/il misurino
+napkin
+il tovagliolo
+plate
+il piatto
+pot
+la pentola
+spatula
+la spatola
+spoon
+il cucchiaio
